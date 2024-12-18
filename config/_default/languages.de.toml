@@ -2,7 +2,7 @@ disabled = false
 languageCode = "de"
 languageName = "Deutsch"
 weight = 1
-title = "<b>[ en.ergie.at ]</b>"
+title = "[ en.ergie.at ]"
 
 [params]
   displayName = "DE"
