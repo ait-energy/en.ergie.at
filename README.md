@@ -91,6 +91,12 @@ See [this author page](https://github.com/ait-energy/en.ergie.at/blob/main/conte
 4. Inside the folder `en.ergie.at`: execute `git submodule update --remote --merge` to update the theme
 5. Inside the folder `en.ergie.at`: execute `hugo server --buildDrafts`
 
+#### Windows
+
+1. Install [Scoop](https://scoop.sh/)
+2. Install Hugo: `scoop install hugo-extended`
+3. In [Local setup](#local-setup) follow instructions from point 2. onwards
+
 ### Contributing
 
 1. If you have access to this repository, create a branch for the change you intend to do. Otherwise, fork this repository
