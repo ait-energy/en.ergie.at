@@ -34,7 +34,7 @@ Dauert die Störung länger als 30 Sekunden, wird die Sekundärregelreserve (<ab
 
 ### Tertiärregelreserve
 
-Überschreitet die Störung eine Dauer von 15 Minuten oder ist die <abbr title="Sekundärreserveleistung">SRL</abbr> zu gering, um das Gleichgewicht im Netz wiederherzustellen, wird diese durch die Tertiärregelleistung (TRL), auch als Minutenreserveleistung (MRL) bezeichnet, abgelöst. Diese ist die langsamste Form der Regelenergie, sie wird entweder automatisch oder manuell aktiviert und muss erst 15 Minuten nach Abruf zur Verfügung stehen.[^3] [^9] [^10]
+Überschreitet die Störung eine Dauer von 15 Minuten oder ist die <abbr title="Sekundärreserveleistung">SRL</abbr> zu gering, um das Gleichgewicht im Netz wiederherzustellen, wird diese durch die Tertiärregelleistung (<abbr title="Tertiärregelleistung">TRL</abbr>), auch als Minutenreserveleistung (<abbr title="Minutenreserveleistung">MRL</abbr>) bezeichnet, abgelöst. Diese ist die langsamste Form der Regelenergie, sie wird entweder automatisch oder manuell aktiviert und muss erst 15 Minuten nach Abruf zur Verfügung stehen.[^3] [^9] [^10]
 <!-- Next Kraftwerke->Tertiärreserve schreibt sowohl 10 als auch 15 Minuten (Überschreitungsdauer der Störung)?? -->
 
 ## Regelenergiemarkt
@@ -50,7 +50,7 @@ Im Rahmen der Ausschreibungen erhalten die Anbieter:innen mit den niedrigsten Ge
 
 ### Unterschiede zwischen den Regelreservearten
 
-Im Falle der Sekundärregelleistung findet die Beschaffung über Ausschreibungen zwar national innerhalb der Regelzone Österreich statt, der eigentliche Abruf passiert jedoch über eine Kooperation mit dem deutschen Regelenergiemarkt. Die bezuschlagten Angebote werden zu einer gemeinsamen Merit Order Liste zusammengeführt, welche als Common Merit-Order-List (<abbr title="Common Merit-Order-List">C-MOL</abbr>) bezeichnet wird. Diese beinhaltet die entsprechenden Zuschläge sowohl für den österreichischen als auch für den deutschen Bedarf an SRL.[^7]
+Im Falle der Sekundärregelleistung findet die Beschaffung über Ausschreibungen zwar national innerhalb der Regelzone Österreich statt, der eigentliche Abruf passiert jedoch über eine Kooperation mit dem deutschen Regelenergiemarkt. Die bezuschlagten Angebote werden zu einer gemeinsamen Merit Order Liste zusammengeführt, welche als Common Merit-Order-List (<abbr title="Common Merit-Order-List">C-MOL</abbr>) bezeichnet wird. Diese beinhaltet die entsprechenden Zuschläge sowohl für den österreichischen als auch für den deutschen Bedarf an <abbr title="Sekundärreserveleistung">SRL</abbr>.[^7]
 <!-- C-MOL nur für Sekundär, oder? (doublecheck), noch aktuell, dass TRL rein national ist? ... Unterschied C-MOL zu Imbalance Netting... -->
 
 Die Tertiärregelung wird vollständig auf nationaler Ebene durchgeführt.[^8] Die Primärregelung hingegen erfolgt zentralisiert über den zentraleuropäischen Übertragungsnetzbetreiber [ENTSO-E](./wissen/akteure/index.md) (European Network of Transmission System Operators for Electricity) in Zusammenarbeit mit anderen [Übertragungsnetzbetreibern](./wissen/akteure/index.md).[^5]
