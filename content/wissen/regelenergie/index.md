@@ -10,6 +10,7 @@ series: ["Strommärkte"]
 series_order: 6
 weight: 6
 ---
+<!-- Grafiken -->
 
 ## Grundlagen
 
@@ -26,7 +27,6 @@ Es wird zwischen Primärregelleistung, Sekundärregelleistung und Tertiärregell
 Die Primärregelung, auch als Primärregelleistung, Primärreserveleistung (<abbr title="Primärreserveleistung">PRL</abbr>) oder Primärregelreserve (<abbr title="Primärregelreserve">PRR</abbr>) bezeichnet, wird als erste Maßnahme eingesetzt, um die Netzfrequenz zu jeder Zeit in einem Toleranzbereich zwischen 49,99 und 50,01 Hertz zu halten. Dieser Bereich wird auch als "Totband" bezeichnet. Wird der Toleranzbereich aufgrund eines Ungleichgewichts zwischen Erzeugung und Verbrauch über- oder unterschritten, wird die Abweichung automatisch durch entsprechende Regelung von Anlagen kompensiert. Die Primärregelleistung muss innerhalb von 30 Sekunden verfügbar sein, um die unvorhergesehenen Schwankungen auszugleichen und für mindestens 15 Minuten zur Verfügung stehen. Der Markt für Primärregelreserve hat nur eine Leistungsausschreibung (siehe [Regelenergiemarkt](#regelenergiemarkt)), da Frequenzabweichungen schnell ausgeglichen werden müssen und sich die positiven und negativen Mengen oft im Durchschnitt ausgleichen. Daher ist der Aufwand für eine separate Abrechnung im Vergleich zum Nutzen zu hoch.[^5] [^6] <!--evtl unten in Kapitel Unterschiede zwischen Regelenergiearten-->
 <!-- 15 oder 30 Minuten?? -->
 <!-- Details zum Markteintritt für jede Reserveart..? -->
-<!-- Bild wie das von next Kraftwerke wäre nice -->
 
 ### Sekundärregelreserve
 
