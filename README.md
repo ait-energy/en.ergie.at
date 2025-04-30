@@ -122,7 +122,7 @@ Hugo is a fast and user-friendly tool for building websites by converting plain 
 
 The following assumes you are using Windows; if you are not, head over to the [install guide for your OS](https://gohugo.io/installation/) and pick whatever suits you.
 
-1. Pick the "prebuilt binaries" from this link: [Prebuilt binaries](https://gohugo.io/installation/windows/#prebuilt-binaries) -- instead of the general one
+1. Pick the "prebuilt binaries" from this link: [Prebuilt binaries](https://gohugo.io/installation/windows/#prebuilt-binaries) -- instead of the general one, pick version v0.145
 2. Either follow the instructions in the link given in (1.), or extract the `hugo.exe` file and copy it into your development folder (which immediately works and does not involve modifying your PATH, etc.)
 
 ### Launching a local server
