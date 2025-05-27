@@ -42,7 +42,7 @@ Households and smaller commercial enterprises receive their electricity via grid
 
 The transformation levels ensure that the voltage is stepped down from a higher to a lower grid level using substations. Grid level 2 connects the extra-high voltage level with the high voltage level, while grid level 4 forms the transition from high to medium voltage. In grid level 6, the voltage is transformed from medium to low voltage, making the electricity usable for households and businesses.[^2] [^3]
 
-[^1]: [E-Control: The Electricity Grid](https://www.e-control.at/konsumenten/das-stromnetz)
-[^2]: [Wien Energie: The Austrian Electricity Grid](https://positionen.wienenergie.at/wissenshub/einfach-erklaert/rund-um-die-energiewende/oesterreichisches-stromnetz/)
-[^3]: [APG: Electricity Grid Austria](https://www.apg.at/stromnetz/stromnetz-oesterreich/)
-[^4]: [Verbund: How Does the Electricity Grid Work?](https://www.verbund.com/de-at/privatkunden/themenwelten/strom-aus-wasserkraft/stromnetz)
+[^1]: [The Electricity Grid<br>(e-control.at)](https://www.e-control.at/konsumenten/das-stromnetz)
+[^2]: [The Austrian Electricity Grid<br>(wienenergie.at)](https://positionen.wienenergie.at/wissenshub/einfach-erklaert/rund-um-die-energiewende/oesterreichisches-stromnetz/)
+[^3]: [Electricity Grid Austria<br>(apg.at)](https://www.apg.at/stromnetz/stromnetz-oesterreich/)
+[^4]: [How Does the Electricity Grid Work?<br>(verbund.com)](https://www.verbund.com/de-at/privatkunden/themenwelten/strom-aus-wasserkraft/stromnetz)

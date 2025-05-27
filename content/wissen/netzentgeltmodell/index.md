@@ -47,5 +47,5 @@ Im Rahmen von [Energiegemeinschaften](/wissen/energiegemeinschaften/) können be
 - Detaillierte Informationen zu den einzelnen Kostenkomponenten: [E-Control: Systemnutzungsentgelte](https://www.e-control.at/industrie/strom/strompreis/systemnutzungsentgelte)
 - Rechtsvorschrift und Höhe der Entgelte: [Systemnutzungsentgelte-Verordnung, Fassung vom 10.02.2025](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20010107)
 
-[^1]: [APG: Österreichisches Strommarktmodell](https://markt.apg.at/strommarkt/oesterreichisches-strommarktmodell/)
-[^2]: [E-Control: Systemnutzungsentgelte](https://www.e-control.at/industrie/strom/strompreis/systemnutzungsentgelte)
+[^1]: [Österreichisches Strommarktmodell<br>(apg.at)](https://markt.apg.at/strommarkt/oesterreichisches-strommarktmodell/)
+[^2]: [Systemnutzungsentgelte<br>(e-control.at)](https://www.e-control.at/industrie/strom/strompreis/systemnutzungsentgelte)

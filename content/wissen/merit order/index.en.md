@@ -25,4 +25,4 @@ The following graphic illustrates six power plants sorted in the Merit Order bas
 
 - Learn more about how this ensures efficiency and how prices are linked to CO<sub>2</sub> costs: [EPEX SPOT: Basics of the Power Market](https://www.epexspot.com/en/basicspowermarket#merit-order-and-marginal-cost-the-price-formation-process)
 
-[^1]: [Merit-Order-Prinzip](https://energie.gv.at/glossary/merit-order-prinzip)
+[^1]: [Glossar: Merit-Order-Prinzip<br>(energie.gv.at)](https://energie.gv.at/glossary/merit-order-prinzip)

@@ -17,5 +17,5 @@ Der [Bilanzgruppenverantwortliche](/wissen/akteure/) koordiniert die Prognosen v
 Weitere Informationen:
 - Details zu Fahrplänen findest du hier: [E-Control: Sonstige Marktregeln Strom, Kapitel 3: Fahrpläne](https://www.e-control.at/documents/1785851/1811582/SoMa_3_V6-3_VEROEFFENTLICHUNG.pdf/42486b9a-04b1-cd76-91c5-12706a09a907)
 
-[^1]:[Next Kraftwerke: Was sind Dispatch, Redispatch & Redispatch 2.0?](https://www.next-kraftwerke.at/wissen/dispatch-redispatch)
-[^2]:[E-Control: Sonstige Marktregeln Strom, Kapitel 3: Fahrpläne](https://www.e-control.at/documents/1785851/1811582/SoMa_3_V6-3_VEROEFFENTLICHUNG.pdf/42486b9a-04b1-cd76-91c5-12706a09a907)
+[^1]:[Was sind Dispatch, Redispatch & Redispatch 2.0?<br>(next-kraftwerke.at)](https://www.next-kraftwerke.at/wissen/dispatch-redispatch)
+[^2]:[Sonstige Marktregeln Strom, Kapitel 3: Fahrpläne<br>(e-control.at)](https://www.e-control.at/documents/1785851/1811582/SoMa_3_V6-3_VEROEFFENTLICHUNG.pdf/42486b9a-04b1-cd76-91c5-12706a09a907)

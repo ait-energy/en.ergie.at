@@ -25,4 +25,4 @@ Die folgende Grafik stellt sechs Kraftwerke dar, die entsprechend ihrer Stromerz
 
 - Erfahre mehr darüber, wie dies Effizienz sichert und wie Preise an CO<sub>2</sub>-Kosten gekoppelt sind: [EPEX SPOT: Basics of the Power Market](https://www.epexspot.com/en/basicspowermarket#merit-order-and-marginal-cost-the-price-formation-process)
 
-[^1]: [Merit-Order-Prinzip](https://energie.gv.at/glossary/merit-order-prinzip)
+[^1]: [Glossar: Merit-Order-Prinzip<br>(energie.gv.at)](https://energie.gv.at/glossary/merit-order-prinzip)

@@ -35,10 +35,10 @@ Im Rahmen der Ausschreibungen erhalten die Anbieter:innen mit den niedrigsten Ge
 
 Im Rahmen der Ausschreibungen werden Gebote für zwei voneinander unabhängige Preise abgegeben: den Leistungspreis und den Arbeitspreis. Der Leistungspreis stellt die Vergütung für die reine Vorhaltung von Regelleistung dar. Die Erzeugungs- oder Verbrauchsanlage verpflichtet sich, die angebotene Regelleistung während der vereinbarten Zeitscheibe jederzeit abrufbereit zu halten. Für diese garantierte Verfügbarkeit wird ein fester Preis pro Megawatt (Leistungspreis) entrichtet. Die Vergütung für die im Bedarfsfall tatsächlich abgerufene Energie wird als Arbeitspreis bezeichnet und pro bereitgestellter Megawattstunde gezahlt. [^kraftwerke.at]
 
-[^regelleistung.net]: [Regelleistung.net: Was ist Regelreserve?](https://www.regelleistung.net/de-de/Grundlagen-Regelreserve/Was-ist-Regelreserve)
-[^kraftwerke.at]: [Next Kraftwerke: Regelenergie in Österreich](https://www.next-kraftwerke.at/wissen/regelenergie)
-[^kraftwerke.de]: [Next Kraftwerke: Was ist Regelenergie?](https://www.next-kraftwerke.de/wissen/regelenergie)
-[^A1]: [A1 Energy Solutions: Regelenergie kurz erklärt](https://www.a1energysolutions.at/regelenergie-pool/)
-[^econtrol]: [E-Control: Marktbasierte Beschaffung Regelreserve](https://www.e-control.at/industrie/strom/strommarkt/marktbasierte-beschaffung-regelreserve#:~:text=In%20%C3%96sterreich%20erfolgt%20die%20vollst%C3%A4ndig,werden%20Erzeugern%20und%20Bilanzgruppen%20verrechnet)
-[^APG]: [APG: Netzregelung](https://markt.apg.at/netz/netzregelung/)
-[^APCS]: [APCS: Regelenergie](https://www.apcs.at/de/regelenergie)
+[^regelleistung.net]: [Was ist Regelreserve?<br>(regelleistung.net)](https://www.regelleistung.net/de-de/Grundlagen-Regelreserve/Was-ist-Regelreserve)
+[^kraftwerke.at]: [Regelenergie in Österreich<br>(next-kraftwerke.at)](https://www.next-kraftwerke.at/wissen/regelenergie)
+[^kraftwerke.de]: [Was ist Regelenergie?<br>(next-kraftwerke.de)](https://www.next-kraftwerke.de/wissen/regelenergie)
+[^A1]: [Regelenergie kurz erklärt<br>(a1energysolutions.at)](https://www.a1energysolutions.at/regelenergie-pool/)
+[^econtrol]: [Marktbasierte Beschaffung Regelreserve<br>(e-control.at)](https://www.e-control.at/industrie/strom/strommarkt/marktbasierte-beschaffung-regelreserve#:~:text=In%20%C3%96sterreich%20erfolgt%20die%20vollst%C3%A4ndig,werden%20Erzeugern%20und%20Bilanzgruppen%20verrechnet)
+[^APG]: [Netzregelung<br>(markt.apg.at)](https://markt.apg.at/netz/netzregelung/)
+[^APCS]: [Regelenergie<br>(apcs.at)](https://www.apcs.at/de/regelenergie)

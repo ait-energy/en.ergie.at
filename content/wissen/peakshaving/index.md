@@ -15,5 +15,5 @@ Die Lastspitzenkappung, auch als "Peak Shaving" bezeichnet, ist ein Instrument z
 
 Spitzenlasten führen zur Erhöhung der Strompreise, da die Energieversorger zusätzliche Kapazitäten bereitstellen müssen, um die Nachfrage zu decken (siehe [Regelreserve](/wissen/regelreserve/)). Zudem beeinflussen Lastspitzen die Höhe der [Systemnutzungsentgelte](/wissen/netzentgeltmodell/), da diese nicht nur von der bezogenen Strommenge abhängen, sondern auch von der höchsten im Abrechnungszeitraum beanspruchten Leistung. Durch gezieltes Peak Shaving können Verbraucher:innen ihre Stromkosten senken und somit zur Netzstabilität beitragen. [^2]
 
-[^1]:[DM Energy: Lastspitzenkappung](https://dmenergy.at/lastspitzenkappung/)
-[^2]:[Next Kraftwerke: Peak Shaving](https://www.next-kraftwerke.de/wissen/peak-shaving)
+[^1]:[Lastspitzenkappung<br>(dmenergy.at)](https://dmenergy.at/lastspitzenkappung/)
+[^2]:[Peak Shaving<br>(next-kraftwerke.de)](https://www.next-kraftwerke.de/wissen/peak-shaving)

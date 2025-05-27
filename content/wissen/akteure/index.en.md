@@ -42,8 +42,8 @@ Distribution system operators (DSOs) take over electricity from the transmission
 
 E-Control (short for “Energie-Control Austria für die Regulierung der Elektrizitäts- und Erdgaswirtschaft”) is the authority responsible for regulating the Austrian electricity and gas market.[^4]
 
-[^1]: [E-Control: Die Marktteilnehmer und deren Rollen](https://www.e-control.at/marktteilnehmer/strom/strommarkt/marktteilnehmer)
-[^2]: [APG: Stromnetz Österreich](https://www.apg.at/stromnetz/stromnetz-oesterreich/)
-[^3]: [E-Control: Netz und Netzbetreiber in Österreich](https://www.e-control.at/konsumenten/netz-und-netzbetreiber-in-oesterreich)
-[^4]: [Glossar: E-Control](https://energie.gv.at/glossary/e-control)
-[^aggm]: [AGGM: Austrian Gas Grid Management](https://www.aggm.at/)
+[^1]: [Die Marktteilnehmer und deren Rollen<br>(e-control.at)](https://www.e-control.at/marktteilnehmer/strom/strommarkt/marktteilnehmer)
+[^2]: [Stromnetz Österreich<br>(apg.at)](https://www.apg.at/stromnetz/stromnetz-oesterreich/)
+[^3]: [Netz und Netzbetreiber in Österreich<br>(e-control.at)](https://www.e-control.at/konsumenten/netz-und-netzbetreiber-in-oesterreich)
+[^4]: [Glossar: E-Control<br>(energie.gv.at)](https://energie.gv.at/glossary/e-control)
+[^aggm]: [AGGM: Austrian Gas Grid Management<br>(aggm.at)](https://www.aggm.at/)

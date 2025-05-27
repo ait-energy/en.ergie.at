@@ -33,7 +33,7 @@ Zusammengefasst gleicht Ausgleichsenergie die Prognoseabweichungen einzelner Bil
 
 <!-- Link zu Übersicht welche Bilanzgruppen es gibt wäre nice -->
 
-[^1]: [APG: Österreichisches Strommarktmodell](https://markt.apg.at/strommarkt/oesterreichisches-strommarktmodell/)
-[^2]: [E-Control: Regelreserve und Ausgleichsenergie](https://www.e-control.at/marktteilnehmer/strom/strommarkt/regelreserve-und-ausgleichsenergie)
-[^3]: [Next Kraftwerke: Ausgleichsenergie](https://www.next-kraftwerke.at/wissen/ausgleichsenergie)
-[^4]: [APCS: Aufgaben](https://www.apcs.at/de/aufgaben)
+[^1]: [Österreichisches Strommarktmodell<br>(apg.at)](https://markt.apg.at/strommarkt/oesterreichisches-strommarktmodell/)
+[^2]: [Regelreserve und Ausgleichsenergie<br>(e-control.at)](https://www.e-control.at/marktteilnehmer/strom/strommarkt/regelreserve-und-ausgleichsenergie)
+[^3]: [Ausgleichsenergie<br>(next-kraftwerke.at)](https://www.next-kraftwerke.at/wissen/ausgleichsenergie)
+[^4]: [APCS Aufgaben<br>(apcs.at)](https://www.apcs.at/de/aufgaben)

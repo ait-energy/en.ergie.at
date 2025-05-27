@@ -42,7 +42,7 @@ Haushalte sowie kleinere Gewerbebetriebe erhalten ihren Strom über Netzebene 7,
 
 Die Umspannungsebenen sorgen dafür, dass die Spannung mit Hilfe von Umspannwerken von einer höheren auf eine niedrigere Netzebene herabgesetzt wird. Dabei verbindet Netzebene 2 die Höchst- mit der Hochspannungsebene, während Netzebene 4 den Übergang von Hoch- zu Mittelspannung bildet. In Netzebene 6 erfolgt schließlich die Transformation von Mittel- auf Niederspannung, sodass der Strom für Haushalte und Betriebe nutzbar wird.[^2] [^3]
 
-[^1]: [E-Control: Das Stromnetz](https://www.e-control.at/konsumenten/das-stromnetz)
-[^2]: [Wien Energie: Das österreichische Stromnetz](https://positionen.wienenergie.at/wissenshub/einfach-erklaert/rund-um-die-energiewende/oesterreichisches-stromnetz/)
-[^3]: [APG: Stromnetz Österreich](https://www.apg.at/stromnetz/stromnetz-oesterreich/)
-[^4]: [Verbund: Wie funktioniert das Stromnetz?](https://www.verbund.com/de-at/privatkunden/themenwelten/strom-aus-wasserkraft/stromnetz)
+[^1]: [Das Stromnetz<br>(e-control.at)](https://www.e-control.at/konsumenten/das-stromnetz)
+[^2]: [Das österreichische Stromnetz<br>(wienenergie.at)](https://positionen.wienenergie.at/wissenshub/einfach-erklaert/rund-um-die-energiewende/oesterreichisches-stromnetz/)
+[^3]: [Stromnetz Österreich<br>(apg.at)](https://www.apg.at/stromnetz/stromnetz-oesterreich/)
+[^4]: [Wie funktioniert das Stromnetz?<br>(verbund.com)](https://www.verbund.com/de-at/privatkunden/themenwelten/strom-aus-wasserkraft/stromnetz)

@@ -26,8 +26,8 @@ Die kurzfristige Versorgungssicherheit im <abbr title="Energy-Only Markt">EOM</a
 
 ### Mehr Informationen
 
-- [Next Kraftwerke: Energy-Only Markt](https://www.next-kraftwerke.at/wissen/energy-only-markt)
+- [Energy-Only Markt<br>(next-kraftwerke.at)](https://www.next-kraftwerke.at/wissen/energy-only-markt)
 
-[^1]: [Next Kraftwerke: Energy-Only Markt](https://www.next-kraftwerke.at/wissen/energy-only-markt)
-[^2]: [Next Kraftwerke: Regelenergie in Österreich](https://www.next-kraftwerke.at/wissen/regelenergie)
-[^3]: [Next Kraftwerke: Regelenergie & Demand Response](https://www.next-kraftwerke.at/produkte/regelenergie)
+[^1]: [Energy-Only Markt<br>(next-kraftwerke.at)](https://www.next-kraftwerke.at/wissen/energy-only-markt)
+[^2]: [Regelenergie in Österreich<br>(next-kraftwerke.at)](https://www.next-kraftwerke.at/wissen/regelenergie)
+[^3]: [Regelenergie & Demand Response<br>(next-kraftwerke.at)](https://www.next-kraftwerke.at/produkte/regelenergie)

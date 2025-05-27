@@ -33,7 +33,7 @@ In summary, imbalance settlement compensates for forecast deviations of individu
 
 <!-- Link to overview of existing balancing groups would be nice -->
 
-[^1]: [APG: Austrian Electricity Market Model](https://markt.apg.at/strommarkt/oesterreichisches-strommarktmodell/)
-[^2]: [E-Control: Balancing Reserve and Balancing Energy](https://www.e-control.at/marktteilnehmer/strom/strommarkt/regelreserve-und-ausgleichsenergie)
-[^3]: [Next Kraftwerke: Ausgleichsenergie](https://www.next-kraftwerke.at/wissen/ausgleichsenergie)
-[^4]: [APCS: Tasks](https://www.apcs.at/de/aufgaben)
+[^1]: [Austrian Electricity Market Model<br>(apg.at)](https://markt.apg.at/en/electricity-market/austrian-electricity-market-model/)
+[^2]: [Balancing Reserve and Balancing Energy<br>(e-control.at)](https://www.e-control.at/marktteilnehmer/strom/strommarkt/regelreserve-und-ausgleichsenergie)
+[^3]: [Ausgleichsenergie<br>(next-kraftwerke.at)](https://www.next-kraftwerke.at/wissen/ausgleichsenergie)
+[^4]: [What we do<br>(apcs.at)](https://www.apcs.at/en/what-we-do)
