@@ -72,9 +72,12 @@ Kapazitätsmechanismen sind komplexe Instrumente zur Gewährleistung der Versorg
 <ul>
   <li><strong>Laufzeit:</strong> Neue Kapazitäten erhalten teils langfristige Verträge (bis zu 15 Jahre in Italien, 10 Jahre in Irland), während bestehende Anlagen meist kürzer gebunden sind (z. B. 3 Jahre in Italien, 1 Jahr in Irland). Diese Differenzierung soll neue Investitionen fördern, kann aber zu Ungleichbehandlung führen.</li>
 
-  <li><strong>Verfügbarkeitsverpflichtungen & Sanktionen:</strong> Unterschiede ergeben sich im Designfokus: Während in Ländern wie Belgien und Schweden konkrete technische Verfügbarkeitsanforderungen als Vertragsbedingung definiert sind, setzen Systeme wie in Irland und dem Vereinigten Königreich primär auf finanzielle Anreize und Sanktionen im Falle der Nichtverfügbarkeit – etwa durch Differenzzahlungen bei Zuverlässigkeitsoptionen oder Strafzahlungen bei Nichtleistung in Stresssituationen.</li>
+  <a id="zuverlaessigkeitsoptionen"
+   style="display:block; position:relative; top:-4rem; visibility:hidden;">
+  </a>
+  <li><strong>Zuverlässigkeitsoptionen (Reliability Options):</strong> Ein Mechanismus, bei dem Kapazitätsanbieter regelmäßige Zahlungen erhalten – im Gegenzug verpflichten sie sich, in Zeiten von Stromknappheit Energie bereitzustellen oder eine finanzielle Ausgleichszahlung zu leisten, wenn ein vorher definierter Preis (Strike-Preis) überschritten wird. Das Modell sichert Anbieter stabile Einnahmen, schützt Verbraucher vor extremen Preisspitzen und stärkt die Versorgungssicherheit, ohne in die Strompreisbildung des Spotmarkts direkt einzugreifen.
 
-  <li><strong>Aktivierungsbedingungen:</strong> Legen fest, wann Kapazitäten eingesetzt werden. In Deutschland und Schweden wird die strategische Reserve aktiviert, wenn der Spotmarkt-Preis die Obergrenze erreicht. In Finnland greift die Reserve, wenn Angebot und Nachfrage im Day‐Ahead‐Markt nicht ausgeglichen werden.</li>
+  </li> <li><strong>Verfügbarkeitsverpflichtungen & Sanktionen:</strong> Je nach Markt unterscheiden sich die Ansätze: In Belgien oder Schweden gelten konkrete technische Anforderungen an die Verfügbarkeit als vertraglich fixierte Bedingung. In anderen Ländern wie Irland oder dem Vereinigten Königreich kommen überwiegend finanzielle Steuerungsinstrumente zum Einsatz – etwa Sanktionen bei Nichtverfügbarkeit oder verpflichtende Ausgleichszahlungen bei Systemstress, unabhängig vom Mechanismus selbst.</li>
 
   <li><strong>Marktintegration:</strong> Marktweite Mechanismen binden Kapazitäten eng an den Strommarkt, während strategische Reserven bewusst vom Markt isoliert werden – was Marktverzerrungen vermeiden, aber die effiziente Ressourcennutzung einschränken kann.</li>
 </ul>
@@ -141,18 +144,6 @@ Kapazitätsmechanismen sind komplexe Instrumente zur Gewährleistung der Versorg
 </ul>
 
 {{< /timelineItem >}}
-
-## Governance & Institutionelle Zuständigkeiten {#governance .sr-only}
-{{% timelineItem icon="shield" subheader="ÜNB, Regulierungsbehörden & dezentrale Modelle" %}}
-## Governance & Institutionelle Zuständigkeiten {#governance}
-
-<ul>
-  <li><strong>Zentrale Rolle der ÜNB:</strong> Übertragungsnetzbetreiber agieren insb. bei zentralen organisierten KMs als Beschaffungsstellen, koordinieren Ausschreibungen (z. B. Belgien, Polen) und überwachen die Vertragserfüllung der Kapazitätsanbieter.</li>
-  <li><strong>Aufgabe der Regulierungsbehörden:</strong> Genehmigung von Auktionsparametern, Festlegung von Preisobergrenzen und Bewertungsverfahren (z. B. Irland) – für Transparenz, Nichtdiskriminierung und Kostenkontrolle.</li>
-  <li><strong>Dezentrale Modelle:</strong> Verantwortung liegt bei Marktakteuren (Stromlieferanten, Großverbraucher, Verteilnetzbetreiber), die Kapazitätszertifikate nach ihrem Spitzenlastanteil erwerben müssen (z. B. Frankreich). Dezentrale Strukturen ermöglichen regionale Nachfrageabbildung, sind aber administrativ aufwendiger und verursachen höhere Transaktionskosten.</li>
-  <li><strong>Einfluss auf Effizienz & Integration:</strong> Die institutionelle Zuständigkeit bestimmt maßgeblich Effizienz, Steuerbarkeit und Integration des Kapazitätsmechanismus in bestehenden Marktstrukturen.</li>
-</ul>
-{{% /timelineItem %}}
 {{< /timeline >}}
 
 

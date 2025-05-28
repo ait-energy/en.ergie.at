@@ -32,27 +32,27 @@ Damit Märkte zu einer pareto-effizienten Ressourcenallokation führen, keine Kn
 <details>
   <summary>Weitere Informationen</summary>
 
-### 2.1.1.1	Große Anzahl an Marktteilnehmer, Abwesenheit von Marktmacht
+### Große Anzahl an Marktteilnehmer, Abwesenheit von Marktmacht
 
 Damit Märkte effizient funktionieren, ist eine große (quasi unlimitierte) Anzahl an Marktakteuren notwendig. Diese theoretische Vorstellung ist in der Realität in den seltensten Fällen erfüllt. Selbst wenn diese Voraussetzung in der Realität nicht vollständig erfüllt ist, kann ausreichend Konkurrenz auf Angebotsseite auch durch andere Faktoren hinreichend erfüllt sein. Dazu müssen Märkte ‚bestreitbar‘ sein, d.h. der Markteintritt muss ‚vollkommen frei‘ bzw. der Marktaustritt muss ‚kostenlos‘ sein [^4]. Vor allem beim Marktaustritt müssen die versunkenen Kosten hinreichend gering sein. Unter nicht ausreichender Konkurrenz kann es zu Monopolbildungen kommen, die die Kapazitäten künstlich verknappen, und damit nicht ausreichend Kapazität zur Verfügung gestellt wird.
 
-### 2.1.1.2	Symmetrische Information
+### Symmetrische Information
 
 Die Marktteilnehmer müssen das Marktgeschehen sehr gut überblicken. Das bedeutet, Informationen über den Markt (die Eigenschaften des Gutes) sind ‚kostenlos‘ verfügbar, Verträge sind vollständig und ihre Erfüllung kann ‚kostenlos‘ durchgesetzt werden.
 
-### 2.1.1.3	Marktteilnehmer als Mengenanpasser
+### Marktteilnehmer als Mengenanpasser
 
 Eine klassische Voraussetzung für die Existenz eines nahezu vollkommenen Marktes ist, dass Marktteilnehmer als Preisnehmer und Mengenanpasser reagieren.
 
-### 2.1.1.4	Kurze Reaktionszeit
+### Kurze Reaktionszeit
 
 Marktteilnehmer müssen in der Lage sein, auf Marktänderungen ‚schnell‘ reagieren zu können. Zu lange Anpassungszeiten führen zu Situationen von anhaltendem oder wechselndem Überschuss/Knappheit. Beispiele dafür sind das ‚Cobweb Theorem‘ [^5] oder der ‚Schweinezyklus‘ [^6]. Im schlechtesten Fall führt ein zu starker zeitlicher Versatz zu einem Versorgungsengpass.
 
-### 2.1.1.5	Niedrige Transaktionskosten
+### Niedrige Transaktionskosten
 
 Die Existenz von Transaktionskosten kann das Zustandekommen eines effizienten Marktergebnisses verunmöglichen. Nur wenn Austausch zwischen Marktteilnehmern kostengünstig möglich ist und Verträge kostengünstig zustande kommen können, führen Märkte zu einer effizienten Ressourcenallokation.
 
-### 2.1.1.6	Abwesenheit von Externalitäten
+### Abwesenheit von Externalitäten
 
 Sobald Externalitäten im Spiel sind, führen Märkte nicht mehr zu einer pareto-effizienten Allokation von Gütern und machen staatliche Eingriffe notwendig [^1]. Sobald Dritte (in positiver/negativer Weise) vom Marktgeschehen betroffen sind, kann über den Marktmechanismus keine pareto-effiziente Allokation mehr hergestellt werden.
 
@@ -65,11 +65,11 @@ Damit im <abbr title="Energy-Only-Markt">EOM</abbr> Investitionsanreize entstehe
 <details>
   <summary>Weitere Informationen</summary>
 
-### 2.1.2.1	Existenz liquider langfristiger Märkte
+### Existenz liquider langfristiger Märkte
 
 Die Liquidität von Forward-Märkten ist eine wichtige Voraussetzung, um Planbarkeit sowohl für die Erlöse als auch Kosten sicherzustellen. Darüber hinaus müssen die Vorlaufzeiten für Kraftwerksbau mit dem zur Verfügung stehenden Planungshorizont konsistent sein.
 
-### 2.1.2.2	Absehbarkeit von regulatorischen Eingriffen
+### Absehbarkeit von regulatorischen Eingriffen
 
 Regulatorische Eingriffe und politische Interventionen in den Markt nehmen starken Einfluss auf die Planungssicherheit. Marktteilnehmer antizipieren Änderungen des regulatorischen Umfelds, was wiederum starken Einfluss auf die Investitionstätigkeit bzw. das Verhalten am Markt hat. Insofern braucht der Markt stabile und vorhersehbare Rahmenbedingungen.
 </details>
@@ -81,11 +81,11 @@ Im <abbr title="Energy-Only-Markt">EOM</abbr> müssen die Preise für bestimmte 
 <details>
   <summary>Weitere Informationen</summary>
 
-### 2.1.3.1	Keine expliziten Preisobergrenzen
+### Keine expliziten Preisobergrenzen
 
 Preise müssen Knappheiten anzeigen können, sodass sowohl das Angebot als auch die Nachfrage auf Preisspitzen reagieren können. Dazu dürfen keine expliziten Preisobergrenzen vorhanden sein. Um Marktmissbrauch zu verhindern kann eine sinnvolle Preisobergrenze die VOLL darstellen.
 
-### 2.1.3.2	Keine impliziten Preisobergrenzen
+### Keine impliziten Preisobergrenzen
 
 Damit in einem <abbr title="Energy-Only-Markt">EOM</abbr> ausreichend Investitionsanreize für versorgungsrelevante Kapazität zur Verfügung gestellt werden, muss der Markt in der Lage sein, Knappheiten durch hohe Preise anzeigen zu können. Daher dürfen keine impliziten Preisobergrenzen vorhanden sein. Anders formuliert, muss die gesellschaftliche/politische Akzeptanz von Preisspitzen gegeben sein.
 Die folgenden Umstände können eine Konsequenz einer nicht vorhandenen Akzeptanz für hohe Preise sein:
@@ -93,7 +93,7 @@ Die folgenden Umstände können eine Konsequenz einer nicht vorhandenen Akzeptan
 - Ahndung von Knappheitspreisen durch die Regulierungsbehörde aufgrund von Verwechslung mit Marktmissbrauch
 - Veröffentlichung von Preisgeboten (gesellschaftliche/politische Akzeptanz von Preisspitzen muss gegeben sein)
 
-### 2.1.3.3	Ausreichend Zahlungsbereitschaft
+### Ausreichend Zahlungsbereitschaft
 
 Hohe Knappheitspreise müssen durch Zahlungsbereitschaft der Konsumenten gedeckt sein. Direkt oder indirekt (nach Glättung durch einen Lieferanten) müssen Preisspitzen von den Strombezieher:innen bezahlt werden. Das Zustandekommen von Preisspitzen setzt insofern eine dementsprechende Zahlungsbereitschaft und Bewusstsein über das Entstehen von Preisspitzen voraus.
 

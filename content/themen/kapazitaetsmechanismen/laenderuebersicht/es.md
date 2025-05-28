@@ -9,7 +9,7 @@ authors: ["afischer"]
 Wir arbeiten gerade an diesem Artikel. Informationen können unvollständig oder teilweise inkorrekt sein. Fehler oder fehlende Details kannst Du direkt per [GitHub Issue melden](https://github.com/ait-energy/en.ergie.at/issues).
 {{< /alert >}}
 
-## Ausschreibungen für neue Kapazitäten (Ausschreibung für den Zugang zur Kapazität bestimmter Knotenpunkte des Stromnetzes)
+## Ausschreibungen für neue Kapazitäten an Netzknotenpunkten
 
 ### Ausschreibung: 
 Im Juni 2022 hat das spanische Energieministerium den Entwurf einer Ministerialverordnung veröffentlicht, die die Ausschreibung für bestehende Kapazitäten in 17 Knotenpunkten des Stromübertragungsnetzes bis zu einer Gesamtleistung von 5.844 MW regelt. Neue Ausschreibungen sollen alle sechs Monate stattfinden. Ziel der Ausschreibung ist es, die Installation von synchronen Stromerzeugungsmodulen zu fördern, um die Versorgungssicherheit und Systemflexibilität zu gewährleisten sowie die Integration anderer Technologien wie Photovoltaik oder Windkraft zu ermöglichen. Die ausgewählten Knotenpunkte sind Übergangsknotenpunkte, an denen der spanische Stromübertragungsnetzbetreiber REE ein Überangebot an synchroner Kapazität im Vergleich zur verfügbaren asynchronen Kapazität festgestellt hat und die die erforderlichen technischen und regulatorischen Bedingungen erfüllen[^1].
