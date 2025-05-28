@@ -131,6 +131,10 @@ Ein marktweiter Kapazitätsmechanismus ist nicht kosteneffektiv, wenn der Bedarf
 
 {{< embed_article link="/themen/kapazitaetsmechanismen/arten/unterbrechbarkeitsregeln.md" showHeader="false" >}}
 
+### 8. Kombinierter Kapazitätsmarkt
+
+{{< embed_article link="/themen/kapazitaetsmechanismen/arten/kombinierter_KM.md" showHeader="false" >}}
+
 <!-- Fußnoten -->
 [^1]: D. Newbery, “Missing money and missing markets: Reliability, capacity auctions and interconnectors,” Energy Policy, vol. 94, pp. 401–410, Jul. 2016, doi: 10.1016/j.enpol.2015.10.028.
 
