@@ -4,10 +4,13 @@ topics: []
 authors: ["afischer"]
 ---
 
+<!-- Zusammenfassung hinzufügen falls es über Vorschau eingebunden wird -->
 <br>
 {{< alert >}}
 Wir arbeiten gerade an diesem Artikel. Informationen können unvollständig oder teilweise inkorrekt sein. Fehler oder fehlende Details kannst Du direkt per [GitHub Issue melden](https://github.com/ait-energy/en.ergie.at/issues).
 {{< /alert >}}
+
+Obwohl sich dieser Bericht auf die EU bezieht, wollen wir darauf hinweisen, dass dies die Hauptart von Kapazitätsmechanismen ist, die in den USA verwendet wird (PJM, NE-ISO usw.).
 
 ## Beschreibung
 
