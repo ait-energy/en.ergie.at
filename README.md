@@ -108,6 +108,16 @@ The following series currently exist:
 
 - `Strommärkte`
 
+### Creating a new literature entry
+
+Assuming you want to add a new literature entry, for a study by `company` published in `June` of `2024`, run the following command in the terminal:
+
+```bash
+./hugo new content literature/2024/06/company.md
+```
+
+This will create a new file at `content/literature/2024/06/company.md` with a template structure that you can directly start filling out.
+
 ### Creating a new author
 
 Assuming a new author named `Jane Doe`:

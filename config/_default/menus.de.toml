@@ -44,13 +44,28 @@
   weight = 22
 
 # ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ #
+# >> main >> LITERATUR                                                         #
+# ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ #
+
+[[main]]
+  name = "Literatur"
+  pageRef = "literature"
+  weight = 31
+
+[[main]]
+  name = "Kapazitätsmechanismen"
+  parent = "Literatur"
+  pageRef = "literature/kapazitätsmechanismen"
+  weight = 32
+
+# ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ #
 # >> main >> DATEN                                                            #
 # ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ #
 
 [[main]]
   name = "Daten"
   pageRef = "daten"
-  weight = 31
+  weight = 41
 
 # ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ #
 # >> main >> PROJEKTE                                                          #
@@ -59,19 +74,19 @@
 [[main]]
   name = "Projekte"
   pageRef = "projekte"
-  weight = 41
+  weight = 51
 
 [[main]]
   name = "transpAIrent.energy"
   parent = "Projekte"
   pageRef = "projekte/transpairent-energy"
-  weight = 42
+  weight = 52
 
 [[main]]
   name = "TeKaVe"
   parent = "Projekte"
   pageRef = "projekte/tekave"
-  weight = 43
+  weight = 53
 
 # ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ #
 # >> main >> GITHUB                                                            #
