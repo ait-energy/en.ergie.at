@@ -18,7 +18,14 @@ Weiters diskutiert die deutsche Bundesregierung den Einsatz der Strategischen Re
 
 ### Ausschreibung
 
-Alle Reserven werden ausschließlich für die Wintersaison beschafft und nur im Falle eines Strommangels aktiviert, d.h. wenn der Spotpreis die Preisobergrenze erreicht. Um die Kapazitätsreserve zu bilden, führen die verantwortlichen Übertragungsnetzbetreiber (ÜNB) alle zwei Jahre einen gemeinsamen Beschaffungsprozess durch [^1].
+Alle Reserven werden ausschließlich für die Wintersaison beschafft und nur aktiviert, wenn der Markt nicht geräumt wird,
+das heißt, wenn das Angebot nicht ausreicht, um die Nachfrage zu decken.
+Der Markt gilt als nicht geräumt, wenn an den Strombörsen - im Day-Ahead- oder im Intraday-Markt (bei den Auktionen,
+oder während des kontinuierlichen Intraday-Handels im Tagesverlauf) - Nachfrage am technischen Preislimit innerhalb einer
+Stunde nicht vollständig durch Angebote zur Erzeugung gedeckt werden [^StateAid_DE_SR].
+Um die Kapazitätsreserve in der gesetzlich angestrebten Höhe von
+2&nbsp;GW zu bilden, führen die verantwortlichen Übertragungsnetzbetreiber (ÜNB) alle zwei Jahre einen gemeinsamen
+Beschaffungsprozess durch [^1] [^KapResV].
 
 ### Vergütung
 
@@ -45,9 +52,13 @@ Separat vergütet werden [^2] [^KapResV]:
 
 Die Kosten der Kapazitätsreserve werden über die Netzentgelte weitergegeben&nbsp;[^2].
 
+Standardbedingungen regeln die Bedingungen, unter denen ein Vertrag zwischen einem Übertragungsnetzbetreiber und einem
+Betreiber einer Kapazitätsreserveanlage nach einer Ausschreibung abgeschlossen wird [^1].
+
 ### Teilnahme
 
- Die Reserve ermöglicht sowohl thermische Produktion als auch Nachfragesteuerung. Standardbedingungen regeln die Bedingungen, unter denen ein Vertrag zwischen einem Übertragungsnetzbetreiber und einem Betreiber einer Kapazitätsreserveanlage nach einer Ausschreibung abgeschlossen wird [^1]. Das Ausschreibungsverfahren steht allen Arten von inländischen Kapazitätsanbietern (Erzeugungsanlagen, Speichern und regelbaren Lasten) offen, sofern sie bestimmte technische Anforderungen erfüllen [^3]:
+Das Ausschreibungsverfahren steht allen Arten von inländischen Kapazitätsanbietern (Erzeugungsanlagen, Speichern und
+regelbaren Lasten) offen, sofern sie bestimmte technische Anforderungen erfüllen [^3]:
 
 - Netzanschluss im Bundesgebiet mit einer Nennspannung >= 110 kV
 - Anfahrtszeit von maximal 12 Stunden
@@ -122,3 +133,5 @@ Der Markt-Clearing-Preis betrug 68.000&nbsp;€/MW/a. Die bezuschlagten Bieter w
 [^CDU_CSU_SPD]: [Verantwortung für Deutschland. Koalitionsvertrag zwischen CDU, CSU und SPD. 21. Legislaturperiode<br>(CDU, CSU und SPD)](https://www.cdu.de/app/uploads/2025/04/Koalitionsvertrag-2025-1.pdf)
 
 [^KapResV]: [Verordnung zur Regelung des Verfahrens der Beschaffung, des Einsatzes und der Abrechnung einer Kapazitätsreserve<br> (gesetze-im-internet.de)](https://www.gesetze-im-internet.de/kapresv/BJNR005800019.html)
+
+[^StateAid_DE_SR]: [SA.45852 - 2017/C (ex 2017/N) [which Germany is planning to implement for Capacity Reserve]<br>(Europäische Kommission)](https://ec.europa.eu/competition/state_aid/cases/269083/269083_1983030_171_13.pdf)
