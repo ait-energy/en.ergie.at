@@ -54,6 +54,48 @@ Die Kosten der Kapazitätsreserve werden über die Netzentgelte weitergegeben [^
 Anlagen, die in der Kapazitätsreserve gebunden sind, sollten nach Möglichkeit auch die Funktion der Netzreserve übernehmen. Befinden sich die Anlagen in netztechnisch geeigneten Regionen, werden sie von den Übertragungsnetzbetreibern auch bei Bedarf für die Systemsicherheit aufgrund von Netzengpässen angefordert [^netztransparenz_de_SR].
 Kraftwerke dürfen nicht mehr aktiv am Strommarkt teilnehmen und können ihre Leistung nur auf Signal der Übertragungsnetzbetreiber erhöhen. Anlagen können jedoch nur einige Jahre in der Reserve verbleiben, bevor sie geschlossen werden müssen, um sicherzustellen, dass die Reserve vom restlichen Markt isoliert bleibt. Dies bedeutet, dass Anlagen nach dem Austritt aus der Kapazitätsreserve stillgelegt werden müssen, obwohl dies nicht für Lasten (Stromverbraucher) in der Kapazitätsreserve gilt [^2]. Dies macht die Teilnahme an der Reserve unattraktiv, was die Markteffizienz verringern und den Wettbewerb bei der Kapazitätsbeschaffung verschlechtern könnte. Anlagen können mehrmals am Beschaffungsprozess für die Kapazitätsreserve teilnehmen [^2].
 
+## Auktionsergebnisse
+
+Die Ergebnisse der Ausschreibungen für die Kapazitätsreserve werden auf der Website
+[Netztransparenz.de](https://www.netztransparenz.de/de-de/Systemdienstleistungen/Betriebsfuehrung/Kapazit%C3%A4tsreserve)
+veröffentlicht.  
+{{< timeline >}}
+{{< timelineItem icon="rss" header="Erbringungszeitraum 2024-2026" badge="Auktionsjahr 2023" >}}
+
+In der Auktion 2023 wurden 1.205&nbsp;MW Kapazität für den Erbringungszeitraum 2024-2026 beschafft.
+Der Markt-Clearing-Preis betrug 99.990&nbsp;€/MW/a und lag damit 10&nbsp;€/MW/a unter dem Preislimit von
+100.000&nbsp;€/MW/a. Die bezuschlagten Bieter waren:
+<ul>
+<li>Lausitz Energie Kraftwerke AG</li>
+<li>Statkraft Markets GmbH</li>
+<li>RWE Generation SE</li>
+<li>Air Products GmbH</li>
+</ul>
+{{< /timelineItem >}}
+{{< timelineItem icon="rss" header="Erbringungszeitraum 2022-2024" badge="Auktionsjahr 2021" >}}
+
+In der Auktion 2021 wurden 1.086&nbsp;MW Kapazität für den Erbringungszeitraum 2022-2024 beschafft.
+Der Markt-Clearing-Preis betrug 62.940&nbsp;€/MW/a. Die bezuschlagten Bieter waren:
+<ul>
+<li>Lausitz Energie Kraftwerke AG</li>
+<li>Statkraft Markets GmbH</li>
+<li>RWE Generation SE</li>
+</ul>
+{{< /timelineItem >}}
+{{< timelineItem icon="rss" header="Erbringungszeitraum 2020-2022" badge="Auktionsjahr 2019" >}}
+
+In der Auktion 2019 wurden 1.056&nbsp;MW Kapazität für den Erbringungszeitraum 2020-2022 beschafft.
+Der Markt-Clearing-Preis betrug 68.000&nbsp;€/MW/a. Die bezuschlagten Bieter waren:
+<ul>
+<li>Lausitz Energie Kraftwerke AG</li>
+<li>Statkraft Markets GmbH</li>
+<li>RWE Generation SE</li>
+</ul>
+
+{{< /timelineItem >}}
+
+{{< /timeline >}}
+
 <!-- Fußnoten -->
 
 [^1]: [Kapazitätsreserve<br>(bundesnetzagentur.de)](https://www.bundesnetzagentur.de/DE/Fachthemen/ElektrizitaetundGas/Versorgungssicherheit/KapRes/start.html)
