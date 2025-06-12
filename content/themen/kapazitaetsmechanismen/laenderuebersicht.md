@@ -326,20 +326,6 @@ Die Y-1-Kapazitätsauktion für das Lieferjahr 2023/2024 im irischen Strommarkt 
 </div>
 {{< /timelineItem >}}
 
-{{< timelineItem icon="rss" header="Frankreich (AOE)" badge="Auktionsjahr 2023" >}}
-<div style="border-left: 4px solid #999999; padding-left: 1em; margin-bottom: 1.5em;">
-    <a href="https://assets.rte-france.com/prod/public/2024-01/2024-01-12-rapport-synthese-aoe-2024.pdf"><b>Bericht: <u>Y-1 Auktion für die Lieferperiode 2024</u></b></a>
-    <br>
-    <details>
-    <summary><span style="cursor: pointer; font-weight: 500;">Zusammenfassung anzeigen</span></summary><i>
-
-    Die AOE-Auktion 2023 sicherte für das Lieferjahr 2024 insgesamt <b>2.922&nbsp;MW Lastreduktionskapazität</b>: 2.900&nbsp;MW an klassischem Lastmanagement (Effacement Explicite) und erstmals 22&nbsp;MW aus „Effacements indissociables de la fourniture“, Verbrauchssenkungen, die über hohe Preissignale direkt in Stromverträge eingebettet sind. Der <b>Clearing-Preis liegt bei 65.000&nbsp;€/MW/a</b>. <b>Zusätzlich zum Basispreis wird ein Bonus von bis zu 20.000&nbsp;€/MW/a gezahlt</b>, abhängig von den freiwilligen Zusagen der Anbieter zu maximalem Abrufpreis oder Mindestverfügbarkeitsdauer. Je stärker die zugesagte Systemdienstleistung, desto höher der Bonus – <b>im Durchschnitt wurden 16.247&nbsp;€/MW/a</b> erreicht.
-
-    </i></details>
-</div>
-{{< /timelineItem >}}
-
-
 {{< /timeline >}}
 
 ### Auktionsjahr 2022
@@ -434,19 +420,6 @@ Die Hauptauktion des italienischen Kapazitätsmarkts für das Lieferjahr 2024 fa
 </div>
 {{< /timelineItem >}}
 
-{{< timelineItem icon="rss" header="Frankreich (AOE)" badge="Auktionsjahr 2022" >}}
-<div style="border-left: 4px solid #999999; padding-left: 1em; margin-bottom: 1.5em;">
-    <a href="https://www.services-rte.com/files/live/sites/services-rte/files/pdf/effacements/Rapport%20de%20synth%c3%a8se%20analyse%20des%20offres%20AOE%202023.pdf"><b>Bericht: <u>Y-1 Auktion für die Lieferperiode 2023</u></b></a>
-    <br>
-    <details>
-    <summary><span style="cursor: pointer; font-weight: 500;">Zusammenfassung anzeigen</span></summary><i>
-
-    Die AOE 2022 Auktion für das Lieferjahr 2023 vergab <b>2.702&nbsp;MW</b> bei einem volumen­gewichteten Zuschlagspreis von <b>59.900&nbsp;€/MW/a</b>. Dieser Betrag speist sich aus zwei Komponenten: rund <b>42.300&nbsp;T€/MW/a stammen aus dem französischen Kapazitätsmechanismus</b>, weitere durchschnittlich <b>17.600&nbsp;T€/MW/a aus der ergänzenden AOE-Vergütung</b>. Erstmals konnten Standorte ≤&nbsp;1&nbsp;MW (Lot&nbsp;1) mit Laufzeiten von 1&nbsp;–&nbsp;10&nbsp;Jahren bieten. 7&nbsp;Anbieter reichten 27&nbsp;Gebote (davon 24 mehrjährige, überwiegend 10-jährige) über zusammen 1.067&nbsp;MW ein und nutzten die Ramp-up-Möglichkeit für steigende Leistung in den ersten vier Jahren.
-
-    </i></details>
-</div>
-{{< /timelineItem >}}
-
 {{< /timeline >}}
 
 ### Auktionsjahr 2021
@@ -508,19 +481,6 @@ Die Y-4-Kapazitätsauktion für das Lieferjahr 2024/2025 im irischen Strommarkt 
 </div>
 {{< /timelineItem >}}
 
-{{< timelineItem icon="rss" header="Frankreich (AOE)" badge="Auktionsjahr 2021" >}}
-<div style="border-left: 4px solid #999999; padding-left: 1em; margin-bottom: 1.5em;">
-    <a href="https://www.services-rte.com/files/live/sites/services-rte/files/documentsLibrary/2022_RAPPORT_ANALYSE_OFFRES_AOE__2627_fr"><b>Bericht: <u>Y-1 Auktion für die Lieferperiode 2022</u></b></a>
-    <br>
-    <details>
-    <summary><span style="cursor: pointer; font-weight: 500;">Zusammenfassung anzeigen</span></summary><i>
-
-    In der AOE-Auktion 2021 für das Lieferjahr 2022 boten zehn Teilnehmer insgesamt 2.792&nbsp;MW an, wovon <b>1.982&nbsp;MW</b> einen Zuschlag erhielten, was einer Steigerung von 45&nbsp;% gegenüber dem Vorjahr entspricht. Die <b>durchschnittliche Vergütung lag bei 59.600&nbsp;€/MW/a</b> und setzte sich aus zwei Komponenten zusammen: <b>23.900&nbsp;€/MW/a über den Kapazitätsmechanismus</b> und durchschnittlich <b>35.700&nbsp;€/MW/a als ergänzende AOE-Vergütung</b>. Der maximale Gebotspreis war <b>60.000&nbsp;€/MW/a</b>. Für die prämierten Kapazitäten ergibt sich daraus ein Gesamtvergütungsvolumen von <b>70,8&nbsp;Mio.&nbsp;€</b>.
-
-    </i></details>
-</div>
-{{< /timelineItem >}}
-
 {{< /timeline >}}
 
 ### Auktionsjahr 2020
@@ -549,20 +509,6 @@ Die Y-4-Kapazitätsauktion für das Lieferjahr 2024/2025 im irischen Strommarkt 
 </div>
 {{< /timelineItem >}}
 
-{{< timelineItem icon="rss" header="Frankreich (AOE)" badge="Auktionsjahr 2020" >}}
-<div style="border-left: 4px solid #999999; padding-left: 1em; margin-bottom: 1.5em;">
-    <a href="https://www.services-rte.com/files/live/sites/services-rte/files/pdf/effacements/R%c3%a9sultats%20AOE%202021.pdf"><b>Bericht: <u>Y-1 Auktion für die Lieferperiode 2021</u></b></a>
-    <br>
-    <details>
-    <summary><span style="cursor: pointer; font-weight: 500;">Zusammenfassung anzeigen</span></summary><i>
-
-    Die AOE-Auktion 2020 sicherte für das Lieferjahr 2021 insgesamt <b>1.509&nbsp;MW Lastreduktionskapazität, und damit fast doppelt so viel wie im Vorjahr</b>. Im Durchschnitt erhielten die erfolgreichen MW rund <b>55.000&nbsp;€/MW/a</b>, zusammengesetzt aus <b>32.700&nbsp;€/MW/a über den Kapazitätsmechanismus</b>  und <b>22.700&nbsp;€/MW/a als ergänzende AOE-Prämie</b>. Das Clearing-Preis-Limit wurde erstmals auf 60.000&nbsp;€/MW/a angehoben. Ein Frühverfügbarkeits-Bonus sicherte zudem 371&nbsp;MW bereits für November und Dezember 2020 – hierfür war eine Zusatzvergütung von etwa 3&nbsp;Mio&nbsp;€ vorgesehen. Insgesamt wird das Ergänzungshonorar aus der Auktion für 2021 auf rund 34&nbsp;Mio&nbsp;€ taxiert.
-
-    </i></details>
-</div>
-{{< /timelineItem >}}
-
-
 {{< /timeline >}}
 
 ### Auktionsjahr 2019
@@ -590,65 +536,9 @@ Die Hauptauktion des italienischen Kapazitätsmarkts für das Lieferjahr 2022 fa
 
 {{< /timelineItem >}}
 
-{{< timelineItem icon="rss" header="Frankreich (AOLT)" badge="Auktionsjahr 2019" >}}
-<div style="border-left: 4px solid #999999; padding-left: 1em; margin-bottom: 1.5em;">
-  <a href="https://www.services-rte.com/files/live/sites/services-rte/files/pdf/MECAPA/Rapport-analyse-AOLT-2019.pdf"><b>Bericht: <u>AOLT Auktion für Lieferperiode 2023–2029</u></b></a>
-  <br>
-  <details>
-    <summary><span style="cursor: pointer; font-weight: 500;">Zusammenfassung anzeigen</span></summary><i>
-      Die langfristige Ausschreibung (AOLT) für die Lieferperiode 2023–2029 in Frankreich führte zu <b>keiner Kapazitätsvergabe</b>. Trotz eines Angebotsvolumens von 1.058,8&nbsp;MW – bestehend ausschließlich aus Batteriespeichern und Lastmanagementlösungen (Effacements) – lagen <b>alle Preise der eingereichten Gebote oberhalb der administrierten Nachfragekurve. Daher wurde keine der angebotenen Kapazitäten ausgewählt.</b> Ein wesentlicher Grund war, dass in den vorangegangenen Auktionen 2021–2027 und 2022–2028 bereits 376,8&nbsp;MW vergeben wurden, wodurch sich die Nachfragekurve für 2023–2029 entsprechend „nach links verschob“. 
-    </i>
-  </details>
-</div>
-
-<div style="border-left: 4px solid #999999; padding-left: 1em; margin-bottom: 1.5em;">
-  <a href="https://www.services-rte.com/files/live/sites/services-rte/files/pdf/MECAPA/Rapport-analyse-AOLT-2019.pdf"><b>Bericht: <u>AOLT Auktion für Lieferperiode 2022–2028</u></b></a>
-  <br>
-  <details>
-    <summary><span style="cursor: pointer; font-weight: 500;">Zusammenfassung anzeigen</span></summary><i>
-      In der langfristigen AOLT-Auktion für die Lieferperiode 2022–2028 wurden insgesamt <b>225,7&nbsp;MW neue Kapazität bezuschlagt</b>, davon <b>159,7&nbsp;MW Batteriespeicher und 66&nbsp;MW Lastmanagement</b> (Effacement). Alle erhielten eine garantierte <b>Kapazitätsvergütung von 28.000&nbsp;€/MW&nbsp;pro&nbsp;Jahr</b> über eine die gesamte Vertragslaufzeit (2022–2028). Für die Auktion waren nach Berücksichtigung der vorhergehenden Ergebnisse 1.148,6&nbsp;MW an Geboten eingereicht worden.
-    </i>
-  </details>
-</div>
-
-<div style="border-left: 4px solid #999999; padding-left: 1em; margin-bottom: 1.5em;">
-  <a href="https://www.services-rte.com/files/live/sites/services-rte/files/pdf/MECAPA/Rapport-analyse-AOLT-2019.pdf"><b>Bericht: <u>AOLT Auktion für Lieferperiode 2021–2027</u></b></a>
-  <br>
-  <details>
-    <summary><span style="cursor: pointer; font-weight: 500;">Zusammenfassung anzeigen</span></summary><i>
-      In der langfristigen AOLT-Auktion für die Lieferperiode 2021–2027 wurden insgesamt <b>151,1&nbsp;MW neue gesicherte Kapazität vergeben</b>. Der <b>Clearing-Preis betrug 29.000&nbsp;€/MW&nbsp;pro&nbsp;Jahr</b> und gilt für eine siebenjährige Vertragslaufzeit (2021–2027). Von den zugesagten Kapazitäten entfallen <b>93&nbsp;MW auf Batteriespeicher und 58,1&nbsp;MW</b> auf Lastmanagement-Einheiten (Effacement). Insgesamt gab es 699,2&nbsp;MW an teilnahmeberechtigten Geboten.
-    </i>
-  </details>
-</div>
-
-<div style="border-left: 4px solid #999999; padding-left: 1em; margin-bottom: 1.5em;">
-  <a href="https://www.services-rte.com/files/live/sites/services-rte/files/pdf/MECAPA/Rapport-analyse-AOLT-2019.pdf"><b>Bericht: <u>AOLT Auktion für Lieferperiode 2020–2026</u></b></a>
-  <br>
-  <details>
-    <summary><span style="cursor: pointer; font-weight: 500;">Zusammenfassung anzeigen</span></summary><i>
-      Im langfristigen AOLT-Aufruf für die Lieferperiode 2020–2026 gingen 2019 Gebote über insgesamt 221,8&nbsp;MW ein, überwiegend Batteriespeicher (122&nbsp;MW) und Lastmanagement-Kapazitäten (127,8&nbsp;MW). <b>Da sämtliche Gebotspreise oberhalb der administrierten Nachfragekurve lagen, wurde kein einziger Megawatt bezuschlagt.</b>
-    </i>
-  </details>
-</div>
-{{< /timelineItem >}}
-
-{{< timelineItem icon="rss" header="Frankreich (AOE)" badge="Auktionsjahr 2019" >}}
-<div style="border-left: 4px solid #999999; padding-left: 1em; margin-bottom: 1.5em;">
-    <a href="https://www.services-rte.com/files/live/sites/services-rte/files/pdf/effacements/Rapport-synthese-AOE-2020.pdf"><b>Bericht: <u>Y-1 Auktion für die Lieferperiode 2020</u></b></a>
-    <br>
-    <details>
-    <summary><span style="cursor: pointer; font-weight: 500;">Zusammenfassung anzeigen</span></summary><i>
-
-    Die 2019 durchgeführte AOE-Auktion vergab <b>770&nbsp;MW Lastreduktionskapazität</b> (18&nbsp;MW ≤ 1&nbsp;MW / 752&nbsp;MW &gt; 1&nbsp;MW) an 27 Gebote von zehn Anbietern. Das bezuschlagte Volumen lag damit <b>31&nbsp;% höher als 2019</b> und ist vollständig „grün“, da dieselgestützte Angebote erstmals ausgeschlossen waren. Die <b>durchschnittliche Gesamtvergütung lag bei etwa 22.800&nbsp;€/MW</b>. Sie setzt sich zusammen aus einer Kapazitätsmarktvergütung von rund 15.800&nbsp;€/MW sowie einer durchschnittlich ausgezahlten AOE-Prämie von rund 7.000&nbsp;€/MW. Der Clearing-Preis betrug 10.879&nbsp;€/MW und definiert die Obergrenze der möglichen AOE-Förderung. Da die Auktion pay-as-bid abgewickelt wurde und mehrere Gebote bei 0&nbsp;€/MW bzw. im niedrigen dreistelligen Eurobereich lagen, lag die tatsächliche Auszahlung deutlich darunter.
-
-    </i></details>
-</div>
-{{< /timelineItem >}}
-
 {{< /timeline >}}
 
 - Weitere UK Auktionsergebnisse & Informationen finden sie <a href="https://www.emrdeliverybody.com/CM/Capacity%20Auction%20Information_deleted.aspx" target="_blank" rel="noopener noreferrer">hier</a>.
-- Weitere Frankreich AOE Auktionsergebnisse & Informationen finden sie <a href="https://www.rte-france.com/en/newsroom/demand-response-call-tenders" target="_blank" rel="noopener noreferrer">hier</a>.
 
 <div class="footnotes" role="doc-endnotes">
   <hr>
