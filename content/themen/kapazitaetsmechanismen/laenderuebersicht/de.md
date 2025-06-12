@@ -22,23 +22,28 @@ Alle Reserven werden ausschließlich für die Wintersaison beschafft und nur im 
 
 ### Vergütung
 
-Die Anlagen in der Reserve erhalten eine jährliche Vergütung, die im Beschaffungsprozess des <abbr title="Übertragungsnetzbetreiber">ÜNB</abbr> festgelegt wird. Diese Vergütung soll die folgenden Kosten decken [^2]:
+Die Anlagen in der Reserve erhalten eine jährliche Vergütung, die im Beschaffungsprozess des <abbr title="Übertragungsnetzbetreiber">ÜNB</abbr> festgelegt wird. Diese Vergütung soll die folgenden Kosten decken
+[^2] [^KapResV]:
 
-- Wartung der Anlage
+- Vorhaltung der Anlage
 - Anlaufvorgänge gemäß anderen gesetzlichen Vorschriften
 - Wartung
 - Verbesserungen
 - Eigenstromverbrauch der Anlage
 - Abschreibungen
+- Bis zu 16 Einsätze in der Kapazitätsreserve pro Vertragsjahr mit einer Dauer des Abrufs von jeweils bis zu 12 Stunden
+- Personalkosten
+- Start- und betriebsstundenunabhängige Instandhaltungskosten
+- Kosten für die Brennstofflagerungsinfrastruktur sowie Kosten für die Gastransportkapazität.
 
-Separat vergütet werden [^2]:
+Separat vergütet werden [^2] [^KapResV]:
 
 - Einspeisung, die innerhalb der Kapazitätsreserve oder Netzreserve angefordert wird
 - Variable Wartungskosten für Einspeisung innerhalb der Netzreserve
 - Sicherstellung der Brennstoffversorgung
 - Kosten, die durch zusätzliche Anforderungen des <abbr title="Übertragungsnetzbetreiber">ÜNB</abbr> entstehen (zur Herstellung der Schwarzstartfähigkeit oder Blindleistungseinspeisung ohne Wirkleistungseinspeisung)
 
-Die Kosten der Kapazitätsreserve werden über die Netzentgelte weitergegeben [^2].
+Die Kosten der Kapazitätsreserve werden über die Netzentgelte weitergegeben&nbsp;[^2].
 
 ### Teilnahme
 
@@ -47,9 +52,9 @@ Die Kosten der Kapazitätsreserve werden über die Netzentgelte weitergegeben [^
 - Netzanschluss im Bundesgebiet mit einer Nennspannung >= 110 kV
 - Anfahrtszeit von maximal 12 Stunden
 - Erfüllung der informationstechnischen und organisatorischen Anforderungen für die Erbringung von Minutenreserveleistung
-- Anpassung der Wirkleistungseinspeisung oder des Wirkleistungsbezugs ab dem Zeitpunkt des Abrufs um mindestens je 30 % der Reserveleistung innerhalb von 15 Minuten
+- Anpassung der Wirkleistungseinspeisung oder des Wirkleistungsbezugs ab dem Zeitpunkt des Abrufs um mindestens je 30&nbsp;% der Reserveleistung innerhalb von 15 Minuten
 - bei regelbaren Lasten eine konstante und unterbrechungsfreie Leistungsaufnahme mindestens in Höhe der Gebotsmenge
-- bei Erzeugungsanlagen und Speichern eine Mindestteillast von maximal 50 % der Gebotsmenge.
+- bei Erzeugungsanlagen und Speichern eine Mindestteillast von maximal 50&nbsp;% der Gebotsmenge.
 
 Anlagen, die in der Kapazitätsreserve gebunden sind, sollten nach Möglichkeit auch die Funktion der Netzreserve übernehmen. Befinden sich die Anlagen in netztechnisch geeigneten Regionen, werden sie von den Übertragungsnetzbetreibern auch bei Bedarf für die Systemsicherheit aufgrund von Netzengpässen angefordert [^netztransparenz_de_SR].
 Kraftwerke dürfen nicht mehr aktiv am Strommarkt teilnehmen und können ihre Leistung nur auf Signal der Übertragungsnetzbetreiber erhöhen. Anlagen können jedoch nur einige Jahre in der Reserve verbleiben, bevor sie geschlossen werden müssen, um sicherzustellen, dass die Reserve vom restlichen Markt isoliert bleibt. Dies bedeutet, dass Anlagen nach dem Austritt aus der Kapazitätsreserve stillgelegt werden müssen, obwohl dies nicht für Lasten (Stromverbraucher) in der Kapazitätsreserve gilt [^2]. Dies macht die Teilnahme an der Reserve unattraktiv, was die Markteffizienz verringern und den Wettbewerb bei der Kapazitätsbeschaffung verschlechtern könnte. Anlagen können mehrmals am Beschaffungsprozess für die Kapazitätsreserve teilnehmen [^2].
@@ -115,3 +120,5 @@ Der Markt-Clearing-Preis betrug 68.000&nbsp;€/MW/a. Die bezuschlagten Bieter w
 [^Frontier_Koalition_DE]: [Versorgungssicherheit Strom. Wie geht es weiter bei Kraftwerksstrategie und Kapazitätsmarkt?<br>(Frontier Economics)](https://media.licdn.com/dms/document/media/v2/D4E1FAQEXU1ZuF_-ybg/feedshare-document-pdf-analyzed/B4EZWyo9paG0Ao-/0/1742458848752?e=1749081600&v=beta&t=zy78TDcjvJlTUhWQiPkTp0kwD1pI0ZWuZS7pCD3IeRw)
 
 [^CDU_CSU_SPD]: [Verantwortung für Deutschland. Koalitionsvertrag zwischen CDU, CSU und SPD. 21. Legislaturperiode<br>(CDU, CSU und SPD)](https://www.cdu.de/app/uploads/2025/04/Koalitionsvertrag-2025-1.pdf)
+
+[^KapResV]: [Verordnung zur Regelung des Verfahrens der Beschaffung, des Einsatzes und der Abrechnung einer Kapazitätsreserve<br> (gesetze-im-internet.de)](https://www.gesetze-im-internet.de/kapresv/BJNR005800019.html)
