@@ -27,9 +27,22 @@ Der garantierte Preis, der am Ende jeder Ausschreibung festgelegt wird, dient al
 
 Berechtigte Erzeugungskapazitäten müssen bestimmte Kriterien erfüllen: Sie müssen sich in Frankreich befinden, dürfen nicht von bestehenden Unterstützungsmechanismen profitieren und dürfen keinen vorherigen Zertifizierungsanträgen oder Anschlussvereinbarungen unterliegen, bevor die Gewinner benannt werden. Außerdem muss eine neue Betriebsgenehmigung aufgrund einer Erhöhung der installierten Leistung um mindestens 20&nbsp;% oder einer Änderung der primären Energiequelle vorliegen. Ebenso muss die berechtigte Lastreduzierungskapazität in Frankreich angesiedelt sein. Sie darf vor dem 29. Dezember 2028 nicht von der Vergütung für Lastreduzierungen in Marktmechanismen profitiert haben oder muss ihre Vertragsleistung seit der letzten Teilnahme vor diesem Datum um mindestens 20&nbsp;% erhöht haben. Sie darf nicht mehr als sechs Jahre Vergütung aus Nachfragereaktion oder neuen Kapazitätsausschreibungen erhalten haben und sollte nicht von Unterstützungsmechanismen profitieren. Darüber hinaus dürfen die Bieter nur ein einziges Lastreduzierungskapazitätsprojekt vorschlagen [^1].
 
+## Ausschreibungen für Lastmanagement (<abbr title="Appel d’Offres Effacement">AOE</abbr>)
+Der französische Lastmanagement-Ausschreibungsmechanismus („Appel d’Offres Effacement“, <abbr title="Appel d’Offres Effacement">AOE</abbr>) ist ein staatlich reguliertes Förderinstrument zur Unterstützung nachfrageseitiger Flexibilitätsressourcen. Seit seiner Einführung 2018 ergänzt er den allgemeinen Kapazitätsmechanismus, um flexible Verbrauchseinheiten wirtschaftlich tragfähig zu machen und so die Versorgungssicherheit zu stärken. Seit 2020 sind nur noch dekarbonisierte Maßnahmen förderfähig. Ziel ist es, durch verlässliche Lastverschiebung und -reduktion Verbrauchsspitzen abzufedern und Investitionen in CO₂-intensive Reservekapazitäten zu vermeiden. Die Förderung kleiner, verteilter Verbrauchergruppen unterstützt zugleich die Dezentralisierung des Stromsystems.
+
+### Ausschreibung
+Die Ausschreibungen werden jährlich vom französischen Energieministerium initiiert und vom Übertragungsnetzbetreiber RTE durchgeführt. Teilnahmeberechtigt sind alle Verbrauchseinheiten in Frankreich – von einzelnen Industrie- oder Gewerbestandorten bis zu Aggregatoren, die kleinere Lasten bündeln.
+Grundsätzlich werden zwei Formen des Lastmanagements unterschieden. Bei der expliziten Laststeuerung („effacement explicite“) verpflichten sich Anbieter, eine zuvor definierte Verbrauchsreduktion auf Abruf aktiv umzusetzen. Die zweite Form, die Lastreduktion im Rahmen eines Stromliefervertrags („effacement indissociable de la fourniture“), basiert auf flexiblen Tarifen, die Kunden dazu anregen, ihren Verbrauch eigenständig bei hohen Strompreisen zu reduzieren oder zeitlich zu verschieben. Beide Varianten unterscheiden zwischen kleinen (≤&nbsp;1&nbsp;MW) und großen (>&nbsp;1&nbsp;MW) Verbrauchern. Für kleinere Verbraucher sind Mehrjahresverträge bis zu zehn Jahren möglich, was Investitionen in Steuerungstechnik fördert. Die Aktivierung erfolgt an von RTE angekündigten Spitzentagen, an denen die Anbieter die vereinbarte Reduktion erbringen und technisch nachweisen müssen.[^2]
+
+### Vergütung
+Die im (<abbr title="Appel d’Offres Effacement">AOE</abbr>) bezuschussten Kapazitäten erhalten eine zusätzliche Vergütung zum regulären Erlös aus dem Kapazitätsmarkt. Grundlage ist ein [Differenzvertrag (<abbr title="Contract for Differences">CFD</abbr>)]({{< ref "themen/kapazitaetsmechanismen/arten/contracts_for_differences.md" >}}) in einem pay-as-clear-Auktionsverfahren: Die Anbieter geben Gebote in €/kW für die Bereitstellung ihrer Flexibilität ab. Wird ihr Angebot bezuschlagt, erhalten sie die Differenz zwischen ihrem Gebotspreis und dem marktbestimmten Kapazitätspreis, falls Letzterer niedriger ist. Umgekehrt reduziert sich die Zahlung bei höheren Marktpreisen entsprechend.[^3]
+
+### Teilnahme
+Teilnahmeberechtigt sind ausschließlich flexible Verbrauchseinheiten und Speicheranlagen in Frankreich, die ohne fossile Brennstoffe betrieben werden und zuvor im Kapazitätsmechanismus zertifiziert wurden. Ausgeschlossen sind Standorte, die in den letzten zwölf Monaten regulierte Laststeuerungstarife (z. B. TEMPO oder EJP) genutzt haben, Anlagen mit anderen staatlichen Förderungen sowie Einheiten, die ihre maximale Teilnahmezeit überschritten haben (6 Jahre für kleine, 4 Jahre für große Verbraucher). Geförderte Kapazitäten müssen zusätzlich am allgemeinen Kapazitätsmarkt teilnehmen und dort ihre Verfügbarkeit nachweisen.[^4]  So wird sichergestellt, dass (<abbr title="Appel d’Offres Effacement">AOE</abbr>)-geförderte Flexibilitäten konventionelle Kapazitäten ersetzen – nicht ergänzen – und damit zur Begrenzung der Gesamtsystemkosten beitragen.
+
 ## Unterbrechbarkeitsregeln
 
-In Frankreich wurde die minimale förderfähige Kapazität und die Mindestgebotsgröße 2023 auf bis zu 10&nbsp;MW gesenkt. Ab 2024 wird das Interruptibilitätsprogramm im Rahmen eines Experiments auf Mittelspannungsstandorte ausgeweitet, mit der Möglichkeit der Aggregation bis zu einer Grenze von 100&nbsp;MW [^2].
+In Frankreich wurde die minimale förderfähige Kapazität und die Mindestgebotsgröße 2023 auf bis zu 10&nbsp;MW gesenkt. Ab 2024 wird das Interruptibilitätsprogramm im Rahmen eines Experiments auf Mittelspannungsstandorte ausgeweitet, mit der Möglichkeit der Aggregation bis zu einer Grenze von 100&nbsp;MW [^5].
 
 ## Marktweiter Kapazitätsmechanismus mit dezentralem Käufer
 
@@ -53,6 +66,12 @@ Kapazitätsanbieter erzielen Erlöse durch den Handel ihrer Zertifikate, die nac
 
 [^1]: [Responding to the call for tenders for new capacities<br>(services-rte.com)](https://www.services-rte.com/en/learn-more-about-our-services/participate-in-the-capacity-mechanism/call-for-tenders-for-new-capacities.html)
 
-[^2]: [UFE response to ACER consultation on prioritising the removal of barriers to electricity demand response<br>(UFE)](https://ufe-electricite.fr/wp-content/uploads/2024/02/2024-02-02_Response-to-ACER-consultation_Barriers-on-demand-response.pdf)
+[^2]: [Demand Response Call Tenders<br>(RTE)](https://www.rte-france.com/en/newsroom/demand-response-call-tenders)
+
+[^3]: [Commission approves €1.3 billion French State aid scheme to support non-fossil technologies to ensure electricity supply matches demand<br>(European Commission)](https://ec.europa.eu/commission/presscorner/detail/en/ip_23_6757)
+
+[^4]: [Conditions Générales du Contrat Effacement de crise<br>(RTE)](https://www.services-rte.com/files/live/sites/services-rte/files/documentsLibrary/2024-01-01_CONDITIONS_GENERALES_CONTRAT_AOE_3762_fr)
+
+[^5]: [UFE response to ACER consultation on prioritising the removal of barriers to electricity demand response<br>(UFE)](https://ufe-electricite.fr/wp-content/uploads/2024/02/2024-02-02_Response-to-ACER-consultation_Barriers-on-demand-response.pdf)
 
 [^Zitat_Philippe]: Projektinterne Diskussion in [TeKaVe](https://en.ergie.at/projekte/tekave/).
