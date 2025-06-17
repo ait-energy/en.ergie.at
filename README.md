@@ -268,7 +268,7 @@ be done as `wissen(fix): language`, pure typos as `daten(fix): type`.
 
 This also relates to "pure files", like the Impressum --- tag this with `impressum: add note on X`.
 
-### Publishing
+## Publishing
 
 If you want your changes to be included in the live version of this page (most likely), then tag a new release --- or if
 you do not have the proper rights for that let someone tag it for you --- after your PR has been reviewed and merged
