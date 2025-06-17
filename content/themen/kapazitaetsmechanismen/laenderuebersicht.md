@@ -538,7 +538,9 @@ Die Hauptauktion des italienischen Kapazitätsmarkts für das Lieferjahr 2022 fa
 
 {{< /timeline >}}
 
-- Weitere UK Auktionsergebnisse & Informationen finden sie <a href="https://www.emrdeliverybody.com/CM/Capacity%20Auction%20Information_deleted.aspx" target="_blank" rel="noopener noreferrer">hier</a>.
+### Anderweitige Informationen
+
+- Weitere UK Auktionsergebnisse & Informationen sind auf [emrdeliverybody.com](https://www.emrdeliverybody.com/CM/Capacity%20Auction%20Information_deleted.aspx) verfügbar.
 
 <div class="footnotes" role="doc-endnotes">
   <hr>
