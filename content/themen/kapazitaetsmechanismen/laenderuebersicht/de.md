@@ -22,7 +22,7 @@ Alle Reserven werden ausschließlich für die Wintersaison beschafft und nur akt
 das heißt, wenn das Angebot nicht ausreicht, um die Nachfrage zu decken.
 Der Markt gilt als nicht geräumt, wenn an den Strombörsen - im Day-Ahead- oder im Intraday-Markt (bei den Auktionen,
 oder während des kontinuierlichen Intraday-Handels im Tagesverlauf) - die Nachfrage am technischen Preislimit innerhalb einer
-Stunde nicht vollständig durch Angebote zur Erzeugung gedeckt werden [^StateAid_DE_SR].
+Stunde nicht vollständig durch Angebote zur Erzeugung gedeckt wird [^StateAid_DE_SR].
 Um die Kapazitätsreserve in der gesetzlich angestrebten Höhe von
 2&nbsp;GW zu bilden, führen die verantwortlichen Übertragungsnetzbetreiber (ÜNB) alle zwei Jahre einen gemeinsamen
 Beschaffungsprozess durch [^1] [^KapResV].
