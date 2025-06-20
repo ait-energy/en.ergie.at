@@ -67,8 +67,8 @@ regelbaren Lasten) offen, sofern sie bestimmte technische Anforderungen erfülle
 - bei regelbaren Lasten eine konstante und unterbrechungsfreie Leistungsaufnahme mindestens in Höhe der Gebotsmenge
 - bei Erzeugungsanlagen und Speichern eine Mindestteillast von maximal 50&nbsp;% der Gebotsmenge.
 
-Anlagen, die in der Kapazitätsreserve gebunden sind, sollten nach Möglichkeit auch die Funktion der Netzreserve übernehmen. Befinden sich die Anlagen in netztechnisch geeigneten Regionen, werden sie von den Übertragungsnetzbetreibern auch bei Bedarf für die Systemsicherheit aufgrund von Netzengpässen angefordert [^netztransparenz_de_SR].
-Kraftwerke dürfen nicht mehr aktiv am Strommarkt teilnehmen und können ihre Leistung nur auf Signal der Übertragungsnetzbetreiber erhöhen. Anlagen können jedoch nur einige Jahre in der Reserve verbleiben, bevor sie geschlossen werden müssen, um sicherzustellen, dass die Reserve vom restlichen Markt isoliert bleibt. Dies bedeutet, dass Anlagen nach dem Austritt aus der Kapazitätsreserve stillgelegt werden müssen, obwohl dies nicht für Lasten (Stromverbraucher) in der Kapazitätsreserve gilt [^2]. Dies macht die Teilnahme an der Reserve unattraktiv, was die Markteffizienz verringern und den Wettbewerb bei der Kapazitätsbeschaffung verschlechtern könnte. Anlagen können mehrmals am Beschaffungsprozess für die Kapazitätsreserve teilnehmen [^2].
+Anlagen, die in der Kapazitätsreserve gebunden sind, sollten nach Möglichkeit auch die Funktion der Netzreserve übernehmen. Befinden sich die Anlagen in netztechnisch geeigneten Regionen, werden sie von den <abbr title="Übertragungsnetzbetreibern">ÜNBs</abbr> auch bei Bedarf für die Systemsicherheit aufgrund von Netzengpässen angefordert [^netztransparenz_de_SR].
+Kraftwerke dürfen nicht mehr aktiv am Strommarkt teilnehmen und können ihre Leistung nur auf Signal der <abbr title="Übertragungsnetzbetreiber">ÜNBs</abbr> erhöhen. Anlagen können jedoch nur einige Jahre in der Reserve verbleiben, bevor sie geschlossen werden müssen, um sicherzustellen, dass die Reserve vom restlichen Markt isoliert bleibt. Dies bedeutet, dass Anlagen nach dem Austritt aus der Kapazitätsreserve stillgelegt werden müssen, obwohl dies nicht für Lasten (Stromverbraucher) in der Kapazitätsreserve gilt [^2]. Dies macht die Teilnahme an der Reserve unattraktiv, was die Markteffizienz verringern und den Wettbewerb bei der Kapazitätsbeschaffung verschlechtern könnte. Anlagen können mehrmals am Beschaffungsprozess für die Kapazitätsreserve teilnehmen [^2].
 
 ## Auktionsergebnisse
 
@@ -134,4 +134,4 @@ Der Markt-Clearing-Preis betrug 68.000&nbsp;€/MW/a. Die bezuschlagten Bieter w
 
 [^KapResV]: [Verordnung zur Regelung des Verfahrens der Beschaffung, des Einsatzes und der Abrechnung einer Kapazitätsreserve<br> (gesetze-im-internet.de)](https://www.gesetze-im-internet.de/kapresv/BJNR005800019.html)
 
-[^StateAid_DE_SR]: [SA.45852 - 2017/C (ex 2017/N) [which Germany is planning to implement for Capacity Reserve]<br>(Europäische Kommission)](https://ec.europa.eu/competition/state_aid/cases/269083/269083_1983030_171_13.pdf)
+[^StateAid_DE_SR]: [SA.45852 - 2017/C (ex 2017/N)<br>(Europäische Kommission)](https://ec.europa.eu/competition/state_aid/cases/269083/269083_1983030_171_13.pdf)
