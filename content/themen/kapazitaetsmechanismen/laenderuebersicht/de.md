@@ -21,7 +21,7 @@ Weiters diskutiert die deutsche Bundesregierung den Einsatz der Strategischen Re
 Alle Reserven werden ausschließlich für die Wintersaison beschafft und nur aktiviert, wenn der Markt nicht geräumt wird,
 das heißt, wenn das Angebot nicht ausreicht, um die Nachfrage zu decken.
 Der Markt gilt als nicht geräumt, wenn an den Strombörsen - im Day-Ahead- oder im Intraday-Markt (bei den Auktionen,
-oder während des kontinuierlichen Intraday-Handels im Tagesverlauf) - Nachfrage am technischen Preislimit innerhalb einer
+oder während des kontinuierlichen Intraday-Handels im Tagesverlauf) - die Nachfrage am technischen Preislimit innerhalb einer
 Stunde nicht vollständig durch Angebote zur Erzeugung gedeckt werden [^StateAid_DE_SR].
 Um die Kapazitätsreserve in der gesetzlich angestrebten Höhe von
 2&nbsp;GW zu bilden, führen die verantwortlichen Übertragungsnetzbetreiber (ÜNB) alle zwei Jahre einen gemeinsamen
