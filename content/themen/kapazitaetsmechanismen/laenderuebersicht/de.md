@@ -18,41 +18,99 @@ Weiters diskutiert die deutsche Bundesregierung den Einsatz der Strategischen Re
 
 ### Ausschreibung
 
-Alle Reserven werden ausschließlich für die Wintersaison beschafft und nur im Falle eines Strommangels aktiviert, d.h. wenn der Spotpreis die Preisobergrenze erreicht. Um die Kapazitätsreserve zu bilden, führen die verantwortlichen Übertragungsnetzbetreiber (ÜNB) alle zwei Jahre einen gemeinsamen Beschaffungsprozess durch [^1].
+Alle Reserven werden ausschließlich für die Wintersaison beschafft und nur aktiviert, wenn der Markt nicht geräumt wird,
+das heißt, wenn das Angebot nicht ausreicht, um die Nachfrage zu decken.
+Der Markt gilt als nicht geräumt, wenn an den Strombörsen - im Day-Ahead- oder im Intraday-Markt (bei den Auktionen,
+oder während des kontinuierlichen Intraday-Handels im Tagesverlauf) - die Nachfrage am technischen Preislimit innerhalb einer
+Stunde nicht vollständig durch Angebote zur Erzeugung gedeckt wird [^StateAid_DE_SR].
+Um die Kapazitätsreserve in der gesetzlich angestrebten Höhe von
+2&nbsp;GW zu bilden, führen die verantwortlichen Übertragungsnetzbetreiber (ÜNB) alle zwei Jahre einen gemeinsamen
+Beschaffungsprozess durch [^1] [^KapResV].
 
 ### Vergütung
 
-Die Anlagen in der Reserve erhalten eine jährliche Vergütung, die im Beschaffungsprozess des <abbr title="Übertragungsnetzbetreiber">ÜNB</abbr> festgelegt wird. Diese Vergütung soll die folgenden Kosten decken [^2]:
+Die Anlagen in der Reserve erhalten eine jährliche Vergütung, die im Beschaffungsprozess des <abbr title="Übertragungsnetzbetreiber">ÜNB</abbr> festgelegt wird. Diese Vergütung soll die folgenden Kosten decken
+[^2] [^KapResV]:
 
-- Wartung der Anlage
+- Vorhaltung der Anlage
 - Anlaufvorgänge gemäß anderen gesetzlichen Vorschriften
 - Wartung
 - Verbesserungen
 - Eigenstromverbrauch der Anlage
 - Abschreibungen
+- Bis zu 16 Einsätze in der Kapazitätsreserve pro Vertragsjahr mit einer Dauer des Abrufs von jeweils bis zu 12 Stunden
+- Personalkosten
+- Start- und betriebsstundenunabhängige Instandhaltungskosten
+- Kosten für die Brennstofflagerungsinfrastruktur sowie Kosten für die Gastransportkapazität.
 
-Separat vergütet werden [^2]:
+Separat vergütet werden [^2] [^KapResV]:
 
 - Einspeisung, die innerhalb der Kapazitätsreserve oder Netzreserve angefordert wird
 - Variable Wartungskosten für Einspeisung innerhalb der Netzreserve
 - Sicherstellung der Brennstoffversorgung
 - Kosten, die durch zusätzliche Anforderungen des <abbr title="Übertragungsnetzbetreiber">ÜNB</abbr> entstehen (zur Herstellung der Schwarzstartfähigkeit oder Blindleistungseinspeisung ohne Wirkleistungseinspeisung)
 
-Die Kosten der Kapazitätsreserve werden über die Netzentgelte weitergegeben [^2].
+Die Kosten der Kapazitätsreserve werden über die Netzentgelte weitergegeben&nbsp;[^2].
+
+Standardbedingungen regeln die Bedingungen, unter denen ein Vertrag zwischen einem Übertragungsnetzbetreiber und einem
+Betreiber einer Kapazitätsreserveanlage nach einer Ausschreibung abgeschlossen wird [^1].
 
 ### Teilnahme
 
- Die Reserve ermöglicht sowohl thermische Produktion als auch Nachfragesteuerung. Standardbedingungen regeln die Bedingungen, unter denen ein Vertrag zwischen einem Übertragungsnetzbetreiber und einem Betreiber einer Kapazitätsreserveanlage nach einer Ausschreibung abgeschlossen wird [^1]. Das Ausschreibungsverfahren steht allen Arten von inländischen Kapazitätsanbietern (Erzeugungsanlagen, Speichern und regelbaren Lasten) offen, sofern sie bestimmte technische Anforderungen erfüllen [^3]:
+Das Ausschreibungsverfahren steht allen Arten von inländischen Kapazitätsanbietern (Erzeugungsanlagen, Speichern und
+regelbaren Lasten) offen, sofern sie bestimmte technische Anforderungen erfüllen [^3]:
 
 - Netzanschluss im Bundesgebiet mit einer Nennspannung >= 110 kV
 - Anfahrtszeit von maximal 12 Stunden
 - Erfüllung der informationstechnischen und organisatorischen Anforderungen für die Erbringung von Minutenreserveleistung
-- Anpassung der Wirkleistungseinspeisung oder des Wirkleistungsbezugs ab dem Zeitpunkt des Abrufs um mindestens je 30 % der Reserveleistung innerhalb von 15 Minuten
+- Anpassung der Wirkleistungseinspeisung oder des Wirkleistungsbezugs ab dem Zeitpunkt des Abrufs um mindestens je 30&nbsp;% der Reserveleistung innerhalb von 15 Minuten
 - bei regelbaren Lasten eine konstante und unterbrechungsfreie Leistungsaufnahme mindestens in Höhe der Gebotsmenge
-- bei Erzeugungsanlagen und Speichern eine Mindestteillast von maximal 50 % der Gebotsmenge.
+- bei Erzeugungsanlagen und Speichern eine Mindestteillast von maximal 50&nbsp;% der Gebotsmenge.
 
-Anlagen, die in der Kapazitätsreserve gebunden sind, sollten nach Möglichkeit auch die Funktion der Netzreserve übernehmen. Befinden sich die Anlagen in netztechnisch geeigneten Regionen, werden sie von den Übertragungsnetzbetreibern auch bei Bedarf für die Systemsicherheit aufgrund von Netzengpässen angefordert [^netztransparenz_de_SR].
-Kraftwerke dürfen nicht mehr aktiv am Strommarkt teilnehmen und können ihre Leistung nur auf Signal der Übertragungsnetzbetreiber erhöhen. Anlagen können jedoch nur einige Jahre in der Reserve verbleiben, bevor sie geschlossen werden müssen, um sicherzustellen, dass die Reserve vom restlichen Markt isoliert bleibt. Dies bedeutet, dass Anlagen nach dem Austritt aus der Kapazitätsreserve stillgelegt werden müssen, obwohl dies nicht für Lasten (Stromverbraucher) in der Kapazitätsreserve gilt [^2]. Dies macht die Teilnahme an der Reserve unattraktiv, was die Markteffizienz verringern und den Wettbewerb bei der Kapazitätsbeschaffung verschlechtern könnte. Anlagen können mehrmals am Beschaffungsprozess für die Kapazitätsreserve teilnehmen [^2].
+Anlagen, die in der Kapazitätsreserve gebunden sind, sollten nach Möglichkeit auch die Funktion der Netzreserve übernehmen. Befinden sich die Anlagen in netztechnisch geeigneten Regionen, werden sie von den <abbr title="Übertragungsnetzbetreibern">ÜNBs</abbr> auch bei Bedarf für die Systemsicherheit aufgrund von Netzengpässen angefordert [^netztransparenz_de_SR].
+Kraftwerke dürfen nicht mehr aktiv am Strommarkt teilnehmen und können ihre Leistung nur auf Signal der <abbr title="Übertragungsnetzbetreiber">ÜNBs</abbr> erhöhen. Anlagen können jedoch nur einige Jahre in der Reserve verbleiben, bevor sie geschlossen werden müssen, um sicherzustellen, dass die Reserve vom restlichen Markt isoliert bleibt. Dies bedeutet, dass Anlagen nach dem Austritt aus der Kapazitätsreserve stillgelegt werden müssen, obwohl dies nicht für Lasten (Stromverbraucher) in der Kapazitätsreserve gilt [^2]. Dies macht die Teilnahme an der Reserve unattraktiv, was die Markteffizienz verringern und den Wettbewerb bei der Kapazitätsbeschaffung verschlechtern könnte. Anlagen können mehrmals am Beschaffungsprozess für die Kapazitätsreserve teilnehmen [^2].
+
+## Auktionsergebnisse
+
+Die Ergebnisse der Ausschreibungen für die Kapazitätsreserve werden auf der Website
+[Netztransparenz.de](https://www.netztransparenz.de/de-de/Systemdienstleistungen/Betriebsfuehrung/Kapazit%C3%A4tsreserve)
+veröffentlicht.  
+{{< timeline >}}
+{{< timelineItem icon="rss" header="Erbringungszeitraum 2024-2026" badge="Auktionsjahr 2023" >}}
+
+In der Auktion 2023 wurden 1.205&nbsp;MW Kapazität für den Erbringungszeitraum 2024-2026 beschafft.
+Der Markt-Clearing-Preis betrug 99.990&nbsp;€/MW/a und lag damit 10&nbsp;€/MW/a unter dem Preislimit von
+100.000&nbsp;€/MW/a. Die bezuschlagten Bieter waren:
+<ul>
+<li>Lausitz Energie Kraftwerke AG</li>
+<li>Statkraft Markets GmbH</li>
+<li>RWE Generation SE</li>
+<li>Air Products GmbH</li>
+</ul>
+{{< /timelineItem >}}
+{{< timelineItem icon="rss" header="Erbringungszeitraum 2022-2024" badge="Auktionsjahr 2021" >}}
+
+In der Auktion 2021 wurden 1.086&nbsp;MW Kapazität für den Erbringungszeitraum 2022-2024 beschafft.
+Der Markt-Clearing-Preis betrug 62.940&nbsp;€/MW/a. Die bezuschlagten Bieter waren:
+<ul>
+<li>Lausitz Energie Kraftwerke AG</li>
+<li>Statkraft Markets GmbH</li>
+<li>RWE Generation SE</li>
+</ul>
+{{< /timelineItem >}}
+{{< timelineItem icon="rss" header="Erbringungszeitraum 2020-2022" badge="Auktionsjahr 2019" >}}
+
+In der Auktion 2019 wurden 1.056&nbsp;MW Kapazität für den Erbringungszeitraum 2020-2022 beschafft.
+Der Markt-Clearing-Preis betrug 68.000&nbsp;€/MW/a. Die bezuschlagten Bieter waren:
+<ul>
+<li>Lausitz Energie Kraftwerke AG</li>
+<li>Statkraft Markets GmbH</li>
+<li>RWE Generation SE</li>
+</ul>
+
+{{< /timelineItem >}}
+
+{{< /timeline >}}
 
 <!-- Fußnoten -->
 
@@ -73,3 +131,7 @@ Kraftwerke dürfen nicht mehr aktiv am Strommarkt teilnehmen und können ihre Le
 [^Frontier_Koalition_DE]: [Versorgungssicherheit Strom. Wie geht es weiter bei Kraftwerksstrategie und Kapazitätsmarkt?<br>(Frontier Economics)](https://media.licdn.com/dms/document/media/v2/D4E1FAQEXU1ZuF_-ybg/feedshare-document-pdf-analyzed/B4EZWyo9paG0Ao-/0/1742458848752?e=1749081600&v=beta&t=zy78TDcjvJlTUhWQiPkTp0kwD1pI0ZWuZS7pCD3IeRw)
 
 [^CDU_CSU_SPD]: [Verantwortung für Deutschland. Koalitionsvertrag zwischen CDU, CSU und SPD. 21. Legislaturperiode<br>(CDU, CSU und SPD)](https://www.cdu.de/app/uploads/2025/04/Koalitionsvertrag-2025-1.pdf)
+
+[^KapResV]: [Verordnung zur Regelung des Verfahrens der Beschaffung, des Einsatzes und der Abrechnung einer Kapazitätsreserve<br> (gesetze-im-internet.de)](https://www.gesetze-im-internet.de/kapresv/BJNR005800019.html)
+
+[^StateAid_DE_SR]: [SA.45852 - 2017/C (ex 2017/N)<br>(Europäische Kommission)](https://ec.europa.eu/competition/state_aid/cases/269083/269083_1983030_171_13.pdf)
