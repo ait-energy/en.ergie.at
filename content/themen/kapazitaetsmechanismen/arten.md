@@ -161,8 +161,7 @@ genehmigt werden [^4] [^5].
 [^1]: [Missing money and missing markets: Reliability, capacity auctions and interconnectors  
 (Newbery, 2016)](https://doi.org/10.1016/j.enpol.2015.10.028)
 
-[^2]: [Svenska kraftnät proposes a future capacity mechanism to ensure resource adequacy in the electricity market
-(Svenska kraftnät)](https://www.svk.se/en/about-us/news/news/svenska-kraftnat-proposes-a-future-capacity-mechanism-to-ensure-resource-adequacy-in-the-electricity-market/)
+[^2]: [A future capacity mechanism to ensure resource adequacy in the electricity market<br>(Svenska kraftnät)](https://www.svk.se/49d7cf/siteassets/om-oss/rapporter/2023/a-future-capacity-mechanism-to-ensure-resource-adequacy-in-the-electricity-market.pdf)
 
 [^3]: [COMMISSION STAFF WORKING DOCUMENT Accompanying the document REPORT FROM THE COMMISSION Final Report of the Sector Inquiry on Capacity Mechanisms<br>Europäische Kommission](https://competition-policy.ec.europa.eu/system/files/2021-09/capacity_mechanism_final_report_swd_en.pdf)
 
