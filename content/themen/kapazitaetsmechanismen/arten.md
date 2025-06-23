@@ -99,26 +99,31 @@ Ein marktweiter Kapazitätsmechanismus ist nicht kosteneffektiv, wenn der Bedarf
 
 </details>
 
-## Vergleich Gezielte vs. Marktweite Mechanismen (ggf. verschieben)
-
+## Vergleich Strategische Reserve vs. Zentraler Kapazitätsmarkt
+Die folgende Tabelle vergleicht die Eigenschaften der strategischen Reserve mit denen eines zentralen Kapazitätsmarktes [^2].
+Diese beiden Optionen wurden ausgewählt, da sie im Rahmen des Streamlining-Prozesses der Europäischen
+Kommission diskutiert werden. Künftig sollen die beiden Zielmodelle zügig genehmigt werden können, sofern bestimmte
+Ausgestaltungskriterien erfüllt sind. Diese "off-the-shelf" Lösungen sind automatisch mit den EU-Richtlinien konform
+und sobald die Ausgestaltungsmerkmale eine vorgegebene Checkliste erfüllen, können sie ohne weitere Diskussionen
+genehmigt werden [^4] [^5].
 <details>
 <summary><strong>Klicken zum Ein-/Ausklappen der Tabelle</strong></summary>
 
 <br>
 
-| **Eigenschaft**                                           | **Gezielter KM (Strategische Reserve)**                                                | **Marktweiter KM**                                                |
+| **Eigenschaft**                                           | **Strategische Reserve**                                                | **Zentraler Kapazitätsmarkt**                                                |
 |-----------------------------------------------------------|-----------------------------------------------------------------------------------------|-------------------------------------------------------------------|
 | Einfluss auf EOM                                          | klein                                                                                   | groß                                                              |
 | Verknüpfung mit dem Strommarkt                            | schwach: ineffiziente Verwendung verfügbarer Ressourcen                                 | stark: effiziente Verwendung verfügbarer Ressourcen               |
 | Verwaltung des Kapazitätsbedarfs                          | Reaktiv: kurzfristige Kapazitätsauktionen mit kurzen Lieferzeiträumen                  | Proaktiv: Kapazitätsauktionen mit langen Lieferzeiträumen        |
-| Genehmigungsprozess bei der EC                            | Schnell                                                                                 | Langsam                                                           |
+| Genehmigungsprozess bei der EC                            | Schnell                                                                                 | Schnell                                                           |
 | Aufwand für den TSO sowie für die Anlagenbetreiber        | Klein                                                                                   | Groß                                                              |
 | Beschaffungsdesign                                        | Geringer Komplexitätsgrad                                                              | Hoher Komplexitätsgrad                                            |
 | Anreize für Neuinvestitionen                              | Niedrig                                                                                 | Hoch                                                              |
 | Konsument:innenschutz                                     | Schwach                                                                                 | Stark                                                             |
 | Effekte auf Marktmacht                                    | Hoch: hoher Anteil an Kapazität, der außerhalb des Marktes gehalten wird               | Niedrig                                                           |
 
-*Tabelle 1: Vergleich von gezielten und marktweiten Kapazitätsmechanismen (basierend auf [^2])*
+
 
 </details>
 
@@ -160,6 +165,10 @@ Ein marktweiter Kapazitätsmechanismus ist nicht kosteneffektiv, wenn der Bedarf
 (Svenska kraftnät)](https://www.svk.se/en/about-us/news/news/svenska-kraftnat-proposes-a-future-capacity-mechanism-to-ensure-resource-adequacy-in-the-electricity-market/)
 
 [^3]: [COMMISSION STAFF WORKING DOCUMENT Accompanying the document REPORT FROM THE COMMISSION Final Report of the Sector Inquiry on Capacity Mechanisms<br>Europäische Kommission](https://competition-policy.ec.europa.eu/system/files/2021-09/capacity_mechanism_final_report_swd_en.pdf)
+
+[^4]: [ENTSO-E Public Workshop on Capacity Mechanisms<br>(entsoe.eu)](https://www.entsoe.eu/events/2025/06/18/entso-e-public-workshop-on-capacity-mechanisms-18-june/)
+
+[^5]: [REPORT FROM THE COMMISSION TO THE EUROPEAN PARLIAMENT AND THE COUNCIL on the assessment of possibilities of streamlining and simplifying the process of applying a capacity mechanism under Chapter IV of Regulation (EU) 2019/943, in accordance with Article 69(3) of Regulation (EU) 2019/943<br>(Europäische Kommission)](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:52025DC0065)
 <!-- #
 
 ## Gezielte Mechanismen: 
