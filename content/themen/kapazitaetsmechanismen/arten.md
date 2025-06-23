@@ -19,23 +19,34 @@ und Ausprägungen von Kapazitätsmechanismen [^3].
 
 ## Gezielte Mechanismen
 
-Belohnen nur bestimmte Technologien. Sie identifizieren die zusätzlich benötigte Kapazität, die über das hinausgeht, was der Markt natürlicherweise bereitstellen würde, und unterstützen nur diese zusätzliche „Top-up“'-Kapazität. Es gibt drei Haupttypen:
+Gezielte Mechanismen belohnen nur bestimmte Technologien. Sie identifizieren die zusätzlich benötigte Kapazität, die über das hinausgeht, was der Markt natürlicherweise bereitstellen würde, und unterstützen diese zusätzliche „Top-up“'-Kapazität. Es gibt drei Haupttypen:
 
 ### 1. Ausschreibung für neue Kapazität
 
-{{< embed_article link="/themen/kapazitaetsmechanismen/arten/ausschreibung_fuer_neue_kapazität" showHeader="false" >}}
+Ausschreibungen für neue Kapazitäten fördern gezielt Investitionen in zusätzliche Kapazität zur Gewährleistung der Versorgungssicherheit.
+Sie ermöglichen eine wettbewerbliche, staatlich gesteuerte Vergabe neuer Projekte – mit Planungssicherheit, klaren
+Vorgaben und stabilen Erlösmodellen. [Mehr Erfahren]({{< relref "arten/ausschreibung_fuer_neue_kapazität.md" >}})
+<!-- {{< embed_article link="/themen/kapazitaetsmechanismen/arten/ausschreibung_fuer_neue_kapazität" showHeader="false" >}} -->
 
 ### 2. Strategische Reserve
-
-{{< embed_article link="/themen/kapazitaetsmechanismen/arten/strategische_reserve" showHeader="false" >}}
+Strategische Reserven dienen der Versorgungssicherheit in Knappheitssituationen und werden außerhalb des Strommarkts vorgehalten.
+Typischerweise befinden sich in einer strategischen Reserve Anlagen, die wirtschaftlich nicht mehr rentabel
+sind und andernfalls bereits stillgelegt worden wären. [Mehr Erfahren]({{< relref "arten/strategische_reserve.md" >}})
+<!-- {{< embed_article link="/themen/kapazitaetsmechanismen/arten/strategische_reserve" showHeader="false" >}} -->
 
 ### 3. Gezielte Kapazitätszahlung
 
-{{< embed_article link="/themen/kapazitaetsmechanismen/arten/gezielte_kapazitaetszahlungen" showHeader="false" >}}
+Gezielte Kapazitätszahlungen setzen auf finanzielle Anreize für bestimmte Anlagen, um spezifische Probleme zu lösen, wie
+etwa die Unterstützung erneuerbarer Energien, die Erleichterung der Schließung von Kohlekraftwerken und die Stärkung der
+Betriebsreserven.
+[Mehr Erfahren]({{< relref "arten/gezielte_kapazitaetszahlungen.md" >}})
+<!-- {{< embed_article link="/themen/kapazitaetsmechanismen/arten/gezielte_kapazitaetszahlungen" showHeader="false" >}} -->
 
 ## Marktweite Mechanismen
 
-Bei einem marktweiten Mechanismus erhalten alle Kapazitäten, die zur Sicherstellung der Versorgungssicherheit notwendig sind, Zahlungen, wobei sowohl bestehende als auch neue Kapazitätsanbieter abgedeckt werden. Dies schafft effektiv einen eigenständigen Markt für 'Kapazität', getrennt vom 'Strommarkt'. Es gibt drei Grundtypen:
+Bei einem marktweiten Mechanismus erhalten alle Kapazitäten, die zur Sicherstellung der Versorgungssicherheit notwendig
+sind, Zahlungen, wobei sowohl bestehende als auch neue Kapazitätsanbieter abgedeckt werden. Dies schafft effektiv einen
+eigenständigen Markt für 'Kapazität', getrennt vom 'Strommarkt'. Es gibt drei Grundtypen:
 
 ### 1. Zentraler Käufer
 
@@ -47,7 +58,14 @@ Stromlieferanten/Händler sind verpflichtet, Verträge mit Kapazitätsanbietern 
 
 ### 3. Kombinierter Kapazitätsmarkt
 
-{{< embed_article link="/themen/kapazitaetsmechanismen/arten/kombinierter_KM.md" showHeader="false" >}}
+Der kombinierte Kapazitätsmarkt (<abbr title="Kombinierter Kapazitätsmarkt">KKM</abbr>) ist ein vorgeschlagener
+Mechanismus zur Gewährleistung der Versorgungssicherheit, der Elemente des
+[zentralen]({{< ref "marktweit_zentraler_kaeufer.md" >}}) und
+[dezentralen]({{< ref "marktweit_dezentraler_kaeufer.md" >}}) Kapazitätsmarkts verbindet.
+Ziel ist es durch Kombination der Vorteile beider Einzelansätze, sowohl langfristige Investitionsanreize für neue
+steuerbare Kapazitäten zu schaffen, als auch das dezentrale Wissen der Stromnachfrageseite zu nutzen, um Systemeffizienz
+und Anpassungsfähigkeit zu erhöhen. [Mehr Erfahren]({{< relref "arten/kombinierter_km.md" >}})
+<!--{{< embed_article link="/themen/kapazitaetsmechanismen/arten/kombinierter_KM.md" showHeader="false" >}}-->
 
 ### 4. Marktweite Kapazitätszahlung
 
