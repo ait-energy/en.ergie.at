@@ -495,7 +495,7 @@ Die Y-4-Kapazitätsauktion für das Lieferjahr 2024/2025 im irischen Strommarkt 
 </div>
 
 <div style="border-left: 4px solid #999999; padding-left: 1em; margin-bottom: 1.5em;">
-  <a href="https://www.emrdeliverybody.com/Capacity%20Markets%20Document%20Library/Final%20Results%20T-1%20Auction%20DY20-21.pdf"><b>Bericht: <u>T-1 Auktion für die Lieferperiode 2020–2021</u></b></a>
+  <a href="https://www.emrdeliverybody.com/Capacity%20Markets%20Document%20Library/Final%20Results%20T-1%20Auction%20DY20-21.pdf"><b>Bericht: <u>Y-1 Auktion für die Lieferperiode 2020–2021</u></b></a>
   <br>
   <details>
     <summary><span style="cursor: pointer; font-weight: 500;">Zusammenfassung anzeigen</span></summary><i>
@@ -503,6 +503,20 @@ Die Y-4-Kapazitätsauktion für das Lieferjahr 2024/2025 im irischen Strommarkt 
     </i>
   </details>
 </div>
+
+{{< /timelineItem >}}
+
+{{< timelineItem icon="rss" header="Polen" badge="Auktionsjahr 2020" >}}
+
+<div style="border-left: 4px solid #999999; padding-left: 1em; margin-bottom: 1.5em;">
+<a href="https://raport2020.pse.pl/en/" target="_blank"><b>Bericht: <u>Impact Report 2021 – Polskie Sieci Elektroenergetyczne</u></b></a>
+<br>
+<details>
+<summary><span style="cursor: pointer; font-weight: 500;">Zusammenfassung anzeigen</span></summary><i>
+In der Hauptauktion vom 14. Dezember 2020 für das Lieferjahr 2025 wurden Kapazitätsverträge über <b>2.367&nbsp;MW</b> abgeschlossen. Der Schlusspreis betrug <b>172,85&nbsp;PLN/kW/Jahr</b>. Insgesamt wurden <b>55 Kapazitätsmarkteinheiten</b> bezuschlagt. Verträge mit einjähriger Laufzeit machten den Großteil aus (47), hinzu kamen einzelne mehrjährige Verpflichtungen, darunter je ein Vertrag mit sieben und fünfzehn Jahren Laufzeit sowie sechs Verträge mit verkürzter Laufzeit bis Mitte 2025, <b>da für diese Einheiten keine Erklärung abgegeben wurde, dass sie die Emissionsgrenzwerte gemäß Artikel&nbsp;22 der EU-Verordnung 2019/943 erfüllen oder bis zum Lieferjahr erfüllen werden</b>. Die Auktion endete in der siebten Runde. Eine technologiebezogene Aufschlüsselung der Zuschläge wurde von der Regulierungsbehörde nicht veröffentlicht.
+</i></details>
+</div> 
+
 {{< /timelineItem >}}
 
 {{< /timeline >}}
