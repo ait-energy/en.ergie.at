@@ -13,8 +13,9 @@ Um ausreichende Kapazitäten für eine zuverlässige Stromversorgung sicherzuste
 Wir arbeiten gerade an diesem Artikel. Informationen können unvollständig oder teilweise inkorrekt sein. Fehler oder fehlende Details kannst Du direkt per [GitHub Issue melden](https://github.com/ait-energy/en.ergie.at/issues).
 {{< /alert >}}
 
+Die nachfolgende Grafik vermittelt eine Übersicht über die unterschiedlichen Arten
+und Ausprägungen von Kapazitätsmechanismen [^3].
 ![Übersicht der Kapazitätsmechanismen](/images/arten/uebersicht_kapazitaetsmechanismen.jpg)
-*Quelle: [Übersicht der Kapazitätsmechanismen]*
 
 ## Gezielte Mechanismen
 
@@ -136,6 +137,7 @@ Ein marktweiter Kapazitätsmechanismus ist nicht kosteneffektiv, wenn der Bedarf
 [^2]: [Svenska kraftnät proposes a future capacity mechanism to ensure resource adequacy in the electricity market
 (Svenska kraftnät)](https://www.svk.se/en/about-us/news/news/svenska-kraftnat-proposes-a-future-capacity-mechanism-to-ensure-resource-adequacy-in-the-electricity-market/)
 
+[^3]: [COMMISSION STAFF WORKING DOCUMENT Accompanying the document REPORT FROM THE COMMISSION Final Report of the Sector Inquiry on Capacity Mechanisms<br>Europäische Kommission](https://competition-policy.ec.europa.eu/system/files/2021-09/capacity_mechanism_final_report_swd_en.pdf)
 <!-- #
 
 ## Gezielte Mechanismen: 
