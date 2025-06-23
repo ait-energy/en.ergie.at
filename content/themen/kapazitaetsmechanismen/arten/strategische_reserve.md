@@ -15,13 +15,24 @@ Wir arbeiten gerade an diesem Artikel. Informationen können unvollständig oder
 
 ## Beschreibung
 
-Strategische Reserven sind Kapazitätsmechanismen, die gezielt außerhalb des regulären Strommarktes vorgehalten werden, um die Versorgungssicherheit in Extremsituationen zu gewährleisten. Im Gegensatz zu marktbasierten Mechanismen wie Kapazitätsausschreibungen werden strategische Reserven nur in Ausnahmesituationen aktiviert – typischerweise bei drohendem Strommangel oder wenn der Spotmarktpreis seine festgelegte Obergrenze erreicht.
+Strategische Reserven sind Kapazitätsmechanismen, die gezielt außerhalb des regulären Strommarktes vorgehalten werden,
+um die Versorgungssicherheit in Knappheitssituationen zu gewährleisten. Strategische Reserven werden nur in
+Ausnahmesituationen aktiviert – typischerweise beidrohendem Strommangel oder wenn der Spotmarktpreis seine festgelegte
+Obergrenze erreicht.
 
-Die Beschaffung dieser Reserve erfolgt meist im Rahmen regulärer Ausschreibungen. Teilnahmeberechtigt sind unterschiedliche Technologien wie thermische Kraftwerke, Speicher oder Nachfragesteuerung (Demand Response), sofern sie bestimmte technische Anforderungen erfüllen – beispielsweise in Bezug auf Verfügbarkeit, Anfahrtszeit oder Mindestleistung.
+Die Beschaffung dieser Reserve erfolgt meist im Rahmen regulärer Ausschreibungen. Teilnahmeberechtigt sind
+unterschiedliche Technologien wie thermische Kraftwerke, Speicher oder Nachfragesteuerung (Demand Response), sofern sie
+bestimmte technische Anforderungen erfüllen – beispielsweise in Bezug auf Verfügbarkeit, Anfahrtszeit oder Mindestleistung.
 
-Teilnehmer erhalten in der Regel eine feste Kapazitätsvergütung, um ihre Betriebsbereitschaft sicherzustellen. Im Aktivierungsfall erfolgt eine zusätzliche Vergütung, die tatsächliche Einsatzkosten (z. B. Brennstoffe, Anfahrprozesse) abdeckt. Die Finanzierung dieser Mechanismen erfolgt häufig über Netzentgelte oder spezielle Umlagen.
+Teilnehmer erhalten in der Regel eine feste Kapazitätsvergütung, um ihre Betriebsbereitschaft sicherzustellen. Im
+Aktivierungsfall erfolgt eine zusätzliche Vergütung, die tatsächliche Einsatzkosten (z. B. Brennstoffe, Anfahrprozesse)
+abdeckt. Die Finanzierung dieser Mechanismen erfolgt häufig über Netzentgelte oder spezielle Umlagen.
 
-Ein zentrales Merkmal strategischer Reserven ist ihre Marktunabhängigkeit: Einheiten in der Reserve dürfen üblicherweise nicht parallel am Strommarkt teilnehmen. Dies soll Wettbewerbsverzerrungen verhindern, schränkt aber auch die Wirtschaftlichkeit und Attraktivität der Teilnahme ein. Zudem sind strategische Reserven oft zeitlich befristet, um ihre Rolle als Ausnahmemechanismus zu betonen.
+Ein wesentliches Merkmal strategischer Reserven ist ihre strikte Trennung vom Strommarkt: Die in der Reserve eingesetzten
+Einheiten dürfen in der Regel nicht gleichzeitig am Strommarkt teilnehmen. Dies soll Wettbewerbsverzerrungen verhindern,
+schränkt aber auch
+die Wirtschaftlichkeit und Attraktivität der Teilnahme ein. Zudem sind strategische Reserven oft zeitlich befristet, um 
+ihre Rolle als Ausnahmemechanismus zu betonen.
 
 Als Instrument der letzten Instanz dienen strategische Reserven der Sicherstellung von Systemstabilität und sind besonders in liberalisierten Strommärkten relevant, in denen Kapazitätsengpässe bei hoher Nachfrage oder sinkender konventioneller Erzeugung auftreten können.
 
