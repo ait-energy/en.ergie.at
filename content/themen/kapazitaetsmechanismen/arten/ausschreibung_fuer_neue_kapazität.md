@@ -4,7 +4,9 @@ topics: []
 authors: ["afischer"]
 ---
 
-Ausschreibungen für neue Kapazitäten fördern gezielt Investitionen in Versorgungssicherheit. Sie ermöglichen eine wettbewerbliche, staatlich gesteuerte Vergabe neuer Projekte – mit Planungssicherheit, klaren Vorgaben und stabilen Erlösmodellen.
+Ausschreibungen für neue Kapazitäten fördern gezielt Investitionen in zusätzliche Kapazität zur Gewährleistung der Versorgungssicherheit.
+Sie ermöglichen eine wettbewerbliche, staatlich gesteuerte Vergabe neuer Projekte – mit Planungssicherheit, klaren
+Vorgaben und stabilen Erlösmodellen.
 
 <!-- more -->
 
