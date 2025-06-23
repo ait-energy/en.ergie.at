@@ -51,9 +51,13 @@ Stromlieferanten/Händler sind verpflichtet, Verträge mit Kapazitätsanbietern 
 
 ### 4. Marktweite Kapazitätszahlung
 
-Ein zentral festgelegter Kapazitätspreis, basierend auf Schätzungen, die erforderlich sind, um eine ausreichende Gesamtkapazität zu gewährleisten, wird an alle Kapazitätsanbieter des Marktes gezahlt.
+Allen Kapazitätsanbietern im Markt wird ein einheitlicher Preis gezahlt, der zentral festgelegt wird
+und auf Schätzungen zur Sicherstellung einer ausreichenden Gesamtkapazität für die Versorgungssicherheit basiert.
 
-Die Modelle des zentralen Käufers und der dezentralen Verpflichtung sind volumenbasiert und legen die erforderliche Kapazitätsmenge im Voraus fest, wobei die Preise durch den Markt bestimmt werden. Das Modell der marktweiten Kapazitätszahlung ist preisbasiert und legt den Kapazitätspreis im Voraus fest, wobei die Kapazitätsmenge variabel und auf die Marktreaktion basierend ist.
+Die Modelle des zentralen Käufers und der dezentralen Verpflichtung sind volumenbasiert und legen die erforderliche
+Kapazitätsmenge im Voraus fest, wobei die Preise durch den Markt bestimmt werden. Das Modell der marktweiten
+Kapazitätszahlung ist preisbasiert und legt den Kapazitätspreis im Voraus fest, wobei die Kapazitätsmenge variabel und
+auf die Marktreaktion basierend ist.
 
 <details>
 <summary><strong>Analyse Marktweiter Mechanismen (ein-/ausklappen)</strong></summary>
