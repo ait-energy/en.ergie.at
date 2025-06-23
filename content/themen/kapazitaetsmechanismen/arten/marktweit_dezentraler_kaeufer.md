@@ -1,5 +1,5 @@
 ---
-title: "Marktweiter Kapazitätsmechanismus mit dezentralem Käufer"
+title: "Marktweiter Kapazitätsmechanismus mit dezentraler Verpflichtung"
 topics: []
 authors: ["afischer"]
 ---
