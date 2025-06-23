@@ -4,7 +4,13 @@ topics: []
 authors: ["afischer"]
 ---
 
-Der kombinierte Kapazitätsmarkt (<abbr title="Kombinierte Kapazitätsmechanismus">KKM</abbr>) ist ein vorgeschlagener Mechanismus zur Sicherstellung der Versorgungssicherheit, der Elemente [zentraler]({{< ref "marktweit_zentraler_kaeufer.md" >}}) und des [dezentraler]({{< ref "marktweit_dezentraler_kaeufer.md" >}}) Kapazitätsmechanismen verbindet. Ziel ist es durch Kombination der Vorteile beides Einzelansätze, sowohl langfristige Investitionsanreize für neue steuerbare Kapazitäten zu schaffen als auch das dezentrale Wissen der Stromnachfrageseite zu nutzen, um Systemeffizienz und Anpassungsfähigkeit zu erhöhen.
+Der kombinierte Kapazitätsmarkt (<abbr title="Kombinierter Kapazitätsmarkt">KKM</abbr>) ist ein vorgeschlagener
+Mechanismus zur Gewährleistung der Versorgungssicherheit, der Elemente des
+[zentralen]({{< ref "marktweit_zentraler_kaeufer.md" >}}) und
+[dezentralen]({{< ref "marktweit_dezentraler_kaeufer.md" >}}) Kapazitätsmarkts verbindet.
+Ziel ist es durch Kombination der Vorteile beider Einzelansätze, sowohl langfristige Investitionsanreize für neue
+steuerbare Kapazitäten zu schaffen, als auch das dezentrale Wissen der Stromnachfrageseite zu nutzen, um Systemeffizienz
+und Anpassungsfähigkeit zu erhöhen.
 
 ## Beschreibung
 
