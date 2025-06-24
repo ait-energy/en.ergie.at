@@ -31,7 +31,7 @@ Vorgaben und stabilen Erlösmodellen. [Mehr erfahren]({{< relref "arten/ausschre
 ### 2. Strategische Reserve
 Strategische Reserven dienen der Versorgungssicherheit in Knappheitssituationen und werden außerhalb des Strommarkts vorgehalten.
 Typischerweise befinden sich in einer strategischen Reserve Anlagen, die wirtschaftlich nicht mehr rentabel
-sind und andernfalls bereits stillgelegt worden wären. [Mehr Erfahren]({{< relref "arten/strategische_reserve.md" >}})
+sind und andernfalls bereits stillgelegt worden wären. [Mehr erfahren]({{< relref "arten/strategische_reserve.md" >}})
 <!-- {{< embed_article link="/themen/kapazitaetsmechanismen/arten/strategische_reserve" showHeader="false" >}} -->
 
 ### 3. Gezielte Kapazitätszahlung
