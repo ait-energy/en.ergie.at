@@ -17,7 +17,7 @@ Wir arbeiten gerade an diesem Artikel. Informationen können unvollständig oder
 
 Strategische Reserven sind Kapazitätsmechanismen, die gezielt außerhalb des regulären Strommarktes vorgehalten werden,
 um die Versorgungssicherheit in Knappheitssituationen zu gewährleisten. Strategische Reserven werden nur in
-Ausnahmesituationen aktiviert – typischerweise beidrohendem Strommangel oder wenn der Spotmarktpreis seine festgelegte
+Ausnahmesituationen aktiviert – typischerweise bei drohendem Strommangel oder wenn der Spotmarktpreis seine festgelegte
 Obergrenze erreicht.
 
 Die Beschaffung dieser Reserve erfolgt meist im Rahmen regulärer Ausschreibungen. Teilnahmeberechtigt sind
