@@ -4,7 +4,7 @@ topics: []
 authors: ["afischer"]
 ---
 
-Der kombinierte Kapazitätsmarkt (<abbr title="Kombinierter Kapazitätsmarkt">KKM</abbr>) ist ein vorgeschlagener
+Der kombinierte Kapazitätsmarkt (<abbr title="Kombinierter Kapazitätsmarkt">KKM</abbr>) ist ein theoretischer
 Mechanismus zur Gewährleistung der Versorgungssicherheit, der Elemente des
 [zentralen]({{< ref "marktweit_zentraler_kaeufer.md" >}}) und
 [dezentralen]({{< ref "marktweit_dezentraler_kaeufer.md" >}}) Kapazitätsmarkts verbindet.
