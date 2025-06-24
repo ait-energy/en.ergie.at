@@ -19,7 +19,7 @@ und Ausprägungen von Kapazitätsmechanismen [^3].
 
 ## Gezielte Mechanismen
 
-Gezielte Mechanismen belohnen nur bestimmte Technologien. Sie identifizieren die zusätzlich benötigte Kapazität, die über das hinausgeht, was der Markt natürlicherweise bereitstellen würde, und unterstützen diese zusätzliche „Top-up“'-Kapazität. Es gibt drei Haupttypen:
+Gezielte Mechanismen belohnen nur bestimmte Technologien. Sie identifizieren die zusätzlich benötigte Kapazität, die über das hinausgeht, was der Markt natürlicherweise bereitstellen würde, und unterstützen diese zusätzliche "Top-up"-Kapazität. Es gibt drei Haupttypen:
 
 ### 1. Ausschreibung für neue Kapazität
 
@@ -74,8 +74,8 @@ und auf Schätzungen zur Sicherstellung einer ausreichenden Gesamtkapazität fü
 
 Die Modelle des zentralen Käufers und der dezentralen Verpflichtung sind volumenbasiert und legen die erforderliche
 Kapazitätsmenge im Voraus fest, wobei die Preise durch den Markt bestimmt werden. Das Modell der marktweiten
-Kapazitätszahlung ist preisbasiert und legt den Kapazitätspreis im Voraus fest, wobei die Kapazitätsmenge variabel und
-auf die Marktreaktion basierend ist.
+Kapazitätszahlung ist preisbasiert und legt den Kapazitätspreis im Voraus fest, wobei die Kapazitätsmenge variabel ist und
+auf der Marktreaktion basiert.
 
 <details>
 <summary><strong>Analyse Marktweiter Mechanismen (ein-/ausklappen)</strong></summary>
@@ -120,10 +120,8 @@ genehmigt werden [^4] [^5].
 | Aufwand für den TSO sowie für die Anlagenbetreiber        | Klein                                                                                   | Groß                                                              |
 | Beschaffungsdesign                                        | Geringer Komplexitätsgrad                                                              | Hoher Komplexitätsgrad                                            |
 | Anreize für Neuinvestitionen                              | Niedrig                                                                                 | Hoch                                                              |
-| Konsument:innenschutz                                     | Schwach                                                                                 | Stark                                                             |
+| Konsumentenschutz                                     | Schwach                                                                                 | Stark                                                             |
 | Effekte auf Marktmacht                                    | Hoch: hoher Anteil an Kapazität, der außerhalb des Marktes gehalten wird               | Niedrig                                                           |
-
-
 
 </details>
 
