@@ -46,7 +46,7 @@ Betriebsreserven.
 
 Bei einem marktweiten Mechanismus erhalten alle Kapazitäten, die zur Sicherstellung der Versorgungssicherheit notwendig
 sind, Zahlungen, wobei sowohl bestehende als auch neue Kapazitätsanbieter abgedeckt werden. Dies schafft effektiv einen
-eigenständigen Markt für 'Kapazität', getrennt vom 'Strommarkt'. Es gibt drei Grundtypen:
+vom Strommarkt getrennten, eigenständigen Markt für Kapazität. Es gibt drei Grundtypen:
 
 ### 1. Zentraler Käufer
 
