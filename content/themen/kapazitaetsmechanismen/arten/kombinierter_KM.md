@@ -29,17 +29,16 @@ Der kombinierte Kapazitätsmarkt versucht die Stärken zentraler und dezentraler
 
 - **Anpassungsfähigkeit und Innovationsoffenheit:** Durch die Verpflichtung zur Selbsterfüllung im <abbr title="Dezentrales Segment des kombinierten Kapazitätsmarktes">KKM-D</abbr> entstehen marktorientierte Anreize zur Entwicklung dezentraler Flexibilitätsoptionen, ohne zentrale Planung oder Förderung[^1].
 
-- **Investitionssicherheit:** Langfristige Verträge im <abbr title="Zentrales Segment des kombinierten Kapazitätsmarktes">KKM-Z</abbr> lösen das Problem der Fristeninkongruenz, das bei rein dezentralen Märkten besteht. Besonders für kapitalintensive Kraftwerke ist dies entscheidend[^2] [^3].
-- **Anpassungsfähigkeit und Innovationsoffenheit:** Durch die Verpflichtung zur Selbsterfüllung im <abbr title="Dezentrales Segment des kombinierten Kapazitätsmarktes">KKM-D</abbr> entstehen marktorientierte Anreize zur Entwicklung dezentraler Flexibilitätsoptionen, ohne zentrale Planung oder Förderung[^1].
 - **Kostenverteilung:** Während der <abbr title="Zentrales Segment des kombinierten Kapazitätsmarktes">KKM-Z</abbr> über Umlagen finanziert wird, erfolgt im <abbr title="Dezentrales Segment des kombinierten Kapazitätsmarktes">KKM-D</abbr> die Finanzierung direkt über den Markt, was eine weitgehend selbsttragende Struktur begünstigt[^1] [^2].
+
+**Schwächen:**
 
 - **Preis- und Mengensignale:** Studien zeigen, dass der <abbr title="Dezentrales Segment des kombinierten Kapazitätsmarktes">KKM-D</abbr> keine verlässlichen Preissignale erzeugt, insbesondere da Zertifikatspreise stark von den im <abbr title="Zentrales Segment des kombinierten Kapazitätsmarktes">KKM-Z</abbr> ausgeschriebenen Mengen abhängen und Preisschwankungen die Planungssicherheit mindern können[^2].
 
 - **Effizienz der Selbsterfüllung:** Empirische Erfahrungen aus Frankreich zeigen, dass die Selbsterfüllung dezentraler Flexibilitäten – anders als theoretisch angenommen – in der Praxis eine untergeordnete Rolle spielt und ohne flankierende Maßnahmen (z. B. zentrale Ausschreibungen für Lastflexibilität) kaum Wirkung entfaltet[^2].
 
 - **Komplexität:** Die Integration zweier heterogener Marktsegmente erfordert detaillierte Regelwerke, administrative Kapazitäten und Abstimmungen zwischen zentraler Planung und dezentralen Marktentscheidungen. Dies betrifft u. a. die Ermittlung der Lastbeiträge, Zertifizierung, sowie die Kontrolle und Sanktionierung[^2] [^3].
-- **Preis- und Mengensignale:** Studien zeigen, dass der <abbr title="Dezentrales Segment des kombinierten Kapazitätsmarktes">KKM-D</abbr> keine verlässlichen Preissignale erzeugt, insbesondere da Zertifikatspreise stark von den im <abbr title="Zentrales Segment des kombinierten Kapazitätsmarktes">KKM-Z</abbr> ausgeschriebenen Mengen abhängen und Preisschwankungen die Planungssicherheit mindern können[^2].
-- **Effizienz der Selbsterfüllung:** Empirische Erfahrungen aus Frankreich zeigen, dass die Selbsterfüllung dezentraler Flexibilitäten – anders als theoretisch angenommen – in der Praxis eine untergeordnete Rolle spielt und ohne flankierende Maßnahmen (z. B. zentrale Ausschreibungen für Lastflexibilität) kaum Wirkung entfaltet[^2].
+
 - **Marktmacht der staatlichen Stelle:** Da ein Großteil der Zertifikate durch eine zentrale Institution in den Markt eingespeist wird, bestehen wettbewerbspolitische Risiken. Marktteilnehmer könnten ein geringes Vertrauen in die Preisbildung entwickeln[^2].
 
 <!-- Fußnoten -->
