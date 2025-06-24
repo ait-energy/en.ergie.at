@@ -39,7 +39,7 @@ sind und andernfalls bereits stillgelegt worden wären. [Mehr erfahren]({{< relr
 Gezielte Kapazitätszahlungen setzen auf finanzielle Anreize für bestimmte Anlagen, um spezifische Probleme zu lösen, wie
 etwa die Unterstützung erneuerbarer Energien, die Erleichterung der Schließung von Kohlekraftwerken und die Stärkung der
 Betriebsreserven.
-[Mehr Erfahren]({{< relref "arten/gezielte_kapazitaetszahlungen.md" >}})
+[Mehr erfahren]({{< relref "arten/gezielte_kapazitaetszahlungen.md" >}})
 <!-- {{< embed_article link="/themen/kapazitaetsmechanismen/arten/gezielte_kapazitaetszahlungen" showHeader="false" >}} -->
 
 ## Marktweite Mechanismen
