@@ -25,7 +25,7 @@ Gezielte Mechanismen belohnen nur bestimmte Technologien. Sie identifizieren die
 
 Ausschreibungen für neue Kapazitäten fördern gezielt Investitionen in zusätzliche Kapazität zur Gewährleistung der Versorgungssicherheit.
 Sie ermöglichen eine wettbewerbliche, staatlich gesteuerte Vergabe neuer Projekte – mit Planungssicherheit, klaren
-Vorgaben und stabilen Erlösmodellen. [Mehr Erfahren]({{< relref "arten/ausschreibung_fuer_neue_kapazität.md" >}})
+Vorgaben und stabilen Erlösmodellen. [Mehr erfahren]({{< relref "arten/ausschreibung_fuer_neue_kapazität.md" >}})
 <!-- {{< embed_article link="/themen/kapazitaetsmechanismen/arten/ausschreibung_fuer_neue_kapazität" showHeader="false" >}} -->
 
 ### 2. Strategische Reserve
