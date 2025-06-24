@@ -46,7 +46,7 @@ Betriebsreserven.
 
 Bei einem marktweiten Mechanismus erhalten alle Kapazitäten, die zur Sicherstellung der Versorgungssicherheit notwendig
 sind, Zahlungen, wobei sowohl bestehende als auch neue Kapazitätsanbieter abgedeckt werden. Dies schafft effektiv einen
-eigenständigen Markt für 'Kapazität', getrennt vom 'Strommarkt'. Es gibt drei Grundtypen:
+vom Strommarkt getrennten, eigenständigen Markt für Kapazität. Es gibt drei Grundtypen:
 
 ### 1. Zentraler Käufer
 
@@ -100,7 +100,7 @@ Ein marktweiter Kapazitätsmechanismus ist nicht kosteneffektiv, wenn der Bedarf
 </details>
 
 ## Vergleich Strategische Reserve vs. Zentraler Kapazitätsmarkt
-Die folgende Tabelle vergleicht die Eigenschaften der strategischen Reserve mit denen eines zentralen Kapazitätsmarktes [^2].
+Die folgende Tabelle vergleicht die Eigenschaften der strategischen Reserve mit jenen eines zentralen Kapazitätsmarktes [^2].
 Diese beiden Optionen wurden ausgewählt, da sie im Rahmen des Streamlining-Prozesses der Europäischen
 Kommission diskutiert werden. Künftig sollen die beiden Zielmodelle zügig genehmigt werden können, sofern bestimmte
 Ausgestaltungskriterien erfüllt sind. Diese "off-the-shelf" Lösungen sind automatisch mit den EU-Richtlinien konform
