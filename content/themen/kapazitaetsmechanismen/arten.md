@@ -50,11 +50,11 @@ eigenständigen Markt für 'Kapazität', getrennt vom 'Strommarkt'. Es gibt drei
 
 ### 1. Zentraler Käufer
 
-Eine zentral festgelegte Gesamtkapazität wird durch ein zentrales Ausschreibungsverfahren beschafft, wobei der Markt den Preis bestimmt. [Mehr Erfahren]({{< relref "marktweit_zentraler_kaeufer.md" >}})
+Eine zentral festgelegte Gesamtkapazität wird durch ein zentrales Ausschreibungsverfahren beschafft, wobei der Markt den Preis bestimmt. [Mehr erfahren]({{< relref "marktweit_zentraler_kaeufer.md" >}})
 
 ### 2. Dezentrale Verpflichtung
 
-Stromlieferanten/Händler sind verpflichtet, Verträge mit Kapazitätsanbietern abzuschließen, um die Gesamtkapazität zu sichern, die benötigt wird, um die Nachfrage ihrer Verbraucher zu decken, wobei die Marktkräfte den Preis ohne ein zentrales Ausschreibungsverfahren bestimmen. [Mehr Erfahren]({{< relref "arten/marktweit_dezentraler_kaeufer.md" >}})
+Stromlieferanten/Händler sind verpflichtet, Verträge mit Kapazitätsanbietern abzuschließen, um die Gesamtkapazität zu sichern, die benötigt wird, um die Nachfrage ihrer Verbraucher zu decken, wobei die Marktkräfte den Preis ohne ein zentrales Ausschreibungsverfahren bestimmen. [Mehr erfahren]({{< relref "arten/marktweit_dezentraler_kaeufer.md" >}})
 
 ### 3. Kombinierter Kapazitätsmarkt
 
@@ -64,7 +64,7 @@ Mechanismus zur Gewährleistung der Versorgungssicherheit, der Elemente des
 [dezentralen]({{< ref "marktweit_dezentraler_kaeufer.md" >}}) Kapazitätsmarkts verbindet.
 Ziel ist es durch Kombination der Vorteile beider Einzelansätze, sowohl langfristige Investitionsanreize für neue
 steuerbare Kapazitäten zu schaffen, als auch das dezentrale Wissen der Stromnachfrageseite zu nutzen, um Systemeffizienz
-und Anpassungsfähigkeit zu erhöhen. [Mehr Erfahren]({{< relref "arten/kombinierter_km.md" >}})
+und Anpassungsfähigkeit zu erhöhen. [Mehr erfahren]({{< relref "arten/kombinierter_km.md" >}})
 <!--{{< embed_article link="/themen/kapazitaetsmechanismen/arten/kombinierter_KM.md" showHeader="false" >}}-->
 
 ### 4. Marktweite Kapazitätszahlung
