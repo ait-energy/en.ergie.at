@@ -25,13 +25,13 @@ Gezielte Mechanismen belohnen nur bestimmte Technologien. Sie identifizieren die
 
 Ausschreibungen für neue Kapazitäten fördern gezielt Investitionen in zusätzliche Kapazität zur Gewährleistung der Versorgungssicherheit.
 Sie ermöglichen eine wettbewerbliche, staatlich gesteuerte Vergabe neuer Projekte – mit Planungssicherheit, klaren
-Vorgaben und stabilen Erlösmodellen. [Mehr Erfahren]({{< relref "arten/ausschreibung_fuer_neue_kapazität.md" >}})
+Vorgaben und stabilen Erlösmodellen. [Mehr erfahren]({{< relref "arten/ausschreibung_fuer_neue_kapazität.md" >}})
 <!-- {{< embed_article link="/themen/kapazitaetsmechanismen/arten/ausschreibung_fuer_neue_kapazität" showHeader="false" >}} -->
 
 ### 2. Strategische Reserve
 Strategische Reserven dienen der Versorgungssicherheit in Knappheitssituationen und werden außerhalb des Strommarkts vorgehalten.
 Typischerweise befinden sich in einer strategischen Reserve Anlagen, die wirtschaftlich nicht mehr rentabel
-sind und andernfalls bereits stillgelegt worden wären. [Mehr Erfahren]({{< relref "arten/strategische_reserve.md" >}})
+sind und andernfalls bereits stillgelegt worden wären. [Mehr erfahren]({{< relref "arten/strategische_reserve.md" >}})
 <!-- {{< embed_article link="/themen/kapazitaetsmechanismen/arten/strategische_reserve" showHeader="false" >}} -->
 
 ### 3. Gezielte Kapazitätszahlung
@@ -39,7 +39,7 @@ sind und andernfalls bereits stillgelegt worden wären. [Mehr Erfahren]({{< relr
 Gezielte Kapazitätszahlungen setzen auf finanzielle Anreize für bestimmte Anlagen, um spezifische Probleme zu lösen, wie
 etwa die Unterstützung erneuerbarer Energien, die Erleichterung der Schließung von Kohlekraftwerken und die Stärkung der
 Betriebsreserven.
-[Mehr Erfahren]({{< relref "arten/gezielte_kapazitaetszahlungen.md" >}})
+[Mehr erfahren]({{< relref "arten/gezielte_kapazitaetszahlungen.md" >}})
 <!-- {{< embed_article link="/themen/kapazitaetsmechanismen/arten/gezielte_kapazitaetszahlungen" showHeader="false" >}} -->
 
 ## Marktweite Mechanismen
