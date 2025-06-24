@@ -44,8 +44,8 @@ Der kombinierte Kapazitätsmarkt versucht die Stärken zentraler und dezentraler
 
 <!-- Fußnoten -->
 
-[^1]: Consentec, r2b, Öko-Institut (2024): [*Überblick zur Ausgestaltung eines kombinierten Kapazitätsmarkts*](https://www.bmwk.de/Redaktion/DE/Downloads/klimaschutz/ag3-inputpapier-kombinierter-kapazitaetsmarkt-kkm.html), im Auftrag des BMWK.
+[^1]: [Überblick zur Ausgestaltung eines kombinierten Kapazitätsmarkts<br>(Consentec, r2b, Öko-Institut)](https://www.bmwk.de/Redaktion/DE/Downloads/klimaschutz/ag3-inputpapier-kombinierter-kapazitaetsmarkt-kkm.html)
 
-[^2]: Frontier Economics (2024): [*Kurzstudie zum kombinierten Kapazitätsmarkt*](https://www.frontier-economics.com/media/hqiiv3hf/frontier-economcis-kurzstudie-zum-kombinierten-kapazitaetsmarkt-14-11-2024-stc.pdf), im Auftrag von EnBW AG und RWE AG.
+[^2]: [KOMBINIERTER KAPAZITÄTSMARKT – EINE ANALYSE DER VOR- UND NACHTEILE<br>(Frontier Economics)](https://www.frontier-economics.com/media/hqiiv3hf/frontier-economcis-kurzstudie-zum-kombinierten-kapazitaetsmarkt-14-11-2024-stc.pdf)
 
-[^3]: Fraunhofer ISI (2025): [*Studie Kapazitätsmarkt Österreich*](https://publica-rest.fraunhofer.de/server/api/core/bitstreams/3eb9e18c-f409-4d98-bc72-f593c28dafbe/content), im Auftrag von Wien Energie und VERBUND.
+[^3]: [Studie Kapazitätsmarkt Österreich<br>(Fraunhofer ISI)](https://publica-rest.fraunhofer.de/server/api/core/bitstreams/3eb9e18c-f409-4d98-bc72-f593c28dafbe/content)
