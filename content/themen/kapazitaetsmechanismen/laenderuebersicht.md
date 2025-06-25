@@ -495,7 +495,7 @@ Die Y-4-Kapazitätsauktion für das Lieferjahr 2024/2025 im irischen Strommarkt 
 </div>
 
 <div style="border-left: 4px solid #999999; padding-left: 1em; margin-bottom: 1.5em;">
-  <a href="https://www.emrdeliverybody.com/Capacity%20Markets%20Document%20Library/Final%20Results%20T-1%20Auction%20DY20-21.pdf"><b>Bericht: <u>T-1 Auktion für die Lieferperiode 2020–2021</u></b></a>
+  <a href="https://www.emrdeliverybody.com/Capacity%20Markets%20Document%20Library/Final%20Results%20T-1%20Auction%20DY20-21.pdf"><b>Bericht: <u>Y-1 Auktion für die Lieferperiode 2020–2021</u></b></a>
   <br>
   <details>
     <summary><span style="cursor: pointer; font-weight: 500;">Zusammenfassung anzeigen</span></summary><i>
@@ -503,6 +503,20 @@ Die Y-4-Kapazitätsauktion für das Lieferjahr 2024/2025 im irischen Strommarkt 
     </i>
   </details>
 </div>
+
+{{< /timelineItem >}}
+
+{{< timelineItem icon="rss" header="Polen" badge="Auktionsjahr 2020" >}}
+
+<div style="border-left: 4px solid #999999; padding-left: 1em; margin-bottom: 1.5em;">
+<a href="https://raport2020.pse.pl/en/edition-2021/economic-and-market-impact/active-participation-in-the-development-of-the-electricity-market/#:~:text=The%20main%20auction%20for%20the%20delivery%20year%202025%20was%20also,covered%20the%20delivery%20year%202025." target="_blank"><b>Bericht: <u>Y-5 Auktion für das Lieferjahr 2025</u></b></a>
+<br>
+<details>
+  <summary><span style="cursor: pointer; font-weight: 500;">Zusammenfassung anzeigen</span></summary><i>
+    In der Hauptauktion vom 14. Dezember 2020 für das Lieferjahr 2025 wurden Kapazitätsverträge über <b>2.367&nbsp;MW</b> abgeschlossen. Der <b>Clearing-Preis betrug 172,9&nbsp;PLN/kW/Jahr</b>. Insgesamt wurden 55 Kapazitätsmarkteinheiten bezuschlagt. Verträge mit einjähriger Laufzeit machten den Großteil aus (47), hinzu kamen einzelne mehrjährige Verpflichtungen, darunter je ein Vertrag mit sieben und fünfzehn Jahren Laufzeit sowie sechs Verträge mit verkürzter Laufzeit bis Mitte 2025, da für diese Einheiten keine Erklärung abgegeben wurde, dass sie die Emissionsgrenzwerte gemäß Artikel 22 der EU-Verordnung 2019/943 erfüllen oder bis zum Lieferjahr erfüllen werden. 
+  </i></details>
+</div> 
+
 {{< /timelineItem >}}
 
 {{< /timeline >}}
@@ -532,9 +546,24 @@ Die Hauptauktion des italienischen Kapazitätsmarkts für das Lieferjahr 2022 fa
 
 {{< /timelineItem >}}
 
-Find additional UK auction results & information <a href="https://www.emrdeliverybody.com/CM/Capacity%20Auction%20Information_deleted.aspx" target="_blank" rel="noopener noreferrer">here</a>.
+{{< timelineItem icon="rss" header="Polen" badge="Auktionsjahr 2019" >}}
+<div style="border-left: 4px solid #999999; padding-left: 1em; margin-bottom: 1.5em;">
+<a href="https://www.forum-energii.eu/en/the-last-auction-of-this-kind"><b>Bericht: <u>Y-5 Auktion 2019 für das Lieferjahr 2024</u></b></a>
+<br>
+<details>
+  <summary><span style="cursor: pointer; font-weight: 500;">Zusammenfassung anzeigen</span></summary><i>
+    In der Hauptauktion vom 6. Dezember 2019 für das Lieferjahr 2024 wurden Kapazitätsverträge über <b>8.671&nbsp;MW zu einem Preis von 259,9&nbsp;PLN/kW/Jahr abgeschlossen</b>. Den größten Anteil stellten <b>modernisierte Kohlekraftwerke mit 5- und 7-jährigen Verträgen, die über die Hälfte der kontraktierten Kapazität ausmachten.</b> Neue Kapazitäten umfassten zwei <abbr title="Combined-Cycle Gas Turbine">CCGT</abbr>-Blöcke mit 1.335&nbsp;MW und einer Vertragslaufzeit von 17 Jahren, und zwei kleinere Gaseinheiten mit 65&nbsp;MW (15 Jahre Vertragslaufzeit) und 40&nbsp;MW (17 Jahre Vertragslaufzeit). <b><abbr title="Demand Side Response">DSR</abbr> erreichte mit über 1&nbsp;GW ein neues Rekordniveau, während Speicher trotz hoher Anmeldung leer ausgingen</b>. Das Gesamtvolumen der Kapazitätsauktion belief sich auf 2.3 Milliarden PLN.
+  </i></details>
+</div>
+
+{{< /timelineItem >}}
 
 {{< /timeline >}}
+
+### Anderweitige Informationen
+
+- Weitere UK Auktionsergebnisse & Informationen sind auf [emrdeliverybody.com](https://www.emrdeliverybody.com/CM/Capacity%20Auction%20Information_deleted.aspx) verfügbar.
+- Eine Analyse der Auktionsergebnisse für Polen aus der Auktion 2018 für die Lieferjahre 2021, 2022 und 2023 ist auf [researchgate.net](https://www.researchgate.net/publication/338723141_A_review_of_the_2018_Polish_capacity_market_auctions) verfügbar 
 
 <div class="footnotes" role="doc-endnotes">
   <hr>
