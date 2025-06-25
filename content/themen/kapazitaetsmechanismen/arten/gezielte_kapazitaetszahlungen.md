@@ -4,7 +4,9 @@ topics: []
 authors: ["afischer"]
 ---
 
-Gezielte Kapazitätszahlungen setzen auf finanzielle Anreize für bestimmte Anlagen, um systemrelevante Funktionen wie Reserveleistung oder den Ausgleich struktureller Umbrüche im Strommarkt sicherzustellen – jenseits marktweiter Mechanismen.
+Gezielte Kapazitätszahlungen setzen auf finanzielle Anreize für bestimmte Anlagen, um spezifische Probleme zu lösen, wie
+etwa die Unterstützung erneuerbarer Energien, die Erleichterung der Schließung von Kohlekraftwerken und die Stärkung der
+Betriebsreserven.
 
 <br>
 {{< alert >}}

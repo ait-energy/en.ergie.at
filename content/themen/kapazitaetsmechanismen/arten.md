@@ -1,7 +1,7 @@
 ---
 title: "Arten von Kapazitätsmechanismen"
 topics: []
-authors: ["afischer"]
+authors: ["afischer", "dkrainer"]
 ---
 
 Um ausreichende Kapazitäten für eine zuverlässige Stromversorgung sicherzustellen, wurden verschiedene Arten von Kapazitätsmechanismen entwickelt. Allgemein unterscheidet man zwischen gezielten Mechanismen (z. B. strategische Reserven), die nur ausgewählte Kraftwerke umfassen, und marktweiten Mechanismen, an denen alle Kapazitätsanbieter teilnehmen können. Zusätzlich lässt sich differenzieren, ob bei diesen Mechanismen der Preis oder die Kapazitätsmenge zentral festgelegt wird, während sich der jeweils andere Faktor am Markt bildet. Dieser Abschnitt bietet eine detaillierte Übersicht über die verschiedenen Arten, ihre Funktionsweise und die jeweiligen Vor- und Nachteile.
@@ -13,46 +13,69 @@ Um ausreichende Kapazitäten für eine zuverlässige Stromversorgung sicherzuste
 Wir arbeiten gerade an diesem Artikel. Informationen können unvollständig oder teilweise inkorrekt sein. Fehler oder fehlende Details kannst Du direkt per [GitHub Issue melden](https://github.com/ait-energy/en.ergie.at/issues).
 {{< /alert >}}
 
+Die nachfolgende Grafik vermittelt eine Übersicht über die unterschiedlichen Arten
+und Ausprägungen von Kapazitätsmechanismen [^3].
 ![Übersicht der Kapazitätsmechanismen](/images/arten/uebersicht_kapazitaetsmechanismen.jpg)
-*Quelle: [Übersicht der Kapazitätsmechanismen]*
 
 ## Gezielte Mechanismen
 
-Belohnen nur bestimmte Technologien. Sie identifizieren die zusätzlich benötigte Kapazität, die über das hinausgeht, was der Markt natürlicherweise bereitstellen würde, und unterstützen nur diese zusätzliche „Top-up“'-Kapazität. Es gibt drei Haupttypen:
+Gezielte Mechanismen belohnen nur bestimmte Technologien. Sie identifizieren die zusätzlich benötigte Kapazität, die über das hinausgeht, was der Markt natürlicherweise bereitstellen würde, und unterstützen diese zusätzliche "Top-up"-Kapazität. Es gibt drei Haupttypen:
 
 ### 1. Ausschreibung für neue Kapazität
 
-{{< embed_article link="/themen/kapazitaetsmechanismen/arten/ausschreibung_fuer_neue_kapazität" showHeader="false" >}}
+Ausschreibungen für neue Kapazitäten fördern gezielt Investitionen in zusätzliche Kapazität zur Gewährleistung der Versorgungssicherheit.
+Sie ermöglichen eine wettbewerbliche, staatlich gesteuerte Vergabe neuer Projekte – mit Planungssicherheit, klaren
+Vorgaben und stabilen Erlösmodellen. [Mehr erfahren]({{< relref "arten/ausschreibung_fuer_neue_kapazität.md" >}})
+<!-- {{< embed_article link="/themen/kapazitaetsmechanismen/arten/ausschreibung_fuer_neue_kapazität" showHeader="false" >}} -->
 
 ### 2. Strategische Reserve
-
-{{< embed_article link="/themen/kapazitaetsmechanismen/arten/strategische_reserve" showHeader="false" >}}
+Strategische Reserven dienen der Versorgungssicherheit in Knappheitssituationen und werden außerhalb des Strommarkts vorgehalten.
+Typischerweise befinden sich in einer strategischen Reserve Anlagen, die wirtschaftlich nicht mehr rentabel
+sind und andernfalls bereits stillgelegt worden wären. [Mehr erfahren]({{< relref "arten/strategische_reserve.md" >}})
+<!-- {{< embed_article link="/themen/kapazitaetsmechanismen/arten/strategische_reserve" showHeader="false" >}} -->
 
 ### 3. Gezielte Kapazitätszahlung
 
-{{< embed_article link="/themen/kapazitaetsmechanismen/arten/gezielte_kapazitaetszahlungen" showHeader="false" >}}
+Gezielte Kapazitätszahlungen setzen auf finanzielle Anreize für bestimmte Anlagen, um spezifische Probleme zu lösen, wie
+etwa die Unterstützung erneuerbarer Energien, die Erleichterung der Schließung von Kohlekraftwerken und die Stärkung der
+Betriebsreserven.
+[Mehr erfahren]({{< relref "arten/gezielte_kapazitaetszahlungen.md" >}})
+<!-- {{< embed_article link="/themen/kapazitaetsmechanismen/arten/gezielte_kapazitaetszahlungen" showHeader="false" >}} -->
 
 ## Marktweite Mechanismen
 
-Bei einem marktweiten Mechanismus erhalten alle Kapazitäten, die zur Sicherstellung der Versorgungssicherheit notwendig sind, Zahlungen, wobei sowohl bestehende als auch neue Kapazitätsanbieter abgedeckt werden. Dies schafft effektiv einen eigenständigen Markt für 'Kapazität', getrennt vom 'Strommarkt'. Es gibt drei Grundtypen:
+Bei einem marktweiten Mechanismus erhalten alle Kapazitäten, die zur Sicherstellung der Versorgungssicherheit notwendig
+sind, Zahlungen, wobei sowohl bestehende als auch neue Kapazitätsanbieter abgedeckt werden. Dies schafft effektiv einen
+vom Strommarkt getrennten, eigenständigen Markt für Kapazität. Es gibt drei Grundtypen:
 
 ### 1. Zentraler Käufer
 
-Eine zentral festgelegte Gesamtkapazität wird durch ein zentrales Ausschreibungsverfahren beschafft, wobei der Markt den Preis bestimmt. [Mehr Erfahren]({{< relref "marktweit_zentraler_kaeufer.md" >}})
+Eine zentral festgelegte Gesamtkapazität wird durch ein zentrales Ausschreibungsverfahren beschafft, wobei der Markt den Preis bestimmt. [Mehr erfahren]({{< relref "marktweit_zentraler_kaeufer.md" >}})
 
 ### 2. Dezentrale Verpflichtung
 
-Stromlieferanten/Händler sind verpflichtet, Verträge mit Kapazitätsanbietern abzuschließen, um die Gesamtkapazität zu sichern, die benötigt wird, um die Nachfrage ihrer Verbraucher zu decken, wobei die Marktkräfte den Preis ohne ein zentrales Ausschreibungsverfahren bestimmen. [Mehr Erfahren]({{< relref "arten/marktweit_dezentraler_kaeufer.md" >}})
+Stromlieferanten/Händler sind verpflichtet, Verträge mit Kapazitätsanbietern abzuschließen, um die Gesamtkapazität zu sichern, die benötigt wird, um die Nachfrage ihrer Verbraucher zu decken, wobei die Marktkräfte den Preis ohne ein zentrales Ausschreibungsverfahren bestimmen. [Mehr erfahren]({{< relref "arten/marktweit_dezentraler_kaeufer.md" >}})
 
 ### 3. Kombinierter Kapazitätsmarkt
 
-{{< embed_article link="/themen/kapazitaetsmechanismen/arten/kombinierter_KM.md" showHeader="false" >}}
+Der kombinierte Kapazitätsmarkt (<abbr title="Kombinierter Kapazitätsmarkt">KKM</abbr>) ist ein theoretischer
+Mechanismus zur Gewährleistung der Versorgungssicherheit, der Elemente des
+[zentralen]({{< ref "marktweit_zentraler_kaeufer.md" >}}) und
+[dezentralen]({{< ref "marktweit_dezentraler_kaeufer.md" >}}) Kapazitätsmarkts verbindet.
+Ziel ist es durch Kombination der Vorteile beider Einzelansätze, sowohl langfristige Investitionsanreize für neue
+steuerbare Kapazitäten zu schaffen, als auch das dezentrale Wissen der Stromnachfrageseite zu nutzen, um Systemeffizienz
+und Anpassungsfähigkeit zu erhöhen. [Mehr erfahren]({{< relref "arten/kombinierter_km.md" >}})
+<!--{{< embed_article link="/themen/kapazitaetsmechanismen/arten/kombinierter_KM.md" showHeader="false" >}}-->
 
 ### 4. Marktweite Kapazitätszahlung
 
-Ein zentral festgelegter Kapazitätspreis, basierend auf Schätzungen, die erforderlich sind, um eine ausreichende Gesamtkapazität zu gewährleisten, wird an alle Kapazitätsanbieter des Marktes gezahlt.
+Allen Kapazitätsanbietern im Markt wird ein einheitlicher Preis gezahlt, der zentral festgelegt wird
+und auf Schätzungen zur Sicherstellung einer ausreichenden Gesamtkapazität für die Versorgungssicherheit basiert.
 
-Die Modelle des zentralen Käufers und der dezentralen Verpflichtung sind volumenbasiert und legen die erforderliche Kapazitätsmenge im Voraus fest, wobei die Preise durch den Markt bestimmt werden. Das Modell der marktweiten Kapazitätszahlung ist preisbasiert und legt den Kapazitätspreis im Voraus fest, wobei die Kapazitätsmenge variabel und auf die Marktreaktion basierend ist.
+Die Modelle des zentralen Käufers und der dezentralen Verpflichtung sind volumenbasiert und legen die erforderliche
+Kapazitätsmenge im Voraus fest, wobei die Preise durch den Markt bestimmt werden. Das Modell der marktweiten
+Kapazitätszahlung ist preisbasiert und legt den Kapazitätspreis im Voraus fest, wobei die Kapazitätsmenge variabel ist und
+auf der Marktreaktion basiert.
 
 <details>
 <summary><strong>Analyse Marktweiter Mechanismen (ein-/ausklappen)</strong></summary>
@@ -76,26 +99,29 @@ Ein marktweiter Kapazitätsmechanismus ist nicht kosteneffektiv, wenn der Bedarf
 
 </details>
 
-## Vergleich Gezielte vs. Marktweite Mechanismen (ggf. verschieben)
-
+## Vergleich Strategische Reserve vs. Zentraler Kapazitätsmarkt
+Die folgende Tabelle vergleicht die Eigenschaften der strategischen Reserve mit jenen eines zentralen Kapazitätsmarktes [^2].
+Diese beiden Optionen wurden ausgewählt, da sie im Rahmen des Streamlining-Prozesses der Europäischen
+Kommission diskutiert werden. Künftig sollen die beiden Zielmodelle zügig genehmigt werden können, sofern bestimmte
+Ausgestaltungskriterien erfüllt sind. Diese "off-the-shelf" Lösungen sind automatisch mit den EU-Richtlinien konform
+und sobald die Ausgestaltungsmerkmale eine vorgegebene Checkliste erfüllen, können sie ohne weitere Diskussionen
+genehmigt werden [^4] [^5].
 <details>
 <summary><strong>Klicken zum Ein-/Ausklappen der Tabelle</strong></summary>
 
 <br>
 
-| **Eigenschaft**                                           | **Gezielter KM (Strategische Reserve)**                                                | **Marktweiter KM**                                                |
+| **Eigenschaft**                                           | **Strategische Reserve**                                                | **Zentraler Kapazitätsmarkt**                                                |
 |-----------------------------------------------------------|-----------------------------------------------------------------------------------------|-------------------------------------------------------------------|
 | Einfluss auf EOM                                          | klein                                                                                   | groß                                                              |
 | Verknüpfung mit dem Strommarkt                            | schwach: ineffiziente Verwendung verfügbarer Ressourcen                                 | stark: effiziente Verwendung verfügbarer Ressourcen               |
 | Verwaltung des Kapazitätsbedarfs                          | Reaktiv: kurzfristige Kapazitätsauktionen mit kurzen Lieferzeiträumen                  | Proaktiv: Kapazitätsauktionen mit langen Lieferzeiträumen        |
-| Genehmigungsprozess bei der EC                            | Schnell                                                                                 | Langsam                                                           |
+| Genehmigungsprozess bei der EC                            | Schnell                                                                                 | Schnell                                                           |
 | Aufwand für den TSO sowie für die Anlagenbetreiber        | Klein                                                                                   | Groß                                                              |
 | Beschaffungsdesign                                        | Geringer Komplexitätsgrad                                                              | Hoher Komplexitätsgrad                                            |
 | Anreize für Neuinvestitionen                              | Niedrig                                                                                 | Hoch                                                              |
-| Konsument:innenschutz                                     | Schwach                                                                                 | Stark                                                             |
+| Konsumentenschutz                                     | Schwach                                                                                 | Stark                                                             |
 | Effekte auf Marktmacht                                    | Hoch: hoher Anteil an Kapazität, der außerhalb des Marktes gehalten wird               | Niedrig                                                           |
-
-*Tabelle 1: Vergleich von gezielten und marktweiten Kapazitätsmechanismen (basierend auf [^2])*
 
 </details>
 
@@ -133,9 +159,13 @@ Ein marktweiter Kapazitätsmechanismus ist nicht kosteneffektiv, wenn der Bedarf
 [^1]: [Missing money and missing markets: Reliability, capacity auctions and interconnectors  
 (Newbery, 2016)](https://doi.org/10.1016/j.enpol.2015.10.028)
 
-[^2]: [Svenska kraftnät proposes a future capacity mechanism to ensure resource adequacy in the electricity market
-(Svenska kraftnät)](https://www.svk.se/en/about-us/news/news/svenska-kraftnat-proposes-a-future-capacity-mechanism-to-ensure-resource-adequacy-in-the-electricity-market/)
+[^2]: [A future capacity mechanism to ensure resource adequacy in the electricity market<br>(Svenska kraftnät)](https://www.svk.se/49d7cf/siteassets/om-oss/rapporter/2023/a-future-capacity-mechanism-to-ensure-resource-adequacy-in-the-electricity-market.pdf)
 
+[^3]: [COMMISSION STAFF WORKING DOCUMENT Accompanying the document REPORT FROM THE COMMISSION Final Report of the Sector Inquiry on Capacity Mechanisms<br>Europäische Kommission](https://competition-policy.ec.europa.eu/system/files/2021-09/capacity_mechanism_final_report_swd_en.pdf)
+
+[^4]: [ENTSO-E Public Workshop on Capacity Mechanisms<br>(entsoe.eu)](https://www.entsoe.eu/events/2025/06/18/entso-e-public-workshop-on-capacity-mechanisms-18-june/)
+
+[^5]: [REPORT FROM THE COMMISSION TO THE EUROPEAN PARLIAMENT AND THE COUNCIL on the assessment of possibilities of streamlining and simplifying the process of applying a capacity mechanism under Chapter IV of Regulation (EU) 2019/943, in accordance with Article 69(3) of Regulation (EU) 2019/943<br>(Europäische Kommission)](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:52025DC0065)
 <!-- #
 
 ## Gezielte Mechanismen: 

@@ -4,7 +4,13 @@ topics: []
 authors: ["afischer"]
 ---
 
-Der kombinierte Kapazitätsmarkt (<abbr title="Kombinierte Kapazitätsmechanismus">KKM</abbr>) ist ein vorgeschlagener Mechanismus zur Sicherstellung der Versorgungssicherheit, der Elemente [zentraler]({{< ref "marktweit_zentraler_kaeufer.md" >}}) und des [dezentraler]({{< ref "marktweit_dezentraler_kaeufer.md" >}}) Kapazitätsmechanismen verbindet. Ziel ist es durch Kombination der Vorteile beides Einzelansätze, sowohl langfristige Investitionsanreize für neue steuerbare Kapazitäten zu schaffen als auch das dezentrale Wissen der Stromnachfrageseite zu nutzen, um Systemeffizienz und Anpassungsfähigkeit zu erhöhen.
+Der kombinierte Kapazitätsmarkt (<abbr title="Kombinierter Kapazitätsmarkt">KKM</abbr>) ist ein theoretischer
+Mechanismus zur Gewährleistung der Versorgungssicherheit, der Elemente des
+[zentralen]({{< ref "marktweit_zentraler_kaeufer.md" >}}) und
+[dezentralen]({{< ref "marktweit_dezentraler_kaeufer.md" >}}) Kapazitätsmarkts verbindet.
+Ziel ist es durch Kombination der Vorteile beider Einzelansätze, sowohl langfristige Investitionsanreize für neue
+steuerbare Kapazitäten zu schaffen, als auch das dezentrale Wissen der Stromnachfrageseite zu nutzen, um Systemeffizienz
+und Anpassungsfähigkeit zu erhöhen.
 
 ## Beschreibung
 
@@ -23,23 +29,22 @@ Der kombinierte Kapazitätsmarkt versucht die Stärken zentraler und dezentraler
 
 - **Anpassungsfähigkeit und Innovationsoffenheit:** Durch die Verpflichtung zur Selbsterfüllung im <abbr title="Dezentrales Segment des kombinierten Kapazitätsmarktes">KKM-D</abbr> entstehen marktorientierte Anreize zur Entwicklung dezentraler Flexibilitätsoptionen, ohne zentrale Planung oder Förderung[^1].
 
-- **Investitionssicherheit:** Langfristige Verträge im <abbr title="Zentrales Segment des kombinierten Kapazitätsmarktes">KKM-Z</abbr> lösen das Problem der Fristeninkongruenz, das bei rein dezentralen Märkten besteht. Besonders für kapitalintensive Kraftwerke ist dies entscheidend[^2] [^3].
-- **Anpassungsfähigkeit und Innovationsoffenheit:** Durch die Verpflichtung zur Selbsterfüllung im <abbr title="Dezentrales Segment des kombinierten Kapazitätsmarktes">KKM-D</abbr> entstehen marktorientierte Anreize zur Entwicklung dezentraler Flexibilitätsoptionen, ohne zentrale Planung oder Förderung[^1].
 - **Kostenverteilung:** Während der <abbr title="Zentrales Segment des kombinierten Kapazitätsmarktes">KKM-Z</abbr> über Umlagen finanziert wird, erfolgt im <abbr title="Dezentrales Segment des kombinierten Kapazitätsmarktes">KKM-D</abbr> die Finanzierung direkt über den Markt, was eine weitgehend selbsttragende Struktur begünstigt[^1] [^2].
+
+**Schwächen:**
 
 - **Preis- und Mengensignale:** Studien zeigen, dass der <abbr title="Dezentrales Segment des kombinierten Kapazitätsmarktes">KKM-D</abbr> keine verlässlichen Preissignale erzeugt, insbesondere da Zertifikatspreise stark von den im <abbr title="Zentrales Segment des kombinierten Kapazitätsmarktes">KKM-Z</abbr> ausgeschriebenen Mengen abhängen und Preisschwankungen die Planungssicherheit mindern können[^2].
 
 - **Effizienz der Selbsterfüllung:** Empirische Erfahrungen aus Frankreich zeigen, dass die Selbsterfüllung dezentraler Flexibilitäten – anders als theoretisch angenommen – in der Praxis eine untergeordnete Rolle spielt und ohne flankierende Maßnahmen (z. B. zentrale Ausschreibungen für Lastflexibilität) kaum Wirkung entfaltet[^2].
 
 - **Komplexität:** Die Integration zweier heterogener Marktsegmente erfordert detaillierte Regelwerke, administrative Kapazitäten und Abstimmungen zwischen zentraler Planung und dezentralen Marktentscheidungen. Dies betrifft u. a. die Ermittlung der Lastbeiträge, Zertifizierung, sowie die Kontrolle und Sanktionierung[^2] [^3].
-- **Preis- und Mengensignale:** Studien zeigen, dass der <abbr title="Dezentrales Segment des kombinierten Kapazitätsmarktes">KKM-D</abbr> keine verlässlichen Preissignale erzeugt, insbesondere da Zertifikatspreise stark von den im <abbr title="Zentrales Segment des kombinierten Kapazitätsmarktes">KKM-Z</abbr> ausgeschriebenen Mengen abhängen und Preisschwankungen die Planungssicherheit mindern können[^2].
-- **Effizienz der Selbsterfüllung:** Empirische Erfahrungen aus Frankreich zeigen, dass die Selbsterfüllung dezentraler Flexibilitäten – anders als theoretisch angenommen – in der Praxis eine untergeordnete Rolle spielt und ohne flankierende Maßnahmen (z. B. zentrale Ausschreibungen für Lastflexibilität) kaum Wirkung entfaltet[^2].
+
 - **Marktmacht der staatlichen Stelle:** Da ein Großteil der Zertifikate durch eine zentrale Institution in den Markt eingespeist wird, bestehen wettbewerbspolitische Risiken. Marktteilnehmer könnten ein geringes Vertrauen in die Preisbildung entwickeln[^2].
 
 <!-- Fußnoten -->
 
-[^1]: Consentec, r2b, Öko-Institut (2024): [*Überblick zur Ausgestaltung eines kombinierten Kapazitätsmarkts*](https://www.bmwk.de/Redaktion/DE/Downloads/klimaschutz/ag3-inputpapier-kombinierter-kapazitaetsmarkt-kkm.html), im Auftrag des BMWK.
+[^1]: [Überblick zur Ausgestaltung eines kombinierten Kapazitätsmarkts<br>(Consentec, r2b, Öko-Institut)](https://www.bmwk.de/Redaktion/DE/Downloads/klimaschutz/ag3-inputpapier-kombinierter-kapazitaetsmarkt-kkm.html)
 
-[^2]: Frontier Economics (2024): [*Kurzstudie zum kombinierten Kapazitätsmarkt*](https://www.frontier-economics.com/media/hqiiv3hf/frontier-economcis-kurzstudie-zum-kombinierten-kapazitaetsmarkt-14-11-2024-stc.pdf), im Auftrag von EnBW AG und RWE AG.
+[^2]: [KOMBINIERTER KAPAZITÄTSMARKT – EINE ANALYSE DER VOR- UND NACHTEILE<br>(Frontier Economics)](https://www.frontier-economics.com/media/hqiiv3hf/frontier-economcis-kurzstudie-zum-kombinierten-kapazitaetsmarkt-14-11-2024-stc.pdf)
 
-[^3]: Fraunhofer ISI (2025): [*Studie Kapazitätsmarkt Österreich*](https://publica-rest.fraunhofer.de/server/api/core/bitstreams/3eb9e18c-f409-4d98-bc72-f593c28dafbe/content), im Auftrag von Wien Energie und VERBUND.
+[^3]: [Studie Kapazitätsmarkt Österreich<br>(Fraunhofer ISI)](https://publica-rest.fraunhofer.de/server/api/core/bitstreams/3eb9e18c-f409-4d98-bc72-f593c28dafbe/content)
