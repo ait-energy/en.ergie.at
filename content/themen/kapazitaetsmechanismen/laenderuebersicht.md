@@ -301,6 +301,7 @@ Die Y-1-Kapazitätsauktion für das Lieferjahr 2023/2024 im irischen Strommarkt 
     </i>
   </details>
 </div>
+
 {{< /timelineItem >}}
 
 {{< timelineItem icon="rss" header="Vereinigtes Königreich" badge="Auktionsjahr 2023" >}}
@@ -324,7 +325,9 @@ Die Y-1-Kapazitätsauktion für das Lieferjahr 2023/2024 im irischen Strommarkt 
   </details>
 </div>
 {{< /timelineItem >}}
+
 {{< /timeline >}}
+
 ### Auktionsjahr 2022
 {{< timeline >}}
 {{< timelineItem icon="rss" header="Belgien" badge="Auktionsjahr 2022/2021" >}}
@@ -416,6 +419,7 @@ Die Hauptauktion des italienischen Kapazitätsmarkts für das Lieferjahr 2024 fa
   </details>
 </div>
 {{< /timelineItem >}}
+
 {{< /timeline >}}
 
 ### Auktionsjahr 2021
@@ -532,9 +536,11 @@ Die Hauptauktion des italienischen Kapazitätsmarkts für das Lieferjahr 2022 fa
 
 {{< /timelineItem >}}
 
-Find additional UK auction results & information <a href="https://www.emrdeliverybody.com/CM/Capacity%20Auction%20Information_deleted.aspx" target="_blank" rel="noopener noreferrer">here</a>.
-
 {{< /timeline >}}
+
+### Anderweitige Informationen
+
+- Weitere UK Auktionsergebnisse & Informationen sind auf [emrdeliverybody.com](https://www.emrdeliverybody.com/CM/Capacity%20Auction%20Information_deleted.aspx) verfügbar.
 
 <div class="footnotes" role="doc-endnotes">
   <hr>
