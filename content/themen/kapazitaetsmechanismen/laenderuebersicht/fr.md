@@ -180,7 +180,7 @@ Kapazitätsanbieter erzielen Erlöse durch den Handel ihrer Zertifikate, die nac
 
 [^1]: [Responding to the call for tenders for new capacities<br>(services-rte.com)](https://www.services-rte.com/en/learn-more-about-our-services/participate-in-the-capacity-mechanism/call-for-tenders-for-new-capacities.html)
 
-[^2]: [Demand Response Call Tenders<br>(RTE)](https://www.rte-france.com/en/newsroom/demand-response-call-tenders)
+[^2]: [Demand Response Call Tenders<br>(rte-france.com)](https://www.rte-france.com/en/newsroom/demand-response-call-tenders)
 
 [^3]: [Commission approves €1.3 billion French State aid scheme to support non-fossil technologies to ensure electricity supply matches demand<br>(European Commission)](https://ec.europa.eu/commission/presscorner/detail/en/ip_23_6757)
 
