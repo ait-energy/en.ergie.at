@@ -442,7 +442,7 @@ Darüber hinaus sind zumindest folgende Limitationen zu bedenken:
 -	**Volle Flexibilität des Kraftwerkseinsatzes**: Alle Kraftwerkstypen können mit voller Flexibilität am Markt agieren, das ist unter Berücksichtigung von technischen Restriktionen unrealistisch
 -	**Effizienz bei optimaler Auslastung**: zur Berechnung der Grenzkosten wurde die maximale Effizienz bei voller Auslastung angenommen
 -	**Nur Spotmärkte berücksichtigt**: Verkauf des Stroms erfolgt nur zu [Day-ahead]({{< ref "wissen/markt-day-ahead/index.md" >}}) Preisen, Forward Märkte werden nicht berücksichtigt. Damit ergeben sich mehr Preisspitzen.
--	**Berücksichtigung Jahr 2022** wurde mit 1/9 Gewicht berücksichtigt, was für eine optimistische Betrachtung spricht
+-	**Berücksichtigung Jahr 2022**: Das Jahr 2022 wurde mit einem 1/9 Gewicht berücksichtigt, was für eine optimistische Betrachtung spricht.
 
 Sämtlichen hier genannten Limitationen sprechen tendenziell für eine <u>Über</u>schätzung der Erlöse. Darüber hinaus gibt es aber auch noch Argumente, die für eine <u>Unter</u>schätzung sprechen.
 -	Keine Erlöse aus [Regelenergie]({{< ref "wissen/regelreserve/index.md" >}}) berücksichtigt
