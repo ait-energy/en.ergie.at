@@ -401,7 +401,7 @@ Der Mittelwert der Profite über den gesamten Zeitraum (2015-2024) und alle Szen
 
 Abbildung 9 illustriert die Schwankungsbreite hinter den Durchschnittsergebnissen in Form von Boxplots. Während die Resultate für <abbr title="Gas- und Dampfkraftwerk">GuD</abbr> Erdgas in der historischen Betrachtung zwischen -200 €/kW und 0 €/kW schwanken, bewegen sich die Profite in der theoretischen Betrachtung in 50% der Fälle zwischen -50 €/kW und +50 €/kW.
 
-Für <abbr title="Gas- und Dampfkraftwerk">GuD</abbr> Wasserstoff stellt sich die Sache noch volatiler und verlustreicher dar. In zumindest 75% der Fälle ergibt sich ein Verlust von mindestens 100 €/kW. Auf Basis der angenommenen Preise für Wasserstoff von 3 €/kg bzw. 6 €/kg ergibt sich ausschließlich in den Jahren 2021 und 2022 eine positive Auslastung. Aufgrund der äußerst hohen Strompreise in diesen Jahren stellt ergibt sich jedoch ein günstiges Verhältnis zwischen Input- und Outputpreisen, wodurch sich hohe Gewinne ergeben.
+Für <abbr title="Gas- und Dampfkraftwerk">GuD</abbr> Wasserstoff stellt sich die Sache noch volatiler und verlustreicher dar. In zumindest 75% der Fälle ergibt sich ein Verlust von mindestens 100 €/kW. Auf Basis der angenommenen Preise für Wasserstoff von 3 €/kg bzw. 6 €/kg ergibt sich ausschließlich in den Jahren 2021 und 2022 eine positive Auslastung. Aufgrund der äußerst hohen Strompreise in diesen Jahren ergibt sich jedoch ein günstiges Verhältnis zwischen Input- und Outputpreisen, wodurch sich hohe Gewinne ergeben.
 
 Relativ robuste Ergebnisse zeigen sich für Solar PV: Hier ist die Schwankungsbreite äußerst gering, de-facto -50 bis + 50 €/kW in 90% der Fälle. 
 
