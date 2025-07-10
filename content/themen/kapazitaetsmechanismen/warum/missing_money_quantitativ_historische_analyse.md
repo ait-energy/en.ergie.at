@@ -461,7 +461,6 @@ Sämtlichen hier genannten Limitationen sprechen tendenziell für eine <u>Über<
 (Trading Economics)](https://tradingeconomics.com/commodity/coal)
 
 [^4]: [Trading Economics EU-ETS
-(Trading Economics)](https://tradingeconomics.com/commodity/carbon)
 
 [^5]: [Stromgestehungskosten erneuerbare Energien<br>(ise.fraunhofer.de)](https://www.ise.fraunhofer.de/de/veroeffentlichungen/studien/studie-stromgestehungskosten-erneuerbare-energien.html)
 
