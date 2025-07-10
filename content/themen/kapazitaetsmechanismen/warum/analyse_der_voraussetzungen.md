@@ -1,7 +1,7 @@
 ---
 title: "Sind die Voraussetzungen derzeit, historisch und in der absehbaren Zukunft hinreichend erfüllt?"
 topics: []
-authors: ["afischer"]
+authors: ["portmann", "afischer"]
 ---
 
 <br>
