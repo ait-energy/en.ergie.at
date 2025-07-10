@@ -6,7 +6,7 @@ authors: ["afischer"]
 
 ## 1. Kernfragestellung und methodischer Ansatz
 
-Der folgende Abschnitt fokussiert auf die Frage, ob bestehende Kraftwerkskapazitäten im Setting eines [Energy-Only-Marktes]({{< ref "wissen/markt-energy-only/index.md" >}}) ausreichend finanziert werden können. Ziel der Analyse ist somit ein ‚quantitativer Nachweis‘ des Missing Money auf historischer Basis für Österreich. Dazu wurden folgende Kraftwerkstechnologien untersucht:
+Der folgende Abschnitt beschäftigt sich mit der Frage, ob bestehende Kraftwerkskapazitäten im Setting eines [Energy-Only-Marktes]({{< ref "wissen/markt-energy-only/index.md" >}}) ausreichend finanziert werden können. Ziel der Analyse ist somit ein "quantitativer Nachweis" des Missing Money Problems auf historischer Basis für Österreich. Dazu wurden folgende Kraftwerkstechnologien untersucht:
 
 - Gas- und Dampfkraftwerk Wasserstoff (GuD Wasserstoff)
 - Gas- und Dampfkraftwerk Erdgas (GuD Erdgas)
