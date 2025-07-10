@@ -399,7 +399,7 @@ Der Mittelwert der Profite über den gesamten Zeitraum (2015-2024) und alle Szen
 ![Mittlere Profite über alle Jahre und Szenarien in beiden Betrachtungsweisen](/images/missing_money_quantitativ_historische_analyse/mittlere_profite_uber_alle_jahre_und_szenarien_in_beiden_betrachtungsweisen.png)
 *Abb. 8: Mittlere Profite über alle Jahre und Szenarien in beiden Betrachtungsweisen*
 
-Abbildung 9 illustriert die Schwankungsbreite hinter den Durchschnittsergebnissen in Form von Boxplots. Während die Resultate für <abbr title="Gas- und Dampfkraftwerk">GuD</abbr> Erdgas in der historischen Betrachtung zwischen -200 €/kW und 0 €/kW schwanken, schwanken die Profite in der theoretischen Betrachtung in 50% der Fälle zwischen -50 €/kW und +50 €/kW.
+Abbildung 9 illustriert die Schwankungsbreite hinter den Durchschnittsergebnissen in Form von Boxplots. Während die Resultate für <abbr title="Gas- und Dampfkraftwerk">GuD</abbr> Erdgas in der historischen Betrachtung zwischen -200 €/kW und 0 €/kW schwanken, bewegen sich die Profite in der theoretischen Betrachtung in 50% der Fälle zwischen -50 €/kW und +50 €/kW.
 
 Für <abbr title="Gas- und Dampfkraftwerk">GuD</abbr> Wasserstoff stellt sich die Sache noch volatiler und verlustreicher dar. In zumindest 75% der Fälle ergibt sich ein Verlust von mindestens 100 €/kW. Auf Basis der angenommenen Preise für Wasserstoff von 3 €/kg bzw. 6 €/kg ergibt sich ausschließlich in den Jahren 2021 und 2022 eine positive Auslastung. Aufgrund der äußerst hohen Strompreise in diesen Jahren stellt ergibt sich jedoch ein günstiges Verhältnis zwischen Input- und Outputpreisen, wodurch sich hohe Gewinne ergeben.
 
