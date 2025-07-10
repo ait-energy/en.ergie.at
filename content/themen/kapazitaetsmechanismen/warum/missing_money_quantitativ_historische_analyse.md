@@ -467,6 +467,5 @@ Sämtlichen hier genannten Limitationen sprechen tendenziell für eine <u>Über<
 (Fraunhofer ISE)](https://www.ise.fraunhofer.de/de/veroeffentlichungen/studien/studie-stromgestehungskosten-erneuerbare-energien.html)
 
 [^6]: [Current and prospective costs of electricity generation until 2050
-(ECONSTOR)](https://www.econstor.eu/bitstream/10419/80348/1/757528015.pdf)
 
 [^7]: [Harmonised index of consumer prices (HICP)  
