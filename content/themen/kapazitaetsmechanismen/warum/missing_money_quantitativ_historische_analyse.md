@@ -365,7 +365,7 @@ Die nominalen Geldwerte hinsichtlich der Strom- und Brennstoffpreise wurden auf 
 
 ### Auslastung
 
-Abbildung 3 zeigt den Kraftwerkseinsatz auf Jahresbasis für den theoretischen/historischen Ansatz. Zunächst ist evident, dass der theoretische Ansatz nicht mit den historischen Daten korrespondiert und zu deutlich abweichenden Ergebnissen führt. Während der ‚theoretische‘ Ansatz zu einer Auslastung von 30-40% für Gas und 40-80% für Kohle führt, ergibt sich im historischen Ansatz ein Einsatz von etwa 20-30%.
+Abbildung 3 zeigt den Kraftwerkseinsatz auf Jahresbasis für den theoretischen/historischen Ansatz. Zunächst ist evident, dass der theoretische Ansatz nicht mit den historischen Daten korrespondiert und zu deutlich abweichenden Ergebnissen führt. Während der theoretische Ansatz zu einer Auslastung von 30-40% für Gas und 40-80% für Kohle führt, ergibt sich im historischen Ansatz ein Einsatz von etwa 20-30%.
 
 Das ist eine direkte Folge der impliziten idealen Flexibilität, die das modellierte Kraftwerk besitzt. In der theoretischen Betrachtung besteht keinerlei Einschränkung bezüglich Anfahrtsrampen. Das Kraftwerk kann somit voll flexibel agieren und den Deckungsbeitrag maximieren. In der Realität ist die Flexibilität stärker eingeschränkt, zumindest aufgrund technischer Limitationen bzgl. Startrampen (vor allem bei Kohle), aber auch aufgrund von Wärmelieferungsverpflichtungen.
 
