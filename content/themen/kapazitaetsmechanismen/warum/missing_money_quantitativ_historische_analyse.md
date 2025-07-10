@@ -451,7 +451,7 @@ Sämtlichen hier genannten Limitationen sprechen tendenziell für eine <u>Über<
 
 <!-- Fußnoten -->
 
-[^1]: [ENTSO-E Transparency Platform  
+[^1]: [ENTSO-E Transparency Platform<br>(transparency.entsoe.eu)](https://transparency.entsoe.eu)
 
 [^2]: [Trading Economics Gas<br>(tradingeconomics.com)](https://tradingeconomics.com/commodity/eu-natural-gas)
 
