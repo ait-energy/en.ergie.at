@@ -405,7 +405,7 @@ Für <abbr title="Gas- und Dampfkraftwerk">GuD</abbr> Wasserstoff stellt sich di
 
 Relativ robuste Ergebnisse zeigen sich für Solar PV: Hier ist die Schwankungsbreite äußerst gering, de-facto -50 bis + 50 €/kW in 90% der Fälle. 
 
-Für die Interpretation an dieser Stelle ist jedoch erwähnenswert, dass die Bewertung auf Grundlage von geschätzten Investitionskosten im Jahr 2024 gegen historische Preise zwischen 2015 und 2024 erfolgt. Aufgrund der stark gefallenen Investitionskosten von Solar PV im vergangenen Jahrzehnt kann demnach nicht die Schlussfolgerung gezogen werden, dass bestehende Anlagen dieses Typs genau diese Profitabilität aufweisen.
+Für die Interpretation an dieser Stelle ist jedoch erwähnenswert, dass die Bewertung auf Grundlage von geschätzten Investitionskosten im Jahr 2024 gegen historische Preise zwischen 2015 und 2024 erfolgt. Aufgrund der stark gefallenen Investitionskosten von Photovoltaik im vergangenen Jahrzehnt kann demnach nicht die Schlussfolgerung gezogen werden, dass bestehende Anlagen dieses Typs genau diese Profitabilität aufweisen.
 
 Äußerst volatil stellt sich auch die Laufwasserkraft dar, da sie nicht nur preislichen Schwankungen sondern auch Schwankungen im Dargebot unterliegt. In den mittleren 50% der Fälle ergeben sich hier Gewinne bzw. Verluste zwischen -200 und +100 €/kW. Bei der Interpretation ist jedoch Vorsicht geboten, da auch hier historische Preise mit Investitionskosten aus dem Jahr 2024 gegenübergestellt werden. 
 
