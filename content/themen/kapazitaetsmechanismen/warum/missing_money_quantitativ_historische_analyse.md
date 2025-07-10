@@ -114,7 +114,7 @@ Des Weiteren wurden generische Annahmen bezüglich der Investitions- und Betrieb
     <tr>
       <td>Windkraft</td>
       <td>Fraunhofer</td>
-      <td>Werte für ‚Wind Onshore‘</td>
+      <td>Werte für Wind Onshore</td>
     </tr>
   </tbody>
 </table>
