@@ -437,7 +437,7 @@ Zunächst muss festgehalten werden, dass sämtliche Aussagen nur auf Basis des h
 Darüber hinaus sind zumindest folgende Limitationen zu bedenken:
 
 -	**Keine Liefergebühren**: für die Berechnung der Grenzkosten auf Basis der Brennstoffkosten wurde keine Gebühr für die Lieferung von Gas/Kohle zum Kraftwerk berücksichtigt
--	**Gas Preise auf Basis von TTF**: Annahmen zum Gaspreis wurden auf Basis des Preises an der Niederländischen Börse genommen. Diese sind nicht 1:1 anwendbar auf den österreichischen Markt, stellen aber eine ausreichende Approximation dar
+-	**Gaspreise auf Basis von TTF**: Annahmen zum Gaspreis wurden auf Basis des Preises an der Niederländischen Börse genommen. Diese sind nicht 1:1 anwendbar auf den österreichischen Markt, stellen aber eine ausreichende Approximation dar
 -	**Annahme von günstigen Technologieparameter**: Technologiekosten entsprechen den Werten zum Zeitpunkt der Analyse (2024). Bei Gegenüberstellung mit historischen Preisen ergibt sich somit eine optimistische Einschätzung
 -	**Volle Flexibilität des Kraftwerkseinsatzes**: Alle Kraftwerkstypen können mit voller Flexibilität am Markt agieren, das ist unter Berücksichtigung von technischen Restriktionen unrealistisch
 -	**Effizienz bei optimaler Auslastung**: zur Berechnung der Grenzkosten wurde die maximale Effizienz bei voller Auslastung angenommen
