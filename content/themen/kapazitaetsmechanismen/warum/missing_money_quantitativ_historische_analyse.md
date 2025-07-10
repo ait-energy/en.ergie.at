@@ -109,7 +109,7 @@ Des Weiteren wurden generische Annahmen bezüglich der Investitions- und Betrieb
     <tr>
       <td>Solar PV</td>
       <td>Fraunhofer</td>
-      <td>Werte für ‚PV Freiflächen ab 1000 kWp‘</td>
+      <td>Werte für PV Freiflächen ab 1000 kWp</td>
     </tr>
     <tr>
       <td>Windkraft</td>
