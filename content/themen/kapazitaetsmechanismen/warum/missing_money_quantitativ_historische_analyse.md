@@ -455,7 +455,6 @@ Sämtlichen hier genannten Limitationen sprechen tendenziell für eine <u>Über<
 (ENTSO-E)](https://transparency.entsoe.eu)
 
 [^2]: [Trading Economics Gas  
-(Trading Economics)](https://tradingeconomics.com/commodity/eu-natural-gas)
 
 [^3]: [Trading Economics Coal<br>(tradingeconomics)](https://tradingeconomics.com/commodity/coal)
 
