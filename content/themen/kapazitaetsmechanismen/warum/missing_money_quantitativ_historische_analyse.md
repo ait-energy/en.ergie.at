@@ -31,7 +31,7 @@ Die variablen Brennstoffkosten ergeben sich auf Basis von Effizienz, Preis des B
   Variable Brennstoffkosten =
   <span style="display: inline-block; vertical-align: middle;">
     <span style="display: block; text-align: center;">
-      Brennstoff Preis + CO₂ Preis × CO₂ Intensität
+      Brennstoffpreis + CO₂ Preis × CO₂ Intensität
     </span>
     <span style="display: block; border-top: 1px solid #000; text-align: center;">
       Effizienz
