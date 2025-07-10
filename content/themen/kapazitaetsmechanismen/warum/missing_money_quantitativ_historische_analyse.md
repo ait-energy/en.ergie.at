@@ -57,7 +57,7 @@ Abbildung 2 stellt den Zusammenhang zwischen Strompreisen und Grenzkosten auf mo
 
 ### Investitions- und Betriebskosten, Inflation und technische Annahmen
 
-Des Weiteren wurden generische Annahmen bezüglich der Investitions- und Betriebskosten der jeweiligen Kraftwerkstechnologie auf Basis der Fraunhofer Studie "Stromgestehungskosten Erneuerbarer Energien"[^5] herangezogen. Für die die Laufwasserkraft und Hydro Reservoir wurden Annahmen aus einer Preisstudie von ECONSTOR[^6] herangezogen. 
+Des Weiteren wurden generische Annahmen bezüglich der Investitions- und Betriebskosten der jeweiligen Kraftwerkstechnologie auf Basis der Fraunhofer Studie "Stromgestehungskosten Erneuerbarer Energien"[^5] herangezogen. Für die die Laufwasserkraft und Hydro Reservoir wurden Annahmen aus einer Preisstudie vom Deutschem Institut für Wirtschaftsforschung[^6] herangezogen. 
 
 <table>
   <caption style="caption-side: bottom; text-align: left;">
