@@ -419,7 +419,7 @@ Abbildung 10 stellt noch einmal die volle Schwankungsbreite und Größenordnung 
 
 In Bezug auf ‚Missing Money‘ können daher folgende Schlussfolgerungen abgeleitet werden:
 -	Ein erdgasbasiertes Gas- und Dampfkraftwerk kann auf Basis der letzten 10 Jahre unter idealen Bedingungen annähernd kostendeckend betrieben werden. Die Aussagekraft hängt jedoch stark an der betrachteten Zeitperiode (2015-2024) und den zugrundeliegenden Annahmen über vollständig flexiblen Kraftwerkseinsatz. Auf Basis der historischen Erzeugungsprofile kann diese Aussage nicht gestützt werden
--	Ein Kohlekraftwerk ist wirtschaftlich darstellbar, die Fixkosten können rein auf Basis der Markterlöse abgedeckt werden
+-	Ein Kohlekraftwerk wäre wirtschaftlich darstellbar, die Fixkosten könnten rein auf Basis der Markterlöse abgedeckt werden
 -	Der Betrieb einer Gasturbine ist auf Basis der Markterlöse nicht finanzierbar, es ergeben sich zu wenig Einsatzzeiten um ausreichend Deckungsbeitrag zu erwirtschaften
 
 Mit einem Blick auf den zeitlichen Verlauf der Erlöse (Abbildung 6) relativieren sich daher die zuvor getroffenen Aussagen bezüglich der Rentabilität von Kraftwerkstypen stark. Unter Ausschluss der Jahre 2021 und 2022 wird auch für das Kohlekraftwerk ein wirtschaftlicher marktbasierter Betrieb unmöglich und das ‚Missing Money‘ für die gasbasierten Technologien deutlich größer.
