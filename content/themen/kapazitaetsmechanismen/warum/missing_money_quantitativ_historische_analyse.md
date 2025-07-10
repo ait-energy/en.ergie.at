@@ -422,7 +422,7 @@ In Bezug auf ‚Missing Money‘ können daher folgende Schlussfolgerungen abgel
 -	Ein Kohlekraftwerk ist wirtschaftlich darstellbar, die Fixkosten können rein auf Basis der Markterlöse abgedeckt werden
 -	Der Betrieb einer Gasturbine ist auf Basis der Markterlöse nicht finanzierbar, es ergeben sich zu wenig Einsatzzeiten um ausreichend Deckungsbeitrag zu erwirtschaften
 
-Mit einem Blick auf den zeitlichen Verlauf der Erlöse (Abbildung 6) relativieren sich daher die zuvor getroffenen Aussagen bezüglich der Rentabilität von Kraftwerkstypen stark. Unter Ausschluss der Jahre 2021+2022 wird auch für das Kohlekraftwerk ein wirtschaftlicher marktbasierter Betrieb unmöglich und das ‚missing money‘ für die gasbasierten Technologien deutlich größer.
+Mit einem Blick auf den zeitlichen Verlauf der Erlöse (Abbildung 6) relativieren sich daher die zuvor getroffenen Aussagen bezüglich der Rentabilität von Kraftwerkstypen stark. Unter Ausschluss der Jahre 2021 und 2022 wird auch für das Kohlekraftwerk ein wirtschaftlicher marktbasierter Betrieb unmöglich und das ‚Missing Money‘ für die gasbasierten Technologien deutlich größer.
 
 ## 4. Schlussfolgerungen
 
