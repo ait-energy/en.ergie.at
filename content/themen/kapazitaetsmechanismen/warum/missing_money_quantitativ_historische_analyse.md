@@ -458,7 +458,6 @@ Sämtlichen hier genannten Limitationen sprechen tendenziell für eine <u>Über<
 (Trading Economics)](https://tradingeconomics.com/commodity/eu-natural-gas)
 
 [^3]: [Trading Economics Coal
-(Trading Economics)](https://tradingeconomics.com/commodity/coal)
 
 [^4]: [Trading Economics EU-ETS<br>(tradingeconomics.com)](https://tradingeconomics.com/commodity/carbon)
 
