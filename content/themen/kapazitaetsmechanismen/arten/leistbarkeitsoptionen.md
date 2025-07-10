@@ -1,7 +1,7 @@
 ---
 title: "Leistbarkeitsoptionen"
 topics: []
-authors: ["afischer"]
+authors: ["sfanta", "afischer"]
 ---
 
 Leistbarkeitsptionen ermöglichen es, Verbrauchern hohe Strompreise zu ersparen, indem Erzeuger ihre Spitzengewinne abgeben und dafür im Gegenzug regelmäßige Zahlungen erhalten. Der Mechanismus verbindet soziale Entlastung mit Planungssicherheit für Anbieter.

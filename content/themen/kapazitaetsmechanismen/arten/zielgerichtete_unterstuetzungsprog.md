@@ -1,7 +1,7 @@
 ---
 title: "Zielgerichtete Unterstützungsprogramme"
 topics: []
-authors: ["afischer"]
+authors: ["sfanta", "afischer"]
 ---
 
 Zielgerichtete Unterstützungsprogramme ermöglichen die gezielte Förderung bestimmter Technologien – etwa erneuerbare Erzeugung, Speicher oder Nachfrageflexibilität. Sie verbinden Marktnähe mit planbarer Unterstützung und ergänzen Kapazitätsmechanismen punktuell.
