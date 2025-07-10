@@ -470,4 +470,3 @@ Sämtlichen hier genannten Limitationen sprechen tendenziell für eine <u>Über<
 (ECONSTOR)](https://www.econstor.eu/bitstream/10419/80348/1/757528015.pdf)
 
 [^7]: [Harmonised index of consumer prices (HICP)  
-(Eurostat)](https://doi.org/10.2908/PRC_HICP_AIND)
