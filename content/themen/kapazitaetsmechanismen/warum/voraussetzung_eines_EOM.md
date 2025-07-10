@@ -1,7 +1,7 @@
 ---
 title: "Vorraussetzungen eines reinen Energy Only Marktes" #Zuvor Missing Money - Qualitative Analyse
 topics: []
-authors: ["afischer"]
+authors: ["portmann", "afischer"]
 ---
 Ein reiner [Energy-Only-Markt]({{< ref "wissen/markt-energy-only/index.md" >}}) (EOM) kann Versorgungssicherheit gewährleisten – jedoch nur, wenn zentrale Marktbedingungen erfüllt sind. Diese Seite analysiert, welche ökonomischen Voraussetzungen bestehen müssen, damit Investitionen allein durch Marktpreise ausgelöst werden: vollkommener Wettbewerb, ausreichende Planungssicherheit sowie die Möglichkeit zur Bildung von Knappheitspreisen. Die theoretischen Grundlagen werden praxisnah eingeordnet und bewertet.
 

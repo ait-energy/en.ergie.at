@@ -1,7 +1,7 @@
 ---
 title: "Irland"
 topics: []
-authors: ["afischer"]
+authors: ["sfanta", "afischer"]
 ---
 
 <br>

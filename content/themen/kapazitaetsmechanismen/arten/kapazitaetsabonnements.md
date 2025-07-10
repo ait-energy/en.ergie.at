@@ -1,7 +1,7 @@
 ---
 title: "Kapazitätsabonnements"
 topics: []
-authors: ["afischer"]
+authors: ["sfanta", "afischer"]
 ---
 
 Kapazitätsabonnements geben Verbrauchern die Möglichkeit, ihr gewünschtes Maß an Versorgungssicherheit zu wählen – ähnlich wie bei Versicherungen. Durch feste Verträge erhalten sie Energie auch in Engpässen, während Anbieter Planungssicherheit gewinnen.

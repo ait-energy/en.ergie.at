@@ -1,7 +1,7 @@
 ---
 title: "Länder & Auktionen"
 topics: [] 
-authors: [afischer, sstroemer, dkrainer]
+authors: [afischer, sstroemer, dkrainer, sfanta]
 ---
 
 <!--

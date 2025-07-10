@@ -1,7 +1,7 @@
 ---
 title: "Marktweiter Kapazitätsmechanismus mit dezentraler Verpflichtung"
 topics: []
-authors: ["afischer"]
+authors: ["sfanta", "afischer"]
 ---
 
 <br>

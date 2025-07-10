@@ -1,7 +1,7 @@
 ---
 title: "Ausschreibungen für neue Kapazität"
 topics: []
-authors: ["afischer"]
+authors: ["sfanta", "afischer"]
 ---
 
 Ausschreibungen für neue Kapazitäten fördern gezielt Investitionen in zusätzliche Kapazität zur Gewährleistung der Versorgungssicherheit.

@@ -1,7 +1,7 @@
 ---
 title: "Litauen"
 topics: []
-authors: ["dkrainer"]
+authors: ["sfanta", "dkrainer"]
 ---
 <br>
 {{< alert >}}

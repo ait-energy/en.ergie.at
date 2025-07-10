@@ -1,7 +1,7 @@
 ---
 title: "Strategische Reserve"
 topics: []
-authors: ["afischer"]
+authors: ["sfanta", "afischer"]
 ---
 
 Strategische Reserven dienen der Versorgungssicherheit in Knappheitssituationen und werden außerhalb des Strommarkts vorgehalten.

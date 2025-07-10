@@ -2,7 +2,7 @@
 title: "Kroatien"
 description: "Add a short description here."
 topics: []
-authors: ["afischer"]
+authors: ["sfanta", "afischer"]
 ---
 
 <br>

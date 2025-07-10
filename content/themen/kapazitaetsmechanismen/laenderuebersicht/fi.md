@@ -1,7 +1,7 @@
 ---
 title: "Finnland"
 topics: []
-authors: ["afischer"]
+authors: ["sfanta", "afischer"]
 ---
 
 <br>

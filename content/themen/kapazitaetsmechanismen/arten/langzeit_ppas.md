@@ -1,7 +1,7 @@
 ---
 title: "Langzeit Power-Purchase-Agreements"
 topics: [] 
-authors: ["afischer"]
+authors: ["sfanta", "afischer"]
 ---
 
 Verträge zwischen Stromerzeugern und Käufern (wie Versorgungsunternehmen, Unternehmen oder Regierungen), bei denen der Erzeuger zustimmt, eine bestimmte Menge Strom zu einem vorher festgelegten Preis über einen längeren Zeitraum zu verkaufen, der oft zwischen 10 und 20 Jahren liegt.

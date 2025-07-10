@@ -1,7 +1,7 @@
 ---
 title: "Marktweiter Kapazitätsmechanismus mit zentralem Käufer" 
 topics: []
-authors: ["afischer"]
+authors: ["sfanta", "afischer"]
 ---
 
 <!-- Zusammenfassung hinzufügen falls es über Vorschau eingebunden wird -->

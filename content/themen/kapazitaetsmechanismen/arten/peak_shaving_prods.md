@@ -1,7 +1,7 @@
 ---
 title: "Peak Shaving Produkte"
 topics: []
-authors: ["afischer"]
+authors: ["sfanta", "afischer"]
 ---
 Ein Dienst oder eine Strategie, die den Stromverbrauch während Spitzenlastzeiten reduziert, typischerweise durch Lastmanagement oder DR Techniken.
 <!--more-->

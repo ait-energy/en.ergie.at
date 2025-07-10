@@ -1,7 +1,7 @@
 ---
 title: "Polen"
 topics: []
-authors: ["afischer"]
+authors: ["sfanta", "afischer"]
 ---
 
 <br>

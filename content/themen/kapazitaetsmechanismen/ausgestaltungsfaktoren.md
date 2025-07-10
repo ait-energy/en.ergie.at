@@ -1,7 +1,7 @@
 ---
 title: "Ausgestaltungsfaktoren von Kapazitätsmärkten"
 topics: []
-authors: ["afischer"]
+authors: ["afischer", "sfanta"]
 ---
 Kapazitätsmechanismen sind komplexe Instrumente zur Gewährleistung der Versorgungssicherheit in Strommärkten. Sie bestehen aus einer Vielzahl ineinandergreifender Elemente, deren Ausgestaltung erheblich variiert. Diese Seite bietet einen systematischen Überblick über zentrale Gestaltungsaspekte wie das [Auktionsdesign](#auktionsdesign), die [Definition und Zertifizierung von Kapazität](#kapazitätsdefinition), [Derating-Faktoren](#derating) sowie [vertragliche Rahmenbedingungen](#vertragsparameter). Darüber hinaus werden Fragen der [Vergütungsstruktur](#verguetungsstruktur), [Kostenallokation](#kostenallokation) und [institutionellen Zuständigkeiten](#governance) beleuchtet. Anhand konkreter Beispiele aus europäischen Ländern werden unterschiedliche Mechanismendesigns dargestellt, um ein besseres Verständnis für deren Aufbau, Funktionen und praktische Umsetzung zu ermöglichen.
 

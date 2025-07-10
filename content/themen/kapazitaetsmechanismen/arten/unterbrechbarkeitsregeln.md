@@ -1,7 +1,7 @@
 ---
 title: "Unterbrechbarkeitsregeln"
 topics: []
-authors: ["afischer"]
+authors: ["sfanta", "afischer"]
 ---
 
 Unterbrechbarkeitsregelungen ermöglichen eine kurzfristige Reduktion industrieller Lasten zur Stabilisierung des Stromnetzes. Großverbraucher stellen ihre Nachfrage flexibel bereit und können bei Netzengpässen auf Anforderung vom Netz genommen werden.
