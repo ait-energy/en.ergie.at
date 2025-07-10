@@ -343,7 +343,7 @@ Darüber hinaus wurden Annahmen zur CO<sub>2</sub>-Intensität der jeweiligen En
 | CO<sub>2</sub>-Intensität (kg CO<sub>2</sub> / GJ) | 50.3 | 88.3 |
 *Tabelle 5: Annahmen zur CO<sub>2</sub>-Intensität*
 
-Die nominalen Geldwerte hinsichtlich der Strom- und Commoditypreise wurden auf reale Werte 2024 angepasst, basierend auf den Inflationsdaten für Österreich laut des Harmonisierten Verbraucherpreisindex (<abbr title="Harmonised Index of Consumer Prices (harmonisierter Verbraucherpreisindex)">HICP</abbr>) von Eurostat[^7].
+Die nominalen Geldwerte hinsichtlich der Strom- und Brennstoffpreise wurden auf reale Werte 2024 angepasst, basierend auf den Inflationsdaten für Österreich laut des Harmonisierten Verbraucherpreisindex (<abbr title="Harmonised Index of Consumer Prices (harmonisierter Verbraucherpreisindex)">HICP</abbr>) von Eurostat[^7].
 
 <table>
   <caption style="caption-side: bottom; text-align: left;">
