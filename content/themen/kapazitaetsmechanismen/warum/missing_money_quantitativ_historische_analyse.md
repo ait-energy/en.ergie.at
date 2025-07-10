@@ -276,7 +276,7 @@ Um einen adäquaten Unsicherheitsbereich in die Analyse aufzunehmen, wurden säm
   </tbody>
 </table>
 
-Tabelle 4 zeigt die Annahmen zur Effizienz und der Lebensdauer. Auch hier wurden die Werte der ursprünglichen Quellen um +/- 1% (Effizienz) und +/-2 Jahre (Lebensdauer) variiert.
+Tabelle 4 zeigt die Annahmen zur Effizienz und der Lebensdauer. Auch hier wurden die Werte der ursprünglichen Quellen um &#177;1% (Effizienz) und &#177;2 Jahre (Lebensdauer) variiert.
 
 <table class="grouped">
   <caption style="caption-side: bottom; text-align: left; font-style: italic;">
