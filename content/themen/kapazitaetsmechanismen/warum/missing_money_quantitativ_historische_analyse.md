@@ -39,7 +39,7 @@ Die variablen Brennstoffkosten ergeben sich auf Basis von Effizienz, Preis des B
   </span>
 </p>
 
-Dabei wurde ein optimaler Kraftwerkseinsatz unterstellt, d.h. sobald der Strompreis die Grenzkosten übersteigt, erzeugt das Kraftwerk mit der vollen Kapazität. Wenn der Strompreis unterhalb der Grenzkosten liegt, erfolgt kein Kraftwerkseinsatz. Es wird somit ideale Flexibilität unterstellt und von Rampen sowie minimal stabile Leistungsabgabe abstrahiert. Die Analyse erfolgt auf historischer Basis für die Jahre 2015-2024.
+Dabei wurde ein optimaler Kraftwerkseinsatz unterstellt, d.h. sobald der Strompreis die Grenzkosten übersteigt, erzeugt das Kraftwerk mit der vollen Kapazität. Wenn der Strompreis unterhalb der Grenzkosten liegt, erfolgt kein Kraftwerkseinsatz. Es wird somit ideale Flexibilität unterstellt und auf die Berücksichtigung von Rampen sowie minimal, erforderliche Einspeiseleistung verzichtet. Die Analyse erfolgt auf historischer Basis für die Jahre 2015-2024.
 
 ## 2. Annahmen und Eingangsgrößen
 
