@@ -25,7 +25,7 @@ Zur Modellierung des stündlichen Kraftwerkseinsatzes wurden zwei verschiedene A
 
 Grenzkosten = Variable <abbr title="Operations & Maintenance (Betrieb und Instandhaltung)">O&M</abbr> Kosten + Variable Brennstoffkosten
 
-Die Variable Costs Fuel ergeben sich auf Basis von Effizienz, Commodity Preis, CO<sub>2</sub>-Intensität und Preis für CO<sub>2</sub>-Zertifikate:
+Die variablen Brennstoffkosten ergeben sich auf Basis von Effizienz, Preis des Brennstoffes, CO<sub>2</sub>-Intensität und Preis für CO<sub>2</sub>-Zertifikate:
 
 <p>
   Variable Brennstoffkosten =
