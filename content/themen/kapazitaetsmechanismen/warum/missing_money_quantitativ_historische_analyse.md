@@ -463,4 +463,4 @@ Sämtlichen hier genannten Limitationen sprechen tendenziell für eine <u>Über<
 
 [^6]: [Current and prospective costs of electricity generation until 2050<br>(Deutsches Institut für Wirtschaftsforschung)](https://www.econstor.eu/bitstream/10419/80348/1/757528015.pdf)
 
-[^7]: [Harmonised index of consumer prices (HICP)  
+[^7]: [Harmonised index of consumer prices (HICP)<br>(ec.europa.eu/eurostat/)](https://doi.org/10.2908/PRC_HICP_AIND)
