@@ -84,7 +84,7 @@ Des Weiteren wurden generische Annahmen bezüglich der Investitions- und Betrieb
     <tr>
       <td>Kohle</td>
       <td>Fraunhofer</td>
-      <td>Werte für ‚Steinkohle‘ herangezogen</td>
+      <td>Werte für Steinkohle herangezogen</td>
     </tr>
     <tr>
       <td><abbr title="Gasturbine">GT</abbr> Wasserstoff</td>
