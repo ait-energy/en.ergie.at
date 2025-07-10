@@ -1,7 +1,7 @@
 ---
 title: "Frankreich"
 topics: []
-authors: ["afischer"]
+authors: ["sfanta", "afischer"]
 ---
 
 <br>
