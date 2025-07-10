@@ -15,7 +15,7 @@ Der folgende Abschnitt beschäftigt sich mit der Frage, ob bestehende Kraftwerks
 - Kohle
 - Speicherwasserkraft
 - Laufwasserkraft
-- Solar PV
+- Photovoltaik
 - Windkraft (Onshore)
 
 Zur Beurteilung der Wirtschaftlichkeit wurden die gesamten Kosten (variable und fixe Kosten der Erzeugung auf Basis historischer Marktdaten und Kostenannahmen) den Erlösen (Kraftwerkseinsatz und Marktpreise) gegenübergestellt. Um der großen Unsicherheit hinsichtlich der Annahmen gerecht zu werden, wurden für alle Annahmen Szenarien generiert und die Höhe der Parameter variiert.
