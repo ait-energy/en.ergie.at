@@ -1,7 +1,7 @@
 ---
 title: "Schlussfolgerungen"
 topics: [] 
-authors: ["afischer"]
+authors: ["sfanta", "afischer"]
 ---
 
 Diese Seite zieht Schlussfolgerungen zur Ausgestaltung von Kapazitätsmechanismen auf Basis zentraler Analysefelder: Investitions- und Verfügbarkeitsanreize, Effizienz und Systemkosten, Marktverzerrungen, Klima- und Technologieneutralität sowie europäische Wechselwirkungen. Sie diskutiert, wie das Missing-Money-Problem adressiert werden kann und welche Anforderungen sich daraus für Vertragslaufzeiten, Auktionsdesign und Sekundärmärkte ergeben. Die Bewertung betont, dass Kapazitätsmechanismen differenziert und kontextabhängig eingesetzt werden sollten, um Versorgungssicherheit und Marktstabilität effizient zu sichern.

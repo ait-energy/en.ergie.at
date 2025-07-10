@@ -1,7 +1,7 @@
 ---
 title: "Erfolgsfaktoren von Kapazitätsmechanismen"
 topics: []
-authors: ["afischer"]
+authors: ["sfanta", "afischer"]
 ---
 
 Was macht einen Kapazitätsmechanismus erfolgreich?
