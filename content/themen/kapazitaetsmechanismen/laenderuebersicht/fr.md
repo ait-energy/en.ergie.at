@@ -11,7 +11,12 @@ Wir arbeiten gerade an diesem Artikel. Informationen können unvollständig oder
 
 ## Aktuelle Entwicklungen
 
-Frankreich plant die Umstellung des dezentralen Kapazitätsmarkts auf einen zentralen Kapazitätsmarkt, der 2026 in Kraft treten soll und von der EPEX Spot betrieben wird [^Zitat_Philippe].
+Frankreich plant die Umstellung des dezentralen Kapazitätsmarkts auf einen zentralen Kapazitätsmarkt, der 2026 in Kraft treten und folgende Charakteristika aufweisen soll:
+
+- **Zentralisiertes System mit Kapazitätsverpflichtungen**: <abbr title="Réseau de Transport d'Electricité">RTE</abbr> übernimmt künftig die zentrale Rolle als Vertragspartner und organisiert Auktionen zur Volumenbeschaffung (MW) für den Winterzeitraum (November–März). Die bezugschlagten Kapazitäten verpflichten sich vertraglich zu den Spitzenzeiten verfügbar zu sein und bekommen im Gegenzug eine gesicherte Prämie.[^3]
+- **2 Hauptauktionen und ein sekundärer Marktplatz**: Es finden zwei Hauptauktionen mit unterschiedlichen Vorlaufzeiten statt, eine langfristig (Jahre) vor dem Lieferzeitraum und eine kurzfristig (Monate) davor. Kapazitätsverpflichtungen sollen zudem auf einem sekundären Markt zwischen den Teilnehmern handelbar sein.[^3]
+- **Kostenumlage über Steuer**: Die Auktionskosten werden über eine durch <abbr title="Réseau de Transport d'Electricité">RTE</abbr> erhobene Steuer auf Stromlieferanten und Endkunden die ihren Bedarf direkt an der Strombörse kaufen verteilt. Die Steuer ist dabei proportional zum jeweiligen Handelsvolumen in den Spitzenzeiten des Lieferzeitraums.[^3]
+- **Integration des bestehenden <abbr title="l’appel d’offres long-terme">AOLT</abbr>-System**: Das bestehende <abbr title="l’appel d’offres long-terme">AOLT</abbr> Kapazitäten werden als mehrjährige Vertragskapazitäten in das neue Modell integriert.[^3]
 
 ## Ausschreibungen für neue Kapazitäten (AOLT)
 
@@ -54,5 +59,8 @@ Kapazitätsanbieter erzielen Erlöse durch den Handel ihrer Zertifikate, die nac
 [^1]: [Responding to the call for tenders for new capacities<br>(services-rte.com)](https://www.services-rte.com/en/learn-more-about-our-services/participate-in-the-capacity-mechanism/call-for-tenders-for-new-capacities.html)
 
 [^2]: [UFE response to ACER consultation on prioritising the removal of barriers to electricity demand response<br>(UFE)](https://ufe-electricite.fr/wp-content/uploads/2024/02/2024-02-02_Response-to-ACER-consultation_Barriers-on-demand-response.pdf)
+
+[^3]: [Prepare for the new capacity mechanism<br>
+(RTE)](https://www.services-rte.com/en/learn-more-about-our-services/prepare-for-the-new-capacity-mechanism.html)
 
 [^Zitat_Philippe]: Projektinterne Diskussion in [TeKaVe](https://en.ergie.at/projekte/tekave/).
