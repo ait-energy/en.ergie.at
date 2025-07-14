@@ -11,7 +11,7 @@ Wir arbeiten gerade an diesem Artikel. Informationen können unvollständig oder
 
 ## Aktuelle Entwicklungen
 
-Frankreich plant die Umstellung des dezentralen Kapazitätsmarkts auf einen zentralen Kapazitätsmarkt, der 2026 in Kraft treten und folgende Charakteristika aufweisen soll:
+Frankreich plant die Umstellung vom dezentralen auf einen zentralen Kapazitätsmarkt, der ab 2026 in Kraft treten und von EPEX betrieben werden soll.[^Zitat_Philippe] Der neue Kapazitätsmarkt soll folgende Merkmale aufweisen:
 
 - **Zentralisiertes System mit Kapazitätsverpflichtungen**: <abbr title="Réseau de Transport d'Electricité">RTE</abbr> übernimmt künftig die zentrale Rolle als Vertragspartner und organisiert Auktionen zur Volumenbeschaffung (MW) für den Winterzeitraum (November–März). Die bezugschlagten Kapazitäten verpflichten sich vertraglich zu den Spitzenzeiten verfügbar zu sein und bekommen im Gegenzug eine gesicherte Prämie.[^3]
 - **2 Hauptauktionen und ein sekundärer Marktplatz**: Es finden zwei Hauptauktionen mit unterschiedlichen Vorlaufzeiten statt, eine langfristig (Jahre) vor dem Lieferzeitraum und eine kurzfristig (Monate) davor. Kapazitätsverpflichtungen sollen zudem auf einem sekundären Markt zwischen den Teilnehmern handelbar sein.[^3]
