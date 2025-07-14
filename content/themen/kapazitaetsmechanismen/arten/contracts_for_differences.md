@@ -1,7 +1,7 @@
 ---
 title: "Contracts for Differences"
 topics: []
-authors: ["afischer"]
+authors: ["sfanta", "afischer"]
 ---
 
 Contracts for Difference (<abbr title="Contract for Difference">CfD</abbr>) erhöhen die Planungssicherheit der Produzenteneinnahmen, indem sie Marktpreisabweichungen ausgleichen: Liegt der Marktpreis unter dem Vertragspreis, zahlt der vertragspartner die Differenz – liegt er darüber, fließt die Differenz vom Produzenten zurück.

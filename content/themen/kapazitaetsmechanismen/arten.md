@@ -1,7 +1,7 @@
 ---
 title: "Arten von Kapazitätsmechanismen"
 topics: []
-authors: ["afischer", "dkrainer"]
+authors: ["sfanta", "afischer", "dkrainer"]
 ---
 
 Um ausreichende Kapazitäten für eine zuverlässige Stromversorgung sicherzustellen, wurden verschiedene Arten von Kapazitätsmechanismen entwickelt. Allgemein unterscheidet man zwischen gezielten Mechanismen (z. B. strategische Reserven), die nur ausgewählte Kraftwerke umfassen, und marktweiten Mechanismen, an denen alle Kapazitätsanbieter teilnehmen können. Zusätzlich lässt sich differenzieren, ob bei diesen Mechanismen der Preis oder die Kapazitätsmenge zentral festgelegt wird, während sich der jeweils andere Faktor am Markt bildet. Dieser Abschnitt bietet eine detaillierte Übersicht über die verschiedenen Arten, ihre Funktionsweise und die jeweiligen Vor- und Nachteile.

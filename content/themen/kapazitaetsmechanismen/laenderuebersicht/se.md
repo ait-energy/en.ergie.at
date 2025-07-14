@@ -1,7 +1,7 @@
 ---
 title: "Schweden"
 topics: []
-authors: ["afischer", "dkrainer"]
+authors: ["sfanta", "afischer", "dkrainer"]
 ---
 
 <br>

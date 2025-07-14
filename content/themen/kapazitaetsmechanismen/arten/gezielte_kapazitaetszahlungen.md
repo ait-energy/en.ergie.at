@@ -1,7 +1,7 @@
 ---
 title: "Gezielte Kapazitätszahlungen"
 topics: []
-authors: ["afischer"]
+authors: ["sfanta", "afischer"]
 ---
 
 Gezielte Kapazitätszahlungen setzen auf finanzielle Anreize für bestimmte Anlagen, um spezifische Probleme zu lösen, wie

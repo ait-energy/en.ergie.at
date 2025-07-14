@@ -2,7 +2,7 @@
 title: "Kapazitätsmechanismen"
 description: "Add a short description here."
 topics: []
-authors: ["afischer"]
+authors: ["afischer", "sfanta"]
 ---
 
 Versorgungssicherheit ist heute wichtiger denn je: Steigende Anteile erneuerbarer Energien, hohe Preisvolatilität und geopolitische Risiken stellen den Strommarkt vor große Herausforderungen. Kapazitätsmechanismen können hier den [Energy-Only-Markt]({{< ref "wissen/markt-energy-only/index.md" >}}) (<abbr title="Energy-Only-Markt">EOM</abbr>) ergänzen und langfristige Investitionsanreize für ausreichende Kapazitäten fördern, um eine zuverlässige Stromversorgung zu gewährleisten.

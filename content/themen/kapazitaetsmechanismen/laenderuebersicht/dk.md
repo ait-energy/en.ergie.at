@@ -1,7 +1,7 @@
 ---
 title: "Dänemark"
 topics: []
-authors: ["dkrainer"]
+authors: ["sfanta", "dkrainer"]
 ---
 
 <br>

@@ -1,7 +1,7 @@
 ---
 title: "Kombinierter Kapazitätsmarkt"
 topics: []
-authors: ["afischer"]
+authors: ["sfanta", "afischer"]
 ---
 
 Der kombinierte Kapazitätsmarkt (<abbr title="Kombinierter Kapazitätsmarkt">KKM</abbr>) ist ein theoretischer
