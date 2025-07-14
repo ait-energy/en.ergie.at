@@ -3,7 +3,19 @@ title: "Gesetzentwurf: Clean Industrial Deal State Aid Framework"
 type: literature
 literature: [Gesetzentwurf, Kapazitätsmechanismen]
 authors: [dkrainer, sstroemer]
+
+bib:
+  type: Gesetzentwurf
+  author: Europäische Kommission
+  date: 2025-03-11
+  description: |
+    Das Dokument stellt einen Entwurf des "Clean Industrial State Aid Framework" (CISAF) vor - einen EU‑Rahmen bis Ende
+    2030, der darauf abzielt, staatliche Beihilfen zu vereinfachen, um erneuerbare Energien, industrielle
+    Dekarbonisierung, saubere Produktionstechnologien und private Investitionen zu fördern und beschreibt wie
+    Mitgliedstaaten schnell und gezielt Klimainvestitionen unterstützen können.
+
 ---
+
 
 ## Überblick
 

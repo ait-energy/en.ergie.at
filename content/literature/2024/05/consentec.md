@@ -3,6 +3,17 @@ title: "Ausarbeitung eines Kapazitätsmechanismus für den deutschen Strommarkt"
 type: literature
 literature: [Studie, Kapazitätsmechanismen]
 authors: [dkrainer, sstroemer]
+
+bib:
+  type: Studie
+  author: Consentec
+  date: 2024-05-15
+  description: |
+    Dieses Dokument untersucht die Ausarbeitung eines technologieoffenen Kapazitätsmechanismus für den deutschen
+    Strommarkt – mit Fokus auf Versorgungssicherheit angesichts steigender Stromnachfrage, Ausbau erneuerbarer Energien
+    und Rückgang konventioneller Kraftwerke, einschließlich Designoptionen, EU-rechtskonformen Anreizen für neue Anlagen
+    sowie umfassender rechtlicher Bewertung.
+
 ---
 
 ## Überblick

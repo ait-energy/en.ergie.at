@@ -3,6 +3,16 @@ title: "Bewertung der Möglichkeiten zur Straffung und Vereinfachung des Verfahr
 type: literature
 literature: [Bericht, Kapazitätsmechanismen]
 authors: [dkrainer, sstroemer]
+
+bib:
+  type: Bericht
+  author: Europäische Kommission
+  date: 2025-03-03
+  description: |
+    Das Dokument ist ein Kommissionsbericht, der Möglichkeiten zur Straffung und Vereinfachung des Verfahrens zur
+    Umsetzung von Kapazitätsmechanismen gemäß Kapitel IV der Verordnung (EU) 2019/943 bewertet und entsprechende
+    Vorschläge enthält.
+
 ---
 
 ## Überblick

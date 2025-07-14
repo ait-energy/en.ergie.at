@@ -1,0 +1,81 @@
+{{ $topic := .Get 0 }}
+
+{{ $pages := slice }}
+{{ $tmp := where (where .Site.Pages "Params.bib" "!=" nil) "Params.type" "literature" }}
+{{ range $tmp }}
+  {{ if (in .Params.literature $topic) }}
+    {{ $pages = $pages | append . }}
+  {{ end }}
+{{ end }}
+
+{{- $dates := slice -}}
+{{- range $pages -}}
+  {{- with .Params.bib.date -}}
+    {{- $dates = $dates | append ((time .).Format "2006-01") -}}
+  {{- end -}}
+{{- end -}}
+{{- $dates := $dates | uniq -}}
+
+{{ range $y := seq 2100 1900 }}
+  {{/* First, check if the year has any entries. */}}
+  {{ $hasYear := false }}
+  {{ $yStr := printf "%04d-" $y }}
+
+  {{ range $d := $dates }}
+    {{ if strings.HasPrefix $d $yStr }}
+      {{ $hasYear = true }}
+    {{ end }}
+  {{ end }}
+
+  {{ if not $hasYear }}
+    {{ continue }}
+  {{ end }}
+
+  {{/* Here we add the H2 header for the year. */}}
+  <h2>{{ $y }}</h2>
+
+  {{ range $m := seq 12 1 }}
+    {{ $date_sel := (printf "%04d-%02d" $y $m) }}
+
+    {{ if in $dates $date_sel }}
+        {{/* Here, we add the H3 header for the month. */}}
+        {{ $key := (printf "months.translation.%d" $m) }}
+        {{ $monthName := i18n $key }}       
+        <h3>{{ $monthName }}</h3>
+
+        {{/*
+        // =============================================================================================================
+        // === BEGIN: The actual insertion of the articles for the month.
+        // =============================================================================================================
+        */}}
+
+        {{ range $pages }}
+            {{ if and (eq (.Params.bib.date | time.Format "2006-01") $date_sel) }}
+                <div class="border border-neutral-200 dark:border-neutral-700 shadow-lg" style="border-width: 1px; border-radius: 5px; cursor: pointer; padding: 1em; margin-bottom: 2em;" onclick="window.open({{ .RelPermalink }},'_blank');return false;">
+                    <h4 class="text-neutral-800 decoration-primary-500 hover:underline hover:underline-offset-2 dark:text-neutral" style="margin-bottom: 0.25em; margin-top: 0;">{{ .Title }}</h3>
+
+                    <div class="text-sm text-neutral-500 dark:text-neutral-400">
+                        <span class="rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400" style="cursor: pointer;">
+                            {{ .Params.bib.type }}
+                        </span>
+                        <span class="px-2 text-primary-500">·</span>
+                        {{ .Params.bib.date | time.Format ":date_medium" }}
+                        <span class="px-2 text-primary-500">·</span>
+                        {{ .Params.bib.author }}
+                    </div>
+
+                    <div class="py-1 max-w-fit prose dark:prose-invert">
+                        {{ .Params.bib.description }}
+                    </div>
+                </div>
+            {{ end }}
+        {{ end }}
+        
+        {{/*
+        // =============================================================================================================
+        // === END: The actual insertion of the articles for the month.
+        // =============================================================================================================
+        */}}
+    {{ end }}
+  {{ end }}
+{{ end }}

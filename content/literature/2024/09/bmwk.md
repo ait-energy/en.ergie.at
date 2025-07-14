@@ -3,6 +3,17 @@ title: "Strommarktdesign der Zukunft"
 type: literature
 literature: [Positionspapier, Kapazitätsmechanismen]
 authors: [dkrainer, sstroemer]
+
+bib:
+  type: Positionspapier
+  author: Bundesministerium für Wirtschaft und Klimaschutz der Bundesrepublik Deutschland
+  date: 2024-09-04
+  description: |
+    Dieses Dokument präsentiert verschiedene gestaltungsrelevante Ansätze für ein künftiges Strommarktdesign in
+    Deutschland - mit dem Ziel, ein sicheres, bezahlbares und nachhaltiges strombasiertes Energiesystem zu
+    gewährleisten, das Funktionen wie erneuerbare Integration, Flexibilität, Investitionsanreize und
+    Infrastrukturkoordination umfassend adressiert.
+
 ---
 
 ## Überblick

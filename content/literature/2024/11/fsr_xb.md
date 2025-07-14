@@ -3,6 +3,14 @@ title: "Grenzüberschreitende Teilnahme: Eine trügerische Hoffnung zur Behebung
 type: literature
 literature: [Studie, Kapazitätsmechanismen]
 authors: [dkrainer, sstroemer]
+
+bib:
+  type: Studie
+  author: Florence School of Regulation
+  date: 2024-11-22
+  description: |
+    In diesem Dokument wird explizite und implizite grenzüberschreitende Teilnahme in Kapazitätsmärkten anhand eines Equilibriummodells und drei Gebotszonen untersucht. Die Autoren kommen zu dem Schluss, dass explizite grenzüberschreitende Teilnahme nicht die gewünschten Effekte hat und schlagen stattdessen vor, implizite Teilnahme kurzfristig zuzulassen und langfristig die Kapazitätsmärkte auf europäischer Ebene zu harmonisieren, um grenzüberschreitende Effekte zu vermeiden.
+
 ---
 
 ## Überblick

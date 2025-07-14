@@ -3,6 +3,16 @@ title: "Studie Kapazitätsmarkt Österreich"
 type: literature
 literature: [Studie, Kapazitätsmechanismen]
 authors: [dkrainer, sstroemer]
+
+bib:
+  type: Studie
+  author: Fraunhofer ISI
+  date: 2025-04-16
+  description: |
+    Das Dokument schlägt einen kombinierten Kapazitätsmarkt für Österreich vor, der dezentrale Unterstützung für
+    Bestandskraftwerke und zentral organisierte Ausschreibungen für Neuanlagen kombiniert, um Versorgungssicherheit und
+    Investitionsstabilität zu gewährleisten.
+
 ---
 
 ## Überblick

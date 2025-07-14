@@ -3,6 +3,16 @@ title: "Überblick zur Ausgestaltung eines kombinierten Kapazitätsmarkts"
 type: literature
 literature: [Studie, Kapazitätsmechanismen]
 authors: [dkrainer, sstroemer]
+
+bib:
+  type: Studie
+  author: Consentec, energy consulting und Öko-Institut e.V.
+  date: 2024-09-10
+  description: |
+    Das Dokument stell ein Konzept für einen kombinierten Kapazitätsmarkt (KKM) vor - ein hybrides Modell aus zentraler
+    Ausschreibung für Investitionssicherheit und dezentralem Zertifikatehandel zur Einbindung flexibler Lasten und
+    Speicherung, angepasst an die Energiewende.
+
 ---
 
 ## Überblick

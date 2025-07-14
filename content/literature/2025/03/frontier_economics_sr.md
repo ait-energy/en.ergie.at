@@ -3,6 +3,13 @@ title: "Kurzanalyse zum Beitrag von Reservekraftwerken im Strommarkt"
 type: literature
 literature: [Präsentation, Kapazitätsmechanismen]
 authors: [dkrainer, sstroemer]
+
+bib:
+  type: Präsentation
+  author: Frontier Economics
+  date: 2025-03-31
+  description: |
+    Dieses Dokument analysiert den Vorschlag der deutschen Bundesregierung, Reservekraftwerke zur Stabilisierung der Strompreise einzusetzen, mit Blick auf die Auswirkungen auf Großhandelsstrompreise und Investitionsanreize.  
 ---
 
 ## Überblick

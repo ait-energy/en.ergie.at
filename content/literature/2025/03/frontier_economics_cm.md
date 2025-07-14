@@ -3,6 +3,13 @@ title: "Wie geht es weiter bei Kraftwerksstrategie und Kapazitätsmarkt?"
 type: literature
 literature: [Präsentation, Kapazitätsmechanismen]
 authors: [dkrainer, sstroemer]
+
+bib:
+  type: Präsentation
+  author: Frontier Economics
+  date: 2025-03-15
+  description: |
+    Dieses Dokument bietet einen Überblick über die bisherige Diskussion zur Einführung der Kraftwerksstrategie und eines Kapazitätsmarkts in Deutschland und analysiert, in welche Richtung sich beide Konzepte unter der neuen Bundesregierung entwickeln könnten.
 ---
 
 ## Überblick

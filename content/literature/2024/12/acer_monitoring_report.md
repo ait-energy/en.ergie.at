@@ -3,6 +3,14 @@ title: "Sicherheit der Stromversorgung in der EU"
 type: literature
 literature: [Bericht, Kapazitätsmechanismen]
 authors: [dkrainer, sstroemer]
+
+bib:
+  type: Bericht
+  author: ACER
+  date: 2024-12-16
+  description: |
+    Dieses Dokument stellt den jährlichen Bericht zur Stromversorgungssicherheit in der EU dar und analysiert, wie das europäische Ressourcenadäquanz-Rahmenwerk von Mitgliedstaaten und ENTSO-E umgesetzt wird. Es liefert aktuelle Einblicke in nationale Maßnahmen zur Absicherung der Stromversorgung – insbesondere Kapazitätsmechanismen – und bewertet deren Beitrag zur Förderung nicht-fossiler Flexibilität. Zudem prüft der Bericht, ob diese Maßnahmen mit den europäischen Zielsetzungen in den Bereichen Dekarbonisierung und bezahlbare Energie vereinbar sind.
+
 ---
 
 ## Überblick

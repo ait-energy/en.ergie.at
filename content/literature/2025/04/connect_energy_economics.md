@@ -3,6 +3,16 @@ title: "Die Ausgestaltung der Absicherungspflicht"
 type: literature
 literature: [Studie, Kapazitätsmechanismen]
 authors: [dkrainer, sstroemer]
+
+bib:
+  type: Studie
+  author: Connect Energy Economics
+  date: 2025-04-08
+  description: |
+    Das Dokument analysiert, wie durch die Einführung und konkrete Ausgestaltung einer "Absicherungspflicht" im
+    Strommarkt - im Unterschied zu staatlichen Kapazitätssubventionen – marktwirtschaftlich Versorgungssicherheit
+    gefördert und Risikoexternalitäten internalisiert werden können.
+    
 ---
 
 ## Überblick

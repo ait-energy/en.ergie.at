@@ -3,6 +3,14 @@ title: "Eine einfache Lösung zur Harmonisierung von Kapazitätsmärkten"
 type: literature
 literature: [Positionspapier, Kapazitätsmechanismen]
 authors: [dkrainer, sstroemer]
+
+bib:
+  type: Positionspapier
+  author: Florence School of Regulation
+  date: 2024-11-22
+  description: |
+    In diesem Dokument wird die Verpflichtung in einem Kapazitätsmechanismus, explizite grenzüberschreitende Teilnahme zu ermöglichen, untersucht und deren Wirksamkeit bei der Minderung grenzüberschreitender Effekte infrage gestellt. Die Autoren schlagen vor, diese Anforderung kurzfristig durch implizite Teilnahme zu ersetzen, was einfacher umzusetzen ist und vergleichbare Vorteile bietet.
+
 ---
 
 ## Überblick

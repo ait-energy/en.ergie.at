@@ -3,6 +3,16 @@ title: "Kombinierter Kapazitätsmarkt - eine Analyse der Vor- und Nachteile"
 type: literature
 literature: [Studie, Kapazitätsmechanismen]
 authors: [dkrainer, sstroemer]
+
+bib:
+  type: Studie
+  author: Frontier Economics
+  date: 2024-11-14
+  description: |
+    Die Kurzstudie bewertet das Konzept des "Kombinierten Kapazitätsmarkts" (KKM), prüft dessen praktische Vor‑ und
+    Nachteile und gelangt zu dem Ergebnis, dass die politischen Erwartungen an den Mechanismus voraussichtlich nicht
+    erfüllt werden.
+
 ---
 
 ## Überblick

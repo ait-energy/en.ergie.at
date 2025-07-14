@@ -3,6 +3,14 @@ title: "Die Rolle von Kapazitätsmechanismen für eine sichere und wettbewerbsf�
 type: literature
 literature: [Positionspapier, Kapazitätsmechanismen]
 authors: [dkrainer, sstroemer]
+
+bib:
+  type: Positionspapier
+  author: ENTSO-E
+  date: 2025-04-16
+  description: |
+    Dieses Dokument untersucht die sich wandelnde Rolle von Kapazitätsmechanismen in den europäischen Strommärkten, beleuchtet die damit verbundenen gestalterischen Herausforderungen und präsentiert evidenzbasierte Empfehlungen - mit dem Ziel, Versorgungssicherheit, Markteffizienz, Dekarbonisierung und grenzüberschreitende Integration im Rahmen der Energiewende sicherzustellen.
+
 ---
 
 ## Überblick

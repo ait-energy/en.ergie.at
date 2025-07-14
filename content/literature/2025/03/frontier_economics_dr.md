@@ -3,6 +3,15 @@ title: "Einbindung von dezentraler Flexibilität in einen integrierten Kapazitä
 type: literature
 literature: [Studie, Kapazitätsmechanismen]
 authors: [dkrainer, sstroemer]
+
+bib:
+  type: Studie
+  author: Frontier Economics
+  date: 2025-03-17
+  description: |
+    Das Dokument untersucht, wie dezentrale Flexibilität (Speicher, Lastmanagement) mittels Anreiz-, Auktions‑ und
+    Regulierungsdesign effektiv in einen integrierten Kapazitätsmarkt (IKM) eingebunden werden kann.
+
 ---
 
 ## Überblick
