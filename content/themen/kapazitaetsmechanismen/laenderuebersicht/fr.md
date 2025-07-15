@@ -60,6 +60,6 @@ Kapazitätsanbieter erzielen Erlöse durch den Handel ihrer Zertifikate, die nac
 
 [^2]: [UFE response to ACER consultation on prioritising the removal of barriers to electricity demand response<br>(UFE)](https://ufe-electricite.fr/wp-content/uploads/2024/02/2024-02-02_Response-to-ACER-consultation_Barriers-on-demand-response.pdf)
 
-[^3]: [Prepare for the new capacity mechanism<br>
+[^3]: [Prepare for the new capacity mechanism<br>(services-rte.com)](https://www.services-rte.com/en/learn-more-about-our-services/prepare-for-the-new-capacity-mechanism.html)
 
 [^Zitat_Philippe]: Projektinterne Diskussion in [TeKaVe](https://en.ergie.at/projekte/tekave/).
