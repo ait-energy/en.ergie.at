@@ -72,6 +72,39 @@ Kapazitätsanbieter erzielen Erlöse durch den Handel ihrer Zertifikate, die nac
 ## Auktionsergebnisse
 {{< timeline >}}
 
+{{< timelineItem icon="rss" header="Frankreich (Dezentraler KM)" >}}
+<div style="border-left: 4px solid #999999; padding-left: 1em; margin-bottom: 1.5em;">
+  <a href="https://www.epexspot.com/en/market-results?market_area=&auction=&trading_date=0&delivery_date=&underlying_year=0&modality=Capacity&sub_modality=&technology=&data_mode=table&period=&production_period=">
+    <b>Bericht: <u>Auktionen für das Lieferjahr 2026</u></b>
+  </a>
+  <br>
+  <details>
+    <summary><span style="cursor: pointer; font-weight: 500;">Zusammenfassung anzeigen</span></summary><i>
+      Für das Lieferjahr 2026 fanden bisher fünf Auktionen statt. Zuletzt wurden am 19.06.2025 insgesamt 26.531 Kapazitätszertifikate für einen Preis von je 329,99&nbsp;€ auktioniert. Zuvor fand am 22.05.2025 eine Auktion statt, bei der 27.084 Zertifikate zu einem Preis von 364,62&nbsp;€ den Zuschlag erhielten. Im Vorjahr 2024 kam es zu drei Auktionen: Am 05.12.2024 wurden 42.036 Zertifikate zu einem Preis von 252,18&nbsp;€ vergeben, am 24.10.2024 waren es 29.652 Stück zu 354,02&nbsp;€, und am 25.04.2024 schließlich 28.509 Zertifikate zu einem Preis von 1.553,81&nbsp;€. Weitere Auktionen sind laut <a href="https://www.epexspot.com/sites/default/files/download_center_files/Calendar%202025%20French%20Capacity%20Auctions.pdf" target="_blank">EPEX Auktionskalender</a> für den 18.09.2025, 23.10.2025 und 04.12.2025 geplant.
+    </i>
+  </details>
+</div>
+
+<div style="border-left: 4px solid #999999; padding-left: 1em; margin-bottom: 1.5em;">
+  <a href="https://www.epexspot.com/en/market-results?market_area=&auction=&trading_date=0&delivery_date=&underlying_year=0&modality=Capacity&sub_modality=&technology=&data_mode=table&period=&production_period=">
+    <b>Bericht: <u>Auktionen für das Lieferjahr 2025</u></b>
+  </a>
+  <br>
+  <details>
+    <summary><span style="cursor: pointer; font-weight: 500;">Zusammenfassung anzeigen</span></summary><i>
+    Die bislang letzte Auktion für das Lieferjahr 2025 fand am 19.06.2025 statt. Dabei wurden 19.605 Kapazitätszertifikate zu einem Preis von je 3,90&nbsp;€ versteigert. Im Jahr 2024 gab es drei weitere Auktionen: Am 05.12.2024 wurden 102.777 Zertifikate zum Preis von 0,00&nbsp;€ zugeteilt, am 24.10.2024 waren es 40.924 Stück zu 619,16&nbsp;€, und am 25.04.2024 schließlich 41.653 Zertifikate für 1.999,96&nbsp;€ pro Stück.
+    </i>
+  </details>
+</div>
+Aktuelle Auktionsergebnisse sind auf <a href="https://www.epexspot.com/en/market-results?market_area=&auction=&trading_date=0&delivery_date=&underlying_year=0&modality=Capacity&sub_modality=&technology=&data_mode=table&period=&production_period=" target="_blank">epexspot.com</a>
+ verfügbar.
+{{< /timelineItem >}}
+
+{{< /timeline >}}
+
+
+{{< timeline >}}
+
 {{< timelineItem icon="rss" header="Frankreich (AOLT)" badge="Auktionsjahr 2019" >}}
 <div style="border-left: 4px solid #999999; padding-left: 1em; margin-bottom: 1.5em;">
   <a href="https://www.services-rte.com/files/live/sites/services-rte/files/pdf/MECAPA/Rapport-analyse-AOLT-2019.pdf"><b>Bericht: <u>AOLT Auktion für Lieferperiode 2023–2029</u></b></a>
