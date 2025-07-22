@@ -69,6 +69,8 @@ Sowohl implizite (nicht angemeldete) als auch explizite (registrierte) Demand Re
 
 Kapazitätsanbieter erzielen Erlöse durch den Handel ihrer Zertifikate, die nach erfolgreicher Zertifizierung durch RTE automatisch zugeteilt werden. Zusätzliche Vergütungen oder Boni für Anbieter sind nicht vorgesehen. Strafen bei Nichterfüllung sind im Mechanismus nicht ausdrücklich geregelt. Stromversorger sind finanziell für Ungleichgewichte in ihrer Kapazitätsdeckung verantwortlich – gemessen an ihrem tatsächlichen Lastbeitrag zur Spitzenzeit. Der Zertifikatsbesitz wird über ein zentrales Register erfasst, das vom Übertragungsnetzbetreiber geführt und regelmäßig aktualisiert wird. Im Falle von Ungleichgewichten erfolgt die Abrechnung zu Preisen, die sich nach der Knappheitssituation im relevanten Zeitraum richten&nbsp;[^6] [^7].
 
+Weitere Details zur Ausgestaltung des dezentralen Kapazitätsmechanismuses in Frankreich sind in den [Operational Rules](https://www.epexspot.com/sites/default/files/download_center_files/EPEX%20SPOT%20Market%20Rules_0_0%20%287%29.zip) von epexspot zu finden.
+
 ## Auktionsergebnisse
 {{< timeline >}}
 
@@ -228,10 +230,12 @@ Aktuelle Auktionsergebnisse sind auf <a href="https://www.epexspot.com/en/market
 
 [^5]: [UFE response to ACER consultation on prioritising the removal of barriers to electricity demand response<br>(UFE)](https://ufe-electricite.fr/wp-content/uploads/2024/02/2024-02-02_Response-to-ACER-consultation_Barriers-on-demand-response.pdf)
 
-[^3]: [Prepare for the new capacity mechanism<br>(services-rte.com)](https://www.services-rte.com/en/learn-more-about-our-services/prepare-for-the-new-capacity-mechanism.html)
-
 [^Zitat_Philippe]: Projektinterne Diskussion in [TeKaVe](https://en.ergie.at/projekte/tekave/).
 
 [^6]: [Overview of EU Capacity Remuneration Mechanisms<br>Anthony Papavasiliou](https://www.raaey.gr/energeia/wp-content/uploads/2021/05/Report-I-CRM-final.pdf)
 
 [^7]: [COMMISSION DECISION of 8.11.2016 ON STATE AID SCHEME SA.39621 2015/C (ex 2015/NN)<br>(Europäische Kommission)](https://ec.europa.eu/competition/state_aid/cases/261326/261326_1873332_314_5.pdf)
+
+[^8]: [Prepare for the new capacity mechanism<br>(services-rte.com)](https://www.services-rte.com/en/learn-more-about-our-services/prepare-for-the-new-capacity-mechanism.html)
+
+[^9]: [EPEX SPOT Operational Rules - Annex 1<br>(Epexspot.com)](https://www.epexspot.com/sites/default/files/download_center_files/EPEX%20SPOT%20Market%20Rules_0_0%20%287%29.zip)
