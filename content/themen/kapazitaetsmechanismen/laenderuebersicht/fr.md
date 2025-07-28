@@ -107,7 +107,7 @@ Aktuelle Auktionsergebnisse sind auf <a href="https://www.epexspot.com/en/market
 
 {{< timeline >}}
 
-{{< timelineItem icon="rss" header="Frankreich (AOLT)" badge="Auktionsjahr 2019" >}}
+{{< timelineItem icon="rss" header="AOLT" badge="Auktionsjahr 2019" >}}
 <div style="border-left: 4px solid #999999; padding-left: 1em; margin-bottom: 1.5em;">
   <a href="https://www.services-rte.com/files/live/sites/services-rte/files/pdf/MECAPA/Rapport-analyse-AOLT-2019.pdf"><b>Bericht: <u>AOLT Auktion für Lieferperiode 2023–2029</u></b></a>
   <br>
