@@ -69,7 +69,7 @@ Sowohl implizite (nicht angemeldete) als auch explizite (registrierte) Demand Re
 
 Kapazitätsanbieter erzielen Erlöse durch den Handel ihrer Zertifikate, die nach erfolgreicher Zertifizierung durch RTE automatisch zugeteilt werden. Zusätzliche Vergütungen oder Boni für Anbieter sind nicht vorgesehen. Strafen bei Nichterfüllung sind im Mechanismus nicht ausdrücklich geregelt. Stromversorger sind finanziell für Ungleichgewichte in ihrer Kapazitätsdeckung verantwortlich – gemessen an ihrem tatsächlichen Lastbeitrag zur Spitzenzeit. Der Zertifikatsbesitz wird über ein zentrales Register erfasst, das vom Übertragungsnetzbetreiber geführt und regelmäßig aktualisiert wird. Im Falle von Ungleichgewichten erfolgt die Abrechnung zu Preisen, die sich nach der Knappheitssituation im relevanten Zeitraum richten&nbsp;[^6] [^7].
 
-Weitere Details zur Ausgestaltung des dezentralen Kapazitätsmechanismuses in Frankreich sind in den [Operational Rules](https://www.epexspot.com/sites/default/files/download_center_files/EPEX%20SPOT%20Market%20Rules_0_0%20%287%29.zip) von epexspot zu finden.
+Weitere Details zur Ausgestaltung des dezentralen Kapazitätsmechanismuses in Frankreich sind in den [Operational Rules](/documents/20250416_EPEXSPOT%20Operational%20Rules_CLEAN.pdf) von epexspot zu finden.
 
 ## Auktionsergebnisse
 {{< timeline >}}
@@ -155,7 +155,7 @@ Aktuelle Auktionsergebnisse sind auf <a href="https://www.epexspot.com/en/market
 
 {{< timeline >}}
 
-{{< timelineItem icon="rss" header="Frankreich (AOE)" >}}
+{{< timelineItem icon="rss" header="AOE" >}}
 <div style="border-left: 4px solid #999999; padding-left: 1em; margin-bottom: 1.5em;">
     <a href="https://assets.rte-france.com/prod/public/2024-01/2024-01-12-rapport-synthese-aoe-2024.pdf"><b>Bericht: <u>Y-1 Auktion für die Lieferperiode 2024</u></b></a>
     <br>
@@ -238,4 +238,4 @@ Aktuelle Auktionsergebnisse sind auf <a href="https://www.epexspot.com/en/market
 
 [^8]: [Prepare for the new capacity mechanism<br>(services-rte.com)](https://www.services-rte.com/en/learn-more-about-our-services/prepare-for-the-new-capacity-mechanism.html)
 
-[^9]: [EPEX SPOT Operational Rules - Annex 1<br>(Epexspot.com)](https://www.epexspot.com/sites/default/files/download_center_files/EPEX%20SPOT%20Market%20Rules_0_0%20%287%29.zip)
+[^9]: [EPEX SPOT Operational Rules - Annex 1<br>(Epexspot.com)](/documents/20231223_EPEXSPOT%20ANNEX%201%20Election%20Procedure_CLEAN.pdf)
