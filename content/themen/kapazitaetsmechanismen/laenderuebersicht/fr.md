@@ -74,7 +74,7 @@ Weitere Details zur Ausgestaltung des dezentralen Kapazitätsmechanismuses in Fr
 ## Auktionsergebnisse
 {{< timeline >}}
 
-{{< timelineItem icon="rss" header="Frankreich (Dezentraler KM)" >}}
+{{< timelineItem icon="rss" header="EPEX SPOT Auktionen (dezenraler KM)" >}}
 <div style="border-left: 4px solid #999999; padding-left: 1em; margin-bottom: 1.5em;">
   <a href="https://www.epexspot.com/en/market-results?market_area=&auction=&trading_date=0&delivery_date=&underlying_year=0&modality=Capacity&sub_modality=&technology=&data_mode=table&period=&production_period=">
     <b>Bericht: <u>Auktionen für das Lieferjahr 2026</u></b>
