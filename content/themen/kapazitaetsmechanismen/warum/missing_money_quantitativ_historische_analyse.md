@@ -6,22 +6,49 @@ authors: ["afischer"]
 
 ## 1. Kernfragestellung und methodischer Ansatz
 
-Der folgende Abschnitt beschäftigt sich mit der Frage, ob bestehende Kraftwerkskapazitäten im Setting eines [Energy-Only-Marktes]({{< ref "wissen/markt-energy-only/index.md" >}}) ausreichend finanziert werden können. Ziel der Analyse ist somit ein "quantitativer Nachweis" des Missing Money Problems auf historischer Basis für Österreich. Dazu wurden folgende Kraftwerkstechnologien untersucht:
+Der folgende Abschnitt beschäftigt sich mit der Frage, ob bestehende und neue Kraftwerkskapazitäten im Setting eines [Energy-Only-Marktes]({{< ref "wissen/markt-energy-only/index.md" >}}) ausreichend finanziert werden können. Ziel der Analyse ist somit ein "quantitativer Nachweis" des Missing Money Problems auf Basis historischer Jahre für Österreich. Dazu wurden folgende Kraftwerkstechnologien untersucht:
 
 - Gas- und Dampfkraftwerk Wasserstoff (GuD Wasserstoff)
 - Gas- und Dampfkraftwerk Erdgas (GuD Erdgas)
-- Gas Turbine Erdgas (GT Erdgas)
-- Gas Turbine Wasserstoff (GT Wasserstoff)
-- Kohle
-- Speicherwasserkraft
+- Gasturbine Wasserstoff (GT Wasserstoff)
+- Gasturbine Erdgas (GT Erdgas)
+- Pumpspeicherkraftwerk
 - Laufwasserkraft
 - Photovoltaik
 - Windkraft (Onshore)
 
-Zur Beurteilung der Wirtschaftlichkeit wurden die gesamten Kosten (variable und fixe Kosten der Erzeugung auf Basis historischer Marktdaten und Kostenannahmen) den Erlösen (Kraftwerkseinsatz und Marktpreise) gegenübergestellt. Um der großen Unsicherheit hinsichtlich der Annahmen gerecht zu werden, wurden für alle Annahmen Szenarien generiert und die Höhe der Parameter variiert.
+Zur Beurteilung der Wirtschaftlichkeit wurden die gesamten Kosten (variable und fixe Kosten der Erzeugung auf Basis historischer Marktdaten und Kostenannahmen) den Erlösen (Kraftwerkseinsatz zu Marktpreisen) gegenübergestellt. Um die Unsicherheit 
+in den Annahmen zu berücksichtigen, wurde eine Monte Carlo Simulation durchgeführt, der eine Normalverteilung zugrunde 
+gelegt wurde. Mittels der normalverteilten Monte Carlo Simulation wurde die Höhe der gewählten Parameter (OPEX, CPAEX, FOM
+VOM, WACC, Effizienz, Lebensdauer und Wasserstoffpreis) innerhalb einer Spannweite (niedrig - hoch) variiert und dadurch
+in Summe **x** Szenarien generiert.
 
 ### Kraftwerkseinsatz
-Zur Modellierung des stündlichen Kraftwerkseinsatzes wurden zwei verschiedene Ansätze verfolgt. Einerseits ein theoretischer Ansatz, bei dem der Kraftwerkseinsatz auf Basis von wirtschaftlichen Kriterien erfolgt und sich aus dem Verhältnis zwischen dem historischen Strompreis und den unterstellten Grenzkosten ergibt. Zum anderen wurde ein historischer Ansatz gewählt, bei dem die historischen Erzeugungsprofile für Österreich laut <abbr title="European Network of Transmission System Operators for Electricity">ENTSO-E</abbr> Transparency Platform[^1] herangezogen wurden. Für den theoretischen Kraftwerkseinsatz (ausschließlich thermischen Kraftwerke) wurden die Grenzkosten aus der Summe von variablen Betriebs- und Instandhaltungskosten <abbr title="Operations & Maintenance (Betrieb und Instandhaltung)">O&M</abbr> (siehe Tabelle 1) und variablen Brennstoffkosten gebildet:
+Zur Modellierung des stündlichen Kraftwerkseinsatzes wurden zwei verschiedene Ansätze verfolgt. Einerseits
+ein historischer Ansatz, bei dem die historischen Erzeugungsprofile für Österreich laut
+<abbr title="European Network of Transmission System Operators for Electricity">ENTSO-E</abbr>
+Transparency Platform[^1] herangezogen wurden. Andererseits wurde ein theoretischer Ansatz gewählt, bei dem der
+Kraftwerkseinsatz auf Basis von wirtschaftlichen Kriterien erfolgt. Dabei erfolgt der Einsatz eines Kraftwerks, sobald der
+historische Strompreis oberhalb der unterstellten Grenzkosten liegt.
+
+Der theoretische Kraftwerkseinsatz wurde hierbei nur für die thermischen Kraftwerke (GuD Erdgas & Wasserstoff, GT Erdgas
+& Wasserstoff) bestimmt, da davon auszugehen ist, dass die Erzeugungsanlagen basierend auf den erneuerbaren Energien
+(Wind, Solar, Wasserkraft) bereits durch
+ihre Verfügbarkeit beschränkt sind und somit in einer theoretischen Betrachtung keinen stark veränderten Kraftwerkseinsatz
+aufweisen. Tabelle **x** gibt einen Überblick welche Technologien in der historischen und theoretischen Analyse betrachtet wurden.
+
+| Historischer Ansatz | Theoretischer Ansatz |
+|---------------------|----------------------|
+| Erdgas              | GuD Wasserstoff      |
+| PV                  | GuD Erdgas           |
+| Windkraft           | GT Wasserstoff       |
+| Laufwasserkraft     | GT Erdgas            |
+| Pumpspeicher        |            -         |
+
+Die Grenzkosten setzten sich zusammen
+aus der Summe von variablen Betriebs- und Instandhaltungskosten 
+<abbr title="Operations & Maintenance (Betrieb und Instandhaltung)">O&M</abbr> (siehe Tabelle 1) und variablen
+Brennstoffkosten:
 
 Grenzkosten = Variable <abbr title="Operations & Maintenance (Betrieb und Instandhaltung)">O&M</abbr> Kosten + Variable Brennstoffkosten
 
@@ -39,13 +66,16 @@ Die variablen Brennstoffkosten ergeben sich auf Basis von Effizienz, Preis des B
   </span>
 </p>
 
-Dabei wurde ein optimaler Kraftwerkseinsatz unterstellt, d.h. sobald der Strompreis die Grenzkosten übersteigt, erzeugt das Kraftwerk mit der vollen Kapazität. Wenn der Strompreis unterhalb der Grenzkosten liegt, erfolgt kein Kraftwerkseinsatz. Es wird somit ideale Flexibilität unterstellt und auf die Berücksichtigung von Rampen sowie minimal, erforderliche Einspeiseleistung verzichtet. Die Analyse erfolgt auf historischer Basis für die Jahre 2015-2024.
+Bei der theoretischen Betrachtung wurde ein optimaler Kraftwerkseinsatz unterstellt, d.h. sobald der Strompreis die Grenzkosten übersteigt, erzeugt das Kraftwerk mit der vollen Kapazität. Wenn der Strompreis unterhalb der Grenzkosten liegt, erfolgt kein Kraftwerkseinsatz. Es wird somit ideale Flexibilität unterstellt und auf die Berücksichtigung von Rampen sowie minimal, erforderliche Einspeiseleistung verzichtet. Die Analyse erfolgt auf historischer Basis für die Jahre 2019-2024.
 
 ## 2. Annahmen und Eingangsgrößen
 
 ### Preisentwicklung
 
-Zur Entwicklung der Strompreise wurden die stündlichen Werte der EPEX Spot [Day-ahead]({{< ref "wissen/markt-energy-only/index.md" >}}) 60-Minuten Auktion für Österreich herangezogen [^1]. Für die Ermittlung der Grenzkosten der jeweiligen Kraftwerke wurden die Preise der Rohstoffe näherungsweise bestimmt. Dazu wurden die grafischen Informationen von [tradingeconomics](https://tradingeconomics.com/) für Gas[^2], Kohle[^3] und CO<sub>2</sub>[^4] verwertet und die (näherungsweise) tatsächlichen Werte mittels [plotdigitizer](https://plotdigitizer.com/) extrahiert. Anschließend wurden die Werte auf Tagesbasis interpoliert und in einem weiteren Schritt auf Monatsbasis gemittelt. Die Entwicklung der Brennstoff-, CO<sub>2</sub>- und Strompreise ist in Abbildung 1 dargestellt.
+Zur Entwicklung der Strompreise wurden die stündlichen Werte der EPEX Spot [Day-ahead]({{< ref "wissen/markt-energy-only/index.md" >}}) 60-Minuten Auktion für Österreich herangezogen [^1]. 
+Für die Ermittlung der Grenzkosten der jeweiligen Kraftwerke wurden die CH<sub>4</sub>-Preise von [investing.com](https://www.investing.com/commodities/dutch-ttf-gas-c1-futures-historical-data) und die CO<sub>2</sub>-Preise von [energy-charts.info](https://www.energy-charts.info/charts/price_spot_market/chart.htm?l=de&c=AT&legendItems=6w1&interval=year)
+verwendet. Die täglichen CH<sub>4</sub>-Preise wurden auf Stundenbasis interpoliert und in einem weiteren Schritt wurden
+alle Rohstoff- und Strompreise auf reale Werte für 2024 umgerechnet. Die Entwicklung der Brennstoff-, CO<sub>2</sub>- und Strompreise ist in Abbildung 1 dargestellt.
 
 ![Preisentwicklung Commodities und Strom](/images/missing_money_quantitativ_historische_analyse/preisentwicklung_commodities_und_strom.png)
 *Abb. 1: Preisentwicklung Brennstoffe und Strom*
@@ -57,7 +87,7 @@ Abbildung 2 stellt den Zusammenhang zwischen Strompreisen und Grenzkosten auf mo
 
 ### Investitions- und Betriebskosten, Inflation und technische Annahmen
 
-Des Weiteren wurden generische Annahmen bezüglich der Investitions- und Betriebskosten der jeweiligen Kraftwerkstechnologie auf Basis der Fraunhofer Studie "Stromgestehungskosten Erneuerbarer Energien"[^5] herangezogen. Für die die Laufwasserkraft und Hydro Reservoir wurden Annahmen aus einer Preisstudie vom Deutschem Institut für Wirtschaftsforschung[^6] herangezogen. 
+Des Weiteren wurden generische Annahmen bezüglich der Investitions- und Betriebskosten der jeweiligen Kraftwerkstechnologie auf Basis der Fraunhofer Studie *Stromgestehungskosten Erneuerbarer Energien* [^5] herangezogen. Für die Laufwasser- und Pumpspeicherkraftwerke wurden Annahmen aus Status Bericht 2024 der Europäischen Kommission zu *Wasserkraft und Pumpspeicherkraftwerken in der Europäischen Union* herangezogen [^8]. 
 
 <table>
   <caption style="caption-side: bottom; text-align: left;">
@@ -82,11 +112,6 @@ Des Weiteren wurden generische Annahmen bezüglich der Investitions- und Betrieb
       <td></td>
     </tr>
     <tr>
-      <td>Kohle</td>
-      <td>Fraunhofer</td>
-      <td>Werte für Steinkohle herangezogen</td>
-    </tr>
-    <tr>
       <td><abbr title="Gasturbine">GT</abbr> Wasserstoff</td>
       <td>Fraunhofer</td>
       <td></td>
@@ -97,14 +122,14 @@ Des Weiteren wurden generische Annahmen bezüglich der Investitions- und Betrieb
       <td></td>
     </tr>
     <tr>
-      <td>Speicherwasserkraft</td>
-      <td>Schröder et al</td>
-      <td>WACC von Windkraft übernommen, CAPEX und OPEX ± 10 % für Szenarien hoch/niedrig</td>
+      <td>Pumpspeicherkraftwerk</td>
+      <td>Europäische Kommission</td>
+      <td>WACC von Windkraft übernommen, Mittlerer CAPEX ± 20 % für Werte hoch/niedrig</td>
     </tr>
     <tr>
-      <td>Laufwasserkraft</td>
-      <td>Schröder et al</td>
-      <td>WACC von Windkraft übernommen, CAPEX und OPEX ± 10 % für Szenarien hoch/niedrig</td>
+      <td>Laufwasserkraftwerk</td>
+      <td>Europäische Kommission</td>
+      <td>WACC von Windkraft übernommen, Angegebene Spannbreite für CAPEX Werte hoch/niedrig übernommen</td>
     </tr>
     <tr>
       <td>Solar PV</td>
@@ -119,7 +144,9 @@ Des Weiteren wurden generische Annahmen bezüglich der Investitions- und Betrieb
   </tbody>
 </table>
 
-Um einen adäquaten Unsicherheitsbereich in die Analyse aufzunehmen, wurden sämtliche Werte aus der Fraunhofer Studie[^5] für ‚hoch‘ und ‚niedrig‘ herangezogen. Für Laufwasserkraft und Speicherkraftwerke wurden die <abbr title="Capital Expenditures (Investitionskosten)">CAPEX</abbr> Werte aus der Studie des Deutschen Instituts für Wirtschaftsforschung[^6] um &#177; 10% variiert und für die Vergleichbarkeit mit den anderen Werten auf reale Geldwerteinheiten 2024 konvertiert. Darüber hinaus wurden ausgehend von den durchschnittlichen Werten, die Werte für <abbr title="Weighted Average Cost of Capital (gewichtete durchschnittliche Kapitalkosten)">WACC</abbr> um -1/+3 %, für Fixed <abbr title="Operations & Maintenance (Betrieb und Instandhaltung)">O&M</abbr> um &#177; 1 €/MWh und für Variable <abbr title="Operations & Maintenance (Betrieb und Instandhaltung)">O&M</abbr> um &#177; 0.5 variiert. Eine Zusammenfassung der Werte ist in Tabelle 2 und Tabelle 3 dargestellt. Sämtliche Werte entsprechen realen Geldwerteinheiten 2024, der <abbr title="Weighted Average Cost of Capital (gewichtete durchschnittliche Kapitalkosten)">WACC</abbr> ist in realen Einheiten zu verstehen.
+Um einen adäquaten Unsicherheitsbereich in die Analyse aufzunehmen, wurden sämtliche CAPEX Werte aus der Fraunhofer Studie [^5] für ‚hoch‘ und ‚niedrig‘ herangezogen. Für Laufwasserkraft und Pumpspeicher wurden die <abbr title="Capital Expenditures (Investitionskosten)">CAPEX</abbr> Werte aus dem Status Bericht 2024 der Europäischen Kommission [^8] herangezogen, wobei für Laufwasserkraft die gesamte, angegebene Spannbreit für ‚hoch‘ und ‚niedrig‘ verwendet wurde, während für Pumpspeicherkraftwerke der mittlere <abbr title="Capital Expenditures (Investitionskosten)">CAPEX</abbr> Wert um &#177; 20% variiert wurde.
+Die fixen <abbr title="Operations & Maintenance (Betrieb und Instandhaltung)">O&M</abbr> Kosten wurden pro Technolgie als 1-3% der mittleren <abbr title="Capital Expenditures (Investitionskosten)">CAPEX</abbr> angenommen, um Werte für ‚hoch‘ und niedrig zu erhalten.
+Weiters wurden die durchschnittlichen <abbr title="Weighted Average Cost of Capital (gewichtete durchschnittliche Kapitalkosten)">WACC</abbr> um -1/+3 %, und die variablen <abbr title="Operations & Maintenance (Betrieb und Instandhaltung)">O&M</abbr>-Kosten um &#177;&nbsp;0.5 variiert. Eine Zusammenfassung der Werte ist in den Tabellen 2 und 3 dargestellt. Sämtliche Werte entsprechen realen Geldwerteinheiten 2024, der <abbr title="Weighted Average Cost of Capital (gewichtete durchschnittliche Kapitalkosten)">WACC</abbr> ist in realen Einheiten zu verstehen.
 
 <!DOCTYPE html>
 <html lang="de">
@@ -178,10 +205,10 @@ Um einen adäquaten Unsicherheitsbereich in die Analyse aufzunehmen, wurden säm
       <th colspan="2"><abbr title="Weighted Average Cost of Capital (gewichtete durchschnittliche Kapitalkosten)">WACC</abbr> [%]</th>
     </tr>
     <tr>
-      <th>Szenario „hoch“</th>
-      <th>Szenario „niedrig“</th>
-      <th>Szenario „hoch“</th>
-      <th>Szenario „niedrig“</th>
+      <th>hoch</th>
+      <th>niedrig</th>
+      <th>hoch</th>
+      <th>niedrig</th>
     </tr>
   </thead>
 
@@ -193,22 +220,19 @@ Um einen adäquaten Unsicherheitsbereich in die Analyse aufzunehmen, wurden säm
       <td><abbr title="Gas- und Dampfkraftwerk">GuD</abbr> Erdgas</td>     <td>1.30</td><td>0.90</td><td>9.4 %</td><td>5.4 %</td>
     </tr>
     <tr>
-      <td>Kohle</td>          <td>2.30</td><td>1.70</td><td>9.8 %</td><td>5.8 %</td>
-    </tr>
-    <tr>
       <td><abbr title="Gasturbine">GT</abbr> Wasserstoff</td> <td>1.20</td><td>0.55</td><td>9.9 %</td><td>5.9 %</td>
     </tr>
     <tr>
       <td><abbr title="Gasturbine">GT</abbr> Erdgas</td>      <td>0.70</td><td>0.45</td><td>9.4 %</td><td>5.4 %</td>
     </tr>
     <tr>
-      <td>Speicherwasserkraft</td><td>3.28</td><td>2.68</td><td>6.9 %</td><td>2.9 %</td>
+      <td>Pumpspeicher</td><td>3.0</td><td>2.0</td><td>6.9 %</td><td>2.9 %</td>
     </tr>
     <tr>
-      <td>Laufwasserkraft</td>     <td>4.91</td><td>4.02</td><td>6.9 %</td><td>2.9 %</td>
+      <td>Laufwasserkraft</td>     <td>1.8</td><td>1.0</td><td>6.9 %</td><td>2.9 %</td>
     </tr>
     <tr>
-      <td>Solar PV</td>      <td>0.90</td><td>0.70</td><td>6.5 %</td><td>2.5 %</td>
+      <td>PV</td>      <td>0.90</td><td>0.70</td><td>6.5 %</td><td>2.5 %</td>
     </tr>
     <tr>
       <td>Windkraft</td>     <td>1.90</td><td>1.30</td><td>6.9 %</td><td>2.9 %</td>
@@ -239,44 +263,42 @@ Um einen adäquaten Unsicherheitsbereich in die Analyse aufzunehmen, wurden säm
       <th colspan="2">Fixe <abbr title="Operations & Maintenance (Betrieb und Instandhaltung)">O&M</abbr> [€/kW/a]</th>
     </tr>
     <tr>
-      <th>Szenario „hoch“</th>
-      <th>Szenario „niedrig“</th>
-      <th>Szenario „hoch“</th>
-      <th>Szenario „niedrig“</th>
+      <th>hoch</th>
+      <th>niedrig</th>
+      <th>hoch</th>
+      <th>niedrig</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td><abbr title="Gas- und Dampfkraftwerk">GuD</abbr> Wasserstoff</td><td>5.5</td><td>4.5</td><td>26.0</td><td>24.0</td>
+      <td><abbr title="Gas- und Dampfkraftwerk">GuD</abbr> Wasserstoff</td><td>5.5</td><td>4.5</td><td>52.5</td><td>17.5</td>
     </tr>
     <tr>
-      <td><abbr title="Gas- und Dampfkraftwerk">GuD</abbr> Erdgas</td>     <td>5.5</td><td>4.5</td><td>21.0</td><td>19.0</td>
+      <td><abbr title="Gas- und Dampfkraftwerk">GuD</abbr> Erdgas</td>     <td>5.5</td><td>4.5</td><td>33.0</td><td>11.0</td>
     </tr>
     <tr>
-      <td>Kohle</td>          <td>5.5</td><td>4.5</td><td>38.0</td><td>36.0</td>
+      <td><abbr title="Gasturbine">GT</abbr> Wasserstoff</td> <td>5.5</td><td>4.5</td><td>26.3</td><td>8.8</td>
     </tr>
     <tr>
-      <td><abbr title="Gasturbine">GT</abbr> Wasserstoff</td> <td>4.5</td><td>3.5</td><td>24.0</td><td>22.0</td>
+      <td><abbr title="Gasturbine">GT</abbr> Erdgas</td>      <td>4.5</td><td>3.5</td><td>17.3</td><td>5.8</td>
     </tr>
     <tr>
-      <td><abbr title="Gasturbine">GT</abbr> Erdgas</td>      <td>4.5</td><td>3.5</td><td>24.0</td><td>22.0</td>
+      <td>Pumpspeicher</td><td>0.5</td><td>0.0</td><td>75.0</td><td>25.0</td>
     </tr>
     <tr>
-      <td>Speicherwasserkraft</td><td>0.5</td><td>0.0</td><td>30.8</td><td>28.8</td>
+      <td>Laufwasserkraft</td>     <td>0.5</td><td>0.0</td><td>42.0</td><td>14.0</td>
     </tr>
     <tr>
-      <td>Laufwasserkraft</td>     <td>0.5</td><td>0.0</td><td>90.3</td><td>88.3</td>
+      <td>PV</td>      <td>0.5</td><td>0.0</td><td>24.0</td><td>8.0</td>
     </tr>
     <tr>
-      <td>Solar PV</td>      <td>0.5</td><td>0.0</td><td>14.3</td><td>12.3</td>
-    </tr>
-    <tr>
-      <td>Windkraft</td>     <td>7.5</td><td>6.5</td><td>33.0</td><td>31.0</td>
+      <td>Windkraft</td>     <td>7.5</td><td>6.5</td><td>48.0</td><td>16.0</td>
     </tr>
   </tbody>
 </table>
 
-Tabelle 4 zeigt die Annahmen zur Effizienz und der Lebensdauer. Auch hier wurden die Werte der ursprünglichen Quellen um &#177;1% (Effizienz) und &#177;2 Jahre (Lebensdauer) variiert.
+Tabelle 4 zeigt die Annahmen zur Effizienz und der Lebensdauer. Auch hier wurden die Werte der ursprünglichen Quellen um &#177;1% (Effizienz) variiert. Da es sich bei der Lebensdauer in den Quellen um die technische Lebensdauer handelt, wurde diese
+als Wert ‚hoch‘ angenommen, und für den Wert ‚niedrig‘ um 1/6 reduziert, wodurch die oft kürzer ausfallende, finanzielle Lebensdauer berücksichtigt wird.
 
 <table class="grouped">
   <caption style="caption-side: bottom; text-align: left; font-style: italic;">
@@ -298,50 +320,48 @@ Tabelle 4 zeigt die Annahmen zur Effizienz und der Lebensdauer. Auch hier wurden
       <th colspan="2">Lebensdauer [Jahre]</th>
     </tr>
     <tr>
-      <th>Szenario „hoch“</th>
-      <th>Szenario „niedrig“</th>
-      <th>Szenario „hoch“</th>
-      <th>Szenario „niedrig“</th>
+      <th>hoch</th>
+      <th>niedrig</th>
+      <th>hoch</th>
+      <th>niedrig</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td><abbr title="Gas- und Dampfkraftwerk">GuD</abbr> Wasserstoff</td><td>61 %</td><td>59 %</td><td>32</td><td>28</td>
+      <td><abbr title="Gas- und Dampfkraftwerk">GuD</abbr> Wasserstoff</td><td>61 %</td><td>59 %</td><td>30</td><td>25</td>
     </tr>
     <tr>
-      <td><abbr title="Gas- und Dampfkraftwerk">GuD</abbr> Erdgas</td>     <td>61 %</td><td>59 %</td><td>32</td><td>28</td>
+      <td><abbr title="Gas- und Dampfkraftwerk">GuD</abbr> Erdgas</td>     <td>61 %</td><td>59 %</td><td>30</td><td>25</td>
     </tr>
     <tr>
-      <td>Kohle</td>          <td>40 %</td><td>38 %</td><td>32</td><td>28</td>
+      <td><abbr title="Gasturbine">GT</abbr> Wasserstoff</td> <td>41 %</td><td>39 %</td><td>30</td><td>25</td>
     </tr>
     <tr>
-      <td><abbr title="Gasturbine">GT</abbr> Wasserstoff</td> <td>41 %</td><td>39 %</td><td>32</td><td>28</td>
+      <td><abbr title="Gasturbine">GT</abbr> Erdgas</td>      <td>41 %</td><td>39 %</td><td>30</td><td>25</td>
     </tr>
     <tr>
-      <td><abbr title="Gasturbine">GT</abbr> Erdgas</td>      <td>41 %</td><td>39 %</td><td>32</td><td>28</td>
+      <td>Pumpspeicher</td><td>100 %</td><td>100 %</td><td>50</td><td>42</td>
     </tr>
     <tr>
-      <td>Speicherwasserkraft</td><td>100 %</td><td>100 %</td><td>52</td><td>48</td>
+      <td>Laufwasserkraft</td>     <td>100 %</td><td>100 %</td><td>50</td><td>42</td>
     </tr>
     <tr>
-      <td>Laufwasserkraft</td>     <td>100 %</td><td>100 %</td><td>52</td><td>48</td>
+      <td>PV</td>      <td>100 %</td><td>100 %</td><td>30</td><td>25</td>
     </tr>
     <tr>
-      <td>Solar PV</td>      <td>100 %</td><td>100 %</td><td>32</td><td>28</td>
-    </tr>
-    <tr>
-      <td>Windkraft</td>     <td>100 %</td><td>100 %</td><td>27</td><td>23</td>
+      <td>Windkraft</td>     <td>100 %</td><td>100 %</td><td>25</td><td>21</td>
     </tr>
   </tbody>
 </table>
 
-Für Kohle, Erdgas und CO<sub>2</sub> wurden die Brennstoffkosten auf Basis der historischen Entwicklung (Abbildung 1) herangezogen. Für Wasserstoff wurden für die Szenarien hoch/mittel die Werte 3/6 €/kg angenommen. Aufgrund der Tatsache, dass nahezu alle Annahmen einer gewissen Unsicherheit unterliegen, wurden für alle Annahmen (mit Ausnahme der historischen Strom-, Brennstoff und CO<sub>2</sub> Kosten) entlang der Szenarien ‚hoch‘ und ‚niedrig‘ in einer plausiblen Bandbreite variiert. Für die Auswertung wurden sämtliche Szenario-Kombinationen herangezogen. Da es sieben Dimensionen (<abbr title="Capital Expenditures (Investitionskosten)">CAPEX</abbr>, <abbr title="Weighted Average Cost of Capital (gewichtete durchschnittliche Kapitalkosten)">WACC</abbr>; <abbr title="Variable Operations & Maintenance (variable Betriebskosten)">VOM</abbr>, <abbr title="Fixed Operations & Maintenance (fixe Betriebskosten)">FOM</abbr>, Effizienz, Lebensdauer und H<sub>2</sub>-Preise) in zwei Ausprägungen (hoch, niedrig) gibt, ergeben sich für jeden der neun Kraftwerkstypen 2<sup>7</sup> = 128 Kombinationsmöglichkeiten. Darüber hinaus wurden zehn historische Jahre (2015-2024) betrachtet, woraus sich 1.280 Beobachtungen für jeden Kraftwerkstyp ergeben.
+Für Erdgas und CO<sub>2</sub> wurden die Preise auf Basis der historischen Zeitreihen (Abbildung 1) herangezogen. Für Wasserstoff wurden für alle Szenarien Werte wischen 3 - 9 €/kg<sub>H2</sub> angenommen, wobei diese Preise wiederum im Rahmen einer normalverteilten Monte Carlo Simulation variiert wurden. Um die Kreuzpreiselastizität der unterschiedlichen Brennstoffe in den Jahren der hohen Strompreise zu berücksichtigen, wurde der gezogene Wasserstoffpreis in jedem Szenario als untere Schranke herangezogen. Überstieg der stündliche Erdgaspreis den Wasserstoffpreis, so wurde in dieser Stunde der Erdgaspreis als Näherung für den Wasserstoffpreis angenommen.
+<!--Aufgrund der Tatsache, dass nahezu alle Annahmen einer gewissen Unsicherheit unterliegen, wurden für alle Annahmen (mit Ausnahme der historischen Strom-, Brennstoff und CO<sub>2</sub> Kosten) entlang der Szenarien ‚hoch‘ und ‚niedrig‘ in einer plausiblen Bandbreite variiert. Für die Auswertung wurden sämtliche Szenario-Kombinationen herangezogen. Da es sieben Dimensionen (<abbr title="Capital Expenditures (Investitionskosten)">CAPEX</abbr>, <abbr title="Weighted Average Cost of Capital (gewichtete durchschnittliche Kapitalkosten)">WACC</abbr>; <abbr title="Variable Operations & Maintenance (variable Betriebskosten)">VOM</abbr>, <abbr title="Fixed Operations & Maintenance (fixe Betriebskosten)">FOM</abbr>, Effizienz, Lebensdauer und H<sub>2</sub>-Preise) in zwei Ausprägungen (hoch, niedrig) gibt, ergeben sich für jeden der neun Kraftwerkstypen 2<sup>7</sup> = 128 Kombinationsmöglichkeiten. Darüber hinaus wurden zehn historische Jahre (2015-2024) betrachtet, woraus sich 1.280 Beobachtungen für jeden Kraftwerkstyp ergeben. -->
 
-Weiters wurden Annahmen zur CO<sub>2</sub>-Intensität der jeweiligen Energieträger getroffen. Diese sind in Tabelle 5 zusammengefasst.
-|                              | Erdgas  | Coal |
-|------------------------------|------|------|
-| CO<sub>2</sub>-Intensität (kg CO<sub>2</sub> / GJ) | 50.3 | 88.3 |
-*Tabelle 5: Annahmen zur CO<sub>2</sub>-Intensität*
+Weiters wurde für die CO<sub>2</sub>-Intensität des Erdgases der <abbr title="Ten-year network development plan">TYNDP</abbr>-Wert für das Jahr 2030 herangezogen.
+|                              | Erdgas  |
+|------------------------------|------|
+| CO<sub>2</sub>-Intensität (kg CO<sub>2</sub> / GJ) | 51.57 |
+*Tabelle 5: CO<sub>2</sub>-Intensität*
 
 Die nominalen Geldwerte hinsichtlich der Strom- und Brennstoffpreise wurden auf reale Werte 2024 angepasst, basierend auf den Inflationsdaten für Österreich laut des Harmonisierten Verbraucherpreisindex (<abbr title="Harmonised Index of Consumer Prices (harmonisierter Verbraucherpreisindex)">HICP</abbr>) von Eurostat[^7].
 
@@ -464,3 +484,8 @@ Sämtlichen hier genannten Limitationen sprechen tendenziell für eine <u>Über<
 [^6]: [Current and prospective costs of electricity generation until 2050<br>(Deutsches Institut für Wirtschaftsforschung)](https://www.econstor.eu/bitstream/10419/80348/1/757528015.pdf)
 
 [^7]: [Harmonised index of consumer prices (HICP)<br>(ec.europa.eu/eurostat/)](https://doi.org/10.2908/PRC_HICP_AIND)
+
+[^8]: [Clean Energy Technology Observatory: Hydropower and Pumped Storage Hydropower in the European Union - 2024 Status Report 
+on Technology Development, Trends, Value Chains and Markets<br>(Europäische Kommission)](https://publications.jrc.ec.europa.eu/repository/handle/JRC139225)
+
+[^9]: [ENTSO-E & ENTSOG TYNDP 2024 Scenarios Report<br>(2024.entsos-tyndp-scenarios.eu)](https://2024.entsos-tyndp-scenarios.eu/download/)
