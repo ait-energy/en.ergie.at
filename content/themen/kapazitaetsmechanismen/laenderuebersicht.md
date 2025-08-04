@@ -97,7 +97,7 @@ das Jahr der Einführung sowie die aktuelle Diskussion in den einzelnen Ländern
 | IE | Zentraler Markt    |      Pay-as-cleared   | 2017 | - |
 | IT | Zentraler Markt     |      Pay-as-cleared   | 2019 |- |
 | PL | Zentraler Markt     |      Pay-as-cleared   | 2018 | - |
-| SE | Strategische Reserve|      Pay-as-bid   | 2002 | Zentraler Markt |
+| SE | Strategische Reserve|      Pay-as-bid   | 2025 | Zentraler Markt |
 | UK | Zentraler Markt     |      Pay-as-cleared   | 2014 | - |
 
 Eine Übersicht über alle aktuell als staatliche Beihilfen genehmigten Kapazitätsmechanismen und deren genaue
