@@ -13,10 +13,10 @@ Wir arbeiten gerade an diesem Artikel. Informationen können unvollständig oder
 
 Frankreich plant die Umstellung vom dezentralen auf einen zentralen Kapazitätsmarkt, der ab 2026 in Kraft treten und von EPEX betrieben werden soll [^Zitat_Philippe]. Der neue Kapazitätsmarkt soll folgende Merkmale aufweisen:
 
-- **Zentralisiertes System mit Kapazitätsverpflichtungen**: <abbr title="Réseau de Transport d'Electricité">RTE</abbr> übernimmt künftig die zentrale Rolle als Vertragspartner und organisiert Auktionen zur Volumenbeschaffung (MW) für den Winterzeitraum (November–März). Die bezugschlagten Kapazitäten verpflichten sich vertraglich zu den Spitzenzeiten verfügbar zu sein und bekommen im Gegenzug eine gesicherte Prämie [^3].
-- **2 Hauptauktionen und ein sekundärer Marktplatz**: Es finden zwei Hauptauktionen mit unterschiedlichen Vorlaufzeiten statt, eine langfristig (Jahre) vor dem Lieferzeitraum und eine kurzfristig (Monate) davor. Kapazitätsverpflichtungen sollen zudem auf einem sekundären Markt zwischen den Teilnehmern handelbar sein [^3].
-- **Kostenumlage über Steuer**: Die Auktionskosten werden über eine durch <abbr title="Réseau de Transport d'Electricité">RTE</abbr> erhobene Steuer auf Stromlieferanten und Endkunden, die ihren Bedarf direkt an der Strombörse kaufen, verteilt. Die Steuer ist dabei proportional zum jeweiligen Verbrauch in den Spitzenzeiten des Lieferzeitraums.[^3]
-- **Integration des bestehenden <abbr title="l’appel d’offres long-terme">AOLT</abbr>-System**: Das bestehende <abbr title="l’appel d’offres long-terme">AOLT</abbr> Kapazitäten werden als mehrjährige Vertragskapazitäten in das neue Modell integriert [^3].
+- **Zentralisiertes System mit Kapazitätsverpflichtungen**: <abbr title="Réseau de Transport d'Electricité">RTE</abbr> übernimmt künftig die zentrale Rolle als Vertragspartner und organisiert Auktionen zur Volumenbeschaffung (MW) für den Winterzeitraum (November–März). Die bezugschlagten Kapazitäten verpflichten sich vertraglich zu den Spitzenzeiten verfügbar zu sein und bekommen im Gegenzug eine gesicherte Prämie [^8].
+- **2 Hauptauktionen und ein sekundärer Marktplatz**: Es finden zwei Hauptauktionen mit unterschiedlichen Vorlaufzeiten statt, eine langfristig (Jahre) vor dem Lieferzeitraum und eine kurzfristig (Monate) davor. Kapazitätsverpflichtungen sollen zudem auf einem sekundären Markt zwischen den Teilnehmern handelbar sein [^8].
+- **Kostenumlage über Steuer**: Die Auktionskosten werden über eine durch <abbr title="Réseau de Transport d'Electricité">RTE</abbr> erhobene Steuer auf Stromlieferanten und Endkunden, die ihren Bedarf direkt an der Strombörse kaufen, verteilt. Die Steuer ist dabei proportional zum jeweiligen Verbrauch in den Spitzenzeiten des Lieferzeitraums.[^8]
+- **Integration des bestehenden <abbr title="l’appel d’offres long-terme">AOLT</abbr>-System**: Das bestehende <abbr title="l’appel d’offres long-terme">AOLT</abbr> Kapazitäten werden als mehrjährige Vertragskapazitäten in das neue Modell integriert [^8].
 
 Versorger und große Endverbraucher müssen im neuen System keine Kapazitätsgarantien mehr vorhalten, sondern unterliegen einer Steuer, die auf ihren Verbrauch während der Spitzenlastzeit des Lieferzeitraums beruht. Jeder Netzbetreiber ist für die Zertifizierung der Kapazitäten in seinem Versorgungsgebiet verantwortlich (RTE für die Kapazitäten, die an das öffentliche Übertragungsnetz angeschlossen sind, und die ausländischen Kapazitäten, die <abbr title="Verteilnetzbetreiber">VNB</abbr> für die Kapazitäten, die an das öffentliche Verteilungsnetz angeschlossen sind).
 
@@ -57,7 +57,7 @@ In Frankreich sind Stromlieferanten, große Verbraucher sowie der Übertragungsn
 
 ### Ausschreibung
 
-Im französischen dezentralen Kapazitätsmechanismus können Kapazitätszertifikate entweder bilateral am [<abbr title="Over-the-Counter">OTC-Markt</abbr>]({{< ref "wissen/otc/index.md" >}}) oder über Auktionen gehandelt werden, die von EPEX SPOT organisiert werden. Für jedes Lieferjahr finden insgesamt 15 Auktionen über einen Zeitraum von vier Jahren statt: eine in DY-4, vier in DY-3, vier in DY-2 und sechs in DY-1. Es gilt eine implizite Preisobergrenze von 40.000&nbsp;€/MW, die mit dem Höchstwert für Ausgleichsenergieabrechnungen übereinstimmt. Konkrete Angebotsgrenzen sind nicht festgelegt, jedoch wird von Anbietern mit überschüssigen Zertifikaten erwartet, diese dem Markt zur Verfügung zu stellen – ohne dass konkrete Durchsetzungsmechanismen beschrieben sind. Netzengpässe innerhalb Frankreichs werden im Mechanismus nicht adressiert&nbsp;[^6] [^7].
+Im französischen dezentralen Kapazitätsmechanismus können Kapazitätszertifikate entweder bilateral am [<abbr title="Over-the-Counter">OTC-Markt</abbr>]({{< ref "wissen/otc/index.md" >}}) oder über Auktionen gehandelt werden, die von EPEX SPOT organisiert werden. Für jedes Lieferjahr finden insgesamt 15 Auktionen über einen Zeitraum von vier Jahren statt: eine in DY-4, vier in DY-3, vier in DY-2 und sechs in DY-1 [^7]. Die Auktionen und deren genaue Daten werden im Vorjahr von EPEX bekannt gegeben [^9]. Für das Jahr 2019 lag die Preisobergrenze bei 4.000&nbsp;€, für die Jahre 2020&nbsp;-&nbsp;2024 bei 6.000&nbsp;€ [^9]. Konkrete Angebotsgrenzen sind nicht festgelegt, jedoch wird von Anbietern mit überschüssigen Zertifikaten erwartet, diese dem Markt zur Verfügung zu stellen – ohne dass konkrete Durchsetzungsmechanismen beschrieben sind. Netzengpässe innerhalb Frankreichs werden im Mechanismus nicht adressiert&nbsp;[^6] [^7].
 
 ### Teilnahme
 
@@ -69,10 +69,45 @@ Sowohl implizite (nicht angemeldete) als auch explizite (registrierte) Demand Re
 
 Kapazitätsanbieter erzielen Erlöse durch den Handel ihrer Zertifikate, die nach erfolgreicher Zertifizierung durch RTE automatisch zugeteilt werden. Zusätzliche Vergütungen oder Boni für Anbieter sind nicht vorgesehen. Strafen bei Nichterfüllung sind im Mechanismus nicht ausdrücklich geregelt. Stromversorger sind finanziell für Ungleichgewichte in ihrer Kapazitätsdeckung verantwortlich – gemessen an ihrem tatsächlichen Lastbeitrag zur Spitzenzeit. Der Zertifikatsbesitz wird über ein zentrales Register erfasst, das vom Übertragungsnetzbetreiber geführt und regelmäßig aktualisiert wird. Im Falle von Ungleichgewichten erfolgt die Abrechnung zu Preisen, die sich nach der Knappheitssituation im relevanten Zeitraum richten&nbsp;[^6] [^7].
 
+Weitere Details zur Ausgestaltung des dezentralen Kapazitätsmechanismuses in Frankreich sind in den [Operational Rules](/documents/20250416_EPEXSPOT%20Operational%20Rules_CLEAN.pdf) von epexspot zu finden.
+
 ## Auktionsergebnisse
 {{< timeline >}}
 
-{{< timelineItem icon="rss" header="Frankreich (AOLT)" badge="Auktionsjahr 2019" >}}
+{{< timelineItem icon="rss" header="EPEX SPOT Auktionen (dezenraler KM)" >}}
+<div style="border-left: 4px solid #999999; padding-left: 1em; margin-bottom: 1.5em;">
+  <a href="https://www.epexspot.com/en/market-results?market_area=&auction=&trading_date=0&delivery_date=&underlying_year=0&modality=Capacity&sub_modality=&technology=&data_mode=table&period=&production_period=">
+    <b>Bericht: <u>Auktionen für das Lieferjahr 2026</u></b>
+  </a>
+  <br>
+  <details>
+    <summary><span style="cursor: pointer; font-weight: 500;">Zusammenfassung anzeigen</span></summary><i>
+      Für das Lieferjahr 2026 fanden bisher fünf Auktionen statt. Zuletzt wurden am 19.06.2025 insgesamt 26.531 Kapazitätszertifikate für einen Preis von je 329,99&nbsp;€ auktioniert. Zuvor fand am 22.05.2025 eine Auktion statt, bei der 27.084 Zertifikate zu einem Preis von 364,62&nbsp;€ den Zuschlag erhielten. Im Vorjahr 2024 kam es zu drei Auktionen: Am 05.12.2024 wurden 42.036 Zertifikate zu einem Preis von 252,18&nbsp;€ vergeben, am 24.10.2024 waren es 29.652 Stück zu 354,02&nbsp;€, und am 25.04.2024 schließlich 28.509 Zertifikate zu einem Preis von 1.553,81&nbsp;€. Weitere Auktionen sind laut <a href="https://www.epexspot.com/sites/default/files/download_center_files/Calendar%202025%20French%20Capacity%20Auctions.pdf" target="_blank">EPEX Auktionskalender</a> für den 18.09.2025, 23.10.2025 und 04.12.2025 geplant.
+    </i>
+  </details>
+</div>
+
+<div style="border-left: 4px solid #999999; padding-left: 1em; margin-bottom: 1.5em;">
+  <a href="https://www.epexspot.com/en/market-results?market_area=&auction=&trading_date=0&delivery_date=&underlying_year=0&modality=Capacity&sub_modality=&technology=&data_mode=table&period=&production_period=">
+    <b>Bericht: <u>Auktionen für das Lieferjahr 2025</u></b>
+  </a>
+  <br>
+  <details>
+    <summary><span style="cursor: pointer; font-weight: 500;">Zusammenfassung anzeigen</span></summary><i>
+    Die bislang letzte Auktion für das Lieferjahr 2025 fand am 19.06.2025 statt. Dabei wurden 19.605 Kapazitätszertifikate zu einem Preis von je 3,90&nbsp;€ versteigert. Im Jahr 2024 gab es drei weitere Auktionen: Am 05.12.2024 wurden 102.777 Zertifikate zum Preis von 0,00&nbsp;€ zugeteilt, am 24.10.2024 waren es 40.924 Stück zu 619,16&nbsp;€, und am 25.04.2024 schließlich 41.653 Zertifikate für 1.999,96&nbsp;€ pro Stück.
+    </i>
+  </details>
+</div>
+Aktuelle Auktionsergebnisse sind auf <a href="https://www.epexspot.com/en/market-results?market_area=&auction=&trading_date=0&delivery_date=&underlying_year=0&modality=Capacity&sub_modality=&technology=&data_mode=table&period=&production_period=" target="_blank">epexspot.com</a>
+ verfügbar.
+{{< /timelineItem >}}
+
+{{< /timeline >}}
+
+
+{{< timeline >}}
+
+{{< timelineItem icon="rss" header="AOLT" badge="Auktionsjahr 2019" >}}
 <div style="border-left: 4px solid #999999; padding-left: 1em; margin-bottom: 1.5em;">
   <a href="https://www.services-rte.com/files/live/sites/services-rte/files/pdf/MECAPA/Rapport-analyse-AOLT-2019.pdf"><b>Bericht: <u>AOLT Auktion für Lieferperiode 2023–2029</u></b></a>
   <br>
@@ -120,7 +155,7 @@ Kapazitätsanbieter erzielen Erlöse durch den Handel ihrer Zertifikate, die nac
 
 {{< timeline >}}
 
-{{< timelineItem icon="rss" header="Frankreich (AOE)" >}}
+{{< timelineItem icon="rss" header="AOE" >}}
 <div style="border-left: 4px solid #999999; padding-left: 1em; margin-bottom: 1.5em;">
     <a href="https://assets.rte-france.com/prod/public/2024-01/2024-01-12-rapport-synthese-aoe-2024.pdf"><b>Bericht: <u>Y-1 Auktion für die Lieferperiode 2024</u></b></a>
     <br>
@@ -195,10 +230,12 @@ Kapazitätsanbieter erzielen Erlöse durch den Handel ihrer Zertifikate, die nac
 
 [^5]: [UFE response to ACER consultation on prioritising the removal of barriers to electricity demand response<br>(UFE)](https://ufe-electricite.fr/wp-content/uploads/2024/02/2024-02-02_Response-to-ACER-consultation_Barriers-on-demand-response.pdf)
 
-[^3]: [Prepare for the new capacity mechanism<br>(services-rte.com)](https://www.services-rte.com/en/learn-more-about-our-services/prepare-for-the-new-capacity-mechanism.html)
-
 [^Zitat_Philippe]: Projektinterne Diskussion in [TeKaVe](https://en.ergie.at/projekte/tekave/).
 
 [^6]: [Overview of EU Capacity Remuneration Mechanisms<br>Anthony Papavasiliou](https://www.raaey.gr/energeia/wp-content/uploads/2021/05/Report-I-CRM-final.pdf)
 
 [^7]: [COMMISSION DECISION of 8.11.2016 ON STATE AID SCHEME SA.39621 2015/C (ex 2015/NN)<br>(Europäische Kommission)](https://ec.europa.eu/competition/state_aid/cases/261326/261326_1873332_314_5.pdf)
+
+[^8]: [Prepare for the new capacity mechanism<br>(services-rte.com)](https://www.services-rte.com/en/learn-more-about-our-services/prepare-for-the-new-capacity-mechanism.html)
+
+[^9]: [EPEX SPOT Operational Rules - Annex 1<br>(Epexspot.com)](/documents/20231223_EPEXSPOT%20ANNEX%201%20Election%20Procedure_CLEAN.pdf)
