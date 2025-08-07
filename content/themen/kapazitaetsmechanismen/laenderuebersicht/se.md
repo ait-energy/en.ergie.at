@@ -11,7 +11,18 @@ Wir arbeiten gerade an diesem Artikel. Informationen können unvollständig oder
 
 ## Aktuelle Entwicklungen
 
-Die Strategische Reserve in Schweden war seit dem Jahr 2003 aktiv[^3] und ist mit 15.&nbsp;März 2025 ausgelaufen[^Svenska_CM]. Svenska kraftnät sieht langfristig den Bedarf für einen Kapazitätsmechanismus und spricht sich für die Einführung eines marktweiten Kapazitätsmechanismus aus[^Svenska_CM]. Dieser soll als zentraler Kapazitätsmarkt ausgestaltet werden, wobei eine geografische Trennung nach Gebotszonen vorgesehen ist[^Svenska_Studie].
+Die Strategische Reserve in Schweden war seit dem Jahr 2003 aktiv[^3] und ist mit 15.&nbsp;März 2025 ausgelaufen[^Svenska_CM].
+Ende Juli 2025 hat die Europäische Kommission eine neue Strategische Reserve um insgesamt 300 Mio.&nbsp;€ genehmigt, die
+bis 2035 bestehen wird und allen Erzeugungsanlagen, Speichern und steuerbaren Lasten offen steht [^EC_Pressemitteilung_2025].
+Wie genau die neue Strategische Reserve ausgestaltet sein wird, ist noch unklar, da der Beschluss der Europäischen Kommission
+noch nicht im Beihilfegregister veröffentlicht wurde [^EC_Pressemitteilung_2025] [^SA.112968].
+
+Bereits 2023 erklärte Svenska kraftnät, dass langfristig der Bedarf für einen Kapazitätsmechanismus gesehen wird und sprach
+sich für die Einführung eines marktweiten Kapazitätsmechanismus aus [^Svenska_CM], wobei als Übergangslösung bis zur Genehmigung
+durch die Europäische Kommission eine Strategische Reserve vorgeschlagen wurde.
+Der Kapazitätsmechanismus soll als zentraler Kapazitätsmarkt ausgestaltet werden, wobei eine geografische Trennung nach Gebotszonen vorgesehen ist [^Svenska_Studie].
+Ob die mit Juli 2025 eingeführte Strategische Reserve in Schweden als Übergangslösung bis zur Einführung dieses Kapazitätsmarktes fungieren soll,
+oder ob nun doch auf einen Kapazitätsmarkt verzichtet wird, ist noch unklar.
 
 ## Strategische Reserve
 
@@ -41,3 +52,7 @@ An der strategischen Reserve können sowohl Stromerzeuger, die über Backup-Kraf
 [^Svenska_CM]: [Svenska kraftnät proposes a future capacity mechanism to ensure resource adequacy in the electricity market<br>(svk.se)](https://www.svk.se/en/about-us/news/news/svenska-kraftnat-proposes-a-future-capacity-mechanism-to-ensure-resource-adequacy-in-the-electricity-market/)
 
 [^Svenska_Studie]:[A future capacity mechanism to ensure resource adequacy in the electricity market<br>(Svenska kraftnät)](https://www.svk.se/49d7cf/siteassets/om-oss/rapporter/2023/a-future-capacity-mechanism-to-ensure-resource-adequacy-in-the-electricity-market.pdf)
+
+[^EC_Pressemitteilung_2025]: [Kommission genehmigt Schwedens mit 300 Mio. EUR ausgestattete strategische Reserve zur Gewährleistung der Stromversorgungssicherheit<br>(ec.europa.eu)](https://ec.europa.eu/commission/presscorner/detail/de/ip_25_1870)
+
+[^SA.112968]: [SA.112968 Electricity Strategic Reserve<br>(competition-cases.ec.europa.eu)](https://competition-cases.ec.europa.eu/cases/SA.112968)
