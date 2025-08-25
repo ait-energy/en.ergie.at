@@ -117,6 +117,33 @@ Die Projektziele werden mithilfe von vier dedizierten Arbeitspaketen innerhalb d
 <!-- =============================================================================================================== -->
 {{< timelineItem icon="star" header="Projektstart" badge="01.03.2024" >}}
 {{< /timelineItem >}}
+
+<!-- =============================================================================================================== -->
+{{< timelineItem icon="star" header="Konsortialmeeting" badge="25.04.2025" >}}
+Konsortialmeeting mit dem Projektteam am AIT in Wien
+{{< gallery >}}
+  <img src="assets/TeKaVe_Konsortialmeeting.jpg" class="grid-w50" alt="Konsortialmeeting"/>
+{{< /gallery >}}
+{{< /timelineItem >}}
+
+<!-- =============================================================================================================== --> 
+<!-- =============================================================================================================== -->
+{{< timelineItem icon="star" header="Stakeholder Workshop" subheader="Kapazitätsmechanismen in Österreich und Europa" badge="20.08.2025" >}}
+
+<u>Im Workshop behandelte Themen:</u><br>
+<ul>
+  <li>Potenzielle Problemfelder des österreichischen Energy-Only-Markts: Ergebnisse der quantitativen und qualitativen Analyse für Österreich</li>
+  <li>Regulatorik: Überblick über Anforderungen an Kapazitätsmechanismen laut europäischem Recht</li>
+  <li>Überblick zu Kapazitätsmechanismen, Lessons Learned und Ausgestaltungsoptionen: Empfehlungen für die Ausgestaltung
+  von einem österreichischen Kapazitätsmechanismus basierend auf den bisherigen Erfahrungen in anderen europäischen Ländern</li>
+  <li>Marktmodellierung: Ergebnisse des implementierten Modells für Österreich zur Abbildung des Energy-Only-Markts (EOM),
+  verschiedener Marktmechanismen (Marktprämie, EKB-S) und ausgewählter Kapazitätsmechanismen</li>
+  <li>Stimmen aus der Praxis: Erfahrungen und Perspektiven von ausgewählten Stakeholdern (Wien Energie & EPEX SPOT)</li>
+</ul>
+<u>Präsentation</u>: <a href="assets/TeKaVe_Stakeholder_Workshop_final.pdf" target="_blank">Stakeholder Workshop</a> <br>
+<u>Präsentation</u>: <a href="assets/TeKaVe_Stakeholder_Workshop_WE.pdf" target="_blank">Wien Energie</a>
+{{< /timelineItem >}}
+
 <!-- =============================================================================================================== -->
 
 {{< /timeline >}}
