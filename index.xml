@@ -1,6 +1,585 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>en.ergie.at</title><link>/</link><description>Recent content on en.ergie.at</description><generator>Hugo -- gohugo.io</generator><language>de</language><copyright>&amp;copy; AIT Austrian Institute of Technology GmbH</copyright><lastBuildDate>Tue, 25 Feb 2025 12:47:52 +0100</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml"/><item><title>Dispatch</title><link>/wissen/dispatch/</link><pubDate>Sun, 08 Jun 2025 01:58:06 +0200</pubDate><guid>/wissen/dispatch/</guid><description>&lt;p>Dispatch regelt die Einsatzplanung der Kraftwerke in Österreich. Hier erfährst du, wie das funktioniert und wie daraus der österreichweite Erzeugungsfahrplan entsteht.&lt;/p>
 &lt;!-- more -->
-&lt;p>Der Begriff Dispatch beschreibt die Planung des Kraftwerkseinsatzes durch Kraftwerksbetreiber:innen. Dabei erstellen diese einen Erzeugungsfahrplan für den Folgetag, der die verfügbare Kraftwerksleistung möglichst effizient verteilt. Darin wird festgelegt, welche Kraftwerke zu welchen Zeiten und mit welcher Leistung eingesetzt werden sollen. &lt;sup id="fnref:1">&lt;a href="#fn:1" class="footnote-ref" role="doc-noteref">1&lt;/a>&lt;/sup>&lt;/p></description></item><item><title>Netzentgeltmodell</title><link>/wissen/netzentgeltmodell/</link><pubDate>Sun, 08 Jun 2025 01:58:06 +0200</pubDate><guid>/wissen/netzentgeltmodell/</guid><description>&lt;p>Das Systemnutzungsentgelt wird von allen Nutzer:innen des Stromnetzes entrichtet und deckt die Kosten für den Betrieb und die Wartung des Netzes. Es variiert je nach Spannungsebene und wird von der Regulierungsbehörde E-Control festgelegt. Dieser Artikel gibt einen Überblick darüber, wie sich das Entgelt zusammensetzt und welche verschiedenen Kostenkomponenten dabei eine Rolle spielen.&lt;/p></description></item><item><title>Akteure und Stakeholder</title><link>/wissen/akteure/</link><pubDate>Tue, 27 May 2025 15:34:43 +0200</pubDate><guid>/wissen/akteure/</guid><description>&lt;p>Ein Überblick über relevante Akteure und Stakeholder im österreichischen Energiesystem: Das österreichische Energiesystem basiert auf einem komplexen Zusammenspiel verschiedener Akteure, die für Netzstabilität, Energieverteilung und Marktregulierung sorgen. Von der Steuerung der Stromflüsse bis zur Abrechnung der Energieverbrauchsdaten arbeiten spezialisierte Institutionen eng zusammen. Wer diese Akteure sind und welche Rolle sie spielen, erfährst du hier.&lt;/p></description></item><item><title>Bilanzgruppen</title><link>/wissen/bilanzgruppen/</link><pubDate>Tue, 27 May 2025 15:34:43 +0200</pubDate><guid>/wissen/bilanzgruppen/</guid><description>&lt;p>Bilanzgruppen sind zentrale Elemente im österreichischen Strommarkt, die dafür sorgen, dass Stromverbrauch und -erzeugung ausgeglichen bleiben. Bei unvorhergesehenen Abweichungen wird Ausgleichsenergie eingesetzt, um die Differenz zu decken. Dieser Artikel gibt einen Überblick über die Funktionsweise von Bilanzgruppen und deren Bedeutung für die Netzstabilität.&lt;/p></description></item><item><title>Das österreichische Stromnetz</title><link>/wissen/stromnetz/</link><pubDate>Tue, 27 May 2025 15:34:43 +0200</pubDate><guid>/wissen/stromnetz/</guid><description>&lt;p>Das österreichische Stromnetz bildet die Grundlage für den Transport elektrischer Energie von Kraftwerken zu Endverbraucher:innen. Es besteht aus sieben Netzebenen, die sich durch ihre Funktionen und Spannungsniveaus unterscheiden und durch Übertragungs- und Verteilnetzbetreiber organisiert werden. Dieser Artikel gibt einen Überblick über die verschiedenen Netzebenen und ihre jeweilige Rollen im Stromnetz.&lt;/p></description></item><item><title>Energy-Only Markt</title><link>/wissen/markt-energy-only/</link><pubDate>Tue, 27 May 2025 15:34:43 +0200</pubDate><guid>/wissen/markt-energy-only/</guid><description>&lt;p>Der Energy-Only Markt prägt seit den 1990er Jahren den Stromhandel in vielen europäischen Ländern, darunter auch Österreich. In diesem Artikel erfährst du, wie dieser Markt funktioniert und wie die kurzfristige Versorgungssicherheit dabei gewährleistet wird.&lt;/p></description></item><item><title>Merit-Order</title><link>/wissen/merit-order/</link><pubDate>Tue, 27 May 2025 15:34:43 +0200</pubDate><guid>/wissen/merit-order/</guid><description>&lt;p>Die Merit-Order regelt, in welcher Reihenfolge Kraftwerke zur Stromerzeugung eingesetzt werden. Der Artikel gibt einen Einblick, wie diese Reihenfolge den Strompreis beeinflusst und welche Rolle dabei verschiedene Energiequellen spielen.&lt;/p></description></item><item><title>Die Bewertung der unterbrechungsfreien Stromversorgung in Österreich (VoLL)</title><link>/literature/2025/02/e-control/</link><pubDate>Mon, 16 Jun 2025 15:06:39 +0200</pubDate><guid>/literature/2025/02/e-control/</guid><description>&lt;h2 class="relative group">Überblick
+&lt;p>Der Begriff Dispatch beschreibt die Planung des Kraftwerkseinsatzes durch Kraftwerksbetreiber:innen. Dabei erstellen diese einen Erzeugungsfahrplan für den Folgetag, der die verfügbare Kraftwerksleistung möglichst effizient verteilt. Darin wird festgelegt, welche Kraftwerke zu welchen Zeiten und mit welcher Leistung eingesetzt werden sollen. &lt;sup id="fnref:1">&lt;a href="#fn:1" class="footnote-ref" role="doc-noteref">1&lt;/a>&lt;/sup>&lt;/p></description></item><item><title>Netzentgeltmodell</title><link>/wissen/netzentgeltmodell/</link><pubDate>Sun, 08 Jun 2025 01:58:06 +0200</pubDate><guid>/wissen/netzentgeltmodell/</guid><description>&lt;p>Das Systemnutzungsentgelt wird von allen Nutzer:innen des Stromnetzes entrichtet und deckt die Kosten für den Betrieb und die Wartung des Netzes. Es variiert je nach Spannungsebene und wird von der Regulierungsbehörde E-Control festgelegt. Dieser Artikel gibt einen Überblick darüber, wie sich das Entgelt zusammensetzt und welche verschiedenen Kostenkomponenten dabei eine Rolle spielen.&lt;/p></description></item><item><title>Akteure und Stakeholder</title><link>/wissen/akteure/</link><pubDate>Tue, 27 May 2025 15:34:43 +0200</pubDate><guid>/wissen/akteure/</guid><description>&lt;p>Ein Überblick über relevante Akteure und Stakeholder im österreichischen Energiesystem: Das österreichische Energiesystem basiert auf einem komplexen Zusammenspiel verschiedener Akteure, die für Netzstabilität, Energieverteilung und Marktregulierung sorgen. Von der Steuerung der Stromflüsse bis zur Abrechnung der Energieverbrauchsdaten arbeiten spezialisierte Institutionen eng zusammen. Wer diese Akteure sind und welche Rolle sie spielen, erfährst du hier.&lt;/p></description></item><item><title>Bilanzgruppen</title><link>/wissen/bilanzgruppen/</link><pubDate>Tue, 27 May 2025 15:34:43 +0200</pubDate><guid>/wissen/bilanzgruppen/</guid><description>&lt;p>Bilanzgruppen sind zentrale Elemente im österreichischen Strommarkt, die dafür sorgen, dass Stromverbrauch und -erzeugung ausgeglichen bleiben. Bei unvorhergesehenen Abweichungen wird Ausgleichsenergie eingesetzt, um die Differenz zu decken. Dieser Artikel gibt einen Überblick über die Funktionsweise von Bilanzgruppen und deren Bedeutung für die Netzstabilität.&lt;/p></description></item><item><title>Das österreichische Stromnetz</title><link>/wissen/stromnetz/</link><pubDate>Tue, 27 May 2025 15:34:43 +0200</pubDate><guid>/wissen/stromnetz/</guid><description>&lt;p>Das österreichische Stromnetz bildet die Grundlage für den Transport elektrischer Energie von Kraftwerken zu Endverbraucher:innen. Es besteht aus sieben Netzebenen, die sich durch ihre Funktionen und Spannungsniveaus unterscheiden und durch Übertragungs- und Verteilnetzbetreiber organisiert werden. Dieser Artikel gibt einen Überblick über die verschiedenen Netzebenen und ihre jeweilige Rollen im Stromnetz.&lt;/p></description></item><item><title>Energy-Only Markt</title><link>/wissen/markt-energy-only/</link><pubDate>Tue, 27 May 2025 15:34:43 +0200</pubDate><guid>/wissen/markt-energy-only/</guid><description>&lt;p>Der Energy-Only Markt prägt seit den 1990er Jahren den Stromhandel in vielen europäischen Ländern, darunter auch Österreich. In diesem Artikel erfährst du, wie dieser Markt funktioniert und wie die kurzfristige Versorgungssicherheit dabei gewährleistet wird.&lt;/p></description></item><item><title>Merit-Order</title><link>/wissen/merit-order/</link><pubDate>Tue, 27 May 2025 15:34:43 +0200</pubDate><guid>/wissen/merit-order/</guid><description>&lt;p>Die Merit-Order regelt, in welcher Reihenfolge Kraftwerke zur Stromerzeugung eingesetzt werden. Der Artikel gibt einen Einblick, wie diese Reihenfolge den Strompreis beeinflusst und welche Rolle dabei verschiedene Energiequellen spielen.&lt;/p></description></item><item><title>TeKaVe</title><link>/projekte/tekave/</link><pubDate>Mon, 25 Aug 2025 10:48:45 +0200</pubDate><guid>/projekte/tekave/</guid><description>&lt;p>Die Kernfrage des Projekts &lt;em>TeKaVe - Technologieneutrale Kapazitätsmechanismen für eine Versorgungssichere Energiezukunft&lt;/em>
+betrifft, ob das Marktsystem in Österreich in seiner derzeitigen Form (Energy-Only-Markt) im Stande ist, zur gleichen Zeit ein versorgungssicheres Energiesystem aufrecht zu erhalten und die Dekarbonisierungsziele Österreichs zu erreichen.&lt;/p></description></item><item><title>Länder &amp; Auktionen</title><link>/themen/kapazitaetsmechanismen/laenderuebersicht/</link><pubDate>Mon, 04 Aug 2025 22:08:50 +0200</pubDate><guid>/themen/kapazitaetsmechanismen/laenderuebersicht/</guid><description>&lt;!--
+NOTE: Format of auction result structure for adding future auction results
+General information:
+Always use Y-x and not T-x for auction years
+Always write numbers and units as: 12345&amp;nbsp;MW (creates space between value and unit and avoids line breaks)
+General structure:
+&lt;li>
+&lt;div class="flex flex-start">
+&lt;div class="bg-primary-500 dark:bg-primary-300 text-neutral-50 dark:text-neutral-700 min-w-[30px] h-8 text-2xl flex items-center justify-center rounded-full -ml-12 mt-5">
+&lt;span class="relative block icon">
+&lt;svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512">&lt;path fill="currentColor" d="M0 64C0 46.3 14.3 32 32 32c229.8 0 416 186.2 416 416c0 17.7-14.3 32-32 32s-32-14.3-32-32C384 253.6 226.4 96 32 96C14.3 96 0 81.7 0 64zM128 416c0 35.3-28.7 64-64 64s-64-28.7-64-64s28.7-64 64-64s64 28.7 64 64zM32 160c159.1 0 288 128.9 288 288c0 17.7-14.3 32-32 32s-32-14.3-32-32c0-123.7-100.3-224-224-224c-17.7 0-32-14.3-32-32s14.3-32 32-32z"/>&lt;/svg>
+&lt;/span>
+&lt;/div>
+&lt;div class="block p-6 rounded-lg shadow-2xl min-w-full ml-6 mb-10 break-words">
+&lt;div class="flex justify-between">
+&lt;h2 class="mt-0">
+Country
+&lt;/h2>
+&lt;h3 class="">
+&lt;span class="flex" style="cursor: pointer;">
+&lt;span class="rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400">
+Auktionsjahr 20xx
+&lt;/span>
+&lt;/span>
+&lt;/h3>
+&lt;/div>
+&lt;div class="mb-6">
+&lt;div style="border-left: 4px solid #999999; padding-left: 1em; margin-bottom: 1.5em;">
+&lt;a href="Link to report">&lt;b>Bericht: &lt;u> Title of the acution result report &lt;/u>&lt;/b>&lt;/a>
+&lt;br>
+&lt;details>
+&lt;summary>&lt;span style="cursor: pointer; font-weight: 500;">Zusammenfassung anzeigen&lt;/span>&lt;/summary>&lt;i>
+Summary of auction results:
+Should contain total awarded capacity, clearing price, volume-weighted average price in case of pay-as-bid, awarded new and existing capacity, awarded foreign capacity and share of successful technology type if available.
+TIPPS:
+Use the &lt;b> tag to highlight important values.
+Try to keep the same style for countries as in the examples below.
+ChatGPT can help you with the summary if you provide the report and ask it to summarize the auction results in a similar style as the examples below. -> CHECK OF THE GENERATED SUMMARY NECESSARY!
+&lt;/i>&lt;/details>
+&lt;/div>
+&lt;/div>
+&lt;/div>
+&lt;/div>
+&lt;/li>
+-->
+&lt;br>
+&lt;div
+class="flex px-4 py-3 rounded-md bg-primary-100 dark:bg-primary-900"
+>
+&lt;span
+class="text-primary-400 ltr:pr-3 rtl:pl-3 flex items-center"
+>
+&lt;span class="relative block icon">
+&lt;svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">&lt;path fill="currentColor" d="M506.3 417l-213.3-364c-16.33-28-57.54-28-73.98 0l-213.2 364C-10.59 444.9 9.849 480 42.74 480h426.6C502.1 480 522.6 445 506.3 417zM232 168c0-13.25 10.75-24 24-24S280 154.8 280 168v128c0 13.25-10.75 24-23.1 24S232 309.3 232 296V168zM256 416c-17.36 0-31.44-14.08-31.44-31.44c0-17.36 14.07-31.44 31.44-31.44s31.44 14.08 31.44 31.44C287.4 401.9 273.4 416 256 416z"/>&lt;/svg>
+&lt;/span>
+&lt;/span>
+&lt;span
+class="dark:text-neutral-300"
+>Wir arbeiten gerade an diesem Artikel. Informationen können unvollständig oder teilweise inkorrekt sein. Fehler oder
+fehlende Details kannst Du direkt per &lt;a href="https://github.com/ait-energy/en.ergie.at/issues" target="_blank">GitHub Issue melden&lt;/a>.&lt;/span>
+&lt;/div>
+&lt;br>
+&lt;h2 class="relative group">Europa im Überblick
+&lt;div id="europa-im-%C3%BCberblick" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#europa-im-%C3%BCberblick" aria-label="Anker">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;p>Es gibt neun europäische Länder mit aktiven Kapazitätsmechanismen: Belgien, Finnland, Frankreich, Deutschland,
+Vereinigtes Königreich, Irland (SEM), Italien, Polen und Schweden. Drei von ihnen (Finnland, Deutschland und Schweden)
+haben strategische Reserven eingerichtet, während die sechs anderen Staaten marktweite Kapazitätsmechanismen
+unterhalten. Spanien und Portugal haben keinen aktiven Kapazitätsmechanismus, aber einige langfristige Altverträge
+(gezielte Kapazitätszahlungen) gelten noch.&lt;/p></description></item><item><title>Schweden</title><link>/themen/kapazitaetsmechanismen/laenderuebersicht/se/</link><pubDate>Mon, 04 Aug 2025 22:08:50 +0200</pubDate><guid>/themen/kapazitaetsmechanismen/laenderuebersicht/se/</guid><description>&lt;br>
+&lt;div
+class="flex px-4 py-3 rounded-md bg-primary-100 dark:bg-primary-900"
+>
+&lt;span
+class="text-primary-400 ltr:pr-3 rtl:pl-3 flex items-center"
+>
+&lt;span class="relative block icon">
+&lt;svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">&lt;path fill="currentColor" d="M506.3 417l-213.3-364c-16.33-28-57.54-28-73.98 0l-213.2 364C-10.59 444.9 9.849 480 42.74 480h426.6C502.1 480 522.6 445 506.3 417zM232 168c0-13.25 10.75-24 24-24S280 154.8 280 168v128c0 13.25-10.75 24-23.1 24S232 309.3 232 296V168zM256 416c-17.36 0-31.44-14.08-31.44-31.44c0-17.36 14.07-31.44 31.44-31.44s31.44 14.08 31.44 31.44C287.4 401.9 273.4 416 256 416z"/>&lt;/svg>
+&lt;/span>
+&lt;/span>
+&lt;span
+class="dark:text-neutral-300"
+>Wir arbeiten gerade an diesem Artikel. Informationen können unvollständig oder teilweise inkorrekt sein. Fehler oder fehlende Details kannst Du direkt per &lt;a href="https://github.com/ait-energy/en.ergie.at/issues" target="_blank">GitHub Issue melden&lt;/a>.&lt;/span>
+&lt;/div>
+&lt;h2 class="relative group">Aktuelle Entwicklungen
+&lt;div id="aktuelle-entwicklungen" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#aktuelle-entwicklungen" aria-label="Anker">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;p>Die Strategische Reserve in Schweden war seit dem Jahr 2003 aktiv&lt;sup id="fnref:1">&lt;a href="#fn:1" class="footnote-ref" role="doc-noteref">1&lt;/a>&lt;/sup> und ist mit 15. März 2025 ausgelaufen&lt;sup id="fnref:2">&lt;a href="#fn:2" class="footnote-ref" role="doc-noteref">2&lt;/a>&lt;/sup>.
+Ende Juli 2025 hat die Europäische Kommission eine neue Strategische Reserve um insgesamt 300 Mio. € genehmigt, die
+bis 2035 bestehen wird und allen Erzeugungsanlagen, Speichern und steuerbaren Lasten offen steht &lt;sup id="fnref:3">&lt;a href="#fn:3" class="footnote-ref" role="doc-noteref">3&lt;/a>&lt;/sup>.
+Wie genau die neue Strategische Reserve ausgestaltet sein wird, ist noch unklar, da der Beschluss der Europäischen Kommission
+noch nicht im Beihilfegregister veröffentlicht wurde &lt;sup id="fnref1:3">&lt;a href="#fn:3" class="footnote-ref" role="doc-noteref">3&lt;/a>&lt;/sup> &lt;sup id="fnref:4">&lt;a href="#fn:4" class="footnote-ref" role="doc-noteref">4&lt;/a>&lt;/sup>.&lt;/p></description></item><item><title>Frankreich</title><link>/themen/kapazitaetsmechanismen/laenderuebersicht/fr/</link><pubDate>Mon, 28 Jul 2025 13:02:27 +0200</pubDate><guid>/themen/kapazitaetsmechanismen/laenderuebersicht/fr/</guid><description>&lt;br>
+&lt;div
+class="flex px-4 py-3 rounded-md bg-primary-100 dark:bg-primary-900"
+>
+&lt;span
+class="text-primary-400 ltr:pr-3 rtl:pl-3 flex items-center"
+>
+&lt;span class="relative block icon">
+&lt;svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">&lt;path fill="currentColor" d="M506.3 417l-213.3-364c-16.33-28-57.54-28-73.98 0l-213.2 364C-10.59 444.9 9.849 480 42.74 480h426.6C502.1 480 522.6 445 506.3 417zM232 168c0-13.25 10.75-24 24-24S280 154.8 280 168v128c0 13.25-10.75 24-23.1 24S232 309.3 232 296V168zM256 416c-17.36 0-31.44-14.08-31.44-31.44c0-17.36 14.07-31.44 31.44-31.44s31.44 14.08 31.44 31.44C287.4 401.9 273.4 416 256 416z"/>&lt;/svg>
+&lt;/span>
+&lt;/span>
+&lt;span
+class="dark:text-neutral-300"
+>Wir arbeiten gerade an diesem Artikel. Informationen können unvollständig oder teilweise inkorrekt sein. Fehler oder fehlende Details kannst Du direkt per &lt;a href="https://github.com/ait-energy/en.ergie.at/issues" target="_blank">GitHub Issue melden&lt;/a>.&lt;/span>
+&lt;/div>
+&lt;h2 class="relative group">Aktuelle Entwicklungen
+&lt;div id="aktuelle-entwicklungen" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#aktuelle-entwicklungen" aria-label="Anker">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;p>Frankreich plant die Umstellung vom dezentralen auf einen zentralen Kapazitätsmarkt, der ab 2026 in Kraft treten und von EPEX betrieben werden soll &lt;sup id="fnref:1">&lt;a href="#fn:1" class="footnote-ref" role="doc-noteref">1&lt;/a>&lt;/sup>. Der neue Kapazitätsmarkt soll folgende Merkmale aufweisen:&lt;/p></description></item><item><title>Day-Ahead Markt</title><link>/wissen/markt-day-ahead/</link><pubDate>Fri, 18 Jul 2025 09:49:00 +0200</pubDate><guid>/wissen/markt-day-ahead/</guid><description>&lt;p>Am Day-Ahead Markt wird Strom für den folgenden Tag gehandelt; zum Beispiel an Börsen wie der &lt;a href="https://www.epexspot.com/en" target="_blank">EPEX Spot&lt;/a> in Paris oder an der &lt;a href="https://www.exaa.at/en/" target="_blank">EXAA&lt;/a> in Wien. Auch &lt;a href="/wissen/otc/">Over-the-Counter (OTC) Handel&lt;/a> (also außerbörsliche Verträge) ist möglich.&lt;/p></description></item><item><title>Intraday Markt</title><link>/wissen/markt-intraday/</link><pubDate>Fri, 18 Jul 2025 09:49:00 +0200</pubDate><guid>/wissen/markt-intraday/</guid><description>&lt;p>Ähnlich wie am &lt;a href="/wissen/markt-day-ahead">Day-Ahead Markt&lt;/a> findet der Handel von Strom am Intraday Markt sowohl über Börsen wie die &lt;a href="https://www.epexspot.com/en" target="_blank">EPEX Spot&lt;/a>, oder im &lt;a href="/wissen/otc/">Over-the-Counter (OTC) Handel&lt;/a> statt. Im Gegensatz handelt es sich hier aber um einen kontinuierlichen Kauf und Verkauf von Strom, der noch am gleichen Tag geliefert wird.&lt;/p></description></item><item><title>Regelzonen</title><link>/wissen/regelzonen/</link><pubDate>Fri, 18 Jul 2025 09:49:00 +0200</pubDate><guid>/wissen/regelzonen/</guid><description>&lt;br>
+&lt;div
+class="flex px-4 py-3 rounded-md bg-primary-100 dark:bg-primary-900"
+>
+&lt;span
+class="text-primary-400 ltr:pr-3 rtl:pl-3 flex items-center"
+>
+&lt;span class="relative block icon">
+&lt;svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">&lt;path fill="currentColor" d="M506.3 417l-213.3-364c-16.33-28-57.54-28-73.98 0l-213.2 364C-10.59 444.9 9.849 480 42.74 480h426.6C502.1 480 522.6 445 506.3 417zM232 168c0-13.25 10.75-24 24-24S280 154.8 280 168v128c0 13.25-10.75 24-23.1 24S232 309.3 232 296V168zM256 416c-17.36 0-31.44-14.08-31.44-31.44c0-17.36 14.07-31.44 31.44-31.44s31.44 14.08 31.44 31.44C287.4 401.9 273.4 416 256 416z"/>&lt;/svg>
+&lt;/span>
+&lt;/span>
+&lt;span
+class="dark:text-neutral-300"
+>Wir arbeiten gerade an diesem Artikel. Informationen können unvollständig oder teilweise inkorrekt sein. Fehler oder fehlende Details kannst Du direkt per &lt;a href="https://github.com/ait-energy/en.ergie.at/issues" target="_blank">GitHub Issue melden&lt;/a>.&lt;/span>
+&lt;/div></description></item><item><title>Belgien</title><link>/themen/kapazitaetsmechanismen/laenderuebersicht/be/</link><pubDate>Tue, 15 Jul 2025 17:03:46 +0200</pubDate><guid>/themen/kapazitaetsmechanismen/laenderuebersicht/be/</guid><description>&lt;br>
+&lt;div
+class="flex px-4 py-3 rounded-md bg-primary-100 dark:bg-primary-900"
+>
+&lt;span
+class="text-primary-400 ltr:pr-3 rtl:pl-3 flex items-center"
+>
+&lt;span class="relative block icon">
+&lt;svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">&lt;path fill="currentColor" d="M506.3 417l-213.3-364c-16.33-28-57.54-28-73.98 0l-213.2 364C-10.59 444.9 9.849 480 42.74 480h426.6C502.1 480 522.6 445 506.3 417zM232 168c0-13.25 10.75-24 24-24S280 154.8 280 168v128c0 13.25-10.75 24-23.1 24S232 309.3 232 296V168zM256 416c-17.36 0-31.44-14.08-31.44-31.44c0-17.36 14.07-31.44 31.44-31.44s31.44 14.08 31.44 31.44C287.4 401.9 273.4 416 256 416z"/>&lt;/svg>
+&lt;/span>
+&lt;/span>
+&lt;span
+class="dark:text-neutral-300"
+>Wir arbeiten gerade an diesem Artikel. Informationen können unvollständig oder teilweise inkorrekt sein. Fehler oder fehlende Details kannst Du direkt per &lt;a href="https://github.com/ait-energy/en.ergie.at/issues" target="_blank">GitHub Issue melden&lt;/a>.&lt;/span>
+&lt;/div>
+&lt;h2 class="relative group">Marktweiter Kapazitätsmechanismus mit zentralem Käufer
+&lt;div id="marktweiter-kapazit%C3%A4tsmechanismus-mit-zentralem-k%C3%A4ufer" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#marktweiter-kapazit%C3%A4tsmechanismus-mit-zentralem-k%C3%A4ufer" aria-label="Anker">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;p>In Belgien ist seit 2021 ein marktweiter Kapazitätsmechanismus mit zentralem Käufer aktiv &lt;sup id="fnref:1">&lt;a href="#fn:1" class="footnote-ref" role="doc-noteref">1&lt;/a>&lt;/sup>.&lt;/p></description></item><item><title>Kapazitätsmechanismen</title><link>/themen/kapazitaetsmechanismen/</link><pubDate>Thu, 10 Jul 2025 09:53:34 +0200</pubDate><guid>/themen/kapazitaetsmechanismen/</guid><description>&lt;p>Versorgungssicherheit ist heute wichtiger denn je: Steigende Anteile erneuerbarer Energien, hohe Preisvolatilität und geopolitische Risiken stellen den Strommarkt vor große Herausforderungen. Kapazitätsmechanismen können hier den &lt;a href="/wissen/markt-energy-only/">Energy-Only-Markt&lt;/a> (&lt;abbr title="Energy-Only-Markt">EOM&lt;/abbr>) ergänzen und langfristige Investitionsanreize für ausreichende Kapazitäten fördern, um eine zuverlässige Stromversorgung zu gewährleisten.&lt;/p></description></item><item><title>Ausgestaltungsfaktoren von Kapazitätsmärkten</title><link>/themen/kapazitaetsmechanismen/ausgestaltungsfaktoren/</link><pubDate>Thu, 10 Jul 2025 09:52:11 +0200</pubDate><guid>/themen/kapazitaetsmechanismen/ausgestaltungsfaktoren/</guid><description>&lt;p>Kapazitätsmechanismen sind komplexe Instrumente zur Gewährleistung der Versorgungssicherheit in Strommärkten. Sie bestehen aus einer Vielzahl ineinandergreifender Elemente, deren Ausgestaltung erheblich variiert. Diese Seite bietet einen systematischen Überblick über zentrale Gestaltungsaspekte wie das &lt;a href="#auktionsdesign">Auktionsdesign&lt;/a>, die &lt;a href="#kapazit%c3%a4tsdefinition">Definition und Zertifizierung von Kapazität&lt;/a>, &lt;a href="#derating">Derating-Faktoren&lt;/a> sowie &lt;a href="#vertragsparameter">vertragliche Rahmenbedingungen&lt;/a>. Darüber hinaus werden Fragen der &lt;a href="#verguetungsstruktur">Vergütungsstruktur&lt;/a>, &lt;a href="#kostenallokation">Kostenallokation&lt;/a> und &lt;a href="#governance">institutionellen Zuständigkeiten&lt;/a> beleuchtet. Anhand konkreter Beispiele aus europäischen Ländern werden unterschiedliche Mechanismendesigns dargestellt, um ein besseres Verständnis für deren Aufbau, Funktionen und praktische Umsetzung zu ermöglichen.&lt;/p></description></item><item><title>Erfolgsfaktoren von Kapazitätsmechanismen</title><link>/themen/kapazitaetsmechanismen/erfolgsfaktoren_von_kms/</link><pubDate>Thu, 10 Jul 2025 09:52:11 +0200</pubDate><guid>/themen/kapazitaetsmechanismen/erfolgsfaktoren_von_kms/</guid><description>&lt;p>Was macht einen Kapazitätsmechanismus erfolgreich?
+Damit Strom auch in Zukunft sicher und bezahlbar bleibt, braucht es geeignete Anreize und Strukturen im Energiesystem. Kapazitätsmechanismen spielen dabei eine zentrale Rolle. Sie helfen, systemische Knappheiten zu adressieren – sei es durch fehlende Erzeugungskapazität zu Spitzenzeiten oder durch einen Mangel an verfügbarer Energie über längere Zeiträume. Welche Aspekte dabei entscheidend sind, zeigt dieser Beitrag.&lt;/p></description></item><item><title>Schlussfolgerungen</title><link>/themen/kapazitaetsmechanismen/schlussfolgerungen/</link><pubDate>Thu, 10 Jul 2025 09:52:11 +0200</pubDate><guid>/themen/kapazitaetsmechanismen/schlussfolgerungen/</guid><description>&lt;p>Diese Seite zieht Schlussfolgerungen zur Ausgestaltung von Kapazitätsmechanismen auf Basis zentraler Analysefelder: Investitions- und Verfügbarkeitsanreize, Effizienz und Systemkosten, Marktverzerrungen, Klima- und Technologieneutralität sowie europäische Wechselwirkungen. Sie diskutiert, wie das Missing-Money-Problem adressiert werden kann und welche Anforderungen sich daraus für Vertragslaufzeiten, Auktionsdesign und Sekundärmärkte ergeben. Die Bewertung betont, dass Kapazitätsmechanismen differenziert und kontextabhängig eingesetzt werden sollten, um Versorgungssicherheit und Marktstabilität effizient zu sichern.&lt;/p></description></item><item><title>Missing Money - Quantitativ-Historische Analyse</title><link>/themen/kapazitaetsmechanismen/warum/missing_money_quantitativ_historische_analyse/</link><pubDate>Thu, 10 Jul 2025 09:49:49 +0200</pubDate><guid>/themen/kapazitaetsmechanismen/warum/missing_money_quantitativ_historische_analyse/</guid><description>&lt;h2 class="relative group">1. Kernfragestellung und methodischer Ansatz
+&lt;div id="1-kernfragestellung-und-methodischer-ansatz" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#1-kernfragestellung-und-methodischer-ansatz" aria-label="Anker">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;p>Der folgende Abschnitt fokussiert auf die Frage, ob bestehende Kraftwerkskapazitäten im Setting eines &lt;a href="/wissen/markt-energy-only/">Energy-Only-Markts&lt;/a> ausreichend finanziert werden können. Ziel der Analyse ist somit ein ‚quantitativer Nachweis‘ des Missing Money auf historischer Basis für Österreich.&lt;/p></description></item><item><title>Sind die Voraussetzungen derzeit, historisch und in der absehbaren Zukunft hinreichend erfüllt?</title><link>/themen/kapazitaetsmechanismen/warum/analyse_der_voraussetzungen/</link><pubDate>Thu, 10 Jul 2025 09:49:49 +0200</pubDate><guid>/themen/kapazitaetsmechanismen/warum/analyse_der_voraussetzungen/</guid><description>&lt;br>
+&lt;div
+class="flex px-4 py-3 rounded-md bg-primary-100 dark:bg-primary-900"
+>
+&lt;span
+class="text-primary-400 ltr:pr-3 rtl:pl-3 flex items-center"
+>
+&lt;span class="relative block icon">
+&lt;svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">&lt;path fill="currentColor" d="M506.3 417l-213.3-364c-16.33-28-57.54-28-73.98 0l-213.2 364C-10.59 444.9 9.849 480 42.74 480h426.6C502.1 480 522.6 445 506.3 417zM232 168c0-13.25 10.75-24 24-24S280 154.8 280 168v128c0 13.25-10.75 24-23.1 24S232 309.3 232 296V168zM256 416c-17.36 0-31.44-14.08-31.44-31.44c0-17.36 14.07-31.44 31.44-31.44s31.44 14.08 31.44 31.44C287.4 401.9 273.4 416 256 416z"/>&lt;/svg>
+&lt;/span>
+&lt;/span>
+&lt;span
+class="dark:text-neutral-300"
+>Wir arbeiten gerade an diesem Artikel. Informationen können unvollständig oder teilweise inkorrekt sein. Fehler oder fehlende Details kannst Du direkt per &lt;a href="https://github.com/ait-energy/en.ergie.at/issues" target="_blank">GitHub Issue melden&lt;/a>.&lt;/span>
+&lt;/div>
+&lt;p>Im folgenden Abschnitt wird evaluiert, ob die Voraussetzungen eines reinen &lt;a href="/wissen/markt-energy-only/">Energy-Only-Markt&lt;/a> (&lt;abbr title="Energy-Only-Markt">EOM&lt;/abbr>) aktuell und in der absehbaren Zukunft gegeben sind.&lt;/p></description></item><item><title>Vorraussetzungen eines reinen Energy Only Marktes</title><link>/themen/kapazitaetsmechanismen/warum/voraussetzung_eines_eom/</link><pubDate>Thu, 10 Jul 2025 09:49:49 +0200</pubDate><guid>/themen/kapazitaetsmechanismen/warum/voraussetzung_eines_eom/</guid><description>&lt;p>Ein reiner &lt;a href="/wissen/markt-energy-only/">Energy-Only-Markt&lt;/a> (EOM) kann Versorgungssicherheit gewährleisten – jedoch nur, wenn zentrale Marktbedingungen erfüllt sind. Diese Seite analysiert, welche ökonomischen Voraussetzungen bestehen müssen, damit Investitionen allein durch Marktpreise ausgelöst werden: vollkommener Wettbewerb, ausreichende Planungssicherheit sowie die Möglichkeit zur Bildung von Knappheitspreisen. Die theoretischen Grundlagen werden praxisnah eingeordnet und bewertet.&lt;/p></description></item><item><title>Warum könnten Kapazitätsmechanismen notwendig sein?</title><link>/themen/kapazitaetsmechanismen/warum/</link><pubDate>Thu, 10 Jul 2025 09:49:49 +0200</pubDate><guid>/themen/kapazitaetsmechanismen/warum/</guid><description>&lt;p>&lt;a href="/wissen/markt-energy-only/">Energy-Only-Märkte&lt;/a> (EOM) basieren auf der Annahme, dass Versorgungssicherheit allein durch freie Preisbildung und daraus resultierende Investitionsanreize gewährleistet werden kann. Doch wie realistisch ist diese Annahme in der Praxis? Die folgenden Abschnitte erläutern zunächst, welche Voraussetzungen hierfür erfüllt sein müssten – und analysieren anschließend, in welchem Maße diese Bedingungen heute und zukünftig tatsächlich bestehen.&lt;/p></description></item><item><title>Dänemark</title><link>/themen/kapazitaetsmechanismen/laenderuebersicht/dk/</link><pubDate>Thu, 10 Jul 2025 09:47:40 +0200</pubDate><guid>/themen/kapazitaetsmechanismen/laenderuebersicht/dk/</guid><description>&lt;br>
+&lt;div
+class="flex px-4 py-3 rounded-md bg-primary-100 dark:bg-primary-900"
+>
+&lt;span
+class="text-primary-400 ltr:pr-3 rtl:pl-3 flex items-center"
+>
+&lt;span class="relative block icon">
+&lt;svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">&lt;path fill="currentColor" d="M506.3 417l-213.3-364c-16.33-28-57.54-28-73.98 0l-213.2 364C-10.59 444.9 9.849 480 42.74 480h426.6C502.1 480 522.6 445 506.3 417zM232 168c0-13.25 10.75-24 24-24S280 154.8 280 168v128c0 13.25-10.75 24-23.1 24S232 309.3 232 296V168zM256 416c-17.36 0-31.44-14.08-31.44-31.44c0-17.36 14.07-31.44 31.44-31.44s31.44 14.08 31.44 31.44C287.4 401.9 273.4 416 256 416z"/>&lt;/svg>
+&lt;/span>
+&lt;/span>
+&lt;span
+class="dark:text-neutral-300"
+>Wir arbeiten gerade an diesem Artikel. Informationen können unvollständig oder teilweise inkorrekt sein. Fehler oder fehlende Details kannst Du direkt per &lt;a href="https://github.com/ait-energy/en.ergie.at/issues" target="_blank">GitHub Issue melden&lt;/a>.&lt;/span>
+&lt;/div>
+&lt;h2 class="relative group">Aktuelle Entwicklungen
+&lt;div id="aktuelle-entwicklungen" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#aktuelle-entwicklungen" aria-label="Anker">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;p>In Dänemark ist bislang keine Einführung eines Kapazitätsmechanismus geplant. Der dänische Übertragungsnetzbetreiber Energinet führt jedoch gemeinsam mit der dänischen Energieagentur Energistyrelsen derzeit eine Studie zu den Voraussetzungen und Möglichkeiten einer Einführung eines Kapazitätsmechanismus durch. Im Rahmen der Studie werden außerdem die Vor- und Nachteile verschiedener Varianten von Kapazitätsmechanismen sowie deren Auswirkungen auf andere Märkte untersucht. Die Studie soll voraussichtlich 2026 abgeschlossen werden. Nach Abschluss der Studie wird entschieden, ob ein Antrag auf staatliche Beihilfe für einen Kapazitätsmechanismus bei der Europäischen Kommission gestellt wird &lt;sup id="fnref:1">&lt;a href="#fn:1" class="footnote-ref" role="doc-noteref">1&lt;/a>&lt;/sup>.&lt;/p></description></item><item><title>Deutschland</title><link>/themen/kapazitaetsmechanismen/laenderuebersicht/de/</link><pubDate>Thu, 10 Jul 2025 09:47:40 +0200</pubDate><guid>/themen/kapazitaetsmechanismen/laenderuebersicht/de/</guid><description>&lt;br>
+&lt;div
+class="flex px-4 py-3 rounded-md bg-primary-100 dark:bg-primary-900"
+>
+&lt;span
+class="text-primary-400 ltr:pr-3 rtl:pl-3 flex items-center"
+>
+&lt;span class="relative block icon">
+&lt;svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">&lt;path fill="currentColor" d="M506.3 417l-213.3-364c-16.33-28-57.54-28-73.98 0l-213.2 364C-10.59 444.9 9.849 480 42.74 480h426.6C502.1 480 522.6 445 506.3 417zM232 168c0-13.25 10.75-24 24-24S280 154.8 280 168v128c0 13.25-10.75 24-23.1 24S232 309.3 232 296V168zM256 416c-17.36 0-31.44-14.08-31.44-31.44c0-17.36 14.07-31.44 31.44-31.44s31.44 14.08 31.44 31.44C287.4 401.9 273.4 416 256 416z"/>&lt;/svg>
+&lt;/span>
+&lt;/span>
+&lt;span
+class="dark:text-neutral-300"
+>Wir arbeiten gerade an diesem Artikel. Informationen können unvollständig oder teilweise inkorrekt sein. Fehler oder fehlende Details kannst Du direkt per &lt;a href="https://github.com/ait-energy/en.ergie.at/issues" target="_blank">GitHub Issue melden&lt;/a>.&lt;/span>
+&lt;/div>
+&lt;h2 class="relative group">Aktuelle Entwicklungen
+&lt;div id="aktuelle-entwicklungen" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#aktuelle-entwicklungen" aria-label="Anker">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;p>Die erste Ausschreibung für die Strategische Reserve fand im Jahr 2019 &lt;sup id="fnref:1">&lt;a href="#fn:1" class="footnote-ref" role="doc-noteref">1&lt;/a>&lt;/sup> &lt;sup id="fnref:2">&lt;a href="#fn:2" class="footnote-ref" role="doc-noteref">2&lt;/a>&lt;/sup> statt und wird seit dem Winterhalbjahr 2020/2021 außerhalb des Strommarkts vorgehalten&lt;sup id="fnref:3">&lt;a href="#fn:3" class="footnote-ref" role="doc-noteref">3&lt;/a>&lt;/sup>. Derzeit wird in Deutschland die Einführung eines Kapazitätsmarktes geplant, der bis 2028 operativ sein soll &lt;sup id="fnref:4">&lt;a href="#fn:4" class="footnote-ref" role="doc-noteref">4&lt;/a>&lt;/sup>. Die 2024 zerbrochene Ampelkoalition bestehend aus SPD, FDP und Grünen hat sich dabei für einen kombinierten Kapazitätsmarkt bestehend aus zentralen und dezentralen Elementen ausgesprochen. Ob die neue deutsche Bundesregierung bestehend aus CDU, CSU und SPD diesen Weg fortsetzt bleibt abzuwarten. Laut einer ersten Einschätzung von Frontier Economics erscheint es unwahrscheinlich, dass die Bundesregierung am kombinierten Modell festhält und sieht die Einführung eines zentralen Kapazitätsmarkts nach belgischem oder britischem Vorbild als wahrscheinlicher &lt;sup id="fnref:5">&lt;a href="#fn:5" class="footnote-ref" role="doc-noteref">5&lt;/a>&lt;/sup>.
+Weiters diskutiert die deutsche Bundesregierung den Einsatz der Strategischen Reserve zur Stabilisierung der Strompreise zusätzlich zur Vermeidung von Versorgungsengpässen &lt;sup id="fnref:6">&lt;a href="#fn:6" class="footnote-ref" role="doc-noteref">6&lt;/a>&lt;/sup>.&lt;/p></description></item><item><title>Estland</title><link>/themen/kapazitaetsmechanismen/laenderuebersicht/ee/</link><pubDate>Thu, 10 Jul 2025 09:47:40 +0200</pubDate><guid>/themen/kapazitaetsmechanismen/laenderuebersicht/ee/</guid><description>&lt;br>
+&lt;div
+class="flex px-4 py-3 rounded-md bg-primary-100 dark:bg-primary-900"
+>
+&lt;span
+class="text-primary-400 ltr:pr-3 rtl:pl-3 flex items-center"
+>
+&lt;span class="relative block icon">
+&lt;svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">&lt;path fill="currentColor" d="M506.3 417l-213.3-364c-16.33-28-57.54-28-73.98 0l-213.2 364C-10.59 444.9 9.849 480 42.74 480h426.6C502.1 480 522.6 445 506.3 417zM232 168c0-13.25 10.75-24 24-24S280 154.8 280 168v128c0 13.25-10.75 24-23.1 24S232 309.3 232 296V168zM256 416c-17.36 0-31.44-14.08-31.44-31.44c0-17.36 14.07-31.44 31.44-31.44s31.44 14.08 31.44 31.44C287.4 401.9 273.4 416 256 416z"/>&lt;/svg>
+&lt;/span>
+&lt;/span>
+&lt;span
+class="dark:text-neutral-300"
+>Wir arbeiten gerade an diesem Artikel. Informationen können unvollständig oder teilweise inkorrekt sein. Fehler oder fehlende Details kannst Du direkt per &lt;a href="https://github.com/ait-energy/en.ergie.at/issues" target="_blank">GitHub Issue melden&lt;/a>.&lt;/span>
+&lt;/div>
+&lt;h2 class="relative group">Aktuelle Entwicklungen
+&lt;div id="aktuelle-entwicklungen" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#aktuelle-entwicklungen" aria-label="Anker">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;p>Estland verfügt derzeit über keinen aktiven Kapazitätsmechanismus. Im Jahr 2024 wurde jedoch der nationale Umsetzungsplan zu Marktreformen bei der Europäischen Kommission eingereicht, der gemäß der Elektrizitätsverordnung der EU (2019/943) eine Voraussetzung für die Genehmigung eines Kapazitätsmechanismus darstellt &lt;sup id="fnref:1">&lt;a href="#fn:1" class="footnote-ref" role="doc-noteref">1&lt;/a>&lt;/sup>.&lt;/p></description></item><item><title>Finnland</title><link>/themen/kapazitaetsmechanismen/laenderuebersicht/fi/</link><pubDate>Thu, 10 Jul 2025 09:47:40 +0200</pubDate><guid>/themen/kapazitaetsmechanismen/laenderuebersicht/fi/</guid><description>&lt;br>
+&lt;div
+class="flex px-4 py-3 rounded-md bg-primary-100 dark:bg-primary-900"
+>
+&lt;span
+class="text-primary-400 ltr:pr-3 rtl:pl-3 flex items-center"
+>
+&lt;span class="relative block icon">
+&lt;svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">&lt;path fill="currentColor" d="M506.3 417l-213.3-364c-16.33-28-57.54-28-73.98 0l-213.2 364C-10.59 444.9 9.849 480 42.74 480h426.6C502.1 480 522.6 445 506.3 417zM232 168c0-13.25 10.75-24 24-24S280 154.8 280 168v128c0 13.25-10.75 24-23.1 24S232 309.3 232 296V168zM256 416c-17.36 0-31.44-14.08-31.44-31.44c0-17.36 14.07-31.44 31.44-31.44s31.44 14.08 31.44 31.44C287.4 401.9 273.4 416 256 416z"/>&lt;/svg>
+&lt;/span>
+&lt;/span>
+&lt;span
+class="dark:text-neutral-300"
+>Wir arbeiten gerade an diesem Artikel. Informationen können unvollständig oder teilweise inkorrekt sein. Fehler oder fehlende Details kannst Du direkt per &lt;a href="https://github.com/ait-energy/en.ergie.at/issues" target="_blank">GitHub Issue melden&lt;/a>.&lt;/span>
+&lt;/div>
+&lt;h2 class="relative group">Strategische Reserve
+&lt;div id="strategische-reserve" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#strategische-reserve" aria-label="Anker">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;h3 class="relative group">Ausschreibung
+&lt;div id="ausschreibung" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#ausschreibung" aria-label="Anker">#&lt;/a>
+&lt;/span>
+&lt;/h3>
+&lt;p>Finnland hat der Kommission einen finnischen Kapazitätsmechanismus in Höhe von 150 Millionen Euro in Form einer strategischen Reserve gemeldet. Die Maßnahme zielt darauf ab, ein Gleichgewicht zwischen Stromnachfrage und -angebot während Spitzenverbrauchszeiten in Finnland sicherzustellen &lt;sup id="fnref:1">&lt;a href="#fn:1" class="footnote-ref" role="doc-noteref">1&lt;/a>&lt;/sup>. Das strategische Reservemodell lief im Juli 2022 aus und wurde durch ein neues Modell ersetzt, das bis 2032 in Kraft sein wird. Die erste Auktion des neuen Modells fand im Sommer 2022 statt und vergab keine Kapazitäten (jedoch blieb die Kapazität, die an der Auktion teilgenommen hatte, im Energiemarkt verfügbar). Im Allgemeinen ist der Ausschreibungsprozess transparent, diskriminierungsfrei und wettbewerblich, wobei die Begünstigten auf der Grundlage von Angeboten um die geringste Höhe der Unterstützung pro MW Kapazität konkurrieren (unter Berücksichtigung technischer und umweltbezogener Aspekte wie Flexibilität der Einheiten und CO2-Emissionen) &lt;sup id="fnref1:1">&lt;a href="#fn:1" class="footnote-ref" role="doc-noteref">1&lt;/a>&lt;/sup>.&lt;/p></description></item><item><title>Irland</title><link>/themen/kapazitaetsmechanismen/laenderuebersicht/ie/</link><pubDate>Thu, 10 Jul 2025 09:47:40 +0200</pubDate><guid>/themen/kapazitaetsmechanismen/laenderuebersicht/ie/</guid><description>&lt;br>
+&lt;div
+class="flex px-4 py-3 rounded-md bg-primary-100 dark:bg-primary-900"
+>
+&lt;span
+class="text-primary-400 ltr:pr-3 rtl:pl-3 flex items-center"
+>
+&lt;span class="relative block icon">
+&lt;svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">&lt;path fill="currentColor" d="M506.3 417l-213.3-364c-16.33-28-57.54-28-73.98 0l-213.2 364C-10.59 444.9 9.849 480 42.74 480h426.6C502.1 480 522.6 445 506.3 417zM232 168c0-13.25 10.75-24 24-24S280 154.8 280 168v128c0 13.25-10.75 24-23.1 24S232 309.3 232 296V168zM256 416c-17.36 0-31.44-14.08-31.44-31.44c0-17.36 14.07-31.44 31.44-31.44s31.44 14.08 31.44 31.44C287.4 401.9 273.4 416 256 416z"/>&lt;/svg>
+&lt;/span>
+&lt;/span>
+&lt;span
+class="dark:text-neutral-300"
+>Wir arbeiten gerade an diesem Artikel. Informationen können unvollständig oder teilweise inkorrekt sein. Fehler oder fehlende Details kannst Du direkt per &lt;a href="https://github.com/ait-energy/en.ergie.at/issues" target="_blank">GitHub Issue melden&lt;/a>.&lt;/span>
+&lt;/div>
+&lt;h2 class="relative group">Marktweiter Kapazitätsmechanismus mit zentralem Käufer
+&lt;div id="marktweiter-kapazit%C3%A4tsmechanismus-mit-zentralem-k%C3%A4ufer" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#marktweiter-kapazit%C3%A4tsmechanismus-mit-zentralem-k%C3%A4ufer" aria-label="Anker">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;h3 class="relative group">Ausschreibung
+&lt;div id="ausschreibung" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#ausschreibung" aria-label="Anker">#&lt;/a>
+&lt;/span>
+&lt;/h3>
+&lt;p>Teilnehmer an einer Kapazitätsauktion reichen Gebote ein, in denen die Menge der Kapazität (MW) und der gewünschte Preis (£/€) spezifiziert sind. Die Auktion ist wettbewerbsorientiert und bevorzugt effiziente und kostengünstige Kapazität &lt;sup id="fnref:1">&lt;a href="#fn:1" class="footnote-ref" role="doc-noteref">1&lt;/a>&lt;/sup>. Aufgrund von Übertragungsbeschränkungen gibt es kapazitätsbezogene Zwänge für die gesamte Insel sowie standortbezogene Kapazitätsbeschränkungen und damit verbundene Mindestanforderungen an die MW für bestimmte Standorte. Diese Mindestanforderungen basieren auf Analysen des &lt;abbr title="Transmission System Operator">TSO&lt;/abbr> und werden von den Regulierungsbehörden genehmigt, wodurch eine Nachfragekurve entsteht, die an verschiedene Faktoren angepasst ist &lt;sup id="fnref1:1">&lt;a href="#fn:1" class="footnote-ref" role="doc-noteref">1&lt;/a>&lt;/sup>. Die Auktion findet auf der speziell entwickelten &lt;abbr title="Capacity Market Platform">CMP&lt;/abbr> statt. Die Angebotsabgabe beginnt eine Woche vor der Auktion und endet zwei Stunden davor. Es wird ein verdecktes Bietverfahren mit einem einheitlichen Clearing-Preis verwendet, wobei Preisobergrenzen auf 150 % des &lt;abbr title="Cost of New Entry">CONE&lt;/abbr> festgelegt sind und bis zu fünf Preis-Mengen-Paare pro qualifizierter Kapazität zulässig sind. Die Einheiten unterliegen den genehmigten Angebotspreisobergrenzen, die während der Qualifikation für sie festgelegt wurden: für die meisten bestehenden Kapazitäten gilt die vordefinierte Preisobergrenze für bestehende Kapazitäten, neue Kapazitäten und &lt;abbr title="Demand Response">DR&lt;/abbr>-Einheiten können bis zur Auktionspreisobergrenze bieten; außerdem gibt es Einheiten, denen spezifische Obergrenzen vom Regulierer zugewiesen wurden &lt;sup id="fnref2:1">&lt;a href="#fn:1" class="footnote-ref" role="doc-noteref">1&lt;/a>&lt;/sup>. Nach der Angebotsabgabe verwenden die Systembetreiber eine spezielle Auktionssoftware, um den kostengünstigsten Kapazitätsmix zu finden, der die Nachfrage- und Standortanforderungen erfüllt. Der Auktions-Clearing-Preis ergibt sich, wenn die Angebotskurve auf die Nachfragekurve trifft. Kapazitäten, die aufgrund von Standortanforderungen erfolgreich in der Auktion sind, beeinflussen den Auktions-Clearing-Preis nicht. Erfüllte Angebote erhalten den höheren Wert aus ihrem Angebotspreis und dem Auktions-Clearing-Preis &lt;sup id="fnref3:1">&lt;a href="#fn:1" class="footnote-ref" role="doc-noteref">1&lt;/a>&lt;/sup>. Auktionen werden vier Jahre (T-4) vor dem Lieferjahr abgehalten, mit zusätzlichen Auktionen nach Bedarf (T-1, T-2).&lt;/p></description></item><item><title>Italien</title><link>/themen/kapazitaetsmechanismen/laenderuebersicht/it/</link><pubDate>Thu, 10 Jul 2025 09:47:40 +0200</pubDate><guid>/themen/kapazitaetsmechanismen/laenderuebersicht/it/</guid><description>&lt;br>
+&lt;div
+class="flex px-4 py-3 rounded-md bg-primary-100 dark:bg-primary-900"
+>
+&lt;span
+class="text-primary-400 ltr:pr-3 rtl:pl-3 flex items-center"
+>
+&lt;span class="relative block icon">
+&lt;svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">&lt;path fill="currentColor" d="M506.3 417l-213.3-364c-16.33-28-57.54-28-73.98 0l-213.2 364C-10.59 444.9 9.849 480 42.74 480h426.6C502.1 480 522.6 445 506.3 417zM232 168c0-13.25 10.75-24 24-24S280 154.8 280 168v128c0 13.25-10.75 24-23.1 24S232 309.3 232 296V168zM256 416c-17.36 0-31.44-14.08-31.44-31.44c0-17.36 14.07-31.44 31.44-31.44s31.44 14.08 31.44 31.44C287.4 401.9 273.4 416 256 416z"/>&lt;/svg>
+&lt;/span>
+&lt;/span>
+&lt;span
+class="dark:text-neutral-300"
+>Wir arbeiten gerade an diesem Artikel. Informationen können unvollständig oder teilweise inkorrekt sein. Fehler oder fehlende Details kannst Du direkt per &lt;a href="https://github.com/ait-energy/en.ergie.at/issues" target="_blank">GitHub Issue melden&lt;/a>.&lt;/span>
+&lt;/div>
+&lt;h2 class="relative group">Aktuelle Entwicklungen
+&lt;div id="aktuelle-entwicklungen" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#aktuelle-entwicklungen" aria-label="Anker">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;p>Um die Integration von 98 GW erneuerbarer Energien bis 2030 zu ermöglichen, sind vor allem großskalige Energiespeicher erforderlich, wie aus Italiens nationalem Energie- und Klimaplan (&lt;abbr title="National Energy and Climate Plan">NECP&lt;/abbr>) hervorgeht. Die Stromerzeugung aus erneuerbaren Energien wird dabei vor allem in Süditalien und auf den Inseln stattfinden, während der Verbrauchsschwerpunkt in Norditalien liegt. Da die Übertragungskapazitäten bislang nicht ausreichen und die Entwicklung der erforderlichen Speicherprojekte aufgrund hoher Investitionskosten in diesem kurzen Zeithorizont bis 2030 unsicher ist, führt Italien zusätzlich zu seinem bestehenden Kapazitätsmechanismus einen Fördermechanismus für eigenständige Speicher ein. Der Fokus der neuen Speicherprojekte soll dabei - im Gegensatz zu den Batterieprojekten im Rahmen des Kapazitätsmechanismus - auf einer langfristigen Energiespeicherung liegen. Im Rahmen des Kapazitätsmechanismus wurden bisher vor allem kurzfristige Batteriespeicher, deren mittlere Speicherdauer bei vier Stunden liegt, beanreizt. Außerdem wurde durch den Kapazitätsmechanismus nicht die benötigte Menge an neuen Speicherprojekten beanreizt um Italiens Ziel von zusätzlichen 71 GWh an Speicherkapazität bis 2030 zu erreichen &lt;sup id="fnref:1">&lt;a href="#fn:1" class="footnote-ref" role="doc-noteref">1&lt;/a>&lt;/sup>.&lt;/p></description></item><item><title>Kroatien</title><link>/themen/kapazitaetsmechanismen/laenderuebersicht/hr/</link><pubDate>Thu, 10 Jul 2025 09:47:40 +0200</pubDate><guid>/themen/kapazitaetsmechanismen/laenderuebersicht/hr/</guid><description>&lt;br>
+&lt;div
+class="flex px-4 py-3 rounded-md bg-primary-100 dark:bg-primary-900"
+>
+&lt;span
+class="text-primary-400 ltr:pr-3 rtl:pl-3 flex items-center"
+>
+&lt;span class="relative block icon">
+&lt;svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">&lt;path fill="currentColor" d="M506.3 417l-213.3-364c-16.33-28-57.54-28-73.98 0l-213.2 364C-10.59 444.9 9.849 480 42.74 480h426.6C502.1 480 522.6 445 506.3 417zM232 168c0-13.25 10.75-24 24-24S280 154.8 280 168v128c0 13.25-10.75 24-23.1 24S232 309.3 232 296V168zM256 416c-17.36 0-31.44-14.08-31.44-31.44c0-17.36 14.07-31.44 31.44-31.44s31.44 14.08 31.44 31.44C287.4 401.9 273.4 416 256 416z"/>&lt;/svg>
+&lt;/span>
+&lt;/span>
+&lt;span
+class="dark:text-neutral-300"
+>Wir arbeiten gerade an diesem Artikel. Informationen können unvollständig oder teilweise inkorrekt sein. Fehler oder fehlende Details kannst Du direkt per &lt;a href="https://github.com/ait-energy/en.ergie.at/issues" target="_blank">GitHub Issue melden&lt;/a>.&lt;/span>
+&lt;/div>
+&lt;h2 class="relative group">Ausschreibungen für neue Kapazitäten (Tender für Marktprämien)
+&lt;div id="ausschreibungen-f%C3%BCr-neue-kapazit%C3%A4ten-tender-f%C3%BCr-marktpr%C3%A4mien" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#ausschreibungen-f%C3%BCr-neue-kapazit%C3%A4ten-tender-f%C3%BCr-marktpr%C3%A4mien" aria-label="Anker">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;h3 class="relative group">Ausschreibung
+&lt;div id="ausschreibung" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#ausschreibung" aria-label="Anker">#&lt;/a>
+&lt;/span>
+&lt;/h3>
+&lt;p>Im April 2024 kündigte der kroatische Energiemarktbetreiber HROTE Pläne an, eine öffentliche Ausschreibung zur Unterstützung der Erzeugung von 607 MW Strom aus erneuerbaren Quellen durch Marktprämien durchzuführen. HROTE gab einen öffentlichen Aufruf zur Einreichung von Angeboten heraus, in dem die Bedingungen für die Teilnahme an dieser Ausschreibung festgelegt wurden. Das Ausschreibungsverfahren war sechzig Tage lang geöffnet &lt;sup id="fnref:1">&lt;a href="#fn:1" class="footnote-ref" role="doc-noteref">1&lt;/a>&lt;/sup>.&lt;/p></description></item><item><title>Litauen</title><link>/themen/kapazitaetsmechanismen/laenderuebersicht/lt/</link><pubDate>Thu, 10 Jul 2025 09:47:40 +0200</pubDate><guid>/themen/kapazitaetsmechanismen/laenderuebersicht/lt/</guid><description>&lt;br>
+&lt;div
+class="flex px-4 py-3 rounded-md bg-primary-100 dark:bg-primary-900"
+>
+&lt;span
+class="text-primary-400 ltr:pr-3 rtl:pl-3 flex items-center"
+>
+&lt;span class="relative block icon">
+&lt;svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">&lt;path fill="currentColor" d="M506.3 417l-213.3-364c-16.33-28-57.54-28-73.98 0l-213.2 364C-10.59 444.9 9.849 480 42.74 480h426.6C502.1 480 522.6 445 506.3 417zM232 168c0-13.25 10.75-24 24-24S280 154.8 280 168v128c0 13.25-10.75 24-23.1 24S232 309.3 232 296V168zM256 416c-17.36 0-31.44-14.08-31.44-31.44c0-17.36 14.07-31.44 31.44-31.44s31.44 14.08 31.44 31.44C287.4 401.9 273.4 416 256 416z"/>&lt;/svg>
+&lt;/span>
+&lt;/span>
+&lt;span
+class="dark:text-neutral-300"
+>Wir arbeiten gerade an diesem Artikel. Informationen können unvollständig oder teilweise inkorrekt sein. Fehler oder fehlende Details kannst Du direkt per &lt;a href="https://github.com/ait-energy/en.ergie.at/issues" target="_blank">GitHub Issue melden&lt;/a>.&lt;/span>
+&lt;/div>
+&lt;h2 class="relative group">Aktuelle Entwicklungen
+&lt;div id="aktuelle-entwicklungen" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#aktuelle-entwicklungen" aria-label="Anker">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;p>In Litauen gibt es derzeit keinen aktiven Kapazitätsmechanismus. In den Jahren 2019 und 2020 wurde jedoch die Einführung eines marktweiten Kapazitätsmechanismus diskutiert, der allen Erzeugungs- und Speichertechnologien sowie Demand Response offenstehen sollte &lt;sup id="fnref:1">&lt;a href="#fn:1" class="footnote-ref" role="doc-noteref">1&lt;/a>&lt;/sup>.
+Seit der Konsultation über die möglichen Effekte einer Einführung eines Kapazitätsmechanismus mit den Nachbarstaaten im Mai 2020 gibt es jedoch keine weiteren aktuellen Informationen zu diesem Thema &lt;sup id="fnref:2">&lt;a href="#fn:2" class="footnote-ref" role="doc-noteref">2&lt;/a>&lt;/sup>.&lt;/p></description></item><item><title>Polen</title><link>/themen/kapazitaetsmechanismen/laenderuebersicht/pl/</link><pubDate>Thu, 10 Jul 2025 09:47:40 +0200</pubDate><guid>/themen/kapazitaetsmechanismen/laenderuebersicht/pl/</guid><description>&lt;br>
+&lt;div
+class="flex px-4 py-3 rounded-md bg-primary-100 dark:bg-primary-900"
+>
+&lt;span
+class="text-primary-400 ltr:pr-3 rtl:pl-3 flex items-center"
+>
+&lt;span class="relative block icon">
+&lt;svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">&lt;path fill="currentColor" d="M506.3 417l-213.3-364c-16.33-28-57.54-28-73.98 0l-213.2 364C-10.59 444.9 9.849 480 42.74 480h426.6C502.1 480 522.6 445 506.3 417zM232 168c0-13.25 10.75-24 24-24S280 154.8 280 168v128c0 13.25-10.75 24-23.1 24S232 309.3 232 296V168zM256 416c-17.36 0-31.44-14.08-31.44-31.44c0-17.36 14.07-31.44 31.44-31.44s31.44 14.08 31.44 31.44C287.4 401.9 273.4 416 256 416z"/>&lt;/svg>
+&lt;/span>
+&lt;/span>
+&lt;span
+class="dark:text-neutral-300"
+>Wir arbeiten gerade an diesem Artikel. Informationen können unvollständig oder teilweise inkorrekt sein. Fehler oder fehlende Details kannst Du direkt per &lt;a href="https://github.com/ait-energy/en.ergie.at/issues" target="_blank">GitHub Issue melden&lt;/a>.&lt;/span>
+&lt;/div>
+&lt;h2 class="relative group">Marktweiter Kapazitätsmechanismus mit zentralem Käufer
+&lt;div id="marktweiter-kapazit%C3%A4tsmechanismus-mit-zentralem-k%C3%A4ufer" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#marktweiter-kapazit%C3%A4tsmechanismus-mit-zentralem-k%C3%A4ufer" aria-label="Anker">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;p>Um Brownouts und wirtschaftliche Verluste zu vermeiden, führte Polen 2018 einen zentralisierten Kapazitätsmarkt ein, der sich an den Lösungen des &lt;a href="/themen/kapazitaetsmechanismen/laenderuebersicht/uk/">Vereinigten Königreichs&lt;/a> orientiert, aufgrund der Ähnlichkeiten in ihren Energiemärkten, einschließlich eines großen Anteils an kohlenstoffbasierten Kraftwerken und einer einheitlichen Marktstruktur mit einem einzigen &lt;abbr title="Übertragungsnetzbetreiber">ÜNB&lt;/abbr>. Dieser Kapazitätsmarkt zielt darauf ab, die mittel- und langfristige Energiesicherheit auf wirtschaftlich gerechtfertigte, nicht diskriminierende und nachhaltige Weise zu gewährleisten. Während der polnische Mechanismus Fragen zur Ressourcenangemessenheit adressiert, wird jedoch kritisiert, dass er nicht genügend Investitionsanreize für neue Kapazitäten bietet und wirtschaftlich ineffiziente, alte Kohlekraftwerke erhält, wodurch die notwendige Dekarbonisierung des Stromsystems verzögert wird. Die Hauptnutznießer waren bestehende Anlagen, und der Markt hat es nicht geschafft, Investitionen in neue Stromerzeugungseinheiten anzuregen. &lt;sup id="fnref:1">&lt;a href="#fn:1" class="footnote-ref" role="doc-noteref">1&lt;/a>&lt;/sup>.&lt;/p></description></item><item><title>Portugal</title><link>/themen/kapazitaetsmechanismen/laenderuebersicht/pt/</link><pubDate>Thu, 10 Jul 2025 09:47:40 +0200</pubDate><guid>/themen/kapazitaetsmechanismen/laenderuebersicht/pt/</guid><description>&lt;br>
+&lt;div
+class="flex px-4 py-3 rounded-md bg-primary-100 dark:bg-primary-900"
+>
+&lt;span
+class="text-primary-400 ltr:pr-3 rtl:pl-3 flex items-center"
+>
+&lt;span class="relative block icon">
+&lt;svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">&lt;path fill="currentColor" d="M506.3 417l-213.3-364c-16.33-28-57.54-28-73.98 0l-213.2 364C-10.59 444.9 9.849 480 42.74 480h426.6C502.1 480 522.6 445 506.3 417zM232 168c0-13.25 10.75-24 24-24S280 154.8 280 168v128c0 13.25-10.75 24-23.1 24S232 309.3 232 296V168zM256 416c-17.36 0-31.44-14.08-31.44-31.44c0-17.36 14.07-31.44 31.44-31.44s31.44 14.08 31.44 31.44C287.4 401.9 273.4 416 256 416z"/>&lt;/svg>
+&lt;/span>
+&lt;/span>
+&lt;span
+class="dark:text-neutral-300"
+>Wir arbeiten gerade an diesem Artikel. Informationen können unvollständig oder teilweise inkorrekt sein. Fehler oder fehlende Details kannst Du direkt per &lt;a href="https://github.com/ait-energy/en.ergie.at/issues" target="_blank">GitHub Issue melden&lt;/a>.&lt;/span>
+&lt;/div>
+&lt;h2 class="relative group">Aktuelle Entwicklungen
+&lt;div id="aktuelle-entwicklungen" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#aktuelle-entwicklungen" aria-label="Anker">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;p>Portugal verfügt derzeit über keinen aktiven Kapazitätsmechanismus. Im Nationalen Bericht zur Angemessenheit der Ressourcen (NRAA) 2024 wurde jedoch ein Versorgungssicherheitsproblem festgestellt. Der portugiesische Übertragungsnetzbetreiber REN (Redes Energéticas Nacionais) und die Generaldirektion für Energie und Geologie DGEG (Direção-Geral de Energia e Geologia) sprechen sich daher erstmals gemeinsam für die Einführung eines Kapazitätsmechanismus aus, um die Stillegung der bestehenden CCGTs zu vermeiden &lt;sup id="fnref:1">&lt;a href="#fn:1" class="footnote-ref" role="doc-noteref">1&lt;/a>&lt;/sup>.&lt;/p></description></item><item><title>Spanien</title><link>/themen/kapazitaetsmechanismen/laenderuebersicht/es/</link><pubDate>Thu, 10 Jul 2025 09:47:40 +0200</pubDate><guid>/themen/kapazitaetsmechanismen/laenderuebersicht/es/</guid><description>&lt;br>
+&lt;div
+class="flex px-4 py-3 rounded-md bg-primary-100 dark:bg-primary-900"
+>
+&lt;span
+class="text-primary-400 ltr:pr-3 rtl:pl-3 flex items-center"
+>
+&lt;span class="relative block icon">
+&lt;svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">&lt;path fill="currentColor" d="M506.3 417l-213.3-364c-16.33-28-57.54-28-73.98 0l-213.2 364C-10.59 444.9 9.849 480 42.74 480h426.6C502.1 480 522.6 445 506.3 417zM232 168c0-13.25 10.75-24 24-24S280 154.8 280 168v128c0 13.25-10.75 24-23.1 24S232 309.3 232 296V168zM256 416c-17.36 0-31.44-14.08-31.44-31.44c0-17.36 14.07-31.44 31.44-31.44s31.44 14.08 31.44 31.44C287.4 401.9 273.4 416 256 416z"/>&lt;/svg>
+&lt;/span>
+&lt;/span>
+&lt;span
+class="dark:text-neutral-300"
+>Wir arbeiten gerade an diesem Artikel. Informationen können unvollständig oder teilweise inkorrekt sein. Fehler oder fehlende Details kannst Du direkt per &lt;a href="https://github.com/ait-energy/en.ergie.at/issues" target="_blank">GitHub Issue melden&lt;/a>.&lt;/span>
+&lt;/div>
+&lt;h2 class="relative group">Aktuelle Entwicklungen
+&lt;div id="aktuelle-entwicklungen" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#aktuelle-entwicklungen" aria-label="Anker">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;p>Die spanische Regierung plant die Einführung eines zentralen Kapazitätsmarktes, der bis 2026 in Betrieb genommen werden soll &lt;sup id="fnref:1">&lt;a href="#fn:1" class="footnote-ref" role="doc-noteref">1&lt;/a>&lt;/sup> &lt;sup id="fnref:2">&lt;a href="#fn:2" class="footnote-ref" role="doc-noteref">2&lt;/a>&lt;/sup>. Der Kapazitätsmarkt wird die Teilnahme von Erzeugungsanlagen, Speichern und flexiblen Lasten ermöglichen &lt;sup id="fnref:3">&lt;a href="#fn:3" class="footnote-ref" role="doc-noteref">3&lt;/a>&lt;/sup>. Die öffentliche Konsultation zu den Vorschlägen der Regierung fand zwischen Dezember 2024 und Ende Januar 2025 statt. Die nächsten Schritte umfassen die Auswertung der Konsultationsergebnisse, die Veröffentlichung des endgültigen Textes sowie die Beantragung der Genehmigung als staatliche Beihilfe bei der Europäischen Kommission &lt;sup id="fnref1:1">&lt;a href="#fn:1" class="footnote-ref" role="doc-noteref">1&lt;/a>&lt;/sup> &lt;sup id="fnref:4">&lt;a href="#fn:4" class="footnote-ref" role="doc-noteref">4&lt;/a>&lt;/sup>.&lt;/p></description></item><item><title>Vereinigtes Königreich</title><link>/themen/kapazitaetsmechanismen/laenderuebersicht/uk/</link><pubDate>Thu, 10 Jul 2025 09:47:40 +0200</pubDate><guid>/themen/kapazitaetsmechanismen/laenderuebersicht/uk/</guid><description>&lt;br>
+&lt;div
+class="flex px-4 py-3 rounded-md bg-primary-100 dark:bg-primary-900"
+>
+&lt;span
+class="text-primary-400 ltr:pr-3 rtl:pl-3 flex items-center"
+>
+&lt;span class="relative block icon">
+&lt;svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">&lt;path fill="currentColor" d="M506.3 417l-213.3-364c-16.33-28-57.54-28-73.98 0l-213.2 364C-10.59 444.9 9.849 480 42.74 480h426.6C502.1 480 522.6 445 506.3 417zM232 168c0-13.25 10.75-24 24-24S280 154.8 280 168v128c0 13.25-10.75 24-23.1 24S232 309.3 232 296V168zM256 416c-17.36 0-31.44-14.08-31.44-31.44c0-17.36 14.07-31.44 31.44-31.44s31.44 14.08 31.44 31.44C287.4 401.9 273.4 416 256 416z"/>&lt;/svg>
+&lt;/span>
+&lt;/span>
+&lt;span
+class="dark:text-neutral-300"
+>Wir arbeiten gerade an diesem Artikel. Informationen können unvollständig oder teilweise inkorrekt sein. Fehler oder fehlende Details kannst Du direkt per &lt;a href="https://github.com/ait-energy/en.ergie.at/issues" target="_blank">GitHub Issue melden&lt;/a>.&lt;/span>
+&lt;/div>
+&lt;h2 class="relative group">Marktweiter Kapazitätsmechanismus mit zentralem Käufer
+&lt;div id="marktweiter-kapazit%C3%A4tsmechanismus-mit-zentralem-k%C3%A4ufer" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#marktweiter-kapazit%C3%A4tsmechanismus-mit-zentralem-k%C3%A4ufer" aria-label="Anker">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;p>Im Vereinigten Königreich wird seit 2014 eine zentralisierte Kapazitätsauktion durchgeführt &lt;sup id="fnref:1">&lt;a href="#fn:1" class="footnote-ref" role="doc-noteref">1&lt;/a>&lt;/sup>.&lt;/p></description></item><item><title>Arten von Kapazitätsmechanismen</title><link>/themen/kapazitaetsmechanismen/arten/</link><pubDate>Thu, 10 Jul 2025 09:44:15 +0200</pubDate><guid>/themen/kapazitaetsmechanismen/arten/</guid><description>&lt;p>Um ausreichende Kapazitäten für eine zuverlässige Stromversorgung sicherzustellen, wurden verschiedene Arten von Kapazitätsmechanismen entwickelt. Allgemein unterscheidet man zwischen gezielten Mechanismen (z. B. strategische Reserven), die nur ausgewählte Kraftwerke umfassen, und marktweiten Mechanismen, an denen alle Kapazitätsanbieter teilnehmen können. Zusätzlich lässt sich differenzieren, ob bei diesen Mechanismen der Preis oder die Kapazitätsmenge zentral festgelegt wird, während sich der jeweils andere Faktor am Markt bildet. Dieser Abschnitt bietet eine detaillierte Übersicht über die verschiedenen Arten, ihre Funktionsweise und die jeweiligen Vor- und Nachteile.&lt;/p></description></item><item><title>Contracts for Differences</title><link>/themen/kapazitaetsmechanismen/arten/contracts_for_differences/</link><pubDate>Thu, 10 Jul 2025 09:42:57 +0200</pubDate><guid>/themen/kapazitaetsmechanismen/arten/contracts_for_differences/</guid><description>&lt;p>Contracts for Difference (&lt;abbr title="Contract for Difference">CfD&lt;/abbr>) erhöhen die Planungssicherheit der Produzenteneinnahmen, indem sie Marktpreisabweichungen ausgleichen: Liegt der Marktpreis unter dem Vertragspreis, zahlt der vertragspartner die Differenz – liegt er darüber, fließt die Differenz vom Produzenten zurück.&lt;/p></description></item><item><title>Gezielte Kapazitätszahlungen</title><link>/themen/kapazitaetsmechanismen/arten/gezielte_kapazitaetszahlungen/</link><pubDate>Thu, 10 Jul 2025 09:42:57 +0200</pubDate><guid>/themen/kapazitaetsmechanismen/arten/gezielte_kapazitaetszahlungen/</guid><description>&lt;p>Gezielte Kapazitätszahlungen setzen auf finanzielle Anreize für bestimmte Anlagen, um spezifische Probleme zu lösen, wie
+etwa die Unterstützung erneuerbarer Energien, die Erleichterung der Schließung von Kohlekraftwerken und die Stärkung der
+Betriebsreserven.&lt;/p></description></item><item><title>Kapazitätsabonnements</title><link>/themen/kapazitaetsmechanismen/arten/kapazitaetsabonnements/</link><pubDate>Thu, 10 Jul 2025 09:42:57 +0200</pubDate><guid>/themen/kapazitaetsmechanismen/arten/kapazitaetsabonnements/</guid><description>&lt;p>Kapazitätsabonnements geben Verbrauchern die Möglichkeit, ihr gewünschtes Maß an Versorgungssicherheit zu wählen – ähnlich wie bei Versicherungen. Durch feste Verträge erhalten sie Energie auch in Engpässen, während Anbieter Planungssicherheit gewinnen.&lt;/p></description></item><item><title>Kombinierter Kapazitätsmarkt</title><link>/themen/kapazitaetsmechanismen/arten/kombinierter_km/</link><pubDate>Thu, 10 Jul 2025 09:42:57 +0200</pubDate><guid>/themen/kapazitaetsmechanismen/arten/kombinierter_km/</guid><description>&lt;p>Der kombinierte Kapazitätsmarkt (&lt;abbr title="Kombinierter Kapazitätsmarkt">KKM&lt;/abbr>) ist ein theoretischer
+Mechanismus zur Gewährleistung der Versorgungssicherheit, der Elemente des
+&lt;a href="/themen/kapazitaetsmechanismen/arten/marktweit_zentraler_kaeufer/">zentralen&lt;/a> und
+&lt;a href="/themen/kapazitaetsmechanismen/arten/marktweit_dezentraler_kaeufer/">dezentralen&lt;/a> Kapazitätsmarkts verbindet.
+Ziel ist es durch Kombination der Vorteile beider Einzelansätze, sowohl langfristige Investitionsanreize für neue
+steuerbare Kapazitäten zu schaffen, als auch das dezentrale Wissen der Stromnachfrageseite zu nutzen, um Systemeffizienz
+und Anpassungsfähigkeit zu erhöhen.&lt;/p></description></item><item><title>Langzeit Power-Purchase-Agreements</title><link>/themen/kapazitaetsmechanismen/arten/langzeit_ppas/</link><pubDate>Thu, 10 Jul 2025 09:42:57 +0200</pubDate><guid>/themen/kapazitaetsmechanismen/arten/langzeit_ppas/</guid><description>&lt;p>Verträge zwischen Stromerzeugern und Käufern (wie Versorgungsunternehmen, Unternehmen oder Regierungen), bei denen der Erzeuger zustimmt, eine bestimmte Menge Strom zu einem vorher festgelegten Preis über einen längeren Zeitraum zu verkaufen, der oft zwischen 10 und 20 Jahren liegt.&lt;/p></description></item><item><title>Leistbarkeitsoptionen</title><link>/themen/kapazitaetsmechanismen/arten/leistbarkeitsoptionen/</link><pubDate>Thu, 10 Jul 2025 09:42:57 +0200</pubDate><guid>/themen/kapazitaetsmechanismen/arten/leistbarkeitsoptionen/</guid><description>&lt;p>Leistbarkeitsptionen ermöglichen es, Verbrauchern hohe Strompreise zu ersparen, indem Erzeuger ihre Spitzengewinne abgeben und dafür im Gegenzug regelmäßige Zahlungen erhalten. Der Mechanismus verbindet soziale Entlastung mit Planungssicherheit für Anbieter.&lt;/p></description></item><item><title>Marktweiter Kapazitätsmechanismus mit dezentraler Verpflichtung</title><link>/themen/kapazitaetsmechanismen/arten/marktweit_dezentraler_kaeufer/</link><pubDate>Thu, 10 Jul 2025 09:42:57 +0200</pubDate><guid>/themen/kapazitaetsmechanismen/arten/marktweit_dezentraler_kaeufer/</guid><description>&lt;br>
+&lt;div
+class="flex px-4 py-3 rounded-md bg-primary-100 dark:bg-primary-900"
+>
+&lt;span
+class="text-primary-400 ltr:pr-3 rtl:pl-3 flex items-center"
+>
+&lt;span class="relative block icon">
+&lt;svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">&lt;path fill="currentColor" d="M506.3 417l-213.3-364c-16.33-28-57.54-28-73.98 0l-213.2 364C-10.59 444.9 9.849 480 42.74 480h426.6C502.1 480 522.6 445 506.3 417zM232 168c0-13.25 10.75-24 24-24S280 154.8 280 168v128c0 13.25-10.75 24-23.1 24S232 309.3 232 296V168zM256 416c-17.36 0-31.44-14.08-31.44-31.44c0-17.36 14.07-31.44 31.44-31.44s31.44 14.08 31.44 31.44C287.4 401.9 273.4 416 256 416z"/>&lt;/svg>
+&lt;/span>
+&lt;/span>
+&lt;span
+class="dark:text-neutral-300"
+>Wir arbeiten gerade an diesem Artikel. Informationen können unvollständig oder teilweise inkorrekt sein. Fehler oder fehlende Details kannst Du direkt per &lt;a href="https://github.com/ait-energy/en.ergie.at/issues" target="_blank">GitHub Issue melden&lt;/a>.&lt;/span>
+&lt;/div>
+&lt;p>Dezentrale Kapazitätsmärkte verpflichten Stromversorger und Großverbraucher, ihren Bedarf an gesicherter Leistung eigenständig zu decken. Sie fördern Wettbewerb und technologische Vielfalt, stellen aber hohe Anforderungen an Koordination, Markttransparenz und Überwachung.&lt;/p></description></item><item><title>Marktweiter Kapazitätsmechanismus mit zentralem Käufer</title><link>/themen/kapazitaetsmechanismen/arten/marktweit_zentraler_kaeufer/</link><pubDate>Thu, 10 Jul 2025 09:42:57 +0200</pubDate><guid>/themen/kapazitaetsmechanismen/arten/marktweit_zentraler_kaeufer/</guid><description>&lt;!-- Zusammenfassung hinzufügen falls es über Vorschau eingebunden wird -->
+&lt;br>
+&lt;div
+class="flex px-4 py-3 rounded-md bg-primary-100 dark:bg-primary-900"
+>
+&lt;span
+class="text-primary-400 ltr:pr-3 rtl:pl-3 flex items-center"
+>
+&lt;span class="relative block icon">
+&lt;svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">&lt;path fill="currentColor" d="M506.3 417l-213.3-364c-16.33-28-57.54-28-73.98 0l-213.2 364C-10.59 444.9 9.849 480 42.74 480h426.6C502.1 480 522.6 445 506.3 417zM232 168c0-13.25 10.75-24 24-24S280 154.8 280 168v128c0 13.25-10.75 24-23.1 24S232 309.3 232 296V168zM256 416c-17.36 0-31.44-14.08-31.44-31.44c0-17.36 14.07-31.44 31.44-31.44s31.44 14.08 31.44 31.44C287.4 401.9 273.4 416 256 416z"/>&lt;/svg>
+&lt;/span>
+&lt;/span>
+&lt;span
+class="dark:text-neutral-300"
+>Wir arbeiten gerade an diesem Artikel. Informationen können unvollständig oder teilweise inkorrekt sein. Fehler oder fehlende Details kannst Du direkt per &lt;a href="https://github.com/ait-energy/en.ergie.at/issues" target="_blank">GitHub Issue melden&lt;/a>.&lt;/span>
+&lt;/div>
+&lt;p>Obwohl sich dieser Bericht auf die EU bezieht, wollen wir darauf hinweisen, dass dies die Hauptart von Kapazitätsmechanismen ist, die in den USA verwendet wird (PJM, NE-ISO usw.).&lt;/p></description></item><item><title>Peak Shaving Produkte</title><link>/themen/kapazitaetsmechanismen/arten/peak_shaving_prods/</link><pubDate>Thu, 10 Jul 2025 09:42:57 +0200</pubDate><guid>/themen/kapazitaetsmechanismen/arten/peak_shaving_prods/</guid><description>&lt;p>Ein Dienst oder eine Strategie, die den Stromverbrauch während Spitzenlastzeiten reduziert, typischerweise durch Lastmanagement oder DR Techniken.&lt;/p></description></item><item><title>Strategische Reserve</title><link>/themen/kapazitaetsmechanismen/arten/strategische_reserve/</link><pubDate>Thu, 10 Jul 2025 09:42:57 +0200</pubDate><guid>/themen/kapazitaetsmechanismen/arten/strategische_reserve/</guid><description>&lt;p>Strategische Reserven dienen der Versorgungssicherheit in Knappheitssituationen und werden außerhalb des Strommarkts vorgehalten.
+Typischerweise befinden sich in einer strategischen Reserve Anlagen, die wirtschaftlich nicht mehr rentabel
+sind und andernfalls bereits stillgelegt worden wären.&lt;/p></description></item><item><title>Unterbrechbarkeitsregeln</title><link>/themen/kapazitaetsmechanismen/arten/unterbrechbarkeitsregeln/</link><pubDate>Thu, 10 Jul 2025 09:42:57 +0200</pubDate><guid>/themen/kapazitaetsmechanismen/arten/unterbrechbarkeitsregeln/</guid><description>&lt;p>Unterbrechbarkeitsregelungen ermöglichen eine kurzfristige Reduktion industrieller Lasten zur Stabilisierung des Stromnetzes. Großverbraucher stellen ihre Nachfrage flexibel bereit und können bei Netzengpässen auf Anforderung vom Netz genommen werden.&lt;/p></description></item><item><title>Zielgerichtete Unterstützungsprogramme</title><link>/themen/kapazitaetsmechanismen/arten/zielgerichtete_unterstuetzungsprog/</link><pubDate>Thu, 10 Jul 2025 09:42:57 +0200</pubDate><guid>/themen/kapazitaetsmechanismen/arten/zielgerichtete_unterstuetzungsprog/</guid><description>&lt;p>Zielgerichtete Unterstützungsprogramme ermöglichen die gezielte Förderung bestimmter Technologien – etwa erneuerbare Erzeugung, Speicher oder Nachfrageflexibilität. Sie verbinden Marktnähe mit planbarer Unterstützung und ergänzen Kapazitätsmechanismen punktuell.&lt;/p></description></item><item><title>Neudefinition der Energiesicherheit im Zeitalter der Elektrizität</title><link>/literature/2025/02/eurelectric/</link><pubDate>Wed, 18 Jun 2025 16:21:11 +0200</pubDate><guid>/literature/2025/02/eurelectric/</guid><description>&lt;h2 class="relative group">Überblick
+&lt;div id="%C3%BCberblick" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#%C3%BCberblick" aria-label="Anker">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;figure>
+&lt;div class="flex mt-2">
+&lt;span
+class="rounded-full bg-primary-500 dark:bg-primary-400 text-neutral-50 dark:text-neutral-800 px-1.5 py-[1px] text-xs font-normal"
+>
+&lt;span class="flex flex-row items-center">
+&lt;span>Originaldokument&lt;/span>
+&lt;/span>
+&lt;/span>
+&lt;/div>
+&lt;blockquote style="margin-top: 0.5em;">
+&lt;a href="https://energy-security.eurelectric.org/wp-content/uploads/Eurelectric-report-energy-security-in-the-age-of-electricity-1.pdf" target="_blank">
+Redefining energy security in the age of electricity
+&lt;/a>
+&lt;/blockquote>
+&lt;figcaption>— Eurelectric, im Februar 2025&lt;/figcaption>
+&lt;/figure>
+&lt;h3 class="relative group">Inhalte
+&lt;div id="inhalte" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#inhalte" aria-label="Anker">#&lt;/a>
+&lt;/span>
+&lt;/h3>
+&lt;h4 class="relative group">Kapazitätsmechanismen
+&lt;div id="kapazit%C3%A4tsmechanismen" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#kapazit%C3%A4tsmechanismen" aria-label="Anker">#&lt;/a>
+&lt;/span>
+&lt;/h4>
+&lt;p>Die Studie erläutert, warum Kapazitätsmechanismen notwendig sein können, um Investitionen in gesicherte und flexible
+Stromerzeugung zu fördern und beschreibt das sogenannte &amp;ldquo;Missing-Money&amp;rdquo;-Problem, das entsteht, wenn Einnahmen aus Energie- und
+Ausgleichsmärkten nicht die Fixkosten decken. Bieten die Energiemärkte keine ausreichenden Investitionsanreize für die
+Versorgungssicherheit (SoS), spricht sich Eurelectric für die Einführung ergänzender Unterstützungsmechanismen aus.
+Besteht ausschließlich ein Bedarf an Flexibilität, empfiehlt sich ein spezieller Flexibilitätsvertrag, der Investitionen
+in flexible Kapazitäten fördert. Liegt hingegen nur ein Bedarf an gesicherter Leistung (Adequacy) vor, sollte ein
+Kapazitätsmechanismus eingesetzt werden, der allen technisch geeigneten Technologien offensteht - einschließlich
+Speicherlösungen und Nachfragesteuerung. Werden sowohl gesicherte als auch flexible Kapazitäten benötigt, kann entweder
+ein gemeinsamer, optimierter Mechanismus oder zwei getrennte Mechanismen eingeführt werden. Die Wahl hängt davon ab,
+inwieweit sich die Technologien zur Deckung beider Anforderungen überschneiden.&lt;/p></description></item><item><title>Die Bewertung der unterbrechungsfreien Stromversorgung in Österreich (VoLL)</title><link>/literature/2025/02/e-control/</link><pubDate>Mon, 16 Jun 2025 15:06:39 +0200</pubDate><guid>/literature/2025/02/e-control/</guid><description>&lt;h2 class="relative group">Überblick
 &lt;div id="%C3%BCberblick" class="anchor">&lt;/div>
 &lt;span
 class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
@@ -667,539 +1246,9 @@ class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 
 style="text-decoration-line: none !important;" href="#kapazit%C3%A4tsmechanismen" aria-label="Anker">#&lt;/a>
 &lt;/span>
 &lt;/h4>
-&lt;p>In dem Papier Strommarktdesign der Zukunft stellt die deutsche Bundesregierung verschiedene Optionen für ein sicheres, bezahlbares und nachhaltiges Marktdesign vor und stellt diese zur Diskussion. Zur Sicherstellung der Finanzierung steuerbarer Kapazitäten werden vier Optionen diskutiert: Kapazitätsabsicherungsmechanismus durch Spitzenpreishedging, Dezentraler Kapazitätsmarkt, Zentraler Kapazitätsmarkt, Kombinierter Kapazitätsmarkt. Aus Sicht des BMWK wird zum Zeitpunkt der Veröffentlichung der Kombinierte Kapazitätsmarkt als die kosteneffizienteste Option bewertet, um die Versorgungssicherheit langfristig zu gewährleisten.&lt;/p></description></item><item><title>Frankreich</title><link>/themen/kapazitaetsmechanismen/laenderuebersicht/fr/</link><pubDate>Tue, 10 Jun 2025 14:10:57 +0200</pubDate><guid>/themen/kapazitaetsmechanismen/laenderuebersicht/fr/</guid><description>&lt;br>
-&lt;div
-class="flex px-4 py-3 rounded-md bg-primary-100 dark:bg-primary-900"
->
-&lt;span
-class="text-primary-400 ltr:pr-3 rtl:pl-3 flex items-center"
->
-&lt;span class="relative block icon">
-&lt;svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">&lt;path fill="currentColor" d="M506.3 417l-213.3-364c-16.33-28-57.54-28-73.98 0l-213.2 364C-10.59 444.9 9.849 480 42.74 480h426.6C502.1 480 522.6 445 506.3 417zM232 168c0-13.25 10.75-24 24-24S280 154.8 280 168v128c0 13.25-10.75 24-23.1 24S232 309.3 232 296V168zM256 416c-17.36 0-31.44-14.08-31.44-31.44c0-17.36 14.07-31.44 31.44-31.44s31.44 14.08 31.44 31.44C287.4 401.9 273.4 416 256 416z"/>&lt;/svg>
-&lt;/span>
-&lt;/span>
-&lt;span
-class="dark:text-neutral-300"
->Wir arbeiten gerade an diesem Artikel. Informationen können unvollständig oder teilweise inkorrekt sein. Fehler oder fehlende Details kannst Du direkt per &lt;a href="https://github.com/ait-energy/en.ergie.at/issues" target="_blank">GitHub Issue melden&lt;/a>.&lt;/span>
-&lt;/div>
-&lt;h2 class="relative group">Aktuelle Entwicklungen
-&lt;div id="aktuelle-entwicklungen" class="anchor">&lt;/div>
-&lt;span
-class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
-&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
-style="text-decoration-line: none !important;" href="#aktuelle-entwicklungen" aria-label="Anker">#&lt;/a>
-&lt;/span>
-&lt;/h2>
-&lt;p>Frankreich plant die Umstellung des dezentralen Kapazitätsmarkts auf einen zentralen Kapazitätsmarkt, der 2026 in Kraft treten soll und von der EPEX Spot betrieben wird &lt;sup id="fnref:1">&lt;a href="#fn:1" class="footnote-ref" role="doc-noteref">1&lt;/a>&lt;/sup>.&lt;/p></description></item><item><title>Länder &amp; Auktionen</title><link>/themen/kapazitaetsmechanismen/laenderuebersicht/</link><pubDate>Tue, 10 Jun 2025 14:05:50 +0200</pubDate><guid>/themen/kapazitaetsmechanismen/laenderuebersicht/</guid><description>&lt;!--
-NOTE: Format of auction result structure for adding future auction results
-General information:
-Always use Y-x and not T-x for auction years
-Always write numbers and units as: 12345&amp;nbsp;MW (creates space between value and unit and avoids line breaks)
-General structure:
-&lt;li>
-&lt;div class="flex flex-start">
-&lt;div class="bg-primary-500 dark:bg-primary-300 text-neutral-50 dark:text-neutral-700 min-w-[30px] h-8 text-2xl flex items-center justify-center rounded-full -ml-12 mt-5">
-&lt;span class="relative block icon">
-&lt;svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512">&lt;path fill="currentColor" d="M0 64C0 46.3 14.3 32 32 32c229.8 0 416 186.2 416 416c0 17.7-14.3 32-32 32s-32-14.3-32-32C384 253.6 226.4 96 32 96C14.3 96 0 81.7 0 64zM128 416c0 35.3-28.7 64-64 64s-64-28.7-64-64s28.7-64 64-64s64 28.7 64 64zM32 160c159.1 0 288 128.9 288 288c0 17.7-14.3 32-32 32s-32-14.3-32-32c0-123.7-100.3-224-224-224c-17.7 0-32-14.3-32-32s14.3-32 32-32z"/>&lt;/svg>
-&lt;/span>
-&lt;/div>
-&lt;div class="block p-6 rounded-lg shadow-2xl min-w-full ml-6 mb-10 break-words">
-&lt;div class="flex justify-between">
-&lt;h2 class="mt-0">
-Country
-&lt;/h2>
-&lt;h3 class="">
-&lt;span class="flex" style="cursor: pointer;">
-&lt;span class="rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400">
-Auktionsjahr 20xx
-&lt;/span>
-&lt;/span>
-&lt;/h3>
-&lt;/div>
-&lt;div class="mb-6">
-&lt;div style="border-left: 4px solid #999999; padding-left: 1em; margin-bottom: 1.5em;">
-&lt;a href="Link to report">&lt;b>Bericht: &lt;u> Title of the acution result report &lt;/u>&lt;/b>&lt;/a>
-&lt;br>
-&lt;details>
-&lt;summary>&lt;span style="cursor: pointer; font-weight: 500;">Zusammenfassung anzeigen&lt;/span>&lt;/summary>&lt;i>
-Summary of auction results:
-Should contain total awarded capacity, clearing price, volume-weighted average price in case of pay-as-bid, awarded new and existing capacity, awarded foreign capacity and share of successful technology type if available.
-TIPPS:
-Use the &lt;b> tag to highlight important values.
-Try to keep the same style for countries as in the examples below.
-ChatGPT can help you with the summary if you provide the report and ask it to summarize the auction results in a similar style as the examples below. -> CHECK OF THE GENERATED SUMMARY NECESSARY!
-&lt;/i>&lt;/details>
-&lt;/div>
-&lt;/div>
-&lt;/div>
-&lt;/div>
-&lt;/li>
--->
-&lt;br>
-&lt;div
-class="flex px-4 py-3 rounded-md bg-primary-100 dark:bg-primary-900"
->
-&lt;span
-class="text-primary-400 ltr:pr-3 rtl:pl-3 flex items-center"
->
-&lt;span class="relative block icon">
-&lt;svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">&lt;path fill="currentColor" d="M506.3 417l-213.3-364c-16.33-28-57.54-28-73.98 0l-213.2 364C-10.59 444.9 9.849 480 42.74 480h426.6C502.1 480 522.6 445 506.3 417zM232 168c0-13.25 10.75-24 24-24S280 154.8 280 168v128c0 13.25-10.75 24-23.1 24S232 309.3 232 296V168zM256 416c-17.36 0-31.44-14.08-31.44-31.44c0-17.36 14.07-31.44 31.44-31.44s31.44 14.08 31.44 31.44C287.4 401.9 273.4 416 256 416z"/>&lt;/svg>
-&lt;/span>
-&lt;/span>
-&lt;span
-class="dark:text-neutral-300"
->Wir arbeiten gerade an diesem Artikel. Informationen können unvollständig oder teilweise inkorrekt sein. Fehler oder
-fehlende Details kannst Du direkt per &lt;a href="https://github.com/ait-energy/en.ergie.at/issues" target="_blank">GitHub Issue melden&lt;/a>.&lt;/span>
-&lt;/div>
-&lt;br>
-&lt;h2 class="relative group">Europa im Überblick
-&lt;div id="europa-im-%C3%BCberblick" class="anchor">&lt;/div>
-&lt;span
-class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
-&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
-style="text-decoration-line: none !important;" href="#europa-im-%C3%BCberblick" aria-label="Anker">#&lt;/a>
-&lt;/span>
-&lt;/h2>
-&lt;p>Es gibt neun europäische Länder mit aktiven Kapazitätsmechanismen: Belgien, Finnland, Frankreich, Deutschland,
-Vereinigtes Königreich, Irland (SEM), Italien, Polen und Schweden. Drei von ihnen (Finnland, Deutschland und Schweden)
-haben strategische Reserven eingerichtet, während die sechs anderen Staaten marktweite Kapazitätsmechanismen
-unterhalten. Spanien und Portugal haben keinen aktiven Kapazitätsmechanismus, aber einige langfristige Altverträge
-(gezielte Kapazitätszahlungen) gelten noch.&lt;/p></description></item><item><title>Kapazitätsmechanismen</title><link>/themen/kapazitaetsmechanismen/</link><pubDate>Tue, 10 Jun 2025 13:35:46 +0200</pubDate><guid>/themen/kapazitaetsmechanismen/</guid><description>&lt;p>Versorgungssicherheit ist heute wichtiger denn je: Steigende Anteile erneuerbarer Energien, hohe Preisvolatilität und geopolitische Risiken stellen den Strommarkt vor große Herausforderungen. Kapazitätsmechanismen können hier den &lt;a href="/wissen/markt-energy-only/">Energy-Only-Markt&lt;/a> (&lt;abbr title="Energy-Only-Markt">EOM&lt;/abbr>) ergänzen und langfristige Investitionsanreize für ausreichende Kapazitäten fördern, um eine zuverlässige Stromversorgung zu gewährleisten.&lt;/p></description></item><item><title>Italien</title><link>/themen/kapazitaetsmechanismen/laenderuebersicht/it/</link><pubDate>Tue, 10 Jun 2025 13:22:50 +0200</pubDate><guid>/themen/kapazitaetsmechanismen/laenderuebersicht/it/</guid><description>&lt;br>
-&lt;div
-class="flex px-4 py-3 rounded-md bg-primary-100 dark:bg-primary-900"
->
-&lt;span
-class="text-primary-400 ltr:pr-3 rtl:pl-3 flex items-center"
->
-&lt;span class="relative block icon">
-&lt;svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">&lt;path fill="currentColor" d="M506.3 417l-213.3-364c-16.33-28-57.54-28-73.98 0l-213.2 364C-10.59 444.9 9.849 480 42.74 480h426.6C502.1 480 522.6 445 506.3 417zM232 168c0-13.25 10.75-24 24-24S280 154.8 280 168v128c0 13.25-10.75 24-23.1 24S232 309.3 232 296V168zM256 416c-17.36 0-31.44-14.08-31.44-31.44c0-17.36 14.07-31.44 31.44-31.44s31.44 14.08 31.44 31.44C287.4 401.9 273.4 416 256 416z"/>&lt;/svg>
-&lt;/span>
-&lt;/span>
-&lt;span
-class="dark:text-neutral-300"
->Wir arbeiten gerade an diesem Artikel. Informationen können unvollständig oder teilweise inkorrekt sein. Fehler oder fehlende Details kannst Du direkt per &lt;a href="https://github.com/ait-energy/en.ergie.at/issues" target="_blank">GitHub Issue melden&lt;/a>.&lt;/span>
-&lt;/div>
-&lt;h2 class="relative group">Aktuelle Entwicklungen
-&lt;div id="aktuelle-entwicklungen" class="anchor">&lt;/div>
-&lt;span
-class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
-&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
-style="text-decoration-line: none !important;" href="#aktuelle-entwicklungen" aria-label="Anker">#&lt;/a>
-&lt;/span>
-&lt;/h2>
-&lt;p>Um die Integration von 98 GW erneuerbarer Energien bis 2030 zu ermöglichen, sind vor allem großskalige Energiespeicher erforderlich, wie aus Italiens nationalem Energie- und Klimaplan (&lt;abbr title="National Energy and Climate Plan">NECP&lt;/abbr>) hervorgeht. Die Stromerzeugung aus erneuerbaren Energien wird dabei vor allem in Süditalien und auf den Inseln stattfinden, während der Verbrauchsschwerpunkt in Norditalien liegt. Da die Übertragungskapazitäten bislang nicht ausreichen und die Entwicklung der erforderlichen Speicherprojekte aufgrund hoher Investitionskosten in diesem kurzen Zeithorizont bis 2030 unsicher ist, führt Italien zusätzlich zu seinem bestehenden Kapazitätsmechanismus einen Fördermechanismus für eigenständige Speicher ein. Der Fokus der neuen Speicherprojekte soll dabei - im Gegensatz zu den Batterieprojekten im Rahmen des Kapazitätsmechanismus - auf einer langfristigen Energiespeicherung liegen. Im Rahmen des Kapazitätsmechanismus wurden bisher vor allem kurzfristige Batteriespeicher, deren mittlere Speicherdauer bei vier Stunden liegt, beanreizt. Außerdem wurde durch den Kapazitätsmechanismus nicht die benötigte Menge an neuen Speicherprojekten beanreizt um Italiens Ziel von zusätzlichen 71 GWh an Speicherkapazität bis 2030 zu erreichen &lt;sup id="fnref:1">&lt;a href="#fn:1" class="footnote-ref" role="doc-noteref">1&lt;/a>&lt;/sup>.&lt;/p></description></item><item><title>Andreas Fischer</title><link>/authors/afischer/</link><pubDate>Tue, 10 Jun 2025 11:10:34 +0200</pubDate><guid>/authors/afischer/</guid><description>&lt;p>&lt;a href="mailto:andreas.fischer@ait.ac.at">
-&lt;span class="relative inline-block align-text-bottom icon">
-&lt;svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">&lt;path fill="currentColor" d="M207.8 20.73c-93.45 18.32-168.7 93.66-187 187.1c-27.64 140.9 68.65 266.2 199.1 285.1c19.01 2.888 36.17-12.26 36.17-31.49l.0001-.6631c0-15.74-11.44-28.88-26.84-31.24c-84.35-12.98-149.2-86.13-149.2-174.2c0-102.9 88.61-185.5 193.4-175.4c91.54 8.869 158.6 91.25 158.6 183.2l0 16.16c0 22.09-17.94 40.05-40 40.05s-40.01-17.96-40.01-40.05v-120.1c0-8.847-7.161-16.02-16.01-16.02l-31.98 .0036c-7.299 0-13.2 4.992-15.12 11.68c-24.85-12.15-54.24-16.38-86.06-5.106c-38.75 13.73-68.12 48.91-73.72 89.64c-9.483 69.01 43.81 128 110.9 128c26.44 0 50.43-9.544 69.59-24.88c24 31.3 65.23 48.69 109.4 37.49C465.2 369.3 496 324.1 495.1 277.2V256.3C495.1 107.1 361.2-9.332 207.8 20.73zM239.1 304.3c-26.47 0-48-21.56-48-48.05s21.53-48.05 48-48.05s48 21.56 48 48.05S266.5 304.3 239.1 304.3z"/>&lt;/svg>
-&lt;/span>
-andreas.fischer(at)ait.ac.at&lt;/a>  · 
-&lt;a href="https://github.com/andifischier" target="_blank">
-&lt;span class="relative inline-block align-text-bottom icon">
-&lt;svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 496 512">&lt;path fill="currentColor" d="M165.9 397.4c0 2-2.3 3.6-5.2 3.6-3.3.3-5.6-1.3-5.6-3.6 0-2 2.3-3.6 5.2-3.6 3-.3 5.6 1.3 5.6 3.6zm-31.1-4.5c-.7 2 1.3 4.3 4.3 4.9 2.6 1 5.6 0 6.2-2s-1.3-4.3-4.3-5.2c-2.6-.7-5.5.3-6.2 2.3zm44.2-1.7c-2.9.7-4.9 2.6-4.6 4.9.3 2 2.9 3.3 5.9 2.6 2.9-.7 4.9-2.6 4.6-4.6-.3-1.9-3-3.2-5.9-2.9zM244.8 8C106.1 8 0 113.3 0 252c0 110.9 69.8 205.8 169.5 239.2 12.8 2.3 17.3-5.6 17.3-12.1 0-6.2-.3-40.4-.3-61.4 0 0-70 15-84.7-29.8 0 0-11.4-29.1-27.8-36.6 0 0-22.9-15.7 1.6-15.4 0 0 24.9 2 38.6 25.8 21.9 38.6 58.6 27.5 72.9 20.9 2.3-16 8.8-27.1 16-33.7-55.9-6.2-112.3-14.3-112.3-110.5 0-27.5 7.6-41.3 23.6-58.9-2.6-6.5-11.1-33.3 2.6-67.9 20.9-6.5 69 27 69 27 20-5.6 41.5-8.5 62.8-8.5s42.8 2.9 62.8 8.5c0 0 48.1-33.6 69-27 13.7 34.7 5.2 61.4 2.6 67.9 16 17.7 25.8 31.5 25.8 58.9 0 96.5-58.9 104.2-114.8 110.5 9.2 7.9 17 22.9 17 46.4 0 33.7-.3 75.4-.3 83.6 0 6.5 4.6 14.4 17.3 12.1C428.2 457.8 496 362.9 496 252 496 113.3 383.5 8 244.8 8zM97.2 352.9c-1.3 1-1 3.3.7 5.2 1.6 1.6 3.9 2.3 5.2 1 1.3-1 1-3.3-.7-5.2-1.6-1.6-3.9-2.3-5.2-1zm-10.8-8.1c-.7 1.3.3 2.9 2.3 3.9 1.6 1 3.6.7 4.3-.7.7-1.3-.3-2.9-2.3-3.9-2-.6-3.6-.3-4.3.7zm32.4 35.6c-1.6 1.3-1 4.3 1.3 6.2 2.3 2.3 5.2 2.6 6.5 1 1.3-1.3.7-4.3-1.3-6.2-2.2-2.3-5.2-2.6-6.5-1zm-11.4-14.7c-1.6 1-1.6 3.6 0 5.9 1.6 2.3 4.3 3.3 5.6 2.3 1.6-1.3 1.6-3.9 0-6.2-1.4-2.3-4-3.3-5.6-2z"/>&lt;/svg>
-&lt;/span>
-andifischier&lt;/a>&amp;amp;nbsp · 
-&lt;a href="https://www.linkedin.com/in/andifischer/" target="_blank">
-&lt;span class="relative inline-block align-text-bottom icon">
-&lt;svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512">&lt;path fill="currentColor" d="M416 32H31.9C14.3 32 0 46.5 0 64.3v383.4C0 465.5 14.3 480 31.9 480H416c17.6 0 32-14.5 32-32.3V64.3c0-17.8-14.4-32.3-32-32.3zM135.4 416H69V202.2h66.5V416zm-33.2-243c-21.3 0-38.5-17.3-38.5-38.5S80.9 96 102.2 96c21.2 0 38.5 17.3 38.5 38.5 0 21.3-17.2 38.5-38.5 38.5zm282.1 243h-66.4V312c0-24.8-.5-56.7-34.5-56.7-34.6 0-39.9 27-39.9 54.9V416h-66.4V202.2h63.7v29.2h.9c8.9-16.8 30.6-34.5 62.9-34.5 67.2 0 79.7 44.3 79.7 101.9V416z"/>&lt;/svg>
-&lt;/span>
-Andreas Fischer&lt;/a>&lt;/p></description></item><item><title>Arten von Kapazitätsmechanismen</title><link>/themen/kapazitaetsmechanismen/arten/</link><pubDate>Tue, 10 Jun 2025 11:10:34 +0200</pubDate><guid>/themen/kapazitaetsmechanismen/arten/</guid><description>&lt;p>Um ausreichende Kapazitäten für eine zuverlässige Stromversorgung sicherzustellen, wurden verschiedene Arten von Kapazitätsmechanismen entwickelt. Allgemein unterscheidet man zwischen gezielten Mechanismen (z. B. strategische Reserven), die nur ausgewählte Kraftwerke umfassen, und marktweiten Mechanismen, an denen alle Kapazitätsanbieter teilnehmen können. Zusätzlich lässt sich differenzieren, ob bei diesen Mechanismen der Preis oder die Kapazitätsmenge zentral festgelegt wird, während sich der jeweils andere Faktor am Markt bildet. Dieser Abschnitt bietet eine detaillierte Übersicht über die verschiedenen Arten, ihre Funktionsweise und die jeweiligen Vor- und Nachteile.&lt;/p></description></item><item><title>Ausgestaltungsfaktoren von Kapazitätsmärkten</title><link>/themen/kapazitaetsmechanismen/ausgestaltungsfaktoren/</link><pubDate>Sun, 08 Jun 2025 01:58:06 +0200</pubDate><guid>/themen/kapazitaetsmechanismen/ausgestaltungsfaktoren/</guid><description>&lt;p>Kapazitätsmechanismen sind komplexe Instrumente zur Gewährleistung der Versorgungssicherheit in Strommärkten. Sie bestehen aus einer Vielzahl ineinandergreifender Elemente, deren Ausgestaltung erheblich variiert. Diese Seite bietet einen systematischen Überblick über zentrale Gestaltungsaspekte wie das &lt;a href="#auktionsdesign">Auktionsdesign&lt;/a>, die &lt;a href="#kapazit%c3%a4tsdefinition">Definition und Zertifizierung von Kapazität&lt;/a>, &lt;a href="#derating">Derating-Faktoren&lt;/a> sowie &lt;a href="#vertragsparameter">vertragliche Rahmenbedingungen&lt;/a>. Darüber hinaus werden Fragen der &lt;a href="#verguetungsstruktur">Vergütungsstruktur&lt;/a>, &lt;a href="#kostenallokation">Kostenallokation&lt;/a> und &lt;a href="#governance">institutionellen Zuständigkeiten&lt;/a> beleuchtet. Anhand konkreter Beispiele aus europäischen Ländern werden unterschiedliche Mechanismendesigns dargestellt, um ein besseres Verständnis für deren Aufbau, Funktionen und praktische Umsetzung zu ermöglichen.&lt;/p></description></item><item><title>Belgien</title><link>/themen/kapazitaetsmechanismen/laenderuebersicht/be/</link><pubDate>Sun, 08 Jun 2025 01:58:06 +0200</pubDate><guid>/themen/kapazitaetsmechanismen/laenderuebersicht/be/</guid><description>&lt;br>
-&lt;div
-class="flex px-4 py-3 rounded-md bg-primary-100 dark:bg-primary-900"
->
-&lt;span
-class="text-primary-400 ltr:pr-3 rtl:pl-3 flex items-center"
->
-&lt;span class="relative block icon">
-&lt;svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">&lt;path fill="currentColor" d="M506.3 417l-213.3-364c-16.33-28-57.54-28-73.98 0l-213.2 364C-10.59 444.9 9.849 480 42.74 480h426.6C502.1 480 522.6 445 506.3 417zM232 168c0-13.25 10.75-24 24-24S280 154.8 280 168v128c0 13.25-10.75 24-23.1 24S232 309.3 232 296V168zM256 416c-17.36 0-31.44-14.08-31.44-31.44c0-17.36 14.07-31.44 31.44-31.44s31.44 14.08 31.44 31.44C287.4 401.9 273.4 416 256 416z"/>&lt;/svg>
-&lt;/span>
-&lt;/span>
-&lt;span
-class="dark:text-neutral-300"
->Wir arbeiten gerade an diesem Artikel. Informationen können unvollständig oder teilweise inkorrekt sein. Fehler oder fehlende Details kannst Du direkt per &lt;a href="https://github.com/ait-energy/en.ergie.at/issues" target="_blank">GitHub Issue melden&lt;/a>.&lt;/span>
-&lt;/div>
-&lt;h2 class="relative group">Marktweiter Kapazitätsmechanismus mit zentralem Käufer
-&lt;div id="marktweiter-kapazit%C3%A4tsmechanismus-mit-zentralem-k%C3%A4ufer" class="anchor">&lt;/div>
-&lt;span
-class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
-&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
-style="text-decoration-line: none !important;" href="#marktweiter-kapazit%C3%A4tsmechanismus-mit-zentralem-k%C3%A4ufer" aria-label="Anker">#&lt;/a>
-&lt;/span>
-&lt;/h2>
-&lt;p>In Belgien ist seit 2021 ein marktweiter Kapazitätsmechanismus mit zentralem Käufer aktiv &lt;sup id="fnref:1">&lt;a href="#fn:1" class="footnote-ref" role="doc-noteref">1&lt;/a>&lt;/sup>.&lt;/p></description></item><item><title>Contracts for Differences</title><link>/themen/kapazitaetsmechanismen/arten/contracts_for_differences/</link><pubDate>Sun, 08 Jun 2025 01:58:06 +0200</pubDate><guid>/themen/kapazitaetsmechanismen/arten/contracts_for_differences/</guid><description>&lt;p>Contracts for Difference (&lt;abbr title="Contract for Difference">CfD&lt;/abbr>) erhöhen die Planungssicherheit der Produzenteneinnahmen, indem sie Marktpreisabweichungen ausgleichen: Liegt der Marktpreis unter dem Vertragspreis, zahlt der vertragspartner die Differenz – liegt er darüber, fließt die Differenz vom Produzenten zurück.&lt;/p></description></item><item><title>Dänemark</title><link>/themen/kapazitaetsmechanismen/laenderuebersicht/dk/</link><pubDate>Sun, 08 Jun 2025 01:58:06 +0200</pubDate><guid>/themen/kapazitaetsmechanismen/laenderuebersicht/dk/</guid><description>&lt;br>
-&lt;div
-class="flex px-4 py-3 rounded-md bg-primary-100 dark:bg-primary-900"
->
-&lt;span
-class="text-primary-400 ltr:pr-3 rtl:pl-3 flex items-center"
->
-&lt;span class="relative block icon">
-&lt;svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">&lt;path fill="currentColor" d="M506.3 417l-213.3-364c-16.33-28-57.54-28-73.98 0l-213.2 364C-10.59 444.9 9.849 480 42.74 480h426.6C502.1 480 522.6 445 506.3 417zM232 168c0-13.25 10.75-24 24-24S280 154.8 280 168v128c0 13.25-10.75 24-23.1 24S232 309.3 232 296V168zM256 416c-17.36 0-31.44-14.08-31.44-31.44c0-17.36 14.07-31.44 31.44-31.44s31.44 14.08 31.44 31.44C287.4 401.9 273.4 416 256 416z"/>&lt;/svg>
-&lt;/span>
-&lt;/span>
-&lt;span
-class="dark:text-neutral-300"
->Wir arbeiten gerade an diesem Artikel. Informationen können unvollständig oder teilweise inkorrekt sein. Fehler oder fehlende Details kannst Du direkt per &lt;a href="https://github.com/ait-energy/en.ergie.at/issues" target="_blank">GitHub Issue melden&lt;/a>.&lt;/span>
-&lt;/div>
-&lt;h2 class="relative group">Aktuelle Entwicklungen
-&lt;div id="aktuelle-entwicklungen" class="anchor">&lt;/div>
-&lt;span
-class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
-&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
-style="text-decoration-line: none !important;" href="#aktuelle-entwicklungen" aria-label="Anker">#&lt;/a>
-&lt;/span>
-&lt;/h2>
-&lt;p>In Dänemark ist bislang keine Einführung eines Kapazitätsmechanismus geplant. Der dänische Übertragungsnetzbetreiber Energinet führt jedoch gemeinsam mit der dänischen Energieagentur Energistyrelsen derzeit eine Studie zu den Voraussetzungen und Möglichkeiten einer Einführung eines Kapazitätsmechanismus durch. Im Rahmen der Studie werden außerdem die Vor- und Nachteile verschiedener Varianten von Kapazitätsmechanismen sowie deren Auswirkungen auf andere Märkte untersucht. Die Studie soll voraussichtlich 2026 abgeschlossen werden. Nach Abschluss der Studie wird entschieden, ob ein Antrag auf staatliche Beihilfe für einen Kapazitätsmechanismus bei der Europäischen Kommission gestellt wird &lt;sup id="fnref:1">&lt;a href="#fn:1" class="footnote-ref" role="doc-noteref">1&lt;/a>&lt;/sup>.&lt;/p></description></item><item><title>Deutschland</title><link>/themen/kapazitaetsmechanismen/laenderuebersicht/de/</link><pubDate>Sun, 08 Jun 2025 01:58:06 +0200</pubDate><guid>/themen/kapazitaetsmechanismen/laenderuebersicht/de/</guid><description>&lt;br>
-&lt;div
-class="flex px-4 py-3 rounded-md bg-primary-100 dark:bg-primary-900"
->
-&lt;span
-class="text-primary-400 ltr:pr-3 rtl:pl-3 flex items-center"
->
-&lt;span class="relative block icon">
-&lt;svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">&lt;path fill="currentColor" d="M506.3 417l-213.3-364c-16.33-28-57.54-28-73.98 0l-213.2 364C-10.59 444.9 9.849 480 42.74 480h426.6C502.1 480 522.6 445 506.3 417zM232 168c0-13.25 10.75-24 24-24S280 154.8 280 168v128c0 13.25-10.75 24-23.1 24S232 309.3 232 296V168zM256 416c-17.36 0-31.44-14.08-31.44-31.44c0-17.36 14.07-31.44 31.44-31.44s31.44 14.08 31.44 31.44C287.4 401.9 273.4 416 256 416z"/>&lt;/svg>
-&lt;/span>
-&lt;/span>
-&lt;span
-class="dark:text-neutral-300"
->Wir arbeiten gerade an diesem Artikel. Informationen können unvollständig oder teilweise inkorrekt sein. Fehler oder fehlende Details kannst Du direkt per &lt;a href="https://github.com/ait-energy/en.ergie.at/issues" target="_blank">GitHub Issue melden&lt;/a>.&lt;/span>
-&lt;/div>
-&lt;h2 class="relative group">Aktuelle Entwicklungen
-&lt;div id="aktuelle-entwicklungen" class="anchor">&lt;/div>
-&lt;span
-class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
-&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
-style="text-decoration-line: none !important;" href="#aktuelle-entwicklungen" aria-label="Anker">#&lt;/a>
-&lt;/span>
-&lt;/h2>
-&lt;p>Die erste Ausschreibung für die Strategische Reserve fand im Jahr 2019 &lt;sup id="fnref:1">&lt;a href="#fn:1" class="footnote-ref" role="doc-noteref">1&lt;/a>&lt;/sup> &lt;sup id="fnref:2">&lt;a href="#fn:2" class="footnote-ref" role="doc-noteref">2&lt;/a>&lt;/sup> statt und wird seit dem Winterhalbjahr 2020/2021 außerhalb des Strommarkts vorgehalten&lt;sup id="fnref:3">&lt;a href="#fn:3" class="footnote-ref" role="doc-noteref">3&lt;/a>&lt;/sup>. Derzeit wird in Deutschland die Einführung eines Kapazitätsmarktes geplant, der bis 2028 operativ sein soll &lt;sup id="fnref:4">&lt;a href="#fn:4" class="footnote-ref" role="doc-noteref">4&lt;/a>&lt;/sup>. Die 2024 zerbrochene Ampelkoalition bestehend aus SPD, FDP und Grünen hat sich dabei für einen kombinierten Kapazitätsmarkt bestehend aus zentralen und dezentralen Elementen ausgesprochen. Ob die neue deutsche Bundesregierung bestehend aus CDU, CSU und SPD diesen Weg fortsetzt bleibt abzuwarten. Laut einer ersten Einschätzung von Frontier Economics erscheint es unwahrscheinlich, dass die Bundesregierung am kombinierten Modell festhält und sieht die Einführung eines zentralen Kapazitätsmarkts nach belgischem oder britischem Vorbild als wahrscheinlicher &lt;sup id="fnref:5">&lt;a href="#fn:5" class="footnote-ref" role="doc-noteref">5&lt;/a>&lt;/sup>.
-Weiters diskutiert die deutsche Bundesregierung den Einsatz der Strategischen Reserve zur Stabilisierung der Strompreise zusätzlich zur Vermeidung von Versorgungsengpässen &lt;sup id="fnref:6">&lt;a href="#fn:6" class="footnote-ref" role="doc-noteref">6&lt;/a>&lt;/sup>.&lt;/p></description></item><item><title>Erfolgsfaktoren von Kapazitätsmechanismen</title><link>/themen/kapazitaetsmechanismen/erfolgsfaktoren_von_kms/</link><pubDate>Sun, 08 Jun 2025 01:58:06 +0200</pubDate><guid>/themen/kapazitaetsmechanismen/erfolgsfaktoren_von_kms/</guid><description>&lt;p>Was macht einen Kapazitätsmechanismus erfolgreich?
-Damit Strom auch in Zukunft sicher und bezahlbar bleibt, braucht es geeignete Anreize und Strukturen im Energiesystem. Kapazitätsmechanismen spielen dabei eine zentrale Rolle. Sie helfen, systemische Knappheiten zu adressieren – sei es durch fehlende Erzeugungskapazität zu Spitzenzeiten oder durch einen Mangel an verfügbarer Energie über längere Zeiträume. Welche Aspekte dabei entscheidend sind, zeigt dieser Beitrag.&lt;/p></description></item><item><title>Estland</title><link>/themen/kapazitaetsmechanismen/laenderuebersicht/ee/</link><pubDate>Sun, 08 Jun 2025 01:58:06 +0200</pubDate><guid>/themen/kapazitaetsmechanismen/laenderuebersicht/ee/</guid><description>&lt;br>
-&lt;div
-class="flex px-4 py-3 rounded-md bg-primary-100 dark:bg-primary-900"
->
-&lt;span
-class="text-primary-400 ltr:pr-3 rtl:pl-3 flex items-center"
->
-&lt;span class="relative block icon">
-&lt;svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">&lt;path fill="currentColor" d="M506.3 417l-213.3-364c-16.33-28-57.54-28-73.98 0l-213.2 364C-10.59 444.9 9.849 480 42.74 480h426.6C502.1 480 522.6 445 506.3 417zM232 168c0-13.25 10.75-24 24-24S280 154.8 280 168v128c0 13.25-10.75 24-23.1 24S232 309.3 232 296V168zM256 416c-17.36 0-31.44-14.08-31.44-31.44c0-17.36 14.07-31.44 31.44-31.44s31.44 14.08 31.44 31.44C287.4 401.9 273.4 416 256 416z"/>&lt;/svg>
-&lt;/span>
-&lt;/span>
-&lt;span
-class="dark:text-neutral-300"
->Wir arbeiten gerade an diesem Artikel. Informationen können unvollständig oder teilweise inkorrekt sein. Fehler oder fehlende Details kannst Du direkt per &lt;a href="https://github.com/ait-energy/en.ergie.at/issues" target="_blank">GitHub Issue melden&lt;/a>.&lt;/span>
-&lt;/div>
-&lt;h2 class="relative group">Aktuelle Entwicklungen
-&lt;div id="aktuelle-entwicklungen" class="anchor">&lt;/div>
-&lt;span
-class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
-&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
-style="text-decoration-line: none !important;" href="#aktuelle-entwicklungen" aria-label="Anker">#&lt;/a>
-&lt;/span>
-&lt;/h2>
-&lt;p>Estland verfügt derzeit über keinen aktiven Kapazitätsmechanismus. Im Jahr 2024 wurde jedoch der nationale Umsetzungsplan zu Marktreformen bei der Europäischen Kommission eingereicht, der gemäß der Elektrizitätsverordnung der EU (2019/943) eine Voraussetzung für die Genehmigung eines Kapazitätsmechanismus darstellt &lt;sup id="fnref:1">&lt;a href="#fn:1" class="footnote-ref" role="doc-noteref">1&lt;/a>&lt;/sup>.&lt;/p></description></item><item><title>Gezielte Kapazitätszahlungen</title><link>/themen/kapazitaetsmechanismen/arten/gezielte_kapazitaetszahlungen/</link><pubDate>Sun, 08 Jun 2025 01:58:06 +0200</pubDate><guid>/themen/kapazitaetsmechanismen/arten/gezielte_kapazitaetszahlungen/</guid><description>&lt;p>Gezielte Kapazitätszahlungen setzen auf finanzielle Anreize für bestimmte Anlagen, um systemrelevante Funktionen wie Reserveleistung oder den Ausgleich struktureller Umbrüche im Strommarkt sicherzustellen – jenseits marktweiter Mechanismen.&lt;/p></description></item><item><title>Irland</title><link>/themen/kapazitaetsmechanismen/laenderuebersicht/ie/</link><pubDate>Sun, 08 Jun 2025 01:58:06 +0200</pubDate><guid>/themen/kapazitaetsmechanismen/laenderuebersicht/ie/</guid><description>&lt;br>
-&lt;div
-class="flex px-4 py-3 rounded-md bg-primary-100 dark:bg-primary-900"
->
-&lt;span
-class="text-primary-400 ltr:pr-3 rtl:pl-3 flex items-center"
->
-&lt;span class="relative block icon">
-&lt;svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">&lt;path fill="currentColor" d="M506.3 417l-213.3-364c-16.33-28-57.54-28-73.98 0l-213.2 364C-10.59 444.9 9.849 480 42.74 480h426.6C502.1 480 522.6 445 506.3 417zM232 168c0-13.25 10.75-24 24-24S280 154.8 280 168v128c0 13.25-10.75 24-23.1 24S232 309.3 232 296V168zM256 416c-17.36 0-31.44-14.08-31.44-31.44c0-17.36 14.07-31.44 31.44-31.44s31.44 14.08 31.44 31.44C287.4 401.9 273.4 416 256 416z"/>&lt;/svg>
-&lt;/span>
-&lt;/span>
-&lt;span
-class="dark:text-neutral-300"
->Wir arbeiten gerade an diesem Artikel. Informationen können unvollständig oder teilweise inkorrekt sein. Fehler oder fehlende Details kannst Du direkt per &lt;a href="https://github.com/ait-energy/en.ergie.at/issues" target="_blank">GitHub Issue melden&lt;/a>.&lt;/span>
-&lt;/div>
-&lt;h2 class="relative group">Marktweiter Kapazitätsmechanismus mit zentralem Käufer
-&lt;div id="marktweiter-kapazit%C3%A4tsmechanismus-mit-zentralem-k%C3%A4ufer" class="anchor">&lt;/div>
-&lt;span
-class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
-&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
-style="text-decoration-line: none !important;" href="#marktweiter-kapazit%C3%A4tsmechanismus-mit-zentralem-k%C3%A4ufer" aria-label="Anker">#&lt;/a>
-&lt;/span>
-&lt;/h2>
-&lt;h3 class="relative group">Ausschreibung
-&lt;div id="ausschreibung" class="anchor">&lt;/div>
-&lt;span
-class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
-&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
-style="text-decoration-line: none !important;" href="#ausschreibung" aria-label="Anker">#&lt;/a>
-&lt;/span>
-&lt;/h3>
-&lt;p>Teilnehmer an einer Kapazitätsauktion reichen Gebote ein, in denen die Menge der Kapazität (MW) und der gewünschte Preis (£/€) spezifiziert sind. Die Auktion ist wettbewerbsorientiert und bevorzugt effiziente und kostengünstige Kapazität &lt;sup id="fnref:1">&lt;a href="#fn:1" class="footnote-ref" role="doc-noteref">1&lt;/a>&lt;/sup>. Aufgrund von Übertragungsbeschränkungen gibt es kapazitätsbezogene Zwänge für die gesamte Insel sowie standortbezogene Kapazitätsbeschränkungen und damit verbundene Mindestanforderungen an die MW für bestimmte Standorte. Diese Mindestanforderungen basieren auf Analysen des &lt;abbr title="Transmission System Operator">TSO&lt;/abbr> und werden von den Regulierungsbehörden genehmigt, wodurch eine Nachfragekurve entsteht, die an verschiedene Faktoren angepasst ist &lt;sup id="fnref1:1">&lt;a href="#fn:1" class="footnote-ref" role="doc-noteref">1&lt;/a>&lt;/sup>. Die Auktion findet auf der speziell entwickelten &lt;abbr title="Capacity Market Platform">CMP&lt;/abbr> statt. Die Angebotsabgabe beginnt eine Woche vor der Auktion und endet zwei Stunden davor. Es wird ein verdecktes Bietverfahren mit einem einheitlichen Clearing-Preis verwendet, wobei Preisobergrenzen auf 150 % des &lt;abbr title="Cost of New Entry">CONE&lt;/abbr> festgelegt sind und bis zu fünf Preis-Mengen-Paare pro qualifizierter Kapazität zulässig sind. Die Einheiten unterliegen den genehmigten Angebotspreisobergrenzen, die während der Qualifikation für sie festgelegt wurden: für die meisten bestehenden Kapazitäten gilt die vordefinierte Preisobergrenze für bestehende Kapazitäten, neue Kapazitäten und &lt;abbr title="Demand Response">DR&lt;/abbr>-Einheiten können bis zur Auktionspreisobergrenze bieten; außerdem gibt es Einheiten, denen spezifische Obergrenzen vom Regulierer zugewiesen wurden &lt;sup id="fnref2:1">&lt;a href="#fn:1" class="footnote-ref" role="doc-noteref">1&lt;/a>&lt;/sup>. Nach der Angebotsabgabe verwenden die Systembetreiber eine spezielle Auktionssoftware, um den kostengünstigsten Kapazitätsmix zu finden, der die Nachfrage- und Standortanforderungen erfüllt. Der Auktions-Clearing-Preis ergibt sich, wenn die Angebotskurve auf die Nachfragekurve trifft. Kapazitäten, die aufgrund von Standortanforderungen erfolgreich in der Auktion sind, beeinflussen den Auktions-Clearing-Preis nicht. Erfüllte Angebote erhalten den höheren Wert aus ihrem Angebotspreis und dem Auktions-Clearing-Preis &lt;sup id="fnref3:1">&lt;a href="#fn:1" class="footnote-ref" role="doc-noteref">1&lt;/a>&lt;/sup>. Auktionen werden vier Jahre (T-4) vor dem Lieferjahr abgehalten, mit zusätzlichen Auktionen nach Bedarf (T-1, T-2).&lt;/p></description></item><item><title>Kapazitätsabonnements</title><link>/themen/kapazitaetsmechanismen/arten/kapazitaetsabonnements/</link><pubDate>Sun, 08 Jun 2025 01:58:06 +0200</pubDate><guid>/themen/kapazitaetsmechanismen/arten/kapazitaetsabonnements/</guid><description>&lt;p>Kapazitätsabonnements geben Verbrauchern die Möglichkeit, ihr gewünschtes Maß an Versorgungssicherheit zu wählen – ähnlich wie bei Versicherungen. Durch feste Verträge erhalten sie Energie auch in Engpässen, während Anbieter Planungssicherheit gewinnen.&lt;/p></description></item><item><title>Kombinierter Kapazitätsmarkt</title><link>/themen/kapazitaetsmechanismen/arten/kombinierter_km/</link><pubDate>Sun, 08 Jun 2025 01:58:06 +0200</pubDate><guid>/themen/kapazitaetsmechanismen/arten/kombinierter_km/</guid><description>&lt;p>Der kombinierte Kapazitätsmarkt (&lt;abbr title="Kombinierte Kapazitätsmechanismus">KKM&lt;/abbr>) ist ein vorgeschlagener Mechanismus zur Sicherstellung der Versorgungssicherheit, der Elemente &lt;a href="/themen/kapazitaetsmechanismen/arten/marktweit_zentraler_kaeufer/">zentraler&lt;/a> und des &lt;a href="/themen/kapazitaetsmechanismen/arten/marktweit_dezentraler_kaeufer/">dezentraler&lt;/a> Kapazitätsmechanismen verbindet. Ziel ist es durch Kombination der Vorteile beides Einzelansätze, sowohl langfristige Investitionsanreize für neue steuerbare Kapazitäten zu schaffen als auch das dezentrale Wissen der Stromnachfrageseite zu nutzen, um Systemeffizienz und Anpassungsfähigkeit zu erhöhen.&lt;/p></description></item><item><title>Kroatien</title><link>/themen/kapazitaetsmechanismen/laenderuebersicht/hr/</link><pubDate>Sun, 08 Jun 2025 01:58:06 +0200</pubDate><guid>/themen/kapazitaetsmechanismen/laenderuebersicht/hr/</guid><description>&lt;br>
-&lt;div
-class="flex px-4 py-3 rounded-md bg-primary-100 dark:bg-primary-900"
->
-&lt;span
-class="text-primary-400 ltr:pr-3 rtl:pl-3 flex items-center"
->
-&lt;span class="relative block icon">
-&lt;svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">&lt;path fill="currentColor" d="M506.3 417l-213.3-364c-16.33-28-57.54-28-73.98 0l-213.2 364C-10.59 444.9 9.849 480 42.74 480h426.6C502.1 480 522.6 445 506.3 417zM232 168c0-13.25 10.75-24 24-24S280 154.8 280 168v128c0 13.25-10.75 24-23.1 24S232 309.3 232 296V168zM256 416c-17.36 0-31.44-14.08-31.44-31.44c0-17.36 14.07-31.44 31.44-31.44s31.44 14.08 31.44 31.44C287.4 401.9 273.4 416 256 416z"/>&lt;/svg>
-&lt;/span>
-&lt;/span>
-&lt;span
-class="dark:text-neutral-300"
->Wir arbeiten gerade an diesem Artikel. Informationen können unvollständig oder teilweise inkorrekt sein. Fehler oder fehlende Details kannst Du direkt per &lt;a href="https://github.com/ait-energy/en.ergie.at/issues" target="_blank">GitHub Issue melden&lt;/a>.&lt;/span>
-&lt;/div>
-&lt;h2 class="relative group">Ausschreibungen für neue Kapazitäten (Tender für Marktprämien)
-&lt;div id="ausschreibungen-f%C3%BCr-neue-kapazit%C3%A4ten-tender-f%C3%BCr-marktpr%C3%A4mien" class="anchor">&lt;/div>
-&lt;span
-class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
-&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
-style="text-decoration-line: none !important;" href="#ausschreibungen-f%C3%BCr-neue-kapazit%C3%A4ten-tender-f%C3%BCr-marktpr%C3%A4mien" aria-label="Anker">#&lt;/a>
-&lt;/span>
-&lt;/h2>
-&lt;h3 class="relative group">Ausschreibung
-&lt;div id="ausschreibung" class="anchor">&lt;/div>
-&lt;span
-class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
-&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
-style="text-decoration-line: none !important;" href="#ausschreibung" aria-label="Anker">#&lt;/a>
-&lt;/span>
-&lt;/h3>
-&lt;p>Im April 2024 kündigte der kroatische Energiemarktbetreiber HROTE Pläne an, eine öffentliche Ausschreibung zur Unterstützung der Erzeugung von 607 MW Strom aus erneuerbaren Quellen durch Marktprämien durchzuführen. HROTE gab einen öffentlichen Aufruf zur Einreichung von Angeboten heraus, in dem die Bedingungen für die Teilnahme an dieser Ausschreibung festgelegt wurden. Das Ausschreibungsverfahren war sechzig Tage lang geöffnet &lt;sup id="fnref:1">&lt;a href="#fn:1" class="footnote-ref" role="doc-noteref">1&lt;/a>&lt;/sup>.&lt;/p></description></item><item><title>Langzeit Power-Purchase-Agreements</title><link>/themen/kapazitaetsmechanismen/arten/langzeit_ppas/</link><pubDate>Sun, 08 Jun 2025 01:58:06 +0200</pubDate><guid>/themen/kapazitaetsmechanismen/arten/langzeit_ppas/</guid><description>&lt;p>Verträge zwischen Stromerzeugern und Käufern (wie Versorgungsunternehmen, Unternehmen oder Regierungen), bei denen der Erzeuger zustimmt, eine bestimmte Menge Strom zu einem vorher festgelegten Preis über einen längeren Zeitraum zu verkaufen, der oft zwischen 10 und 20 Jahren liegt.&lt;/p></description></item><item><title>Leistbarkeitsoptionen</title><link>/themen/kapazitaetsmechanismen/arten/leistbarkeitsoptionen/</link><pubDate>Sun, 08 Jun 2025 01:58:06 +0200</pubDate><guid>/themen/kapazitaetsmechanismen/arten/leistbarkeitsoptionen/</guid><description>&lt;p>Leistbarkeitsptionen ermöglichen es, Verbrauchern hohe Strompreise zu ersparen, indem Erzeuger ihre Spitzengewinne abgeben und dafür im Gegenzug regelmäßige Zahlungen erhalten. Der Mechanismus verbindet soziale Entlastung mit Planungssicherheit für Anbieter.&lt;/p></description></item><item><title>Litauen</title><link>/themen/kapazitaetsmechanismen/laenderuebersicht/lt/</link><pubDate>Sun, 08 Jun 2025 01:58:06 +0200</pubDate><guid>/themen/kapazitaetsmechanismen/laenderuebersicht/lt/</guid><description>&lt;br>
-&lt;div
-class="flex px-4 py-3 rounded-md bg-primary-100 dark:bg-primary-900"
->
-&lt;span
-class="text-primary-400 ltr:pr-3 rtl:pl-3 flex items-center"
->
-&lt;span class="relative block icon">
-&lt;svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">&lt;path fill="currentColor" d="M506.3 417l-213.3-364c-16.33-28-57.54-28-73.98 0l-213.2 364C-10.59 444.9 9.849 480 42.74 480h426.6C502.1 480 522.6 445 506.3 417zM232 168c0-13.25 10.75-24 24-24S280 154.8 280 168v128c0 13.25-10.75 24-23.1 24S232 309.3 232 296V168zM256 416c-17.36 0-31.44-14.08-31.44-31.44c0-17.36 14.07-31.44 31.44-31.44s31.44 14.08 31.44 31.44C287.4 401.9 273.4 416 256 416z"/>&lt;/svg>
-&lt;/span>
-&lt;/span>
-&lt;span
-class="dark:text-neutral-300"
->Wir arbeiten gerade an diesem Artikel. Informationen können unvollständig oder teilweise inkorrekt sein. Fehler oder fehlende Details kannst Du direkt per &lt;a href="https://github.com/ait-energy/en.ergie.at/issues" target="_blank">GitHub Issue melden&lt;/a>.&lt;/span>
-&lt;/div>
-&lt;h2 class="relative group">Aktuelle Entwicklungen
-&lt;div id="aktuelle-entwicklungen" class="anchor">&lt;/div>
-&lt;span
-class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
-&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
-style="text-decoration-line: none !important;" href="#aktuelle-entwicklungen" aria-label="Anker">#&lt;/a>
-&lt;/span>
-&lt;/h2>
-&lt;p>In Litauen gibt es derzeit keinen aktiven Kapazitätsmechanismus. In den Jahren 2019 und 2020 wurde jedoch die Einführung eines marktweiten Kapazitätsmechanismus diskutiert, der allen Erzeugungs- und Speichertechnologien sowie Demand Response offenstehen sollte &lt;sup id="fnref:1">&lt;a href="#fn:1" class="footnote-ref" role="doc-noteref">1&lt;/a>&lt;/sup>.
-Seit der Konsultation über die möglichen Effekte einer Einführung eines Kapazitätsmechanismus mit den Nachbarstaaten im Mai 2020 gibt es jedoch keine weiteren aktuellen Informationen zu diesem Thema &lt;sup id="fnref:2">&lt;a href="#fn:2" class="footnote-ref" role="doc-noteref">2&lt;/a>&lt;/sup>.&lt;/p></description></item><item><title>Marktweiter Kapazitätsmechanismus mit dezentralem Käufer</title><link>/themen/kapazitaetsmechanismen/arten/marktweit_dezentraler_kaeufer/</link><pubDate>Sun, 08 Jun 2025 01:58:06 +0200</pubDate><guid>/themen/kapazitaetsmechanismen/arten/marktweit_dezentraler_kaeufer/</guid><description>&lt;br>
-&lt;div
-class="flex px-4 py-3 rounded-md bg-primary-100 dark:bg-primary-900"
->
-&lt;span
-class="text-primary-400 ltr:pr-3 rtl:pl-3 flex items-center"
->
-&lt;span class="relative block icon">
-&lt;svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">&lt;path fill="currentColor" d="M506.3 417l-213.3-364c-16.33-28-57.54-28-73.98 0l-213.2 364C-10.59 444.9 9.849 480 42.74 480h426.6C502.1 480 522.6 445 506.3 417zM232 168c0-13.25 10.75-24 24-24S280 154.8 280 168v128c0 13.25-10.75 24-23.1 24S232 309.3 232 296V168zM256 416c-17.36 0-31.44-14.08-31.44-31.44c0-17.36 14.07-31.44 31.44-31.44s31.44 14.08 31.44 31.44C287.4 401.9 273.4 416 256 416z"/>&lt;/svg>
-&lt;/span>
-&lt;/span>
-&lt;span
-class="dark:text-neutral-300"
->Wir arbeiten gerade an diesem Artikel. Informationen können unvollständig oder teilweise inkorrekt sein. Fehler oder fehlende Details kannst Du direkt per &lt;a href="https://github.com/ait-energy/en.ergie.at/issues" target="_blank">GitHub Issue melden&lt;/a>.&lt;/span>
-&lt;/div>
-&lt;p>Dezentrale Kapazitätsmärkte verpflichten Stromversorger und Großverbraucher, ihren Bedarf an gesicherter Leistung eigenständig zu decken. Sie fördern Wettbewerb und technologische Vielfalt, stellen aber hohe Anforderungen an Koordination, Markttransparenz und Überwachung.&lt;/p></description></item><item><title>Marktweiter Kapazitätsmechanismus mit zentralem Käufer</title><link>/themen/kapazitaetsmechanismen/arten/marktweit_zentraler_kaeufer/</link><pubDate>Sun, 08 Jun 2025 01:58:06 +0200</pubDate><guid>/themen/kapazitaetsmechanismen/arten/marktweit_zentraler_kaeufer/</guid><description>&lt;!-- Zusammenfassung hinzufügen falls es über Vorschau eingebunden wird -->
-&lt;br>
-&lt;div
-class="flex px-4 py-3 rounded-md bg-primary-100 dark:bg-primary-900"
->
-&lt;span
-class="text-primary-400 ltr:pr-3 rtl:pl-3 flex items-center"
->
-&lt;span class="relative block icon">
-&lt;svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">&lt;path fill="currentColor" d="M506.3 417l-213.3-364c-16.33-28-57.54-28-73.98 0l-213.2 364C-10.59 444.9 9.849 480 42.74 480h426.6C502.1 480 522.6 445 506.3 417zM232 168c0-13.25 10.75-24 24-24S280 154.8 280 168v128c0 13.25-10.75 24-23.1 24S232 309.3 232 296V168zM256 416c-17.36 0-31.44-14.08-31.44-31.44c0-17.36 14.07-31.44 31.44-31.44s31.44 14.08 31.44 31.44C287.4 401.9 273.4 416 256 416z"/>&lt;/svg>
-&lt;/span>
-&lt;/span>
-&lt;span
-class="dark:text-neutral-300"
->Wir arbeiten gerade an diesem Artikel. Informationen können unvollständig oder teilweise inkorrekt sein. Fehler oder fehlende Details kannst Du direkt per &lt;a href="https://github.com/ait-energy/en.ergie.at/issues" target="_blank">GitHub Issue melden&lt;/a>.&lt;/span>
-&lt;/div>
-&lt;p>Obwohl sich dieser Bericht auf die EU bezieht, wollen wir darauf hinweisen, dass dies die Hauptart von Kapazitätsmechanismen ist, die in den USA verwendet wird (PJM, NE-ISO usw.).&lt;/p></description></item><item><title>Missing Money - Quantitativ-Historische Analyse</title><link>/themen/kapazitaetsmechanismen/warum/missing_money_quantitativ_historische_analyse/</link><pubDate>Sun, 08 Jun 2025 01:58:06 +0200</pubDate><guid>/themen/kapazitaetsmechanismen/warum/missing_money_quantitativ_historische_analyse/</guid><description>&lt;h2 class="relative group">1. Kernfragestellung und methodischer Ansatz
-&lt;div id="1-kernfragestellung-und-methodischer-ansatz" class="anchor">&lt;/div>
-&lt;span
-class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
-&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
-style="text-decoration-line: none !important;" href="#1-kernfragestellung-und-methodischer-ansatz" aria-label="Anker">#&lt;/a>
-&lt;/span>
-&lt;/h2>
-&lt;p>Der folgende Abschnitt fokussiert auf die Frage, ob bestehende Kraftwerkskapazitäten im Setting eines &lt;a href="/wissen/markt-energy-only/">Energy-Only-Markts&lt;/a> ausreichend finanziert werden können. Ziel der Analyse ist somit ein ‚quantitativer Nachweis‘ des Missing Money auf historischer Basis für Österreich.&lt;/p></description></item><item><title>Over-the-Counter Handel</title><link>/wissen/otc/</link><pubDate>Sun, 08 Jun 2025 01:58:06 +0200</pubDate><guid>/wissen/otc/</guid><description>&lt;p>Stromhandel ohne zentrale Börse: In diesem Artikel erfährst du, wie der OTC-Handel funktioniert und warum er mehr Flexibilität, aber auch mehr Risiko mit sich bringt.&lt;/p></description></item><item><title>Peak Shaving Produkte</title><link>/themen/kapazitaetsmechanismen/arten/peak_shaving_prods/</link><pubDate>Sun, 08 Jun 2025 01:58:06 +0200</pubDate><guid>/themen/kapazitaetsmechanismen/arten/peak_shaving_prods/</guid><description>&lt;p>Ein Dienst oder eine Strategie, die den Stromverbrauch während Spitzenlastzeiten reduziert, typischerweise durch Lastmanagement oder DR Techniken.&lt;/p></description></item><item><title>Polen</title><link>/themen/kapazitaetsmechanismen/laenderuebersicht/pl/</link><pubDate>Sun, 08 Jun 2025 01:58:06 +0200</pubDate><guid>/themen/kapazitaetsmechanismen/laenderuebersicht/pl/</guid><description>&lt;br>
-&lt;div
-class="flex px-4 py-3 rounded-md bg-primary-100 dark:bg-primary-900"
->
-&lt;span
-class="text-primary-400 ltr:pr-3 rtl:pl-3 flex items-center"
->
-&lt;span class="relative block icon">
-&lt;svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">&lt;path fill="currentColor" d="M506.3 417l-213.3-364c-16.33-28-57.54-28-73.98 0l-213.2 364C-10.59 444.9 9.849 480 42.74 480h426.6C502.1 480 522.6 445 506.3 417zM232 168c0-13.25 10.75-24 24-24S280 154.8 280 168v128c0 13.25-10.75 24-23.1 24S232 309.3 232 296V168zM256 416c-17.36 0-31.44-14.08-31.44-31.44c0-17.36 14.07-31.44 31.44-31.44s31.44 14.08 31.44 31.44C287.4 401.9 273.4 416 256 416z"/>&lt;/svg>
-&lt;/span>
-&lt;/span>
-&lt;span
-class="dark:text-neutral-300"
->Wir arbeiten gerade an diesem Artikel. Informationen können unvollständig oder teilweise inkorrekt sein. Fehler oder fehlende Details kannst Du direkt per &lt;a href="https://github.com/ait-energy/en.ergie.at/issues" target="_blank">GitHub Issue melden&lt;/a>.&lt;/span>
-&lt;/div>
-&lt;h2 class="relative group">Marktweiter Kapazitätsmechanismus mit zentralem Käufer
-&lt;div id="marktweiter-kapazit%C3%A4tsmechanismus-mit-zentralem-k%C3%A4ufer" class="anchor">&lt;/div>
-&lt;span
-class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
-&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
-style="text-decoration-line: none !important;" href="#marktweiter-kapazit%C3%A4tsmechanismus-mit-zentralem-k%C3%A4ufer" aria-label="Anker">#&lt;/a>
-&lt;/span>
-&lt;/h2>
-&lt;p>Um Brownouts und wirtschaftliche Verluste zu vermeiden, führte Polen 2018 einen zentralisierten Kapazitätsmarkt ein, der sich an den Lösungen des &lt;a href="/themen/kapazitaetsmechanismen/laenderuebersicht/uk/">Vereinigten Königreichs&lt;/a> orientiert, aufgrund der Ähnlichkeiten in ihren Energiemärkten, einschließlich eines großen Anteils an kohlenstoffbasierten Kraftwerken und einer einheitlichen Marktstruktur mit einem einzigen &lt;abbr title="Übertragungsnetzbetreiber">ÜNB&lt;/abbr>. Dieser Kapazitätsmarkt zielt darauf ab, die mittel- und langfristige Energiesicherheit auf wirtschaftlich gerechtfertigte, nicht diskriminierende und nachhaltige Weise zu gewährleisten. Während der polnische Mechanismus Fragen zur Ressourcenangemessenheit adressiert, wird jedoch kritisiert, dass er nicht genügend Investitionsanreize für neue Kapazitäten bietet und wirtschaftlich ineffiziente, alte Kohlekraftwerke erhält, wodurch die notwendige Dekarbonisierung des Stromsystems verzögert wird. Die Hauptnutznießer waren bestehende Anlagen, und der Markt hat es nicht geschafft, Investitionen in neue Stromerzeugungseinheiten anzuregen. &lt;sup id="fnref:1">&lt;a href="#fn:1" class="footnote-ref" role="doc-noteref">1&lt;/a>&lt;/sup>.&lt;/p></description></item><item><title>Portugal</title><link>/themen/kapazitaetsmechanismen/laenderuebersicht/pt/</link><pubDate>Sun, 08 Jun 2025 01:58:06 +0200</pubDate><guid>/themen/kapazitaetsmechanismen/laenderuebersicht/pt/</guid><description>&lt;br>
-&lt;div
-class="flex px-4 py-3 rounded-md bg-primary-100 dark:bg-primary-900"
->
-&lt;span
-class="text-primary-400 ltr:pr-3 rtl:pl-3 flex items-center"
->
-&lt;span class="relative block icon">
-&lt;svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">&lt;path fill="currentColor" d="M506.3 417l-213.3-364c-16.33-28-57.54-28-73.98 0l-213.2 364C-10.59 444.9 9.849 480 42.74 480h426.6C502.1 480 522.6 445 506.3 417zM232 168c0-13.25 10.75-24 24-24S280 154.8 280 168v128c0 13.25-10.75 24-23.1 24S232 309.3 232 296V168zM256 416c-17.36 0-31.44-14.08-31.44-31.44c0-17.36 14.07-31.44 31.44-31.44s31.44 14.08 31.44 31.44C287.4 401.9 273.4 416 256 416z"/>&lt;/svg>
-&lt;/span>
-&lt;/span>
-&lt;span
-class="dark:text-neutral-300"
->Wir arbeiten gerade an diesem Artikel. Informationen können unvollständig oder teilweise inkorrekt sein. Fehler oder fehlende Details kannst Du direkt per &lt;a href="https://github.com/ait-energy/en.ergie.at/issues" target="_blank">GitHub Issue melden&lt;/a>.&lt;/span>
-&lt;/div>
-&lt;h2 class="relative group">Aktuelle Entwicklungen
-&lt;div id="aktuelle-entwicklungen" class="anchor">&lt;/div>
-&lt;span
-class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
-&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
-style="text-decoration-line: none !important;" href="#aktuelle-entwicklungen" aria-label="Anker">#&lt;/a>
-&lt;/span>
-&lt;/h2>
-&lt;p>Portugal verfügt derzeit über keinen aktiven Kapazitätsmechanismus. Im Nationalen Bericht zur Angemessenheit der Ressourcen (NRAA) 2024 wurde jedoch ein Versorgungssicherheitsproblem festgestellt. Der portugiesische Übertragungsnetzbetreiber REN (Redes Energéticas Nacionais) und die Generaldirektion für Energie und Geologie DGEG (Direção-Geral de Energia e Geologia) sprechen sich daher erstmals gemeinsam für die Einführung eines Kapazitätsmechanismus aus, um die Stillegung der bestehenden CCGTs zu vermeiden &lt;sup id="fnref:1">&lt;a href="#fn:1" class="footnote-ref" role="doc-noteref">1&lt;/a>&lt;/sup>.&lt;/p></description></item><item><title>Schlussfolgerungen</title><link>/themen/kapazitaetsmechanismen/schlussfolgerungen/</link><pubDate>Sun, 08 Jun 2025 01:58:06 +0200</pubDate><guid>/themen/kapazitaetsmechanismen/schlussfolgerungen/</guid><description>&lt;p>Diese Seite zieht Schlussfolgerungen zur Ausgestaltung von Kapazitätsmechanismen auf Basis zentraler Analysefelder: Investitions- und Verfügbarkeitsanreize, Effizienz und Systemkosten, Marktverzerrungen, Klima- und Technologieneutralität sowie europäische Wechselwirkungen. Sie diskutiert, wie das Missing-Money-Problem adressiert werden kann und welche Anforderungen sich daraus für Vertragslaufzeiten, Auktionsdesign und Sekundärmärkte ergeben. Die Bewertung betont, dass Kapazitätsmechanismen differenziert und kontextabhängig eingesetzt werden sollten, um Versorgungssicherheit und Marktstabilität effizient zu sichern.&lt;/p></description></item><item><title>Schweden</title><link>/themen/kapazitaetsmechanismen/laenderuebersicht/se/</link><pubDate>Sun, 08 Jun 2025 01:58:06 +0200</pubDate><guid>/themen/kapazitaetsmechanismen/laenderuebersicht/se/</guid><description>&lt;br>
-&lt;div
-class="flex px-4 py-3 rounded-md bg-primary-100 dark:bg-primary-900"
->
-&lt;span
-class="text-primary-400 ltr:pr-3 rtl:pl-3 flex items-center"
->
-&lt;span class="relative block icon">
-&lt;svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">&lt;path fill="currentColor" d="M506.3 417l-213.3-364c-16.33-28-57.54-28-73.98 0l-213.2 364C-10.59 444.9 9.849 480 42.74 480h426.6C502.1 480 522.6 445 506.3 417zM232 168c0-13.25 10.75-24 24-24S280 154.8 280 168v128c0 13.25-10.75 24-23.1 24S232 309.3 232 296V168zM256 416c-17.36 0-31.44-14.08-31.44-31.44c0-17.36 14.07-31.44 31.44-31.44s31.44 14.08 31.44 31.44C287.4 401.9 273.4 416 256 416z"/>&lt;/svg>
-&lt;/span>
-&lt;/span>
-&lt;span
-class="dark:text-neutral-300"
->Wir arbeiten gerade an diesem Artikel. Informationen können unvollständig oder teilweise inkorrekt sein. Fehler oder fehlende Details kannst Du direkt per &lt;a href="https://github.com/ait-energy/en.ergie.at/issues" target="_blank">GitHub Issue melden&lt;/a>.&lt;/span>
-&lt;/div>
-&lt;h2 class="relative group">Aktuelle Entwicklungen
-&lt;div id="aktuelle-entwicklungen" class="anchor">&lt;/div>
-&lt;span
-class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
-&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
-style="text-decoration-line: none !important;" href="#aktuelle-entwicklungen" aria-label="Anker">#&lt;/a>
-&lt;/span>
-&lt;/h2>
-&lt;p>Die Strategische Reserve in Schweden war seit dem Jahr 2003 aktiv&lt;sup id="fnref:1">&lt;a href="#fn:1" class="footnote-ref" role="doc-noteref">1&lt;/a>&lt;/sup> und ist mit 15. März 2025 ausgelaufen&lt;sup id="fnref:2">&lt;a href="#fn:2" class="footnote-ref" role="doc-noteref">2&lt;/a>&lt;/sup>. Svenska kraftnät sieht langfristig den Bedarf für einen Kapazitätsmechanismus und spricht sich für die Einführung eines marktweiten Kapazitätsmechanismus aus&lt;sup id="fnref1:2">&lt;a href="#fn:2" class="footnote-ref" role="doc-noteref">2&lt;/a>&lt;/sup>. Dieser soll als zentraler Kapazitätsmarkt ausgestaltet werden, wobei eine geografische Trennung nach Gebotszonen vorgesehen ist&lt;sup id="fnref:3">&lt;a href="#fn:3" class="footnote-ref" role="doc-noteref">3&lt;/a>&lt;/sup>.&lt;/p></description></item><item><title>Sind die Voraussetzungen derzeit, historisch und in der absehbaren Zukunft hinreichend erfüllt?</title><link>/themen/kapazitaetsmechanismen/warum/analyse_der_voraussetzungen/</link><pubDate>Sun, 08 Jun 2025 01:58:06 +0200</pubDate><guid>/themen/kapazitaetsmechanismen/warum/analyse_der_voraussetzungen/</guid><description>&lt;br>
-&lt;div
-class="flex px-4 py-3 rounded-md bg-primary-100 dark:bg-primary-900"
->
-&lt;span
-class="text-primary-400 ltr:pr-3 rtl:pl-3 flex items-center"
->
-&lt;span class="relative block icon">
-&lt;svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">&lt;path fill="currentColor" d="M506.3 417l-213.3-364c-16.33-28-57.54-28-73.98 0l-213.2 364C-10.59 444.9 9.849 480 42.74 480h426.6C502.1 480 522.6 445 506.3 417zM232 168c0-13.25 10.75-24 24-24S280 154.8 280 168v128c0 13.25-10.75 24-23.1 24S232 309.3 232 296V168zM256 416c-17.36 0-31.44-14.08-31.44-31.44c0-17.36 14.07-31.44 31.44-31.44s31.44 14.08 31.44 31.44C287.4 401.9 273.4 416 256 416z"/>&lt;/svg>
-&lt;/span>
-&lt;/span>
-&lt;span
-class="dark:text-neutral-300"
->Wir arbeiten gerade an diesem Artikel. Informationen können unvollständig oder teilweise inkorrekt sein. Fehler oder fehlende Details kannst Du direkt per &lt;a href="https://github.com/ait-energy/en.ergie.at/issues" target="_blank">GitHub Issue melden&lt;/a>.&lt;/span>
-&lt;/div>
-&lt;p>Im folgenden Abschnitt wird evaluiert, ob die Voraussetzungen eines reinen &lt;a href="/wissen/markt-energy-only/">Energy-Only-Markt&lt;/a> (&lt;abbr title="Energy-Only-Markt">EOM&lt;/abbr>) aktuell und in der absehbaren Zukunft gegeben sind.&lt;/p></description></item><item><title>Spanien</title><link>/themen/kapazitaetsmechanismen/laenderuebersicht/es/</link><pubDate>Sun, 08 Jun 2025 01:58:06 +0200</pubDate><guid>/themen/kapazitaetsmechanismen/laenderuebersicht/es/</guid><description>&lt;br>
-&lt;div
-class="flex px-4 py-3 rounded-md bg-primary-100 dark:bg-primary-900"
->
-&lt;span
-class="text-primary-400 ltr:pr-3 rtl:pl-3 flex items-center"
->
-&lt;span class="relative block icon">
-&lt;svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">&lt;path fill="currentColor" d="M506.3 417l-213.3-364c-16.33-28-57.54-28-73.98 0l-213.2 364C-10.59 444.9 9.849 480 42.74 480h426.6C502.1 480 522.6 445 506.3 417zM232 168c0-13.25 10.75-24 24-24S280 154.8 280 168v128c0 13.25-10.75 24-23.1 24S232 309.3 232 296V168zM256 416c-17.36 0-31.44-14.08-31.44-31.44c0-17.36 14.07-31.44 31.44-31.44s31.44 14.08 31.44 31.44C287.4 401.9 273.4 416 256 416z"/>&lt;/svg>
-&lt;/span>
-&lt;/span>
-&lt;span
-class="dark:text-neutral-300"
->Wir arbeiten gerade an diesem Artikel. Informationen können unvollständig oder teilweise inkorrekt sein. Fehler oder fehlende Details kannst Du direkt per &lt;a href="https://github.com/ait-energy/en.ergie.at/issues" target="_blank">GitHub Issue melden&lt;/a>.&lt;/span>
-&lt;/div>
-&lt;h2 class="relative group">Aktuelle Entwicklungen
-&lt;div id="aktuelle-entwicklungen" class="anchor">&lt;/div>
-&lt;span
-class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
-&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
-style="text-decoration-line: none !important;" href="#aktuelle-entwicklungen" aria-label="Anker">#&lt;/a>
-&lt;/span>
-&lt;/h2>
-&lt;p>Die spanische Regierung plant die Einführung eines zentralen Kapazitätsmarktes, der bis 2026 in Betrieb genommen werden soll &lt;sup id="fnref:1">&lt;a href="#fn:1" class="footnote-ref" role="doc-noteref">1&lt;/a>&lt;/sup> &lt;sup id="fnref:2">&lt;a href="#fn:2" class="footnote-ref" role="doc-noteref">2&lt;/a>&lt;/sup>. Der Kapazitätsmarkt wird die Teilnahme von Erzeugungsanlagen, Speichern und flexiblen Lasten ermöglichen &lt;sup id="fnref:3">&lt;a href="#fn:3" class="footnote-ref" role="doc-noteref">3&lt;/a>&lt;/sup>. Die öffentliche Konsultation zu den Vorschlägen der Regierung fand zwischen Dezember 2024 und Ende Januar 2025 statt. Die nächsten Schritte umfassen die Auswertung der Konsultationsergebnisse, die Veröffentlichung des endgültigen Textes sowie die Beantragung der Genehmigung als staatliche Beihilfe bei der Europäischen Kommission &lt;sup id="fnref1:1">&lt;a href="#fn:1" class="footnote-ref" role="doc-noteref">1&lt;/a>&lt;/sup> &lt;sup id="fnref:4">&lt;a href="#fn:4" class="footnote-ref" role="doc-noteref">4&lt;/a>&lt;/sup>.&lt;/p></description></item><item><title>Strategische Reserve</title><link>/themen/kapazitaetsmechanismen/arten/strategische_reserve/</link><pubDate>Sun, 08 Jun 2025 01:58:06 +0200</pubDate><guid>/themen/kapazitaetsmechanismen/arten/strategische_reserve/</guid><description>&lt;p>Strategische Reserven dienen der Versorgungssicherheit in Ausnahmesituationen und werden außerhalb des Strommarkts vorgehalten. Ihr Design zielt auf Marktunabhängigkeit und technische Verfügbarkeit, bei gleichzeitig begrenztem Einfluss auf den Wettbewerb.&lt;/p></description></item><item><title>TeKaVe</title><link>/projekte/tekave/</link><pubDate>Sun, 08 Jun 2025 01:58:06 +0200</pubDate><guid>/projekte/tekave/</guid><description>&lt;p>Die Kernfrage des Projekts &lt;em>TeKaVe - Technologieneutrale Kapazitätsmechanismen für eine Versorgungssichere Energiezukunft&lt;/em>
-betrifft, ob das Marktsystem in Österreich in seiner derzeitigen Form (Energy-Only-Markt) im Stande ist, zur gleichen Zeit ein versorgungssicheres Energiesystem aufrecht zu erhalten und die Dekarbonisierungsziele Österreichs zu erreichen.&lt;/p></description></item><item><title>transpAIrent.energy</title><link>/projekte/transpairent-energy/</link><pubDate>Sun, 08 Jun 2025 01:58:06 +0200</pubDate><guid>/projekte/transpairent-energy/</guid><description>&lt;p>Das Projekt &lt;em>transpAIrent.energy - Transparent AI Forecasts for Green Energy in Austria&lt;/em> zielt darauf ab, mithilfe von generative artificial intelligence (AI)-Methoden probabilistische Live-Prognosen für energiesystemrelevante Größen wie Strompreise und CO&lt;sub>2&lt;/sub>-Intensitäten in Österreich zu erstellen und eine transparente Plattform zu entwickeln, die diese öffentlich zugänglich macht.&lt;/p></description></item><item><title>Unterbrechbarkeitsregeln</title><link>/themen/kapazitaetsmechanismen/arten/unterbrechbarkeitsregeln/</link><pubDate>Sun, 08 Jun 2025 01:58:06 +0200</pubDate><guid>/themen/kapazitaetsmechanismen/arten/unterbrechbarkeitsregeln/</guid><description>&lt;br>
-&lt;div
-class="flex px-4 py-3 rounded-md bg-primary-100 dark:bg-primary-900"
->
-&lt;span
-class="text-primary-400 ltr:pr-3 rtl:pl-3 flex items-center"
->
-&lt;span class="relative block icon">
-&lt;svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">&lt;path fill="currentColor" d="M506.3 417l-213.3-364c-16.33-28-57.54-28-73.98 0l-213.2 364C-10.59 444.9 9.849 480 42.74 480h426.6C502.1 480 522.6 445 506.3 417zM232 168c0-13.25 10.75-24 24-24S280 154.8 280 168v128c0 13.25-10.75 24-23.1 24S232 309.3 232 296V168zM256 416c-17.36 0-31.44-14.08-31.44-31.44c0-17.36 14.07-31.44 31.44-31.44s31.44 14.08 31.44 31.44C287.4 401.9 273.4 416 256 416z"/>&lt;/svg>
-&lt;/span>
-&lt;/span>
-&lt;span
-class="dark:text-neutral-300"
->Wir arbeiten gerade an diesem Artikel. Informationen können unvollständig oder teilweise inkorrekt sein. Fehler oder fehlende Details kannst Du direkt per &lt;a href="https://github.com/ait-energy/en.ergie.at/issues" target="_blank">GitHub Issue melden&lt;/a>.&lt;/span>
-&lt;/div>
-&lt;p>Unterbrechbarkeitsregelungen ermöglichen eine kurzfristige Reduktion industrieller Lasten zur Stabilisierung des Stromnetzes. Großverbraucher stellen ihre Nachfrage flexibel bereit und können bei Netzengpässen auf Anforderung vom Netz genommen werden.&lt;/p></description></item><item><title>Vereinigtes Königreich</title><link>/themen/kapazitaetsmechanismen/laenderuebersicht/uk/</link><pubDate>Sun, 08 Jun 2025 01:58:06 +0200</pubDate><guid>/themen/kapazitaetsmechanismen/laenderuebersicht/uk/</guid><description>&lt;br>
-&lt;div
-class="flex px-4 py-3 rounded-md bg-primary-100 dark:bg-primary-900"
->
-&lt;span
-class="text-primary-400 ltr:pr-3 rtl:pl-3 flex items-center"
->
-&lt;span class="relative block icon">
-&lt;svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">&lt;path fill="currentColor" d="M506.3 417l-213.3-364c-16.33-28-57.54-28-73.98 0l-213.2 364C-10.59 444.9 9.849 480 42.74 480h426.6C502.1 480 522.6 445 506.3 417zM232 168c0-13.25 10.75-24 24-24S280 154.8 280 168v128c0 13.25-10.75 24-23.1 24S232 309.3 232 296V168zM256 416c-17.36 0-31.44-14.08-31.44-31.44c0-17.36 14.07-31.44 31.44-31.44s31.44 14.08 31.44 31.44C287.4 401.9 273.4 416 256 416z"/>&lt;/svg>
-&lt;/span>
-&lt;/span>
-&lt;span
-class="dark:text-neutral-300"
->Wir arbeiten gerade an diesem Artikel. Informationen können unvollständig oder teilweise inkorrekt sein. Fehler oder fehlende Details kannst Du direkt per &lt;a href="https://github.com/ait-energy/en.ergie.at/issues" target="_blank">GitHub Issue melden&lt;/a>.&lt;/span>
-&lt;/div>
-&lt;h2 class="relative group">Marktweiter Kapazitätsmechanismus mit zentralem Käufer
-&lt;div id="marktweiter-kapazit%C3%A4tsmechanismus-mit-zentralem-k%C3%A4ufer" class="anchor">&lt;/div>
-&lt;span
-class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
-&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
-style="text-decoration-line: none !important;" href="#marktweiter-kapazit%C3%A4tsmechanismus-mit-zentralem-k%C3%A4ufer" aria-label="Anker">#&lt;/a>
-&lt;/span>
-&lt;/h2>
-&lt;p>Im Vereinigten Königreich wird seit 2014 eine zentralisierte Kapazitätsauktion durchgeführt &lt;sup id="fnref:1">&lt;a href="#fn:1" class="footnote-ref" role="doc-noteref">1&lt;/a>&lt;/sup>.&lt;/p></description></item><item><title>Vorraussetzungen eines reinen Energy Only Marktes</title><link>/themen/kapazitaetsmechanismen/warum/voraussetzung_eines_eom/</link><pubDate>Sun, 08 Jun 2025 01:58:06 +0200</pubDate><guid>/themen/kapazitaetsmechanismen/warum/voraussetzung_eines_eom/</guid><description>&lt;p>Ein reiner &lt;a href="/wissen/markt-energy-only/">Energy-Only-Markt&lt;/a> (EOM) kann Versorgungssicherheit gewährleisten – jedoch nur, wenn zentrale Marktbedingungen erfüllt sind. Diese Seite analysiert, welche ökonomischen Voraussetzungen bestehen müssen, damit Investitionen allein durch Marktpreise ausgelöst werden: vollkommener Wettbewerb, ausreichende Planungssicherheit sowie die Möglichkeit zur Bildung von Knappheitspreisen. Die theoretischen Grundlagen werden praxisnah eingeordnet und bewertet.&lt;/p></description></item><item><title>Zielgerichtete Unterstützungsprogramme</title><link>/themen/kapazitaetsmechanismen/arten/zielgerichtete_unterstuetzungsprog/</link><pubDate>Sun, 08 Jun 2025 01:58:06 +0200</pubDate><guid>/themen/kapazitaetsmechanismen/arten/zielgerichtete_unterstuetzungsprog/</guid><description>&lt;p>Zielgerichtete Unterstützungsprogramme ermöglichen die gezielte Förderung bestimmter Technologien – etwa erneuerbare Erzeugung, Speicher oder Nachfrageflexibilität. Sie verbinden Marktnähe mit planbarer Unterstützung und ergänzen Kapazitätsmechanismen punktuell.&lt;/p></description></item><item><title>Finnland</title><link>/themen/kapazitaetsmechanismen/laenderuebersicht/fi/</link><pubDate>Wed, 28 May 2025 18:08:24 +0200</pubDate><guid>/themen/kapazitaetsmechanismen/laenderuebersicht/fi/</guid><description>&lt;br>
-&lt;div
-class="flex px-4 py-3 rounded-md bg-primary-100 dark:bg-primary-900"
->
-&lt;span
-class="text-primary-400 ltr:pr-3 rtl:pl-3 flex items-center"
->
-&lt;span class="relative block icon">
-&lt;svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">&lt;path fill="currentColor" d="M506.3 417l-213.3-364c-16.33-28-57.54-28-73.98 0l-213.2 364C-10.59 444.9 9.849 480 42.74 480h426.6C502.1 480 522.6 445 506.3 417zM232 168c0-13.25 10.75-24 24-24S280 154.8 280 168v128c0 13.25-10.75 24-23.1 24S232 309.3 232 296V168zM256 416c-17.36 0-31.44-14.08-31.44-31.44c0-17.36 14.07-31.44 31.44-31.44s31.44 14.08 31.44 31.44C287.4 401.9 273.4 416 256 416z"/>&lt;/svg>
-&lt;/span>
-&lt;/span>
-&lt;span
-class="dark:text-neutral-300"
->Wir arbeiten gerade an diesem Artikel. Informationen können unvollständig oder teilweise inkorrekt sein. Fehler oder fehlende Details kannst Du direkt per &lt;a href="https://github.com/ait-energy/en.ergie.at/issues" target="_blank">GitHub Issue melden&lt;/a>.&lt;/span>
-&lt;/div>
-&lt;h2 class="relative group">Strategische Reserve
-&lt;div id="strategische-reserve" class="anchor">&lt;/div>
-&lt;span
-class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
-&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
-style="text-decoration-line: none !important;" href="#strategische-reserve" aria-label="Anker">#&lt;/a>
-&lt;/span>
-&lt;/h2>
-&lt;h3 class="relative group">Ausschreibung
-&lt;div id="ausschreibung" class="anchor">&lt;/div>
-&lt;span
-class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
-&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
-style="text-decoration-line: none !important;" href="#ausschreibung" aria-label="Anker">#&lt;/a>
-&lt;/span>
-&lt;/h3>
-&lt;p>Finnland hat der Kommission einen finnischen Kapazitätsmechanismus in Höhe von 150 Millionen Euro in Form einer strategischen Reserve gemeldet. Die Maßnahme zielt darauf ab, ein Gleichgewicht zwischen Stromnachfrage und -angebot während Spitzenverbrauchszeiten in Finnland sicherzustellen &lt;sup id="fnref:1">&lt;a href="#fn:1" class="footnote-ref" role="doc-noteref">1&lt;/a>&lt;/sup>. Das strategische Reservemodell lief im Juli 2022 aus und wurde durch ein neues Modell ersetzt, das bis 2032 in Kraft sein wird. Die erste Auktion des neuen Modells fand im Sommer 2022 statt und vergab keine Kapazitäten (jedoch blieb die Kapazität, die an der Auktion teilgenommen hatte, im Energiemarkt verfügbar). Im Allgemeinen ist der Ausschreibungsprozess transparent, diskriminierungsfrei und wettbewerblich, wobei die Begünstigten auf der Grundlage von Angeboten um die geringste Höhe der Unterstützung pro MW Kapazität konkurrieren (unter Berücksichtigung technischer und umweltbezogener Aspekte wie Flexibilität der Einheiten und CO2-Emissionen) &lt;sup id="fnref1:1">&lt;a href="#fn:1" class="footnote-ref" role="doc-noteref">1&lt;/a>&lt;/sup>.&lt;/p></description></item><item><title>Energiegemeinschaften</title><link>/wissen/energiegemeinschaften/</link><pubDate>Tue, 27 May 2025 15:34:43 +0200</pubDate><guid>/wissen/energiegemeinschaften/</guid><description>&lt;p>Energiegemeinschaften ermöglichen es, Energie gemeinschaftlich zu erzeugen und zu nutzen. In diesem Artikel erfährst du, welche Formen von Energiegemeinschaften es gibt, wie sie funktionieren und welche Vorteile sie bieten.&lt;/p></description></item><item><title>Lastspitzenkappung</title><link>/wissen/peakshaving/</link><pubDate>Tue, 27 May 2025 15:34:43 +0200</pubDate><guid>/wissen/peakshaving/</guid><description>&lt;p>Bei der Lastspitzenkappung, auch &amp;ldquo;Peak Shaving&amp;rdquo; genannt, wird der Stromverbrauch strategisch gesteuert, um Belastungsspitzen im Netz zu vermeiden. Der Artikel erklärt, welche Maßnahmen dafür eingesetzt werden und welche Vorteile sich daraus ergeben können.&lt;/p></description></item><item><title>Redispatch</title><link>/wissen/redispatch/</link><pubDate>Tue, 27 May 2025 15:34:43 +0200</pubDate><guid>/wissen/redispatch/</guid><description>&lt;p>Redispatch trägt dazu bei, das Stromnetz vor Überlastungen zu schützen. In diesem Artikel erfährst du, wie damit Netzengpässe verhindert werden können.&lt;/p>
+&lt;p>In dem Papier Strommarktdesign der Zukunft stellt die deutsche Bundesregierung verschiedene Optionen für ein sicheres, bezahlbares und nachhaltiges Marktdesign vor und stellt diese zur Diskussion. Zur Sicherstellung der Finanzierung steuerbarer Kapazitäten werden vier Optionen diskutiert: Kapazitätsabsicherungsmechanismus durch Spitzenpreishedging, Dezentraler Kapazitätsmarkt, Zentraler Kapazitätsmarkt, Kombinierter Kapazitätsmarkt. Aus Sicht des BMWK wird zum Zeitpunkt der Veröffentlichung der Kombinierte Kapazitätsmarkt als die kosteneffizienteste Option bewertet, um die Versorgungssicherheit langfristig zu gewährleisten.&lt;/p></description></item><item><title>Over-the-Counter Handel</title><link>/wissen/otc/</link><pubDate>Sun, 08 Jun 2025 01:58:06 +0200</pubDate><guid>/wissen/otc/</guid><description>&lt;p>Stromhandel ohne zentrale Börse: In diesem Artikel erfährst du, wie der OTC-Handel funktioniert und warum er mehr Flexibilität, aber auch mehr Risiko mit sich bringt.&lt;/p></description></item><item><title>transpAIrent.energy</title><link>/projekte/transpairent-energy/</link><pubDate>Sun, 08 Jun 2025 01:58:06 +0200</pubDate><guid>/projekte/transpairent-energy/</guid><description>&lt;p>Das Projekt &lt;em>transpAIrent.energy - Transparent AI Forecasts for Green Energy in Austria&lt;/em> zielt darauf ab, mithilfe von generative artificial intelligence (AI)-Methoden probabilistische Live-Prognosen für energiesystemrelevante Größen wie Strompreise und CO&lt;sub>2&lt;/sub>-Intensitäten in Österreich zu erstellen und eine transparente Plattform zu entwickeln, die diese öffentlich zugänglich macht.&lt;/p></description></item><item><title>Energiegemeinschaften</title><link>/wissen/energiegemeinschaften/</link><pubDate>Tue, 27 May 2025 15:34:43 +0200</pubDate><guid>/wissen/energiegemeinschaften/</guid><description>&lt;p>Energiegemeinschaften ermöglichen es, Energie gemeinschaftlich zu erzeugen und zu nutzen. In diesem Artikel erfährst du, welche Formen von Energiegemeinschaften es gibt, wie sie funktionieren und welche Vorteile sie bieten.&lt;/p></description></item><item><title>Lastspitzenkappung</title><link>/wissen/peakshaving/</link><pubDate>Tue, 27 May 2025 15:34:43 +0200</pubDate><guid>/wissen/peakshaving/</guid><description>&lt;p>Bei der Lastspitzenkappung, auch &amp;ldquo;Peak Shaving&amp;rdquo; genannt, wird der Stromverbrauch strategisch gesteuert, um Belastungsspitzen im Netz zu vermeiden. Der Artikel erklärt, welche Maßnahmen dafür eingesetzt werden und welche Vorteile sich daraus ergeben können.&lt;/p></description></item><item><title>Redispatch</title><link>/wissen/redispatch/</link><pubDate>Tue, 27 May 2025 15:34:43 +0200</pubDate><guid>/wissen/redispatch/</guid><description>&lt;p>Redispatch trägt dazu bei, das Stromnetz vor Überlastungen zu schützen. In diesem Artikel erfährst du, wie damit Netzengpässe verhindert werden können.&lt;/p>
 &lt;!-- more -->
-&lt;p>Redispatch ist ein Mechanismus zum Schutz des Stromnetzes vor Überlastung. Dabei werden Kraftwerke angewiesen, ihre Stromerzeugung gezielt zu erhöhen oder zu verringern.&lt;/p></description></item><item><title>Regelreserve</title><link>/wissen/regelreserve/</link><pubDate>Tue, 27 May 2025 15:34:43 +0200</pubDate><guid>/wissen/regelreserve/</guid><description>&lt;p>Regelreserve dient der Stabilisierung der Netzfrequenz bei Ungleichgewichten zwischen Stromerzeugung und -verbrauch. In diesem Artikel erfährst du, wie Regelreserve funktioniert, wer sie bereitstellt und wie sie beschafft wird.&lt;/p></description></item><item><title>Warum könnten Kapazitätsmechanismen notwendig sein?</title><link>/themen/kapazitaetsmechanismen/warum/</link><pubDate>Tue, 13 May 2025 16:19:51 +0200</pubDate><guid>/themen/kapazitaetsmechanismen/warum/</guid><description>&lt;p>&lt;a href="/wissen/markt-energy-only/">Energy-Only-Märkte&lt;/a> (EOM) basieren auf der Annahme, dass Versorgungssicherheit allein durch freie Preisbildung und daraus resultierende Investitionsanreize gewährleistet werden kann. Doch wie realistisch ist diese Annahme in der Praxis? Die folgenden Abschnitte erläutern zunächst, welche Voraussetzungen hierfür erfüllt sein müssten – und analysieren anschließend, in welchem Maße diese Bedingungen heute und zukünftig tatsächlich bestehen.&lt;/p></description></item><item><title>Themen</title><link>/themen/</link><pubDate>Thu, 17 Apr 2025 21:40:24 +0200</pubDate><guid>/themen/</guid><description>&lt;p>Hier entsteht ein Überblick über verschiedene Themen.&lt;/p>
+&lt;p>Redispatch ist ein Mechanismus zum Schutz des Stromnetzes vor Überlastung. Dabei werden Kraftwerke angewiesen, ihre Stromerzeugung gezielt zu erhöhen oder zu verringern.&lt;/p></description></item><item><title>Regelreserve</title><link>/wissen/regelreserve/</link><pubDate>Tue, 27 May 2025 15:34:43 +0200</pubDate><guid>/wissen/regelreserve/</guid><description>&lt;p>Regelreserve dient der Stabilisierung der Netzfrequenz bei Ungleichgewichten zwischen Stromerzeugung und -verbrauch. In diesem Artikel erfährst du, wie Regelreserve funktioniert, wer sie bereitstellt und wie sie beschafft wird.&lt;/p></description></item><item><title>Themen</title><link>/themen/</link><pubDate>Thu, 17 Apr 2025 21:40:24 +0200</pubDate><guid>/themen/</guid><description>&lt;p>Hier entsteht ein Überblick über verschiedene Themen.&lt;/p>
 &lt;section class="space-y-10 w-full">
 &lt;a href="/themen/kapazitaetsmechanismen/" class="min-w-full">
 &lt;div class="min-h-full border border-neutral-200 dark:border-neutral-700 border-2 rounded overflow-hidden shadow-2xl relative">
@@ -1208,7 +1257,7 @@ style="text-decoration-line: none !important;" href="#ausschreibung" aria-label=
 href="/themen/kapazitaetsmechanismen/">Kapazitätsmechanismen&lt;/div>
 &lt;div class="text-sm text-neutral-500 dark:text-neutral-400">
 &lt;div class="flex flex-row flex-wrap items-center">
-&lt;time datetime="2025-06-10T13:35:46&amp;#43;02:00">10. Juni 2025&lt;/time>&lt;span class="px-2 text-primary-500">&amp;middot;&lt;/span>&lt;span>729 Wörter&lt;/span>&lt;span class="px-2 text-primary-500">&amp;middot;&lt;/span>&lt;span title="Lesezeit">4 min&lt;/span>
+&lt;time datetime="2025-07-10T09:53:34&amp;#43;02:00">10. Juli 2025&lt;/time>&lt;span class="px-2 text-primary-500">&amp;middot;&lt;/span>&lt;span>729 Wörter&lt;/span>&lt;span class="px-2 text-primary-500">&amp;middot;&lt;/span>&lt;span title="Lesezeit">4 min&lt;/span>
 &lt;/div>
 &lt;div class="flex flex-row flex-wrap items-center">
 &lt;/div>
@@ -1229,7 +1278,9 @@ class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 
 style="text-decoration-line: none !important;" href="#impressum" aria-label="Anker">#&lt;/a>
 &lt;/span>
 &lt;/h1>
-&lt;p>Diese Seite befindet sich gerade im Aufbau. Vorläufig verweisen wir auf &lt;a href="https://www.ait.ac.at/impressum" target="_blank">ait.ac.at/impressum&lt;/a>.&lt;/p></description></item><item><title>Day-Ahead Markt</title><link>/wissen/markt-day-ahead/</link><pubDate>Fri, 14 Feb 2025 13:21:05 +0100</pubDate><guid>/wissen/markt-day-ahead/</guid><description>&lt;p>Am Day-Ahead Markt wird Strom für den folgenden Tag gehandelt; zum Beispiel an Börsen wie der &lt;a href="https://www.epexspot.com/en" target="_blank">EPEX Spot&lt;/a> in Paris oder an der &lt;a href="https://www.exaa.at/en/" target="_blank">EXAA&lt;/a> in Wien. Auch &lt;a href="/wissen/otc/">Over-the-Counter (OTC) Handel&lt;/a> (also außerbörsliche Verträge) ist möglich.&lt;/p></description></item><item><title>Intraday Markt</title><link>/wissen/markt-intraday/</link><pubDate>Fri, 14 Feb 2025 13:21:05 +0100</pubDate><guid>/wissen/markt-intraday/</guid><description>&lt;p>Ähnlich wie am &lt;a href="/wissen/markt-day-ahead">Day-Ahead Markt&lt;/a> findet der Handel von Strom am Intraday Markt sowohl über Börsen wie die &lt;a href="https://www.epexspot.com/en" target="_blank">EPEX Spot&lt;/a>, oder im &lt;a href="/wissen/otc/">Over-the-Counter (OTC) Handel&lt;/a> statt. Im Gegensatz handelt es sich hier aber um einen kontinuierlichen Kauf und Verkauf von Strom, der noch am gleichen Tag geliefert wird.&lt;/p></description></item><item><title>Regelzonen</title><link>/wissen/regelzonen/</link><pubDate>Thu, 13 Feb 2025 14:38:43 +0100</pubDate><guid>/wissen/regelzonen/</guid><description>&lt;p>Wir arbeiten gerade an diesem Artikel. Schau bald wieder vorbei!&lt;/p></description></item><item><title>Ausschreibungen für neue Kapazität</title><link>/themen/kapazitaetsmechanismen/arten/ausschreibung_fuer_neue_kapazit%C3%A4t/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/themen/kapazitaetsmechanismen/arten/ausschreibung_fuer_neue_kapazit%C3%A4t/</guid><description>&lt;p>Ausschreibungen für neue Kapazitäten fördern gezielt Investitionen in Versorgungssicherheit. Sie ermöglichen eine wettbewerbliche, staatlich gesteuerte Vergabe neuer Projekte – mit Planungssicherheit, klaren Vorgaben und stabilen Erlösmodellen.&lt;/p></description></item><item><title>Kapazitätsmärkte</title><link>/wissen/kapazit%C3%A4tsm%C3%A4rkte/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/wissen/kapazit%C3%A4tsm%C3%A4rkte/</guid><description>&lt;p>Ein Kapazitätsmarkt ist ein Teilbereich des Strommarkts in dem nicht nur die erbrachte Arbeit (erzeugter Strom) vergütet wird, sondern auf dem gesicherte Kapazitäten (meist von Erzeugungsanlagen) langfristig vergütet werden. Ob und wann diese dann auch Strom produzieren ist grundsätzlich kein Fokus eines Kapazitätsmarkts - oft jedoch ein wichtiges Detail in der Ausgestaltung. Der Begriff Kapazitätsmarkt steht daher im Gegensatz zum Begriff des &lt;a href="/wissen/markt-energy-only/">Energy-Only Markts&lt;/a>.&lt;/p></description></item><item><title>Kapazitätsmechanismen</title><link>/literature/kapazit%C3%A4tsmechanismen/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/literature/kapazit%C3%A4tsmechanismen/</guid><description>&lt;p>Chronologische Literatursammlung rund um Kapazitätsmechanismen.&lt;/p>
+&lt;p>Diese Seite befindet sich gerade im Aufbau. Vorläufig verweisen wir auf &lt;a href="https://www.ait.ac.at/impressum" target="_blank">ait.ac.at/impressum&lt;/a>.&lt;/p></description></item><item><title>Ausschreibungen für neue Kapazität</title><link>/themen/kapazitaetsmechanismen/arten/ausschreibung_fuer_neue_kapazit%C3%A4t/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/themen/kapazitaetsmechanismen/arten/ausschreibung_fuer_neue_kapazit%C3%A4t/</guid><description>&lt;p>Ausschreibungen für neue Kapazitäten fördern gezielt Investitionen in zusätzliche Kapazität zur Gewährleistung der Versorgungssicherheit.
+Sie ermöglichen eine wettbewerbliche, staatlich gesteuerte Vergabe neuer Projekte – mit Planungssicherheit, klaren
+Vorgaben und stabilen Erlösmodellen.&lt;/p></description></item><item><title>Kapazitätsmärkte</title><link>/wissen/kapazit%C3%A4tsm%C3%A4rkte/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/wissen/kapazit%C3%A4tsm%C3%A4rkte/</guid><description>&lt;p>Ein Kapazitätsmarkt ist ein Teilbereich des Strommarkts in dem nicht nur die erbrachte Arbeit (erzeugter Strom) vergütet wird, sondern auf dem gesicherte Kapazitäten (meist von Erzeugungsanlagen) langfristig vergütet werden. Ob und wann diese dann auch Strom produzieren ist grundsätzlich kein Fokus eines Kapazitätsmarkts - oft jedoch ein wichtiges Detail in der Ausgestaltung. Der Begriff Kapazitätsmarkt steht daher im Gegensatz zum Begriff des &lt;a href="/wissen/markt-energy-only/">Energy-Only Markts&lt;/a>.&lt;/p></description></item><item><title>Kapazitätsmechanismen</title><link>/literature/kapazit%C3%A4tsmechanismen/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/literature/kapazit%C3%A4tsmechanismen/</guid><description>&lt;p>Chronologische Literatursammlung rund um Kapazitätsmechanismen.&lt;/p>
 &lt;h2>2025&lt;/h2>
 &lt;h3>April&lt;/h3>
 &lt;div class="border border-neutral-200 dark:border-neutral-700 shadow-lg" style="border-width: 1px; border-radius: 5px; cursor: pointer; padding: 1em; margin-bottom: 2em;" onclick="window.open(&amp;#34;/literature/2025/04/entsoe/&amp;#34;,'_blank');return false;">
@@ -1364,6 +1415,21 @@ Mitgliedstaaten schnell und gezielt Klimainvestitionen unterstützen können.
 &lt;/div>
 &lt;/div>
 &lt;h3>Februar&lt;/h3>
+&lt;div class="border border-neutral-200 dark:border-neutral-700 shadow-lg" style="border-width: 1px; border-radius: 5px; cursor: pointer; padding: 1em; margin-bottom: 2em;" onclick="window.open(&amp;#34;/literature/2025/02/eurelectric/&amp;#34;,'_blank');return false;">
+&lt;h4 class="text-neutral-800 decoration-primary-500 hover:underline hover:underline-offset-2 dark:text-neutral" style="margin-bottom: 0.25em; margin-top: 0;">Neudefinition der Energiesicherheit im Zeitalter der Elektrizität&lt;/h3>
+&lt;div class="text-sm text-neutral-500 dark:text-neutral-400">
+&lt;span class="rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400" style="cursor: pointer;">
+Studie
+&lt;/span>
+&lt;span class="px-2 text-primary-500">·&lt;/span>
+13.02.2025
+&lt;span class="px-2 text-primary-500">·&lt;/span>
+Eurelectric
+&lt;/div>
+&lt;div class="py-1 max-w-fit prose dark:prose-invert">
+In diesem Dokument beschreibt Europas Energiesicherheit sowohl durch externe als auch interne Faktoren neu gestaltet wird - darunter geopolitische Risiken wie der Krieg in der Ukraine, Klimawandel sowie die Abhängigkeit von kritischen Rohstoffen. Die Studie stellt drei strategische Säulen der &amp;#34;Versorgungssicherheit 2.0&amp;#34; vor: eine verbesserte Bedarfsanalyse für das Energiesystem, die Stärkung des Investitionsrahmen und verbesserte Markt- und Betriebrahmenbedingungen. Es wird empfohlen, die Marktstrukturen zu verfeinern, Terminmärkte zur besseren Absicherung auszuweiten und die Umsetzung der jüngsten Reformen des Strommarktdesigns zu beschleunigen.
+&lt;/div>
+&lt;/div>
 &lt;div class="border border-neutral-200 dark:border-neutral-700 shadow-lg" style="border-width: 1px; border-radius: 5px; cursor: pointer; padding: 1em; margin-bottom: 2em;" onclick="window.open(&amp;#34;/literature/2025/02/e-control/&amp;#34;,'_blank');return false;">
 &lt;h4 class="text-neutral-800 decoration-primary-500 hover:underline hover:underline-offset-2 dark:text-neutral" style="margin-bottom: 0.25em; margin-top: 0;">Die Bewertung der unterbrechungsfreien Stromversorgung in Österreich (VoLL)&lt;/h3>
 &lt;div class="text-sm text-neutral-500 dark:text-neutral-400">

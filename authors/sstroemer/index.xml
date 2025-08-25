@@ -1,4 +1,79 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Stefan Strömer on en.ergie.at</title><link>/authors/sstroemer/</link><description>Recent content in Stefan Strömer on en.ergie.at</description><generator>Hugo -- gohugo.io</generator><language>de</language><copyright>&amp;copy; AIT Austrian Institute of Technology GmbH</copyright><lastBuildDate>Sun, 08 Jun 2025 01:58:06 +0200</lastBuildDate><atom:link href="/authors/sstroemer/index.xml" rel="self" type="application/rss+xml"/><item><title>Die Bewertung der unterbrechungsfreien Stromversorgung in Österreich (VoLL)</title><link>/literature/2025/02/e-control/</link><pubDate>Mon, 16 Jun 2025 15:06:39 +0200</pubDate><guid>/literature/2025/02/e-control/</guid><description>&lt;h2 class="relative group">Überblick
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Stefan Strömer on en.ergie.at</title><link>/authors/sstroemer/</link><description>Recent content in Stefan Strömer on en.ergie.at</description><generator>Hugo -- gohugo.io</generator><language>de</language><copyright>&amp;copy; AIT Austrian Institute of Technology GmbH</copyright><lastBuildDate>Sun, 08 Jun 2025 01:58:06 +0200</lastBuildDate><atom:link href="/authors/sstroemer/index.xml" rel="self" type="application/rss+xml"/><item><title>TeKaVe</title><link>/projekte/tekave/</link><pubDate>Mon, 25 Aug 2025 10:48:45 +0200</pubDate><guid>/projekte/tekave/</guid><description>&lt;p>Die Kernfrage des Projekts &lt;em>TeKaVe - Technologieneutrale Kapazitätsmechanismen für eine Versorgungssichere Energiezukunft&lt;/em>
+betrifft, ob das Marktsystem in Österreich in seiner derzeitigen Form (Energy-Only-Markt) im Stande ist, zur gleichen Zeit ein versorgungssicheres Energiesystem aufrecht zu erhalten und die Dekarbonisierungsziele Österreichs zu erreichen.&lt;/p></description></item><item><title>Länder &amp; Auktionen</title><link>/themen/kapazitaetsmechanismen/laenderuebersicht/</link><pubDate>Mon, 04 Aug 2025 22:08:50 +0200</pubDate><guid>/themen/kapazitaetsmechanismen/laenderuebersicht/</guid><description>&lt;!--
+NOTE: Format of auction result structure for adding future auction results
+General information:
+Always use Y-x and not T-x for auction years
+Always write numbers and units as: 12345&amp;nbsp;MW (creates space between value and unit and avoids line breaks)
+General structure:
+&lt;li>
+&lt;div class="flex flex-start">
+&lt;div class="bg-primary-500 dark:bg-primary-300 text-neutral-50 dark:text-neutral-700 min-w-[30px] h-8 text-2xl flex items-center justify-center rounded-full -ml-12 mt-5">
+&lt;span class="relative block icon">
+&lt;svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512">&lt;path fill="currentColor" d="M0 64C0 46.3 14.3 32 32 32c229.8 0 416 186.2 416 416c0 17.7-14.3 32-32 32s-32-14.3-32-32C384 253.6 226.4 96 32 96C14.3 96 0 81.7 0 64zM128 416c0 35.3-28.7 64-64 64s-64-28.7-64-64s28.7-64 64-64s64 28.7 64 64zM32 160c159.1 0 288 128.9 288 288c0 17.7-14.3 32-32 32s-32-14.3-32-32c0-123.7-100.3-224-224-224c-17.7 0-32-14.3-32-32s14.3-32 32-32z"/>&lt;/svg>
+&lt;/span>
+&lt;/div>
+&lt;div class="block p-6 rounded-lg shadow-2xl min-w-full ml-6 mb-10 break-words">
+&lt;div class="flex justify-between">
+&lt;h2 class="mt-0">
+Country
+&lt;/h2>
+&lt;h3 class="">
+&lt;span class="flex" style="cursor: pointer;">
+&lt;span class="rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400">
+Auktionsjahr 20xx
+&lt;/span>
+&lt;/span>
+&lt;/h3>
+&lt;/div>
+&lt;div class="mb-6">
+&lt;div style="border-left: 4px solid #999999; padding-left: 1em; margin-bottom: 1.5em;">
+&lt;a href="Link to report">&lt;b>Bericht: &lt;u> Title of the acution result report &lt;/u>&lt;/b>&lt;/a>
+&lt;br>
+&lt;details>
+&lt;summary>&lt;span style="cursor: pointer; font-weight: 500;">Zusammenfassung anzeigen&lt;/span>&lt;/summary>&lt;i>
+Summary of auction results:
+Should contain total awarded capacity, clearing price, volume-weighted average price in case of pay-as-bid, awarded new and existing capacity, awarded foreign capacity and share of successful technology type if available.
+TIPPS:
+Use the &lt;b> tag to highlight important values.
+Try to keep the same style for countries as in the examples below.
+ChatGPT can help you with the summary if you provide the report and ask it to summarize the auction results in a similar style as the examples below. -> CHECK OF THE GENERATED SUMMARY NECESSARY!
+&lt;/i>&lt;/details>
+&lt;/div>
+&lt;/div>
+&lt;/div>
+&lt;/div>
+&lt;/li>
+-->
+&lt;br>
+&lt;div
+class="flex px-4 py-3 rounded-md bg-primary-100 dark:bg-primary-900"
+>
+&lt;span
+class="text-primary-400 ltr:pr-3 rtl:pl-3 flex items-center"
+>
+&lt;span class="relative block icon">
+&lt;svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">&lt;path fill="currentColor" d="M506.3 417l-213.3-364c-16.33-28-57.54-28-73.98 0l-213.2 364C-10.59 444.9 9.849 480 42.74 480h426.6C502.1 480 522.6 445 506.3 417zM232 168c0-13.25 10.75-24 24-24S280 154.8 280 168v128c0 13.25-10.75 24-23.1 24S232 309.3 232 296V168zM256 416c-17.36 0-31.44-14.08-31.44-31.44c0-17.36 14.07-31.44 31.44-31.44s31.44 14.08 31.44 31.44C287.4 401.9 273.4 416 256 416z"/>&lt;/svg>
+&lt;/span>
+&lt;/span>
+&lt;span
+class="dark:text-neutral-300"
+>Wir arbeiten gerade an diesem Artikel. Informationen können unvollständig oder teilweise inkorrekt sein. Fehler oder
+fehlende Details kannst Du direkt per &lt;a href="https://github.com/ait-energy/en.ergie.at/issues" target="_blank">GitHub Issue melden&lt;/a>.&lt;/span>
+&lt;/div>
+&lt;br>
+&lt;h2 class="relative group">Europa im Überblick
+&lt;div id="europa-im-%C3%BCberblick" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#europa-im-%C3%BCberblick" aria-label="Anker">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;p>Es gibt neun europäische Länder mit aktiven Kapazitätsmechanismen: Belgien, Finnland, Frankreich, Deutschland,
+Vereinigtes Königreich, Irland (SEM), Italien, Polen und Schweden. Drei von ihnen (Finnland, Deutschland und Schweden)
+haben strategische Reserven eingerichtet, während die sechs anderen Staaten marktweite Kapazitätsmechanismen
+unterhalten. Spanien und Portugal haben keinen aktiven Kapazitätsmechanismus, aber einige langfristige Altverträge
+(gezielte Kapazitätszahlungen) gelten noch.&lt;/p></description></item><item><title>Day-Ahead Markt</title><link>/wissen/markt-day-ahead/</link><pubDate>Fri, 18 Jul 2025 09:49:00 +0200</pubDate><guid>/wissen/markt-day-ahead/</guid><description>&lt;p>Am Day-Ahead Markt wird Strom für den folgenden Tag gehandelt; zum Beispiel an Börsen wie der &lt;a href="https://www.epexspot.com/en" target="_blank">EPEX Spot&lt;/a> in Paris oder an der &lt;a href="https://www.exaa.at/en/" target="_blank">EXAA&lt;/a> in Wien. Auch &lt;a href="/wissen/otc/">Over-the-Counter (OTC) Handel&lt;/a> (also außerbörsliche Verträge) ist möglich.&lt;/p></description></item><item><title>Intraday Markt</title><link>/wissen/markt-intraday/</link><pubDate>Fri, 18 Jul 2025 09:49:00 +0200</pubDate><guid>/wissen/markt-intraday/</guid><description>&lt;p>Ähnlich wie am &lt;a href="/wissen/markt-day-ahead">Day-Ahead Markt&lt;/a> findet der Handel von Strom am Intraday Markt sowohl über Börsen wie die &lt;a href="https://www.epexspot.com/en" target="_blank">EPEX Spot&lt;/a>, oder im &lt;a href="/wissen/otc/">Over-the-Counter (OTC) Handel&lt;/a> statt. Im Gegensatz handelt es sich hier aber um einen kontinuierlichen Kauf und Verkauf von Strom, der noch am gleichen Tag geliefert wird.&lt;/p></description></item><item><title>Die Bewertung der unterbrechungsfreien Stromversorgung in Österreich (VoLL)</title><link>/literature/2025/02/e-control/</link><pubDate>Mon, 16 Jun 2025 15:06:39 +0200</pubDate><guid>/literature/2025/02/e-control/</guid><description>&lt;h2 class="relative group">Überblick
 &lt;div id="%C3%BCberblick" class="anchor">&lt;/div>
 &lt;span
 class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
@@ -665,79 +740,4 @@ class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 
 style="text-decoration-line: none !important;" href="#kapazit%C3%A4tsmechanismen" aria-label="Anker">#&lt;/a>
 &lt;/span>
 &lt;/h4>
-&lt;p>In dem Papier Strommarktdesign der Zukunft stellt die deutsche Bundesregierung verschiedene Optionen für ein sicheres, bezahlbares und nachhaltiges Marktdesign vor und stellt diese zur Diskussion. Zur Sicherstellung der Finanzierung steuerbarer Kapazitäten werden vier Optionen diskutiert: Kapazitätsabsicherungsmechanismus durch Spitzenpreishedging, Dezentraler Kapazitätsmarkt, Zentraler Kapazitätsmarkt, Kombinierter Kapazitätsmarkt. Aus Sicht des BMWK wird zum Zeitpunkt der Veröffentlichung der Kombinierte Kapazitätsmarkt als die kosteneffizienteste Option bewertet, um die Versorgungssicherheit langfristig zu gewährleisten.&lt;/p></description></item><item><title>Länder &amp; Auktionen</title><link>/themen/kapazitaetsmechanismen/laenderuebersicht/</link><pubDate>Tue, 10 Jun 2025 14:05:50 +0200</pubDate><guid>/themen/kapazitaetsmechanismen/laenderuebersicht/</guid><description>&lt;!--
-NOTE: Format of auction result structure for adding future auction results
-General information:
-Always use Y-x and not T-x for auction years
-Always write numbers and units as: 12345&amp;nbsp;MW (creates space between value and unit and avoids line breaks)
-General structure:
-&lt;li>
-&lt;div class="flex flex-start">
-&lt;div class="bg-primary-500 dark:bg-primary-300 text-neutral-50 dark:text-neutral-700 min-w-[30px] h-8 text-2xl flex items-center justify-center rounded-full -ml-12 mt-5">
-&lt;span class="relative block icon">
-&lt;svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512">&lt;path fill="currentColor" d="M0 64C0 46.3 14.3 32 32 32c229.8 0 416 186.2 416 416c0 17.7-14.3 32-32 32s-32-14.3-32-32C384 253.6 226.4 96 32 96C14.3 96 0 81.7 0 64zM128 416c0 35.3-28.7 64-64 64s-64-28.7-64-64s28.7-64 64-64s64 28.7 64 64zM32 160c159.1 0 288 128.9 288 288c0 17.7-14.3 32-32 32s-32-14.3-32-32c0-123.7-100.3-224-224-224c-17.7 0-32-14.3-32-32s14.3-32 32-32z"/>&lt;/svg>
-&lt;/span>
-&lt;/div>
-&lt;div class="block p-6 rounded-lg shadow-2xl min-w-full ml-6 mb-10 break-words">
-&lt;div class="flex justify-between">
-&lt;h2 class="mt-0">
-Country
-&lt;/h2>
-&lt;h3 class="">
-&lt;span class="flex" style="cursor: pointer;">
-&lt;span class="rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400">
-Auktionsjahr 20xx
-&lt;/span>
-&lt;/span>
-&lt;/h3>
-&lt;/div>
-&lt;div class="mb-6">
-&lt;div style="border-left: 4px solid #999999; padding-left: 1em; margin-bottom: 1.5em;">
-&lt;a href="Link to report">&lt;b>Bericht: &lt;u> Title of the acution result report &lt;/u>&lt;/b>&lt;/a>
-&lt;br>
-&lt;details>
-&lt;summary>&lt;span style="cursor: pointer; font-weight: 500;">Zusammenfassung anzeigen&lt;/span>&lt;/summary>&lt;i>
-Summary of auction results:
-Should contain total awarded capacity, clearing price, volume-weighted average price in case of pay-as-bid, awarded new and existing capacity, awarded foreign capacity and share of successful technology type if available.
-TIPPS:
-Use the &lt;b> tag to highlight important values.
-Try to keep the same style for countries as in the examples below.
-ChatGPT can help you with the summary if you provide the report and ask it to summarize the auction results in a similar style as the examples below. -> CHECK OF THE GENERATED SUMMARY NECESSARY!
-&lt;/i>&lt;/details>
-&lt;/div>
-&lt;/div>
-&lt;/div>
-&lt;/div>
-&lt;/li>
--->
-&lt;br>
-&lt;div
-class="flex px-4 py-3 rounded-md bg-primary-100 dark:bg-primary-900"
->
-&lt;span
-class="text-primary-400 ltr:pr-3 rtl:pl-3 flex items-center"
->
-&lt;span class="relative block icon">
-&lt;svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">&lt;path fill="currentColor" d="M506.3 417l-213.3-364c-16.33-28-57.54-28-73.98 0l-213.2 364C-10.59 444.9 9.849 480 42.74 480h426.6C502.1 480 522.6 445 506.3 417zM232 168c0-13.25 10.75-24 24-24S280 154.8 280 168v128c0 13.25-10.75 24-23.1 24S232 309.3 232 296V168zM256 416c-17.36 0-31.44-14.08-31.44-31.44c0-17.36 14.07-31.44 31.44-31.44s31.44 14.08 31.44 31.44C287.4 401.9 273.4 416 256 416z"/>&lt;/svg>
-&lt;/span>
-&lt;/span>
-&lt;span
-class="dark:text-neutral-300"
->Wir arbeiten gerade an diesem Artikel. Informationen können unvollständig oder teilweise inkorrekt sein. Fehler oder
-fehlende Details kannst Du direkt per &lt;a href="https://github.com/ait-energy/en.ergie.at/issues" target="_blank">GitHub Issue melden&lt;/a>.&lt;/span>
-&lt;/div>
-&lt;br>
-&lt;h2 class="relative group">Europa im Überblick
-&lt;div id="europa-im-%C3%BCberblick" class="anchor">&lt;/div>
-&lt;span
-class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
-&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
-style="text-decoration-line: none !important;" href="#europa-im-%C3%BCberblick" aria-label="Anker">#&lt;/a>
-&lt;/span>
-&lt;/h2>
-&lt;p>Es gibt neun europäische Länder mit aktiven Kapazitätsmechanismen: Belgien, Finnland, Frankreich, Deutschland,
-Vereinigtes Königreich, Irland (SEM), Italien, Polen und Schweden. Drei von ihnen (Finnland, Deutschland und Schweden)
-haben strategische Reserven eingerichtet, während die sechs anderen Staaten marktweite Kapazitätsmechanismen
-unterhalten. Spanien und Portugal haben keinen aktiven Kapazitätsmechanismus, aber einige langfristige Altverträge
-(gezielte Kapazitätszahlungen) gelten noch.&lt;/p></description></item><item><title>TeKaVe</title><link>/projekte/tekave/</link><pubDate>Sun, 08 Jun 2025 01:58:06 +0200</pubDate><guid>/projekte/tekave/</guid><description>&lt;p>Die Kernfrage des Projekts &lt;em>TeKaVe - Technologieneutrale Kapazitätsmechanismen für eine Versorgungssichere Energiezukunft&lt;/em>
-betrifft, ob das Marktsystem in Österreich in seiner derzeitigen Form (Energy-Only-Markt) im Stande ist, zur gleichen Zeit ein versorgungssicheres Energiesystem aufrecht zu erhalten und die Dekarbonisierungsziele Österreichs zu erreichen.&lt;/p></description></item><item><title>transpAIrent.energy</title><link>/projekte/transpairent-energy/</link><pubDate>Sun, 08 Jun 2025 01:58:06 +0200</pubDate><guid>/projekte/transpairent-energy/</guid><description>&lt;p>Das Projekt &lt;em>transpAIrent.energy - Transparent AI Forecasts for Green Energy in Austria&lt;/em> zielt darauf ab, mithilfe von generative artificial intelligence (AI)-Methoden probabilistische Live-Prognosen für energiesystemrelevante Größen wie Strompreise und CO&lt;sub>2&lt;/sub>-Intensitäten in Österreich zu erstellen und eine transparente Plattform zu entwickeln, die diese öffentlich zugänglich macht.&lt;/p></description></item><item><title>Day-Ahead Markt</title><link>/wissen/markt-day-ahead/</link><pubDate>Fri, 14 Feb 2025 13:21:05 +0100</pubDate><guid>/wissen/markt-day-ahead/</guid><description>&lt;p>Am Day-Ahead Markt wird Strom für den folgenden Tag gehandelt; zum Beispiel an Börsen wie der &lt;a href="https://www.epexspot.com/en" target="_blank">EPEX Spot&lt;/a> in Paris oder an der &lt;a href="https://www.exaa.at/en/" target="_blank">EXAA&lt;/a> in Wien. Auch &lt;a href="/wissen/otc/">Over-the-Counter (OTC) Handel&lt;/a> (also außerbörsliche Verträge) ist möglich.&lt;/p></description></item><item><title>Intraday Markt</title><link>/wissen/markt-intraday/</link><pubDate>Fri, 14 Feb 2025 13:21:05 +0100</pubDate><guid>/wissen/markt-intraday/</guid><description>&lt;p>Ähnlich wie am &lt;a href="/wissen/markt-day-ahead">Day-Ahead Markt&lt;/a> findet der Handel von Strom am Intraday Markt sowohl über Börsen wie die &lt;a href="https://www.epexspot.com/en" target="_blank">EPEX Spot&lt;/a>, oder im &lt;a href="/wissen/otc/">Over-the-Counter (OTC) Handel&lt;/a> statt. Im Gegensatz handelt es sich hier aber um einen kontinuierlichen Kauf und Verkauf von Strom, der noch am gleichen Tag geliefert wird.&lt;/p></description></item><item><title>Kapazitätsmärkte</title><link>/wissen/kapazit%C3%A4tsm%C3%A4rkte/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/wissen/kapazit%C3%A4tsm%C3%A4rkte/</guid><description>&lt;p>Ein Kapazitätsmarkt ist ein Teilbereich des Strommarkts in dem nicht nur die erbrachte Arbeit (erzeugter Strom) vergütet wird, sondern auf dem gesicherte Kapazitäten (meist von Erzeugungsanlagen) langfristig vergütet werden. Ob und wann diese dann auch Strom produzieren ist grundsätzlich kein Fokus eines Kapazitätsmarkts - oft jedoch ein wichtiges Detail in der Ausgestaltung. Der Begriff Kapazitätsmarkt steht daher im Gegensatz zum Begriff des &lt;a href="/wissen/markt-energy-only/">Energy-Only Markts&lt;/a>.&lt;/p></description></item></channel></rss>
+&lt;p>In dem Papier Strommarktdesign der Zukunft stellt die deutsche Bundesregierung verschiedene Optionen für ein sicheres, bezahlbares und nachhaltiges Marktdesign vor und stellt diese zur Diskussion. Zur Sicherstellung der Finanzierung steuerbarer Kapazitäten werden vier Optionen diskutiert: Kapazitätsabsicherungsmechanismus durch Spitzenpreishedging, Dezentraler Kapazitätsmarkt, Zentraler Kapazitätsmarkt, Kombinierter Kapazitätsmarkt. Aus Sicht des BMWK wird zum Zeitpunkt der Veröffentlichung der Kombinierte Kapazitätsmarkt als die kosteneffizienteste Option bewertet, um die Versorgungssicherheit langfristig zu gewährleisten.&lt;/p></description></item><item><title>transpAIrent.energy</title><link>/projekte/transpairent-energy/</link><pubDate>Sun, 08 Jun 2025 01:58:06 +0200</pubDate><guid>/projekte/transpairent-energy/</guid><description>&lt;p>Das Projekt &lt;em>transpAIrent.energy - Transparent AI Forecasts for Green Energy in Austria&lt;/em> zielt darauf ab, mithilfe von generative artificial intelligence (AI)-Methoden probabilistische Live-Prognosen für energiesystemrelevante Größen wie Strompreise und CO&lt;sub>2&lt;/sub>-Intensitäten in Österreich zu erstellen und eine transparente Plattform zu entwickeln, die diese öffentlich zugänglich macht.&lt;/p></description></item><item><title>Kapazitätsmärkte</title><link>/wissen/kapazit%C3%A4tsm%C3%A4rkte/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/wissen/kapazit%C3%A4tsm%C3%A4rkte/</guid><description>&lt;p>Ein Kapazitätsmarkt ist ein Teilbereich des Strommarkts in dem nicht nur die erbrachte Arbeit (erzeugter Strom) vergütet wird, sondern auf dem gesicherte Kapazitäten (meist von Erzeugungsanlagen) langfristig vergütet werden. Ob und wann diese dann auch Strom produzieren ist grundsätzlich kein Fokus eines Kapazitätsmarkts - oft jedoch ein wichtiges Detail in der Ausgestaltung. Der Begriff Kapazitätsmarkt steht daher im Gegensatz zum Begriff des &lt;a href="/wissen/markt-energy-only/">Energy-Only Markts&lt;/a>.&lt;/p></description></item></channel></rss>
