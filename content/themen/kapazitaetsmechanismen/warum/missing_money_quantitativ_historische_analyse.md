@@ -13,7 +13,7 @@ Der folgende Abschnitt beschäftigt sich mit der Frage, ob bestehende und neue K
 - Gasturbine Wasserstoff (GT Wasserstoff)
 - Gasturbine Erdgas (GT Erdgas)
 - Pumpspeicherkraftwerk
-- Laufwasserkraft
+- Laufwasserkraft (klein)
 - Photovoltaik
 - Windkraft (Onshore)
 
@@ -21,7 +21,7 @@ Zur Beurteilung der Wirtschaftlichkeit wurden die gesamten Kosten (variable und 
 in den Annahmen zu berücksichtigen, wurde eine Monte Carlo Simulation durchgeführt, der eine Normalverteilung zugrunde 
 gelegt wurde. Mittels der normalverteilten Monte Carlo Simulation wurde die Höhe der gewählten Parameter (OPEX, CPAEX, FOM
 VOM, WACC, Effizienz, Lebensdauer und Wasserstoffpreis) innerhalb einer Spannweite (niedrig - hoch) variiert und dadurch
-in Summe **x** Szenarien generiert.
+in Summe 20.000 Szenarien generiert.
 
 ### Kraftwerkseinsatz
 Zur Modellierung des stündlichen Kraftwerkseinsatzes wurden zwei verschiedene Ansätze verfolgt. Einerseits
@@ -42,7 +42,7 @@ aufweisen. Tabelle **x** gibt einen Überblick welche Technologien in der histor
 | Erdgas              | GuD Wasserstoff      |
 | PV                  | GuD Erdgas           |
 | Windkraft           | GT Wasserstoff       |
-| Laufwasserkraft     | GT Erdgas            |
+| Laufwasserkraft (klein)    | GT Erdgas            |
 | Pumpspeicher        |            -         |
 
 Die Grenzkosten setzten sich zusammen
@@ -75,10 +75,10 @@ Bei der theoretischen Betrachtung wurde ein optimaler Kraftwerkseinsatz unterste
 Zur Entwicklung der Strompreise wurden die stündlichen Werte der EPEX Spot [Day-ahead]({{< ref "wissen/markt-energy-only/index.md" >}}) 60-Minuten Auktion für Österreich herangezogen [^1]. 
 Für die Ermittlung der Grenzkosten der jeweiligen Kraftwerke wurden die CH<sub>4</sub>-Preise von [investing.com](https://www.investing.com/commodities/dutch-ttf-gas-c1-futures-historical-data) und die CO<sub>2</sub>-Preise von [energy-charts.info](https://www.energy-charts.info/charts/price_spot_market/chart.htm?l=de&c=AT&legendItems=6w1&interval=year)
 verwendet. Die täglichen CH<sub>4</sub>-Preise wurden auf Stundenbasis interpoliert und in einem weiteren Schritt wurden
-alle Rohstoff- und Strompreise auf reale Werte für 2024 umgerechnet. Die Entwicklung der Brennstoff-, CO<sub>2</sub>- und Strompreise ist in Abbildung 1 dargestellt.
+alle Rohstoff- und Strompreise auf reale Werte für 2024 umgerechnet. Die Entwicklung der Rohstoff-, CO<sub>2</sub>- und Strompreise ist in Abbildung 1 dargestellt.
 
 ![Preisentwicklung Commodities und Strom](/images/missing_money_quantitativ_historische_analyse/preisentwicklung_commodities_und_strom.png)
-*Abb. 1: Preisentwicklung Brennstoffe und Strom*
+*Abb. 1: Preisentwicklung Rohstoffe und Strom*
 
 Abbildung 2 stellt den Zusammenhang zwischen Strompreisen und Grenzkosten auf monatlicher Basis dar. Es zeigt sich, dass der Strommarkt die Grenzkosten der Stromerzeugung auf Basis der Preise für Gas und Kohle sehr deutlich widerspiegelt. Der Strompreis folgt über weite Strecken den Grenzkosten und pendelt zwischen denen eines Gas- und Dampfkraftwerks und eines Kohlekraftwerks. Je nach Marktsituation (Verhältnis der Brennstoffpreise) bzw. Stromnachfrage entspricht der Strompreis tendenziell dem Minimum der Grenzkosten eines Gas- bzw. Kohlekraftwerks. Während im Jahr 2015 tendenziell Kohlekraftwerke den Preis setzen, entspricht der Strompreis seit Beginn 2019 tendenziell den Grenzkosten eines Gas- und Dampfkraftwerks.
 
@@ -127,7 +127,7 @@ Des Weiteren wurden generische Annahmen bezüglich der Investitions- und Betrieb
       <td>WACC von Windkraft übernommen, Mittlerer CAPEX ± 20 % für Werte hoch/niedrig</td>
     </tr>
     <tr>
-      <td>Laufwasserkraftwerk</td>
+      <td>Laufwasserkraftwerk (klein)</td>
       <td>Europäische Kommission</td>
       <td>WACC von Windkraft übernommen, Angegebene Spannbreite für CAPEX Werte hoch/niedrig übernommen</td>
     </tr>
@@ -144,7 +144,7 @@ Des Weiteren wurden generische Annahmen bezüglich der Investitions- und Betrieb
   </tbody>
 </table>
 
-Um einen adäquaten Unsicherheitsbereich in die Analyse aufzunehmen, wurden sämtliche CAPEX Werte aus der Fraunhofer Studie [^5] für ‚hoch‘ und ‚niedrig‘ herangezogen. Für Laufwasserkraft und Pumpspeicher wurden die <abbr title="Capital Expenditures (Investitionskosten)">CAPEX</abbr> Werte aus dem Status Bericht 2024 der Europäischen Kommission [^8] herangezogen, wobei für Laufwasserkraft die gesamte, angegebene Spannbreit für ‚hoch‘ und ‚niedrig‘ verwendet wurde, während für Pumpspeicherkraftwerke der mittlere <abbr title="Capital Expenditures (Investitionskosten)">CAPEX</abbr> Wert um &#177; 20% variiert wurde.
+Um einen adäquaten Unsicherheitsbereich in die Analyse aufzunehmen, wurden sämtliche CAPEX Werte aus der Fraunhofer Studie [^5] für ‚hoch‘ und ‚niedrig‘ herangezogen. Für Laufwasserkraft und Pumpspeicher wurden die <abbr title="Capital Expenditures (Investitionskosten)">CAPEX</abbr> Werte aus dem Status Bericht 2024 der Europäischen Kommission [^8] herangezogen, wobei für Laufwasserkraft die gesamte, angegebene Spannbreite für ‚hoch‘ und ‚niedrig‘ verwendet wurde, während für Pumpspeicherkraftwerke der mittlere <abbr title="Capital Expenditures (Investitionskosten)">CAPEX</abbr> Wert um &#177; 20% variiert wurde.
 Die fixen <abbr title="Operations & Maintenance (Betrieb und Instandhaltung)">O&M</abbr> Kosten wurden pro Technolgie als 1-3% der mittleren <abbr title="Capital Expenditures (Investitionskosten)">CAPEX</abbr> angenommen, um Werte für ‚hoch‘ und niedrig zu erhalten.
 Weiters wurden die durchschnittlichen <abbr title="Weighted Average Cost of Capital (gewichtete durchschnittliche Kapitalkosten)">WACC</abbr> um -1/+3 %, und die variablen <abbr title="Operations & Maintenance (Betrieb und Instandhaltung)">O&M</abbr>-Kosten um &#177;&nbsp;0.5 variiert. Eine Zusammenfassung der Werte ist in den Tabellen 2 und 3 dargestellt. Sämtliche Werte entsprechen realen Geldwerteinheiten 2024, der <abbr title="Weighted Average Cost of Capital (gewichtete durchschnittliche Kapitalkosten)">WACC</abbr> ist in realen Einheiten zu verstehen.
 
@@ -229,7 +229,7 @@ Weiters wurden die durchschnittlichen <abbr title="Weighted Average Cost of Capi
       <td>Pumpspeicher</td><td>3.0</td><td>2.0</td><td>6.9 %</td><td>2.9 %</td>
     </tr>
     <tr>
-      <td>Laufwasserkraft</td>     <td>1.8</td><td>1.0</td><td>6.9 %</td><td>2.9 %</td>
+      <td>Laufwasserkraft (klein)</td>     <td>1.8</td><td>1.0</td><td>6.9 %</td><td>2.9 %</td>
     </tr>
     <tr>
       <td>PV</td>      <td>0.90</td><td>0.70</td><td>6.5 %</td><td>2.5 %</td>
@@ -286,7 +286,7 @@ Weiters wurden die durchschnittlichen <abbr title="Weighted Average Cost of Capi
       <td>Pumpspeicher</td><td>0.5</td><td>0.0</td><td>75.0</td><td>25.0</td>
     </tr>
     <tr>
-      <td>Laufwasserkraft</td>     <td>0.5</td><td>0.0</td><td>42.0</td><td>14.0</td>
+      <td>Laufwasserkraft (klein)</td>     <td>0.5</td><td>0.0</td><td>42.0</td><td>14.0</td>
     </tr>
     <tr>
       <td>PV</td>      <td>0.5</td><td>0.0</td><td>24.0</td><td>8.0</td>
@@ -328,10 +328,10 @@ als Wert ‚hoch‘ angenommen, und für den Wert ‚niedrig‘ um 1/6 reduziert
   </thead>
   <tbody>
     <tr>
-      <td><abbr title="Gas- und Dampfkraftwerk">GuD</abbr> Wasserstoff</td><td>61 %</td><td>59 %</td><td>30</td><td>25</td>
+      <td><abbr title="Gas- und Dampfkraftwerk">GuD</abbr> Wasserstoff</td><td>58 %</td><td>56 %</td><td>30</td><td>25</td>
     </tr>
     <tr>
-      <td><abbr title="Gas- und Dampfkraftwerk">GuD</abbr> Erdgas</td>     <td>61 %</td><td>59 %</td><td>30</td><td>25</td>
+      <td><abbr title="Gas- und Dampfkraftwerk">GuD</abbr> Erdgas</td>     <td>58 %</td><td>56 %</td><td>30</td><td>25</td>
     </tr>
     <tr>
       <td><abbr title="Gasturbine">GT</abbr> Wasserstoff</td> <td>41 %</td><td>39 %</td><td>30</td><td>25</td>
@@ -343,7 +343,7 @@ als Wert ‚hoch‘ angenommen, und für den Wert ‚niedrig‘ um 1/6 reduziert
       <td>Pumpspeicher</td><td>100 %</td><td>100 %</td><td>50</td><td>42</td>
     </tr>
     <tr>
-      <td>Laufwasserkraft</td>     <td>100 %</td><td>100 %</td><td>50</td><td>42</td>
+      <td>Laufwasserkraft (klein)</td>     <td>100 %</td><td>100 %</td><td>50</td><td>42</td>
     </tr>
     <tr>
       <td>PV</td>      <td>100 %</td><td>100 %</td><td>30</td><td>25</td>
