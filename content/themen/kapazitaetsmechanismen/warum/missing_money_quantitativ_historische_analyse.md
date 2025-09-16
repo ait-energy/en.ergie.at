@@ -54,7 +54,7 @@ Als Inputparameter werden im Weiteren die gleichen Werte wie für GuD Erdgas ver
 
 Die Grenzkosten setzten sich zusammen
 aus der Summe von variablen Betriebs- und Instandhaltungskosten 
-<abbr title="Operations & Maintenance (Betrieb und Instandhaltung)">O&M</abbr> (siehe Tabelle 1), variablen
+<abbr title="Operations & Maintenance (Betrieb und Instandhaltung)">O&M</abbr>, variablen
 Brennstoffkosten und variablen Emissionskosten:
 
 Grenzkosten = Variable <abbr title="Operations & Maintenance (Betrieb und Instandhaltung)">O&M</abbr> Kosten + Variable Brennstoffkosten + Variable Emissionskosten
@@ -111,7 +111,7 @@ Abbildung 2 stellt zum besseren Vergleich der Strompreise zwischen den Jahren 20
 
 ### Investitions- und Betriebskosten, Inflation und technische Annahmen
 
-Des Weiteren wurden generische Annahmen bezüglich der Investitions- und Betriebskosten der jeweiligen Kraftwerkstechnologie auf Basis der Fraunhofer Studie *Stromgestehungskosten Erneuerbarer Energien* [^5] herangezogen. Für die Laufwasserkraftwerke wurden Annahmen aus Status Bericht 2024 der Europäischen Kommission zu *Wasserkraft und Pumpspeicherkraftwerken in der Europäischen Union* herangezogen [^8]. 
+Des Weiteren wurden generische Annahmen bezüglich der Investitions- und Betriebskosten der jeweiligen Kraftwerkstechnologie auf Basis der Fraunhofer Studie *Stromgestehungskosten Erneuerbarer Energien* [^5] herangezogen. Für die Laufwasserkraftwerke wurden Annahmen aus dem Statusbericht 2024 der Europäischen Kommission zu *Wasserkraft und Pumpspeicherkraftwerken in der Europäischen Union* herangezogen [^8]. 
 
 <table>
   <caption style="caption-side: bottom; text-align: left;">
@@ -427,7 +427,7 @@ Abbildung 5 stellt noch einmal den Kraftwerkseinsatz der beiden Ansätze auf st�
 ### Wirtschaftlichkeit
 #### Ergebnisse aller Simulationsläufe
 
-In Abbildung 6 sind basierend auf dem historischen (historische Erzeugungsprofile) und dem theoretischen Kraftwerkseinsatz (Einsatz
+In Abbildung 3 sind basierend auf dem historischen (historische Erzeugungsprofile) und dem theoretischen Kraftwerkseinsatz (Einsatz
 basierend auf Grenzkosten) die Ergebnisse aller 20.000 Simulationsläufe für die betrachteten Technologien als Boxplots dargestellt.
 Die Darstellung als Boxplot ermöglicht es, die Verteilung der 20.000 Simulationsergebnisse zu visualisieren und somit einen guten Überblick sowohl über die Medianwerte als auch die Spannweite zu erhalten.
 Die Profite, Deckungsbeiträge, Abschöpfungen im Rahmen des Energiekrisenbeitrags-Strom (EKB-S) und Fixkosten (FOM und CAPEX) wurden
@@ -484,7 +484,7 @@ Abbildung 8 vergleicht direkt die Profite zwischen dem historischen und dem theo
 </div>
 
 
-*Abb. 6: Profit, Deckungsbeitrag (DB), Energiekrisenbeitrag-Strom (EKB-S) sowie Fixe Betriebs- und Instandhaltungskosten (FOM) und Investitionskosten (CAPEX) über alle Simulationsläufe. <br>
+*Abb. 3: Profit, Deckungsbeitrag (DB), Energiekrisenbeitrag-Strom (EKB-S) sowie Fixe Betriebs- und Instandhaltungskosten (FOM) und Investitionskosten (CAPEX) über alle Simulationsläufe. <br>
 DB = Einnahmen – Brennstoffkosten – variable Betriebs- und Instandhaltungskosten (VOM).<br> Betrachtete Technologien:  Wind, PV, Erdgas historisch,
 Kleinwasserkraft, Erdgas GT\* und Erdgas GuD\*<br>\* theoretischer Kraftwerkseinsatz: Einsatz erfolgt basierend auf wirtschaftlichen Kriterien (Grenzkosten < Strompreis)*
 
@@ -498,9 +498,9 @@ werden können. Damit können für über 50% der Simulationen alle erneuerbaren 
 
 Weitere, interessante Erkenntnisse lassen sich aus der Betrachtung des EKB-S für die einzelnen Technologien ableiten. Insbesondere Laufwasserkraftwerke sind vom EKB-S stark betroffen (~69k€/MW/a), gefolgt von Wind (~36k€/MW/a) und PV (~7k€/MW/a). Auch wenn Laufwasserkraft über alle Simulationen hinweg am stärksten betroffen ist, so ist für Wind die Spannweite der Gewinnabschöpfung am größten (bis 497€/MW/a). Auf PV hat der EKB-S die geringste Auswirkung, erkenntlich an dem geringen Median und der engen Spannweite ( 0 bis 75 k€/MW/a). Dies ist darauf zurückzuführen, dass die Erzeugung von PV in Stunden mit Knappheit (begrenzte Verfügbarkeit von Erneuerbaren oder hoher Nachfrage) und daher hohen Strompreisen in der Regel geringer ausfällt. 
 
-Abbildung x stellt für die erneuerbaren Technologien die Simulationsergebnisse zusätzlich in Form von Dauerlinien mit Median und Quantilen dar, wobei ebenfalls der EKB-S eingezeichnet ist, wodurch ersichtlich wird in wie vielen Stunden des Jahres ein Gewinnabschöpfung auftritt.
+Abbildung 4 stellt für die erneuerbaren Technologien die Simulationsergebnisse zusätzlich in Form von Dauerlinien mit Median und Quantilen dar, wobei ebenfalls der EKB-S eingezeichnet ist, wodurch ersichtlich wird in wie vielen Stunden des Jahres ein Gewinnabschöpfung auftritt.
 ![Jahresdauerlinie_Erneuerbare](/images/missing_money_quantitativ_historische_analyse/Jahresdauerlinie_Erneuerbare.png)
-*Abb. x: Median und Quantile der Jahresdauerlinien der Erneuerbaren über alle Szenarien*
+*Abb. 4: Median und Quantile der Jahresdauerlinien der Erneuerbaren über alle Szenarien*
 
 
 
@@ -705,6 +705,10 @@ Zusätzlich zur Betrachtung der Simulationsergebnisse über alle Jahre, wurde da
 <script src="https://app.23degrees.io/services/public/embed-code/vjnFvlPlwuwXmY8g-bar-vertical-waterfall-hydrogen-ccgt"></script>
   </div>
 </div>
+
+*Abb. 4: Einnahmen, Brennstoff- und Emissionskosten, variable etriebs- und Instandhaltungskosten (VOM), Energiekrisenbeitrag-Strom (EKB-S) sowie fixe Betriebs- und Instandhaltungskosten (FOM) und Investitionskosten (CAPEX) über alle Simulationsläufe für das Jahr 2024.
+Betrachtete Technologien: Wind, PV, Erdgas historisch, Kleinwasserkraft, Erdgas GT\* und Erdgas GuD\* <br>
+\* theoretischer Kraftwerkseinsatz: Einsatz erfolgt basierend auf wirtschaftlichen Kriterien (Grenzkosten < Strompreis)*
 
 Während PV über alle Simulationen noch einen ausreichenden Deckungsbeitrag erwirtschaften konnte, reichen im Jahr 2024 die Erlöse knapp nicht mehr aus um die Fixkosten zu decken. Damit steht PV vor einem Finanierungsproblem und ist damit einer geringen Menge von "Missing-Money" ausgesetzt.  Wind und Laufwasserkraft können weiterhin ausreichend Deckungsbeiträge erwirtschaften, während die generierten Erlöse für die fossilen, thermischen Technologien nicht mehr ausreichen um die gesamten Kosten zu decken. Besonders überraschend ist dies bei den erdgasbetriebenen GuDs, da sie über alle Simulationsläufe hinweg ein erhebliches Potenzial für hohe Gewinne aufweisen. Wenig überraschend sind hingegen die Ergebnisse für die wasserstoffbetriebenen Kraftwerke, die auch im Jahr 2024 vor einem erheblichen "Missing-Money-Problem" stehen.
 
