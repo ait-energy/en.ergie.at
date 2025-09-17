@@ -706,7 +706,7 @@ Zusätzlich zur Betrachtung der Simulationsergebnisse über alle Jahre, wurde da
   </div>
 </div>
 
-*Abb. 4: Einnahmen, Brennstoff- und Emissionskosten, variable etriebs- und Instandhaltungskosten (VOM), Energiekrisenbeitrag-Strom (EKB-S) sowie fixe Betriebs- und Instandhaltungskosten (FOM) und Investitionskosten (CAPEX) über alle Simulationsläufe für das Jahr 2024.
+*Abb. 5: Einnahmen, Brennstoff- und Emissionskosten, variable Betriebs- und Instandhaltungskosten (VOM), Energiekrisenbeitrag-Strom (EKB-S) sowie fixe Betriebs- und Instandhaltungskosten (FOM), Investitionskosten (CAPEX) und resultierende Profite über alle Simulationsläufe für das Jahr 2024.
 Betrachtete Technologien: Wind, PV, Erdgas historisch, Kleinwasserkraft, Erdgas GT\* und Erdgas GuD\* <br>
 \* theoretischer Kraftwerkseinsatz: Einsatz erfolgt basierend auf wirtschaftlichen Kriterien (Grenzkosten < Strompreis)*
 
