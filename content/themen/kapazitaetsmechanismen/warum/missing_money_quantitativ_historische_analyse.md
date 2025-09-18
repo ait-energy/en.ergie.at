@@ -18,7 +18,7 @@ Der folgende Abschnitt beschäftigt sich mit der Frage, ob bestehende und neue K
 
 Zur Beurteilung der Wirtschaftlichkeit wurden die gesamten Kosten (variable und fixe Kosten der Erzeugung auf Basis historischer Marktdaten und Kostenannahmen) den Erlösen (Kraftwerkseinsatz zu Marktpreisen) gegenübergestellt. Um die Unsicherheit 
 in den Annahmen zu berücksichtigen, wurde eine Monte Carlo Simulation durchgeführt, der eine Normalverteilung zugrunde 
-gelegt wurde. Mittels der normalverteilten Monte Carlo Simulation wurde die Höhe der gewählten Parameter (OPEX, CPAEX, FOM
+gelegt wurde. Mittels der normalverteilten Monte Carlo Simulation wurde die Höhe der gewählten Parameter (OPEX, CPAEX, FOM,
 VOM, WACC, Effizienz, Lebensdauer und Wasserstoffpreis) innerhalb einer Spannweite (niedrig - hoch) variiert und dadurch
 in Summe 20.000 Szenarien generiert.
 
@@ -59,7 +59,7 @@ Brennstoffkosten und variablen Emissionskosten:
 
 Grenzkosten = Variable <abbr title="Operations & Maintenance (Betrieb und Instandhaltung)">O&M</abbr> Kosten + Variable Brennstoffkosten + Variable Emissionskosten
 
-Die variablen Brennstoffkosten ergeben sich auf Basis von Effizienz und Preis des Brennstoffes, CO<sub>2</sub>-Intensität und Preis für CO<sub>2</sub>-Zertifikate:
+Die variablen Brennstoffkosten ergeben sich auf Basis von Effizienz und Preis des Brennstoffes:
 
 <p>
   Variable Brennstoffkosten =
@@ -98,7 +98,7 @@ Für die Ermittlung der Grenzkosten der jeweiligen Kraftwerke wurden die CH<sub>
 verwendet. Die täglichen CH<sub>4</sub>-Preise wurden auf Stundenbasis interpoliert und in einem weiteren Schritt wurden
 alle Rohstoff- und Strompreise auf reale Werte für 2024 umgerechnet. Die Entwicklung der Rohstoff-, CO<sub>2</sub>- und Strompreise ist in Abbildung 1 dargestellt.
 
-![Preisentwicklung Commodities und Strom](/images/missing_money_quantitativ_historische_analyse/Preisentwicklung_commodities_strom_täglich.png)
+![Preisentwicklung Commodities und Strom](/images/missing_money_quantitativ_historische_analyse/Preisentwicklung_commodities_strom_täglich_2.png)
 *Abb. 1: Preisentwicklung Erdgas, CO2 Emissionszertifikate und Strom*
 <!-- 
 Abbildung 2 stellt den Zusammenhang zwischen Strompreisen und Grenzkosten auf monatlicher Basis dar. Es zeigt sich, dass der Strommarkt die Grenzkosten der Stromerzeugung auf Basis der Preise für Gas und Kohle sehr deutlich widerspiegelt. Der Strompreis folgt über weite Strecken den Grenzkosten und pendelt zwischen denen eines Gas- und Dampfkraftwerks und eines Kohlekraftwerks. Je nach Marktsituation (Verhältnis der Brennstoffpreise) bzw. Stromnachfrage entspricht der Strompreis tendenziell dem Minimum der Grenzkosten eines Gas- bzw. Kohlekraftwerks. Während im Jahr 2015 tendenziell Kohlekraftwerke den Preis setzen, entspricht der Strompreis seit Beginn 2019 tendenziell den Grenzkosten eines Gas- und Dampfkraftwerks.
@@ -106,7 +106,7 @@ Abbildung 2 stellt den Zusammenhang zwischen Strompreisen und Grenzkosten auf mo
 ![Zusammenhang Strompreis und Grenzkosten: monatlich](/images/missing_money_quantitativ_historische_analyse/zusammenhang_strompreis_und_grenzkosten_monatlich.png)
 *Abb. 2: Zusammenhang Strompreis und Grenzkosten: monatlich* -->
 Abbildung 2 stellt zum besseren Vergleich der Strompreise zwischen den Jahren 2019-2024 deren Jahresdauerlinien dar.
-![Jahresdauerlinien des Strompreises für die Jahre 2019-2024](/images/missing_money_quantitativ_historische_analyse/jahresdauerlinien_Day_Ahead_Preis.png)
+![Jahresdauerlinien des Strompreises für die Jahre 2019-2024](/images/missing_money_quantitativ_historische_analyse/jahresdauerlinien_Day_Ahead_Preis_2.png)
 *Abb. 2: Jahresdauerlinien des Strompreises für die Jahre 2019-2024*
 
 ### Investitions- und Betriebskosten, Inflation und technische Annahmen
@@ -169,7 +169,7 @@ Des Weiteren wurden generische Annahmen bezüglich der Investitions- und Betrieb
 </table>
 
 Um einen adäquaten Unsicherheitsbereich in die Analyse aufzunehmen, wurden sämtliche CAPEX Werte aus der Fraunhofer Studie [^5] für ‚hoch‘ und ‚niedrig‘ herangezogen. Für Laufwasserkraft wurden die <abbr title="Capital Expenditures (Investitionskosten)">CAPEX</abbr> Werte aus dem Status Bericht 2024 der Europäischen Kommission [^8] herangezogen, und die angegebene Spannbreite für ‚hoch‘ und ‚niedrig‘ verwendet. <!--, während für Pumpspeicherkraftwerke der mittlere <abbr title="Capital Expenditures (Investitionskosten)">CAPEX</abbr> Wert um &#177; 20% variiert wurde. -->
-Die fixen <abbr title="Operations & Maintenance (Betrieb und Instandhaltung)">O&M</abbr> Kosten wurden pro Technolgie als 1-3% der mittleren <abbr title="Capital Expenditures (Investitionskosten)">CAPEX</abbr> angenommen, um Werte für ‚hoch‘ und niedrig zu erhalten.
+Die fixen <abbr title="Operations & Maintenance (Betrieb und Instandhaltung)">O&M</abbr> Kosten wurden pro Technolgie als 1-3% der mittleren <abbr title="Capital Expenditures (Investitionskosten)">CAPEX</abbr> angenommen, um Werte für ‚hoch‘ und ‚niedrig‘ zu erhalten.
 Weiters wurden die durchschnittlichen <abbr title="Weighted Average Cost of Capital (gewichtete durchschnittliche Kapitalkosten)">WACC</abbr> um -1/+3 %, und die variablen <abbr title="Operations & Maintenance (Betrieb und Instandhaltung)">O&M</abbr>-Kosten um &#177;&nbsp;0.5 variiert. Eine Zusammenfassung der Werte ist in den Tabellen 2 und 3 dargestellt. Sämtliche Werte entsprechen realen Geldwerteinheiten 2024, der <abbr title="Weighted Average Cost of Capital (gewichtete durchschnittliche Kapitalkosten)">WACC</abbr> ist in realen Einheiten zu verstehen.
 
 <!DOCTYPE html>
@@ -378,7 +378,7 @@ als Wert ‚hoch‘ angenommen, und für den Wert ‚niedrig‘ um 1/6 reduziert
   </tbody>
 </table>
 
-Für Erdgas und CO<sub>2</sub> wurden die Preise auf Basis der historischen Zeitreihen (Abbildung 1) herangezogen. Für Wasserstoff wurden für alle Szenarien Werte wischen 3 - 9 €/kg<sub>H2</sub> angenommen, wobei diese Preise wiederum im Rahmen einer normalverteilten Monte Carlo Simulation variiert wurden. Um die Kreuzpreiselastizität der unterschiedlichen Brennstoffe in den Jahren der hohen Strompreise zu berücksichtigen, wurde der gezogene Wasserstoffpreis in jedem Szenario als untere Schranke herangezogen. Überstieg der stündliche Erdgaspreis den Wasserstoffpreis, so wurde in dieser Stunde der Erdgaspreis als Näherung für den Wasserstoffpreis angenommen.
+Für Erdgas und CO<sub>2</sub> wurden die Preise auf Basis der historischen Zeitreihen (Abbildung 1) herangezogen. Für Wasserstoff wurden für alle Szenarien Werte zwischen 3 - 9 €/kg<sub>H2</sub> angenommen, wobei diese Preise wiederum im Rahmen einer normalverteilten Monte Carlo Simulation variiert wurden. Um die Kreuzpreiselastizität der unterschiedlichen Brennstoffe in den Jahren der hohen Strompreise zu berücksichtigen, wurde der gezogene Wasserstoffpreis in jedem Szenario als untere Schranke herangezogen. Überstieg der stündliche Erdgaspreis den Wasserstoffpreis, so wurde in dieser Stunde der Erdgaspreis als Näherung für den Wasserstoffpreis angenommen.
 <!--Aufgrund der Tatsache, dass nahezu alle Annahmen einer gewissen Unsicherheit unterliegen, wurden für alle Annahmen (mit Ausnahme der historischen Strom-, Brennstoff und CO<sub>2</sub> Kosten) entlang der Szenarien ‚hoch‘ und ‚niedrig‘ in einer plausiblen Bandbreite variiert. Für die Auswertung wurden sämtliche Szenario-Kombinationen herangezogen. Da es sieben Dimensionen (<abbr title="Capital Expenditures (Investitionskosten)">CAPEX</abbr>, <abbr title="Weighted Average Cost of Capital (gewichtete durchschnittliche Kapitalkosten)">WACC</abbr>; <abbr title="Variable Operations & Maintenance (variable Betriebskosten)">VOM</abbr>, <abbr title="Fixed Operations & Maintenance (fixe Betriebskosten)">FOM</abbr>, Effizienz, Lebensdauer und H<sub>2</sub>-Preise) in zwei Ausprägungen (hoch, niedrig) gibt, ergeben sich für jeden der neun Kraftwerkstypen 2<sup>7</sup> = 128 Kombinationsmöglichkeiten. Darüber hinaus wurden zehn historische Jahre (2015-2024) betrachtet, woraus sich 1.280 Beobachtungen für jeden Kraftwerkstyp ergeben. -->
 
 Weiters wurde für die CO<sub>2</sub>-Intensität des Erdgases der <abbr title="Ten-year network development plan">TYNDP</abbr>-Wert für das Jahr 2030 herangezogen.
@@ -500,9 +500,9 @@ Weitere, interessante Erkenntnisse lassen sich aus der Betrachtung des EKB-S fü
 
 Abbildung 4 stellt für die erneuerbaren Technologien die Simulationsergebnisse zusätzlich in Form von Dauerlinien mit Median und Quantilen dar, wobei ebenfalls der EKB-S eingezeichnet ist, wodurch ersichtlich wird in wie vielen Stunden des Jahres ein Gewinnabschöpfung auftritt.
 ![Jahresdauerlinie_Erneuerbare](/images/missing_money_quantitativ_historische_analyse/Jahresdauerlinie_Erneuerbare.png)
-*Abb. 4: Median und Quantile der Jahresdauerlinien der Erneuerbaren über alle Szenarien*
+*Abb. 4: Median und Quantile der Jahresdauerlinien der Einnahmen von PV, Wind und Laufwasserkraft über alle Szenarien mit eingezeichneter Schwelle der Gewinnabschöpfung.*
 
-Die Strompreisdauerlinien zeigen, dass PV im Median keiner Gewinnabschöpfung ausgesetzt ist, während Wind in etwa 3% der Stunden und Laufwasserkraft in etwa 5% der Stunden des Jahres eine Gewinnabschöpfung erfährt. Bezieht man alle Simulationsläufe mit ein, so zeigt sich, dass PV in maximal 19% der Stunden, Wind in maximal 33% der Stunden und Laufwasserkraft in bis zu 77% der Stunden des Jahres von einer Gewinnabschöpfung betroffen ist. Diese Darstelltung der Strompreisdauerlinien verdeutlicht die zuvor beschriebenen Ergebnisse der Boxplots und veranschaulicht, dass Laufwasserkraft im größten Umfang von der Gewinnabschöpfung betroffen ist.
+Die Dauerlinien der Einnahmen zeigen, dass PV im Median keiner Gewinnabschöpfung ausgesetzt ist, während Wind in etwa 3% der Stunden und Laufwasserkraft in etwa 5% der Stunden des Jahres eine Gewinnabschöpfung erfährt. Bezieht man alle Simulationsläufe mit ein, so zeigt sich, dass PV in maximal 19% der Stunden, Wind in maximal 33% der Stunden und Laufwasserkraft in bis zu 77% der Stunden des Jahres von einer Gewinnabschöpfung betroffen ist. Diese Darstelltung der Jahresdauerlinien der Einnahmen verdeutlicht die zuvor beschriebenen Ergebnisse der Boxplots und veranschaulicht, dass Laufwasserkraft im größten Umfang von der Gewinnabschöpfung betroffen ist.
 
 <u> Fossile, thermische Erzeugungsanlagen: </u>
 
@@ -709,7 +709,7 @@ Zusätzlich zur Betrachtung der Simulationsergebnisse über alle Jahre, wurde da
 Betrachtete Technologien: Wind, PV, Erdgas historisch, Kleinwasserkraft, Erdgas GT\* und Erdgas GuD\* <br>
 \* theoretischer Kraftwerkseinsatz: Einsatz erfolgt basierend auf wirtschaftlichen Kriterien (Grenzkosten < Strompreis)*
 
-Während PV über alle Simulationen noch einen ausreichenden Deckungsbeitrag erwirtschaften konnte, reichen im Jahr 2024 die Erlöse knapp nicht mehr aus um die Fixkosten zu decken. Damit steht PV vor einem Finanierungsproblem und ist damit einer geringen Menge von "Missing-Money" ausgesetzt.  Wind und Laufwasserkraft können weiterhin ausreichend Deckungsbeiträge erwirtschaften, während die generierten Erlöse für die fossilen, thermischen Technologien nicht mehr ausreichen um die gesamten Kosten zu decken. Besonders überraschend ist dies bei den erdgasbetriebenen GuDs, da sie über alle Simulationsläufe hinweg ein erhebliches Potenzial für hohe Gewinne aufweisen. Wenig überraschend sind hingegen die Ergebnisse für die wasserstoffbetriebenen Kraftwerke, die auch im Jahr 2024 vor einem erheblichen "Missing-Money-Problem" stehen.
+Während PV über alle Simulationen noch einen ausreichenden Deckungsbeitrag erwirtschaften konnte, reichen im Jahr 2024 die Erlöse knapp nicht mehr aus um die Fixkosten zu decken. Damit steht PV vor einem Finanzierungsproblem und ist damit einer geringen Menge von "Missing-Money" ausgesetzt.  Wind und Laufwasserkraft können weiterhin ausreichend Deckungsbeiträge erwirtschaften, während die generierten Erlöse für die fossilen, thermischen Technologien nicht mehr ausreichen um die gesamten Kosten zu decken. Besonders überraschend ist dies bei den erdgasbetriebenen GuDs, da sie über alle Simulationsläufe hinweg ein erhebliches Potenzial für hohe Gewinne aufweisen. Wenig überraschend sind hingegen die Ergebnisse für die wasserstoffbetriebenen Kraftwerke, die auch im Jahr 2024 vor einem erheblichen "Missing-Money-Problem" stehen.
 
 <!-- 
 Abbildung 9 illustriert die Schwankungsbreite hinter den Durchschnittsergebnissen in Form von Boxplots. Während die Resultate für <abbr title="Gas- und Dampfkraftwerk">GuD</abbr> Erdgas in der historischen Betrachtung zwischen -200 €/kW und 0 €/kW schwanken, bewegen sich die Profite in der theoretischen Betrachtung in 50% der Fälle zwischen -50 €/kW und +50 €/kW.
@@ -726,9 +726,9 @@ Abbildung 10 stellt noch einmal die volle Schwankungsbreite und Größenordnung 
 ## 4. Schlussfolgerungen
 
 In Bezug auf "Missing-Money" können daher folgende Schlussfolgerungen abgeleitet werden:
--	Erdgasbasiertes Gas- und Dampfkraftwerke sowie Spitzelastkraftwerke können auf Basis der letzten 6 Jahre unter idealen Bedingungen gewinnbringend betrieben werden. Die Aussagekraft hängt jedoch stark von der betrachteten Zeitperiode (2019-2024) und den zugrundeliegenden Annahmen über vollständig flexiblen Kraftwerkseinsatz ab. 
+-	Erdgasbasiertes Gas- und Dampfkraftwerke sowie Spitzenlastkraftwerke können auf Basis der letzten 6 Jahre unter idealen Bedingungen gewinnbringend betrieben werden. Die Aussagekraft hängt jedoch stark von der betrachteten Zeitperiode (2019-2024) und den zugrundeliegenden Annahmen über vollständig flexiblen Kraftwerkseinsatz ab. 
 -	In der aktuellen Markt- und Systemlage (Jahr 2024) lässt sich ein bestehendes Missing-Money-Problem für einzelne Marktteilnehmer:innen im österreichischen Energy-Only-Markt identifizieren. 
-- Das Missing-Money-Problem ergibt sich in der aktuellen Markt- und Systemlage für fossile Technologien durch zu wenig Einsatzzeiten, um ausreichend Deckungsbeiträge zu erwirtschaften. Auch PV ist in der aktuellen Markt- und Systemlage vom Missing-Money-Problem betroffen. Die Ursachen hierfür liegen in den hohen Investitionskosten und den niedrigen Strompreisen während der PV-Einspeisung, die durch die bereits hohe Durchdringung von PV im Stromsystem bedingt sind.
+- Das Missing-Money-Problem ergibt sich in der aktuellen Markt- und Systemlage für fossile Technologien durch zu wenig Einsatzzeiten, um ausreichend Deckungsbeiträge zu erwirtschaften. Auch PV ist in der aktuellen Markt- und Systemlage vom Missing-Money-Problem betroffen. Die Ursachen hierfür liegen in den hohen Investitionskosten und den niedrigen Strompreisen zu Zeiten von PV-Einspeisung, die durch die bereits hohe Durchdringung von PV im Stromsystem bedingt sind.
 - Wasserstoffbetriebene Kraftwerke sehen sich selbst unter optimistischen Annahmen mit einem erheblichen Missing-Money-Problem konfrontiert. Um Investitionen zu ermöglichen, sind Förderungen erforderlich, da der Markt keine ausreichenden Anreize für Investitionen bietet.
 
 Bei diesen Schlussfolgerungen ist jedoch zu berücksichtigen, dass keine Förderungen miteinbezogen und ausschließlich die im Day-Ahead-Markt erzielbaren Erlöse betrachtet wurden. Eine Teilnahme an zusätzlichen Märkten kann das Gesamtbild erheblich verändern und die Wirtschaftlichkeit der Marktteilnehmer:innen maßgeblich beeinflussen.
