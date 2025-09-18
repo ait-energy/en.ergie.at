@@ -1,7 +1,7 @@
 ---
 title: "Missing Money - Quantitativ-Historische Analyse"
 topics: []
-authors: ["portmann", "afischer"]
+authors: ["portmann", "afischer", "dkrainer"]
 ---
 
 ## 1. Kernfragestellung und methodischer Ansatz
