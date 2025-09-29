@@ -73,6 +73,12 @@
   pageRef = "projekte/tekave"
   weight = 43
 
+[[main]]
+  name = "SETHub"
+  parent = "Projekte"
+  pageRef = "projekte/sethub"
+  weight = 44
+
 # ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ #
 # >> main >> GITHUB                                                            #
 # ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ #
