@@ -201,7 +201,7 @@ Demzufolge werden Preise um 500 €/MWh erhöht, wenn der Preis 70 % der Obe
 
 Politisch/gesellschaftliche Akzeptanz von hohen Preisen im Energy-Only-Markt muss gegeben sein. Diese Voraussetzung ist tendenziell nicht gegeben:
 
-- Im Zuge der Energiekrise kamen starke politische Signale, Preisspitzen zu vermeiden und den Knappheitssignalen des Marktes zuvorzukommen (xxx zitieren)
+- Im Zuge der Energiekrise kamen starke politische Signale, Preisspitzen zu vermeiden und den Knappheitssignalen des Marktes zuvorzukommen [^19].
 - Es gibt indirekte regulatorische Eingriffe, die entweder preisdämpfend wirken oder implizite Preisobergrenzen bedeuten. Zum Beispiel kann die Einführung von Kapazitätsmechanismen (je nach Ausgestaltung) in Nachbarländern preisdämpfend wirken, da der Stromsektor durch sehr starke Vernetzung und damit hohe Preiskonvergenz gekennzeichnet ist.
 
 </details>
@@ -280,3 +280,6 @@ Es könnte eher das Gegenteil der Fall sein, da Versorgungssicherheit den Charak
 
 [^18]: [Is the Security of Electricity Supply a Public Good?  
 (Abbott, 2001)](https://doi.org/10.1016/S1040-6190(01)00224-X)
+
+[^19]: [Strommarktreform  
+(Europäischer Rat)](https://www.consilium.europa.eu/de/policies/electricity-market-reform/)
