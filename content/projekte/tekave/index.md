@@ -82,7 +82,7 @@ Die Projektziele werden mithilfe von vier dedizierten Arbeitspaketen innerhalb d
   <li>Formulierung von Stakeholder- und Politikempfehlungen (<u>Lead: EI-JKU</u>)</li>
 </ul>
 
-<u>Deliverables</u><br>
+Die Ergebnisse dieses Arbeitspakets sind auf dieser Webseite unter <mark>Themen/Kapazitätsmechanismen</mark> verfügbar.
 {{< /timelineItem >}}
 <!-- =============================================================================================================== -->
 {{< timelineItem icon="code" header="Arbeitspaket 3" badge="Lead: AIT" subheader="Marktmodellierung" >}}
@@ -105,6 +105,9 @@ Die Projektziele werden mithilfe von vier dedizierten Arbeitspaketen innerhalb d
 </ul>
 
 <u>Deliverables</u><br>
+<mark>D4.1</mark> <a href="assets/Deliverable_4.1_inkl._Präsentation_final.pdf">Regulatorische Rahmenbedingungen für 
+Kapazitätsmärkte</a><br>
+<mark>D4.2</mark> <a href="assets/Deliverable_4.2_final.pdf">Policy Brief</a><br>
 {{< /timelineItem >}}
 <!-- =============================================================================================================== -->
 
