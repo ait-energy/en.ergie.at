@@ -7,7 +7,7 @@ authors: [dkrainer]
 bib:
   type: Studie
   author: Connect Energy Economics
-  date: 2025-07-09
+  date: 2024-07-09
   description: |
     Die Studie untersucht eine Absicherungspflicht für Energieversorger im deutschen Strommarkt als Alternative zu Kapazitätsmechanismen
     und analysiert hierfür verschiedene Kapazitätsmechanismen und Möglichkeiten der Weiterentwicklung im Marktdesign.
