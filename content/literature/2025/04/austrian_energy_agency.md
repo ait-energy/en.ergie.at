@@ -35,6 +35,6 @@ Auf Basis ihrer Analyse leitet die Österreichische Energieagentur Empfehlungen 
 #### Kapazitätsmarkt
 
 Die Begleitstudie kommt Kapazitätsmärkte betreffend zu den folgenden zentralen Ergebnissen:
-Kapazitätsmechanismen sollten technologieoffen gestaltet werden, um Liquidität zu sichern, zugleich aber durch klar definierte Rahmenbedingungen die Dekarbonisierung gewährleisten. Wenn der Kapazitätsmarkt als langfristige Lösung dient, sind internationale Kooperation und Harmonisierung zentrale Erfolgsfaktoren. Darüber hinaus sollten Kapazitätsmärkte flexibel bleiben und sich dynamisch an Marktveränderungen anpassen, gleichzeitig jedoch durch regelmäßige Auktionen und ausreichenden Vorlaufzeiten Planungssicherheit für Investoren schaffen. Schließlich betonen die Autor:innen die Bedeutung einer angemessenen Wahl der De-Rating-Faktoren, die jährlich angepasst werden sollten.
+Kapazitätsmechanismen sollten technologieoffen gestaltet werden, um Liquidität zu sichern, zugleich aber durch klar definierte Rahmenbedingungen die Dekarbonisierung gewährleisten. Wenn der Kapazitätsmarkt als langfristige Lösung dient, sind internationale Kooperation und Harmonisierung zentrale Erfolgsfaktoren. Darüber hinaus sollten Kapazitätsmärkte flexibel bleiben und sich dynamisch an Marktveränderungen anpassen, gleichzeitig jedoch durch regelmäßige Auktionen und ausreichende Vorlaufzeiten Planungssicherheit für Investoren schaffen. Schließlich betonen die Autor:innen die Bedeutung einer angemessenen Wahl der De-Rating-Faktoren, die jährlich angepasst werden sollten.
 
 
