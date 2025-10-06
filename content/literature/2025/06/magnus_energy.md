@@ -35,7 +35,7 @@ bib:
 
 Der Bericht von Magnus Energy und Forum Energii zeigt, dass Polens bisheriger Kapazitätsmarkt trotz Kosten von über 100 Mrd. PLN vor allem unflexible Kohlekraftwerke und durchlaufende Gaskraftwerke unterstützt und damit die notwendige Systemflexibilität nicht verbessert – mit der Folge wachsender Abregelungen erneuerbarer Erzeugung und steigender Systemkosten.
 Forum Energii empfiehlt deshalb eine Reform des Kapazitätsmechanismus, der nicht nur Verfügbarkeit vergütet, sondern gezielt Flexibilität adressiert und Investitionen in neue, flexible und emissionsarme Kapazitäten lenkt.
-Kern ist eine Architektur mit zwei Produkten: „Flexible Kapazität“ mit Aktivierungszeiten von 15–60 Minuten, welche den Markt vor allem für <abbr title="Open Cycle Gas Turbines">OCGTs</abbr>, Gasmotoren, Speicher sowie fortgeschrittene Demand-Side-Response öffnen und „Steuerbare Kapazität“, die als Reserve dienen soll, innerhalb von bis zu 4 Stunden aktiviert wird und sich vor allem für Kraft-Wärme-Kopplung, kombinierte Gas-und Dampfkraftwerke und digital gesteuerte dezentrale Ressourcen eignet.
+Kern ist eine Architektur mit zwei Produkten: Zum einen „Flexible Kapazität“ mit Aktivierungszeiten von 15–60 Minuten, welche den Markt vor allem für <abbr title="Open Cycle Gas Turbines">OCGTs</abbr>, Gasmotoren, Speicher sowie fortgeschrittene Demand-Side-Response öffnet. Zum anderen „Steuerbare Kapazität“, die als Reserve dienen soll, innerhalb von bis zu 4 Stunden aktiviert wird und sich vor allem für Kraft-Wärme-Kopplung, kombinierte Gas-und Dampfkraftwerke und digital gesteuerte dezentrale Ressourcen eignet.
 
 ## Weiterführende Links
 
