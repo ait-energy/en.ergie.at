@@ -30,7 +30,7 @@ bib:
 ### Inhalte
 Diese Begleitstudie untersucht die technologischen Anforderungen an ein dekarbonisiertes Energiesystem und leitet daraus
 Schlussfolgerungen für die techno-ökonomischen Parameter von Kapazitätsmärkten ab. 
-Auf Basis ihrer Analyse leitet die Österreichische Energieagentur Empfehlungen (Do's) und Nicht-Empfehlungen (Dont's) für die Ausgestaltung von Kapazitätsmärkten in einem dekarbonisierten Energiesystem ab. 
+Auf Basis ihrer Analyse leitet die Österreichische Energieagentur Handlungsweisen ab, die für die Ausgestaltung von Kapazitätsmärkten in einem dekarbonisierten Energiesystem empfohlen werden (Dos) bzw. von welchen abgeraten wird (Don'ts) .
 
 #### Kapazitätsmarkt
 
