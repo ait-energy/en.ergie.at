@@ -52,3 +52,5 @@ Werden nur Teile der Kriterien erfüllt, müssen die nicht erfüllten Punkte auf
 {{< keyword >}}Konsultation{{< /keyword >}} [New State aid Framework accompanying the Clean Industrial Deal Communication](https://competition-policy.ec.europa.eu/public-consultations/2025-cisaf_en)
 
 {{< keyword >}}Konsultation{{< /keyword >}} [Commission invites comments on the draft State aid Framework supporting the Clean Industrial Deal](https://ec.europa.eu/commission/presscorner/detail/en/ip_25_652)
+
+{{< keyword >}}Position{{< /keyword >}} [ENTSO-E Reaction to the European Commission’s Report on Streamlining Capacity Mechanisms](https://www.entsoe.eu/2025/04/29/entso-e-reaction-to-the-european-commission-s-report-on-streamlining-capacity-mechanisms/)
