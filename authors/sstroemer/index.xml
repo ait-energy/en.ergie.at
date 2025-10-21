@@ -1,5 +1,31 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Stefan Strömer on en.ergie.at</title><link>/authors/sstroemer/</link><description>Recent content in Stefan Strömer on en.ergie.at</description><generator>Hugo -- gohugo.io</generator><language>de</language><copyright>&amp;copy; AIT Austrian Institute of Technology GmbH</copyright><lastBuildDate>Sun, 08 Jun 2025 01:58:06 +0200</lastBuildDate><atom:link href="/authors/sstroemer/index.xml" rel="self" type="application/rss+xml"/><item><title>TeKaVe</title><link>/projekte/tekave/</link><pubDate>Mon, 25 Aug 2025 10:48:45 +0200</pubDate><guid>/projekte/tekave/</guid><description>&lt;p>Die Kernfrage des Projekts &lt;em>TeKaVe - Technologieneutrale Kapazitätsmechanismen für eine Versorgungssichere Energiezukunft&lt;/em>
-betrifft, ob das Marktsystem in Österreich in seiner derzeitigen Form (Energy-Only-Markt) im Stande ist, zur gleichen Zeit ein versorgungssicheres Energiesystem aufrecht zu erhalten und die Dekarbonisierungsziele Österreichs zu erreichen.&lt;/p></description></item><item><title>Länder &amp; Auktionen</title><link>/themen/kapazitaetsmechanismen/laenderuebersicht/</link><pubDate>Mon, 04 Aug 2025 22:08:50 +0200</pubDate><guid>/themen/kapazitaetsmechanismen/laenderuebersicht/</guid><description>&lt;!--
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Stefan Strömer on en.ergie.at</title><link>/authors/sstroemer/</link><description>Recent content in Stefan Strömer on en.ergie.at</description><generator>Hugo -- gohugo.io</generator><language>de</language><copyright>&amp;copy; AIT Austrian Institute of Technology GmbH</copyright><lastBuildDate>Sun, 08 Jun 2025 01:58:06 +0200</lastBuildDate><atom:link href="/authors/sstroemer/index.xml" rel="self" type="application/rss+xml"/><item><title>TeKaVe</title><link>/projekte/tekave/</link><pubDate>Fri, 03 Oct 2025 16:17:13 +0200</pubDate><guid>/projekte/tekave/</guid><description>&lt;p>Die Kernfrage des Projekts &lt;em>TeKaVe - Technologieneutrale Kapazitätsmechanismen für eine Versorgungssichere Energiezukunft&lt;/em>
+betrifft, ob das Marktsystem in Österreich in seiner derzeitigen Form (Energy-Only-Markt) im Stande ist, zur gleichen Zeit ein versorgungssicheres Energiesystem aufrecht zu erhalten und die Dekarbonisierungsziele Österreichs zu erreichen.&lt;/p></description></item><item><title>Gesetzestext: Clean Industrial Deal State Aid Framework</title><link>/literature/2025/03/european_commission_draft_state_aid/</link><pubDate>Thu, 02 Oct 2025 17:07:57 +0200</pubDate><guid>/literature/2025/03/european_commission_draft_state_aid/</guid><description>&lt;h2 class="relative group">Überblick
+&lt;div id="%C3%BCberblick" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#%C3%BCberblick" aria-label="Anker">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;!-- CISAF Draft: https://competition-policy.ec.europa.eu/document/download/45b532ce-53fb-4907-975c-79edaa31a166_en?filename=2025_CISAF_draft_EC_communication.pdf-->
+&lt;figure>
+&lt;div class="flex mt-2">
+&lt;span
+class="rounded-full bg-primary-500 dark:bg-primary-400 text-neutral-50 dark:text-neutral-800 px-1.5 py-[1px] text-xs font-normal"
+>
+&lt;span class="flex flex-row items-center">
+&lt;span>Originaldokument&lt;/span>
+&lt;/span>
+&lt;/span>
+&lt;/div>
+&lt;blockquote style="margin-top: 0.5em;">
+&lt;a href="https://eur-lex.europa.eu/eli/C/2025/3602/oj#ntr1-C_202503602EN.003701-E0001" target="_blank">
+Framework for State Aid measures to support the Clean Industrial Deal (Clean Industrial Deal State Aid Framework)
+&lt;/a>
+&lt;/blockquote>
+&lt;figcaption>— Europäische Kommission, im März 2025&lt;/figcaption>
+&lt;/figure>
+&lt;p>Der CISAF ersetzt das &lt;a href="https://competition-policy.ec.europa.eu/state-aid/legislation/temporary-crisis-and-transition-framework_en" target="_blank">&lt;abbr title="Temporary Crisis and Transition Framework">TCTF&lt;/abbr>&lt;/a>, gilt ab dem 25. Juni 2025 und bleibt bis zum 31. Dezember 2030 in Kraft.&lt;/p></description></item><item><title>Länder &amp; Auktionen</title><link>/themen/kapazitaetsmechanismen/laenderuebersicht/</link><pubDate>Mon, 04 Aug 2025 22:08:50 +0200</pubDate><guid>/themen/kapazitaetsmechanismen/laenderuebersicht/</guid><description>&lt;!--
 NOTE: Format of auction result structure for adding future auction results
 General information:
 Always use Y-x and not T-x for auction years
@@ -488,48 +514,7 @@ class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 
 style="text-decoration-line: none !important;" href="#kapazit%C3%A4tsmechanismen" aria-label="Anker">#&lt;/a>
 &lt;/span>
 &lt;/h4>
-&lt;p>Die Kurzstudie analysiert die Integration dezentraler Flexibilitäten wie Speicher und Lastmanagement in einen Integrierten Kapazitätsmarkt (IKM). Sie empfiehlt einen technologieoffenen Ansatz mit zentralen Ausschreibungen, um Investitionssicherheit zu gewährleisten und Flexibilitäten effizient einzubinden. Durch explizite Anreize in den Ausschreibungen sowie durch dynamische Umlagesysteme können dezentrale Flexibilitäten aktiviert werden. Internationale Erfahrungen zeigen, dass zentrale Märkte Flexibilität effektiv integrieren können, wenn geeignete Instrumente eingesetzt werden.&lt;/p></description></item><item><title>Gesetzentwurf: Clean Industrial Deal State Aid Framework</title><link>/literature/2025/03/european_commission_draft_state_aid/</link><pubDate>Mon, 16 Jun 2025 13:53:54 +0200</pubDate><guid>/literature/2025/03/european_commission_draft_state_aid/</guid><description>&lt;h2 class="relative group">Überblick
-&lt;div id="%C3%BCberblick" class="anchor">&lt;/div>
-&lt;span
-class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
-&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
-style="text-decoration-line: none !important;" href="#%C3%BCberblick" aria-label="Anker">#&lt;/a>
-&lt;/span>
-&lt;/h2>
-&lt;figure>
-&lt;div class="flex mt-2">
-&lt;span
-class="rounded-full bg-primary-500 dark:bg-primary-400 text-neutral-50 dark:text-neutral-800 px-1.5 py-[1px] text-xs font-normal"
->
-&lt;span class="flex flex-row items-center">
-&lt;span>Originaldokument&lt;/span>
-&lt;/span>
-&lt;/span>
-&lt;/div>
-&lt;blockquote style="margin-top: 0.5em;">
-&lt;a href="https://competition-policy.ec.europa.eu/document/download/45b532ce-53fb-4907-975c-79edaa31a166_en?filename=2025_CISAF_draft_EC_communication.pdf" target="_blank">
-Draft: Framework for State Aid measures to support the Clean Industrial Deal (Clean Industrial Deal State Aid Framework)
-&lt;/a>
-&lt;/blockquote>
-&lt;figcaption>— Europäische Kommission, im März 2025&lt;/figcaption>
-&lt;/figure>
-&lt;h3 class="relative group">Inhalte
-&lt;div id="inhalte" class="anchor">&lt;/div>
-&lt;span
-class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
-&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
-style="text-decoration-line: none !important;" href="#inhalte" aria-label="Anker">#&lt;/a>
-&lt;/span>
-&lt;/h3>
-&lt;h4 class="relative group">Kapazitätsmechanismen
-&lt;div id="kapazit%C3%A4tsmechanismen" class="anchor">&lt;/div>
-&lt;span
-class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
-&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
-style="text-decoration-line: none !important;" href="#kapazit%C3%A4tsmechanismen" aria-label="Anker">#&lt;/a>
-&lt;/span>
-&lt;/h4>
-&lt;p>Anhang 1 dieses Gesetzentwurf beschreibt die maßgeblichen Kriterien für eine zügige Bewertung und Genehmigung der Anfragen von Mitgliedstaaten zu Kapazitätsmechanismen durch die Kommission. Im Rahmen des beschleunigten Genehmigungsverfahrens gelten zwei Kapazitätsmechanismen als zulässig: eine strategische Reserve und ein marktweites zentrales Käufermodell.&lt;/p></description></item><item><title>Kombinierter Kapazitätsmarkt - eine Analyse der Vor- und Nachteile</title><link>/literature/2024/11/frontier_kkm/</link><pubDate>Mon, 16 Jun 2025 13:53:54 +0200</pubDate><guid>/literature/2024/11/frontier_kkm/</guid><description>&lt;h2 class="relative group">Überblick
+&lt;p>Die Kurzstudie analysiert die Integration dezentraler Flexibilitäten wie Speicher und Lastmanagement in einen Integrierten Kapazitätsmarkt (IKM). Sie empfiehlt einen technologieoffenen Ansatz mit zentralen Ausschreibungen, um Investitionssicherheit zu gewährleisten und Flexibilitäten effizient einzubinden. Durch explizite Anreize in den Ausschreibungen sowie durch dynamische Umlagesysteme können dezentrale Flexibilitäten aktiviert werden. Internationale Erfahrungen zeigen, dass zentrale Märkte Flexibilität effektiv integrieren können, wenn geeignete Instrumente eingesetzt werden.&lt;/p></description></item><item><title>Kombinierter Kapazitätsmarkt - eine Analyse der Vor- und Nachteile</title><link>/literature/2024/11/frontier_kkm/</link><pubDate>Mon, 16 Jun 2025 13:53:54 +0200</pubDate><guid>/literature/2024/11/frontier_kkm/</guid><description>&lt;h2 class="relative group">Überblick
 &lt;div id="%C3%BCberblick" class="anchor">&lt;/div>
 &lt;span
 class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">

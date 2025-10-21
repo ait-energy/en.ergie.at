@@ -1,4 +1,45 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Andreas Fischer on en.ergie.at</title><link>/authors/afischer/</link><description>Recent content in Andreas Fischer on en.ergie.at</description><generator>Hugo -- gohugo.io</generator><language>de</language><copyright>&amp;copy; AIT Austrian Institute of Technology GmbH</copyright><lastBuildDate>Tue, 08 Jul 2025 13:15:55 +0200</lastBuildDate><atom:link href="/authors/afischer/index.xml" rel="self" type="application/rss+xml"/><item><title>Missing Money - Quantitativ-Historische Analyse</title><link>/themen/kapazitaetsmechanismen/warum/missing_money_quantitativ_historische_analyse/</link><pubDate>Thu, 18 Sep 2025 13:01:07 +0200</pubDate><guid>/themen/kapazitaetsmechanismen/warum/missing_money_quantitativ_historische_analyse/</guid><description>&lt;h2 class="relative group">1. Kernfragestellung und methodischer Ansatz
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Andreas Fischer on en.ergie.at</title><link>/authors/afischer/</link><description>Recent content in Andreas Fischer on en.ergie.at</description><generator>Hugo -- gohugo.io</generator><language>de</language><copyright>&amp;copy; AIT Austrian Institute of Technology GmbH</copyright><lastBuildDate>Tue, 08 Jul 2025 13:15:55 +0200</lastBuildDate><atom:link href="/authors/afischer/index.xml" rel="self" type="application/rss+xml"/><item><title>Schweden</title><link>/themen/kapazitaetsmechanismen/laenderuebersicht/se/</link><pubDate>Tue, 14 Oct 2025 13:36:09 +0200</pubDate><guid>/themen/kapazitaetsmechanismen/laenderuebersicht/se/</guid><description>&lt;br>
+&lt;div
+class="flex px-4 py-3 rounded-md bg-primary-100 dark:bg-primary-900"
+>
+&lt;span
+class="text-primary-400 ltr:pr-3 rtl:pl-3 flex items-center"
+>
+&lt;span class="relative block icon">
+&lt;svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">&lt;path fill="currentColor" d="M506.3 417l-213.3-364c-16.33-28-57.54-28-73.98 0l-213.2 364C-10.59 444.9 9.849 480 42.74 480h426.6C502.1 480 522.6 445 506.3 417zM232 168c0-13.25 10.75-24 24-24S280 154.8 280 168v128c0 13.25-10.75 24-23.1 24S232 309.3 232 296V168zM256 416c-17.36 0-31.44-14.08-31.44-31.44c0-17.36 14.07-31.44 31.44-31.44s31.44 14.08 31.44 31.44C287.4 401.9 273.4 416 256 416z"/>&lt;/svg>
+&lt;/span>
+&lt;/span>
+&lt;span
+class="dark:text-neutral-300"
+>Wir arbeiten gerade an diesem Artikel. Informationen können unvollständig oder teilweise inkorrekt sein. Fehler oder fehlende Details kannst Du direkt per &lt;a href="https://github.com/ait-energy/en.ergie.at/issues" target="_blank">GitHub Issue melden&lt;/a>.&lt;/span>
+&lt;/div>
+&lt;h2 class="relative group">Aktuelle Entwicklungen
+&lt;div id="aktuelle-entwicklungen" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#aktuelle-entwicklungen" aria-label="Anker">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;p>Die Strategische Reserve in Schweden war seit dem Jahr 2003 aktiv&lt;sup id="fnref:1">&lt;a href="#fn:1" class="footnote-ref" role="doc-noteref">1&lt;/a>&lt;/sup> und ist mit 15. März 2025 ausgelaufen&lt;sup id="fnref:2">&lt;a href="#fn:2" class="footnote-ref" role="doc-noteref">2&lt;/a>&lt;/sup>.
+Ende Juli 2025 hat die Europäische Kommission eine neue Strategische Reserve um insgesamt 300 Mio. € genehmigt, die
+bis 2035 bestehen wird und allen Erzeugungsanlagen, Speichern und steuerbaren Lasten offen steht &lt;sup id="fnref:3">&lt;a href="#fn:3" class="footnote-ref" role="doc-noteref">3&lt;/a>&lt;/sup>.
+Die erste Ausschreibung für den Winter 2025/26 fand im Oktober 2025 statt, blieb jedoch erfolglos, da sich lediglich sechs Anlagen präqualifizieren ließen und die Gebote aller Anbieter über der festgelegten Gebotsobergrenze lagen &lt;sup id="fnref:4">&lt;a href="#fn:4" class="footnote-ref" role="doc-noteref">4&lt;/a>&lt;/sup> &lt;sup id="fnref:5">&lt;a href="#fn:5" class="footnote-ref" role="doc-noteref">5&lt;/a>&lt;/sup>.&lt;/p></description></item><item><title>Sind die Voraussetzungen derzeit, historisch und in der absehbaren Zukunft hinreichend erfüllt?</title><link>/themen/kapazitaetsmechanismen/warum/analyse_der_voraussetzungen/</link><pubDate>Mon, 29 Sep 2025 09:12:55 +0200</pubDate><guid>/themen/kapazitaetsmechanismen/warum/analyse_der_voraussetzungen/</guid><description>&lt;br>
+&lt;div
+class="flex px-4 py-3 rounded-md bg-primary-100 dark:bg-primary-900"
+>
+&lt;span
+class="text-primary-400 ltr:pr-3 rtl:pl-3 flex items-center"
+>
+&lt;span class="relative block icon">
+&lt;svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">&lt;path fill="currentColor" d="M506.3 417l-213.3-364c-16.33-28-57.54-28-73.98 0l-213.2 364C-10.59 444.9 9.849 480 42.74 480h426.6C502.1 480 522.6 445 506.3 417zM232 168c0-13.25 10.75-24 24-24S280 154.8 280 168v128c0 13.25-10.75 24-23.1 24S232 309.3 232 296V168zM256 416c-17.36 0-31.44-14.08-31.44-31.44c0-17.36 14.07-31.44 31.44-31.44s31.44 14.08 31.44 31.44C287.4 401.9 273.4 416 256 416z"/>&lt;/svg>
+&lt;/span>
+&lt;/span>
+&lt;span
+class="dark:text-neutral-300"
+>Wir arbeiten gerade an diesem Artikel. Informationen können unvollständig oder teilweise inkorrekt sein. Fehler oder fehlende Details kannst Du direkt per &lt;a href="https://github.com/ait-energy/en.ergie.at/issues" target="_blank">GitHub Issue melden&lt;/a>.&lt;/span>
+&lt;/div>
+&lt;p>Im folgenden Abschnitt wird evaluiert, ob die Voraussetzungen eines reinen &lt;a href="/wissen/markt-energy-only/">Energy-Only-Markt&lt;/a> (&lt;abbr title="Energy-Only-Markt">EOM&lt;/abbr>) aktuell und in der absehbaren Zukunft gegeben sind.&lt;/p></description></item><item><title>Missing Money - Quantitativ-Historische Analyse</title><link>/themen/kapazitaetsmechanismen/warum/missing_money_quantitativ_historische_analyse/</link><pubDate>Thu, 18 Sep 2025 13:26:40 +0200</pubDate><guid>/themen/kapazitaetsmechanismen/warum/missing_money_quantitativ_historische_analyse/</guid><description>&lt;h2 class="relative group">1. Kernfragestellung und methodischer Ansatz
 &lt;div id="1-kernfragestellung-und-methodischer-ansatz" class="anchor">&lt;/div>
 &lt;span
 class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
@@ -80,34 +121,7 @@ style="text-decoration-line: none !important;" href="#europa-im-%C3%BCberblick" 
 Vereinigtes Königreich, Irland (SEM), Italien, Polen und Schweden. Drei von ihnen (Finnland, Deutschland und Schweden)
 haben strategische Reserven eingerichtet, während die sechs anderen Staaten marktweite Kapazitätsmechanismen
 unterhalten. Spanien und Portugal haben keinen aktiven Kapazitätsmechanismus, aber einige langfristige Altverträge
-(gezielte Kapazitätszahlungen) gelten noch.&lt;/p></description></item><item><title>Schweden</title><link>/themen/kapazitaetsmechanismen/laenderuebersicht/se/</link><pubDate>Mon, 04 Aug 2025 22:08:50 +0200</pubDate><guid>/themen/kapazitaetsmechanismen/laenderuebersicht/se/</guid><description>&lt;br>
-&lt;div
-class="flex px-4 py-3 rounded-md bg-primary-100 dark:bg-primary-900"
->
-&lt;span
-class="text-primary-400 ltr:pr-3 rtl:pl-3 flex items-center"
->
-&lt;span class="relative block icon">
-&lt;svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">&lt;path fill="currentColor" d="M506.3 417l-213.3-364c-16.33-28-57.54-28-73.98 0l-213.2 364C-10.59 444.9 9.849 480 42.74 480h426.6C502.1 480 522.6 445 506.3 417zM232 168c0-13.25 10.75-24 24-24S280 154.8 280 168v128c0 13.25-10.75 24-23.1 24S232 309.3 232 296V168zM256 416c-17.36 0-31.44-14.08-31.44-31.44c0-17.36 14.07-31.44 31.44-31.44s31.44 14.08 31.44 31.44C287.4 401.9 273.4 416 256 416z"/>&lt;/svg>
-&lt;/span>
-&lt;/span>
-&lt;span
-class="dark:text-neutral-300"
->Wir arbeiten gerade an diesem Artikel. Informationen können unvollständig oder teilweise inkorrekt sein. Fehler oder fehlende Details kannst Du direkt per &lt;a href="https://github.com/ait-energy/en.ergie.at/issues" target="_blank">GitHub Issue melden&lt;/a>.&lt;/span>
-&lt;/div>
-&lt;h2 class="relative group">Aktuelle Entwicklungen
-&lt;div id="aktuelle-entwicklungen" class="anchor">&lt;/div>
-&lt;span
-class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
-&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
-style="text-decoration-line: none !important;" href="#aktuelle-entwicklungen" aria-label="Anker">#&lt;/a>
-&lt;/span>
-&lt;/h2>
-&lt;p>Die Strategische Reserve in Schweden war seit dem Jahr 2003 aktiv&lt;sup id="fnref:1">&lt;a href="#fn:1" class="footnote-ref" role="doc-noteref">1&lt;/a>&lt;/sup> und ist mit 15. März 2025 ausgelaufen&lt;sup id="fnref:2">&lt;a href="#fn:2" class="footnote-ref" role="doc-noteref">2&lt;/a>&lt;/sup>.
-Ende Juli 2025 hat die Europäische Kommission eine neue Strategische Reserve um insgesamt 300 Mio. € genehmigt, die
-bis 2035 bestehen wird und allen Erzeugungsanlagen, Speichern und steuerbaren Lasten offen steht &lt;sup id="fnref:3">&lt;a href="#fn:3" class="footnote-ref" role="doc-noteref">3&lt;/a>&lt;/sup>.
-Wie genau die neue Strategische Reserve ausgestaltet sein wird, ist noch unklar, da der Beschluss der Europäischen Kommission
-noch nicht im Beihilfegregister veröffentlicht wurde &lt;sup id="fnref1:3">&lt;a href="#fn:3" class="footnote-ref" role="doc-noteref">3&lt;/a>&lt;/sup> &lt;sup id="fnref:4">&lt;a href="#fn:4" class="footnote-ref" role="doc-noteref">4&lt;/a>&lt;/sup>.&lt;/p></description></item><item><title>Frankreich</title><link>/themen/kapazitaetsmechanismen/laenderuebersicht/fr/</link><pubDate>Mon, 28 Jul 2025 13:02:27 +0200</pubDate><guid>/themen/kapazitaetsmechanismen/laenderuebersicht/fr/</guid><description>&lt;br>
+(gezielte Kapazitätszahlungen) gelten noch.&lt;/p></description></item><item><title>Frankreich</title><link>/themen/kapazitaetsmechanismen/laenderuebersicht/fr/</link><pubDate>Mon, 28 Jul 2025 13:02:27 +0200</pubDate><guid>/themen/kapazitaetsmechanismen/laenderuebersicht/fr/</guid><description>&lt;br>
 &lt;div
 class="flex px-4 py-3 rounded-md bg-primary-100 dark:bg-primary-900"
 >
@@ -154,22 +168,7 @@ style="text-decoration-line: none !important;" href="#marktweiter-kapazit%C3%A4t
 &lt;/span>
 &lt;/h2>
 &lt;p>In Belgien ist seit 2021 ein marktweiter Kapazitätsmechanismus mit zentralem Käufer aktiv &lt;sup id="fnref:1">&lt;a href="#fn:1" class="footnote-ref" role="doc-noteref">1&lt;/a>&lt;/sup>.&lt;/p></description></item><item><title>Kapazitätsmechanismen</title><link>/themen/kapazitaetsmechanismen/</link><pubDate>Thu, 10 Jul 2025 09:53:34 +0200</pubDate><guid>/themen/kapazitaetsmechanismen/</guid><description>&lt;p>Versorgungssicherheit ist heute wichtiger denn je: Steigende Anteile erneuerbarer Energien, hohe Preisvolatilität und geopolitische Risiken stellen den Strommarkt vor große Herausforderungen. Kapazitätsmechanismen können hier den &lt;a href="/wissen/markt-energy-only/">Energy-Only-Markt&lt;/a> (&lt;abbr title="Energy-Only-Markt">EOM&lt;/abbr>) ergänzen und langfristige Investitionsanreize für ausreichende Kapazitäten fördern, um eine zuverlässige Stromversorgung zu gewährleisten.&lt;/p></description></item><item><title>Ausgestaltungsfaktoren von Kapazitätsmärkten</title><link>/themen/kapazitaetsmechanismen/ausgestaltungsfaktoren/</link><pubDate>Thu, 10 Jul 2025 09:52:11 +0200</pubDate><guid>/themen/kapazitaetsmechanismen/ausgestaltungsfaktoren/</guid><description>&lt;p>Kapazitätsmechanismen sind komplexe Instrumente zur Gewährleistung der Versorgungssicherheit in Strommärkten. Sie bestehen aus einer Vielzahl ineinandergreifender Elemente, deren Ausgestaltung erheblich variiert. Diese Seite bietet einen systematischen Überblick über zentrale Gestaltungsaspekte wie das &lt;a href="#auktionsdesign">Auktionsdesign&lt;/a>, die &lt;a href="#kapazit%c3%a4tsdefinition">Definition und Zertifizierung von Kapazität&lt;/a>, &lt;a href="#derating">Derating-Faktoren&lt;/a> sowie &lt;a href="#vertragsparameter">vertragliche Rahmenbedingungen&lt;/a>. Darüber hinaus werden Fragen der &lt;a href="#verguetungsstruktur">Vergütungsstruktur&lt;/a>, &lt;a href="#kostenallokation">Kostenallokation&lt;/a> und &lt;a href="#governance">institutionellen Zuständigkeiten&lt;/a> beleuchtet. Anhand konkreter Beispiele aus europäischen Ländern werden unterschiedliche Mechanismendesigns dargestellt, um ein besseres Verständnis für deren Aufbau, Funktionen und praktische Umsetzung zu ermöglichen.&lt;/p></description></item><item><title>Erfolgsfaktoren von Kapazitätsmechanismen</title><link>/themen/kapazitaetsmechanismen/erfolgsfaktoren_von_kms/</link><pubDate>Thu, 10 Jul 2025 09:52:11 +0200</pubDate><guid>/themen/kapazitaetsmechanismen/erfolgsfaktoren_von_kms/</guid><description>&lt;p>Was macht einen Kapazitätsmechanismus erfolgreich?
-Damit Strom auch in Zukunft sicher und bezahlbar bleibt, braucht es geeignete Anreize und Strukturen im Energiesystem. Kapazitätsmechanismen spielen dabei eine zentrale Rolle. Sie helfen, systemische Knappheiten zu adressieren – sei es durch fehlende Erzeugungskapazität zu Spitzenzeiten oder durch einen Mangel an verfügbarer Energie über längere Zeiträume. Welche Aspekte dabei entscheidend sind, zeigt dieser Beitrag.&lt;/p></description></item><item><title>Schlussfolgerungen</title><link>/themen/kapazitaetsmechanismen/schlussfolgerungen/</link><pubDate>Thu, 10 Jul 2025 09:52:11 +0200</pubDate><guid>/themen/kapazitaetsmechanismen/schlussfolgerungen/</guid><description>&lt;p>Diese Seite zieht Schlussfolgerungen zur Ausgestaltung von Kapazitätsmechanismen auf Basis zentraler Analysefelder: Investitions- und Verfügbarkeitsanreize, Effizienz und Systemkosten, Marktverzerrungen, Klima- und Technologieneutralität sowie europäische Wechselwirkungen. Sie diskutiert, wie das Missing-Money-Problem adressiert werden kann und welche Anforderungen sich daraus für Vertragslaufzeiten, Auktionsdesign und Sekundärmärkte ergeben. Die Bewertung betont, dass Kapazitätsmechanismen differenziert und kontextabhängig eingesetzt werden sollten, um Versorgungssicherheit und Marktstabilität effizient zu sichern.&lt;/p></description></item><item><title>Sind die Voraussetzungen derzeit, historisch und in der absehbaren Zukunft hinreichend erfüllt?</title><link>/themen/kapazitaetsmechanismen/warum/analyse_der_voraussetzungen/</link><pubDate>Thu, 10 Jul 2025 09:49:49 +0200</pubDate><guid>/themen/kapazitaetsmechanismen/warum/analyse_der_voraussetzungen/</guid><description>&lt;br>
-&lt;div
-class="flex px-4 py-3 rounded-md bg-primary-100 dark:bg-primary-900"
->
-&lt;span
-class="text-primary-400 ltr:pr-3 rtl:pl-3 flex items-center"
->
-&lt;span class="relative block icon">
-&lt;svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">&lt;path fill="currentColor" d="M506.3 417l-213.3-364c-16.33-28-57.54-28-73.98 0l-213.2 364C-10.59 444.9 9.849 480 42.74 480h426.6C502.1 480 522.6 445 506.3 417zM232 168c0-13.25 10.75-24 24-24S280 154.8 280 168v128c0 13.25-10.75 24-23.1 24S232 309.3 232 296V168zM256 416c-17.36 0-31.44-14.08-31.44-31.44c0-17.36 14.07-31.44 31.44-31.44s31.44 14.08 31.44 31.44C287.4 401.9 273.4 416 256 416z"/>&lt;/svg>
-&lt;/span>
-&lt;/span>
-&lt;span
-class="dark:text-neutral-300"
->Wir arbeiten gerade an diesem Artikel. Informationen können unvollständig oder teilweise inkorrekt sein. Fehler oder fehlende Details kannst Du direkt per &lt;a href="https://github.com/ait-energy/en.ergie.at/issues" target="_blank">GitHub Issue melden&lt;/a>.&lt;/span>
-&lt;/div>
-&lt;p>Im folgenden Abschnitt wird evaluiert, ob die Voraussetzungen eines reinen &lt;a href="/wissen/markt-energy-only/">Energy-Only-Markt&lt;/a> (&lt;abbr title="Energy-Only-Markt">EOM&lt;/abbr>) aktuell und in der absehbaren Zukunft gegeben sind.&lt;/p></description></item><item><title>Vorraussetzungen eines reinen Energy Only Marktes</title><link>/themen/kapazitaetsmechanismen/warum/voraussetzung_eines_eom/</link><pubDate>Thu, 10 Jul 2025 09:49:49 +0200</pubDate><guid>/themen/kapazitaetsmechanismen/warum/voraussetzung_eines_eom/</guid><description>&lt;p>Ein reiner &lt;a href="/wissen/markt-energy-only/">Energy-Only-Markt&lt;/a> (EOM) kann Versorgungssicherheit gewährleisten – jedoch nur, wenn zentrale Marktbedingungen erfüllt sind. Diese Seite analysiert, welche ökonomischen Voraussetzungen bestehen müssen, damit Investitionen allein durch Marktpreise ausgelöst werden: vollkommener Wettbewerb, ausreichende Planungssicherheit sowie die Möglichkeit zur Bildung von Knappheitspreisen. Die theoretischen Grundlagen werden praxisnah eingeordnet und bewertet.&lt;/p></description></item><item><title>Warum könnten Kapazitätsmechanismen notwendig sein?</title><link>/themen/kapazitaetsmechanismen/warum/</link><pubDate>Thu, 10 Jul 2025 09:49:49 +0200</pubDate><guid>/themen/kapazitaetsmechanismen/warum/</guid><description>&lt;p>&lt;a href="/wissen/markt-energy-only/">Energy-Only-Märkte&lt;/a> (EOM) basieren auf der Annahme, dass Versorgungssicherheit allein durch freie Preisbildung und daraus resultierende Investitionsanreize gewährleistet werden kann. Doch wie realistisch ist diese Annahme in der Praxis? Die folgenden Abschnitte erläutern zunächst, welche Voraussetzungen hierfür erfüllt sein müssten – und analysieren anschließend, in welchem Maße diese Bedingungen heute und zukünftig tatsächlich bestehen.&lt;/p></description></item><item><title>Deutschland</title><link>/themen/kapazitaetsmechanismen/laenderuebersicht/de/</link><pubDate>Thu, 10 Jul 2025 09:47:40 +0200</pubDate><guid>/themen/kapazitaetsmechanismen/laenderuebersicht/de/</guid><description>&lt;br>
+Damit Strom auch in Zukunft sicher und bezahlbar bleibt, braucht es geeignete Anreize und Strukturen im Energiesystem. Kapazitätsmechanismen spielen dabei eine zentrale Rolle. Sie helfen, systemische Knappheiten zu adressieren – sei es durch fehlende Erzeugungskapazität zu Spitzenzeiten oder durch einen Mangel an verfügbarer Energie über längere Zeiträume. Welche Aspekte dabei entscheidend sind, zeigt dieser Beitrag.&lt;/p></description></item><item><title>Schlussfolgerungen</title><link>/themen/kapazitaetsmechanismen/schlussfolgerungen/</link><pubDate>Thu, 10 Jul 2025 09:52:11 +0200</pubDate><guid>/themen/kapazitaetsmechanismen/schlussfolgerungen/</guid><description>&lt;p>Diese Seite zieht Schlussfolgerungen zur Ausgestaltung von Kapazitätsmechanismen auf Basis zentraler Analysefelder: Investitions- und Verfügbarkeitsanreize, Effizienz und Systemkosten, Marktverzerrungen, Klima- und Technologieneutralität sowie europäische Wechselwirkungen. Sie diskutiert, wie das Missing-Money-Problem adressiert werden kann und welche Anforderungen sich daraus für Vertragslaufzeiten, Auktionsdesign und Sekundärmärkte ergeben. Die Bewertung betont, dass Kapazitätsmechanismen differenziert und kontextabhängig eingesetzt werden sollten, um Versorgungssicherheit und Marktstabilität effizient zu sichern.&lt;/p></description></item><item><title>Vorraussetzungen eines reinen Energy Only Marktes</title><link>/themen/kapazitaetsmechanismen/warum/voraussetzung_eines_eom/</link><pubDate>Thu, 10 Jul 2025 09:49:49 +0200</pubDate><guid>/themen/kapazitaetsmechanismen/warum/voraussetzung_eines_eom/</guid><description>&lt;p>Ein reiner &lt;a href="/wissen/markt-energy-only/">Energy-Only-Markt&lt;/a> (EOM) kann Versorgungssicherheit gewährleisten – jedoch nur, wenn zentrale Marktbedingungen erfüllt sind. Diese Seite analysiert, welche ökonomischen Voraussetzungen bestehen müssen, damit Investitionen allein durch Marktpreise ausgelöst werden: vollkommener Wettbewerb, ausreichende Planungssicherheit sowie die Möglichkeit zur Bildung von Knappheitspreisen. Die theoretischen Grundlagen werden praxisnah eingeordnet und bewertet.&lt;/p></description></item><item><title>Warum könnten Kapazitätsmechanismen notwendig sein?</title><link>/themen/kapazitaetsmechanismen/warum/</link><pubDate>Thu, 10 Jul 2025 09:49:49 +0200</pubDate><guid>/themen/kapazitaetsmechanismen/warum/</guid><description>&lt;p>&lt;a href="/wissen/markt-energy-only/">Energy-Only-Märkte&lt;/a> (EOM) basieren auf der Annahme, dass Versorgungssicherheit allein durch freie Preisbildung und daraus resultierende Investitionsanreize gewährleistet werden kann. Doch wie realistisch ist diese Annahme in der Praxis? Die folgenden Abschnitte erläutern zunächst, welche Voraussetzungen hierfür erfüllt sein müssten – und analysieren anschließend, in welchem Maße diese Bedingungen heute und zukünftig tatsächlich bestehen.&lt;/p></description></item><item><title>Deutschland</title><link>/themen/kapazitaetsmechanismen/laenderuebersicht/de/</link><pubDate>Thu, 10 Jul 2025 09:47:40 +0200</pubDate><guid>/themen/kapazitaetsmechanismen/laenderuebersicht/de/</guid><description>&lt;br>
 &lt;div
 class="flex px-4 py-3 rounded-md bg-primary-100 dark:bg-primary-900"
 >
