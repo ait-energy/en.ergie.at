@@ -1,6 +1,6 @@
 ---
 title: "Die Ordnung der Transformation. Versorgungssicherheit im Strommarkt."
-type: Studie
+type: literature
 literature: [Studie, Kapazitätsmechanismen]
 authors: [dkrainer]
 
