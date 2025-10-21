@@ -14,8 +14,7 @@ Wir arbeiten gerade an diesem Artikel. Informationen können unvollständig oder
 Die Strategische Reserve in Schweden war seit dem Jahr 2003 aktiv[^3] und ist mit 15.&nbsp;März 2025 ausgelaufen[^Svenska_CM].
 Ende Juli 2025 hat die Europäische Kommission eine neue Strategische Reserve um insgesamt 300 Mio.&nbsp;€ genehmigt, die
 bis 2035 bestehen wird und allen Erzeugungsanlagen, Speichern und steuerbaren Lasten offen steht [^EC_Pressemitteilung_2025].
-Wie genau die neue Strategische Reserve ausgestaltet sein wird, ist noch unklar, da der Beschluss der Europäischen Kommission
-noch nicht im Beihilfegregister veröffentlicht wurde [^EC_Pressemitteilung_2025] [^SA.112968].
+Die erste Ausschreibung für den Winter 2025/26 fand im Oktober 2025 statt, blieb jedoch erfolglos, da sich lediglich sechs Anlagen präqualifizieren ließen und die Gebote aller Anbieter über der festgelegten Gebotsobergrenze lagen [^Reuters] [^Newsroom].
 
 Bereits 2023 erklärte Svenska kraftnät, dass langfristig der Bedarf für einen Kapazitätsmechanismus gesehen wird und sprach
 sich für die Einführung eines marktweiten Kapazitätsmechanismus aus [^Svenska_CM], wobei als Übergangslösung bis zur Genehmigung
@@ -24,7 +23,22 @@ Der Kapazitätsmechanismus soll als zentraler Kapazitätsmarkt ausgestaltet werd
 Ob die mit Juli 2025 eingeführte Strategische Reserve in Schweden als Übergangslösung bis zur Einführung dieses Kapazitätsmarktes fungieren soll,
 oder ob nun doch auf einen Kapazitätsmarkt verzichtet wird, ist noch unklar.
 
-## Strategische Reserve
+## Strategische Reserve (2025 - 2035)
+### Ausschreibung
+
+Die strategische Reserve wird jährlich für den Zeitraum vom 16. November bis 15. März (Lieferperiode) beschafft. Bei Einjahresverträgen (eine Lieferperiode) erfolgt die Beschaffung im selben Jahr, während sie bei Mehrjahresverträgen (zwei bis fünf Lieferperioden) ein bis zwei Jahre im Voraus durchgeführt wird. Der schwedische <abbr title="Übertragungsnetzbetreiber">ÜNB</abbr> Svenska kraftnät führt getrennte Ausschreibungen für jährliche und mehrjährige Verträge durch.
+Die ausgeschriebene Kapazität wird von Svenska kraftnät festgelegt und wird jährlich angepasst. Für den Fall, dass im neuesten <abbr title="European Resource Adequacy Assessment">ERAA</abbr> keine Versorgungsengpässe für einen Lieferzeitraum aufscheinen, ist das Nachfrageniveau für diesen Lieferzeitraum auf null festzusetzen.  Anlagen, welche erfolgreich an einer Ausschreibung teilnehmen, müssen für die Dauer der Vertragslaufzeit außerhalb des Strommarktes gehalten werden [^SA.112968].
+
+
+### Vergütung
+Im Rahmen der Strategischen Reserve erhalten die Begünstigten eine Verfügbarkeitsvergütung, die dazu dient, sie für das Vorhalten ihrer Einheit außerhalb des Marktes und für die Bereitstellung zur Aktivierung im Rahmen der strategischen Reserve zu entschädigen.
+Daher wird die Verfügbarkeitsvergütung unabhängig von der Anzahl der Aktivierungen der strategischen Reserve an die Begünstigten gezahlt.
+Zusätzlich zur Verfügbarkeitsvergütung erhalten die Begünstigten im Falle einer Aktivierung eine feste Zahlung für jede Aktivierung sowie eine variable Zahlung für jede im Aktivierungsfall bereitgestellte MWh [^SA.112968].
+
+### Teilnahme
+Die Teilnahme an der strategischen Reserve steht allen Erzeugungsanlagen, Speichern und steuerbaren Lasten offen, die in Schweden ansässig sind. Sowohl bestehende als auch neue Kapazitäten können teilnehmen, welche die technischen Anforderungen (Emissionsgrenzwerte, Anfahrtszeiten und Verfügbarkeit) erfüllen. Neue und bestehende, fossile Kapazitäten können nur an Ausschreibungen für 1-Jahresverträge teilnehmen, um Investitionsanzeize in neue, fossile Kapazitäten zu vermeiden und gleichzeitig Anreize für die Umstellung bestehender Anlagen auf CO2-neutrale Brennstoffe zu setzen [^SA.112968]. 
+
+## Strategische Reserve (2003 - 2025)
 
 ### Ausschreibung
 
@@ -56,3 +70,7 @@ An der strategischen Reserve können sowohl Stromerzeuger, die über Backup-Kraf
 [^EC_Pressemitteilung_2025]: [Kommission genehmigt Schwedens mit 300 Mio. EUR ausgestattete strategische Reserve zur Gewährleistung der Stromversorgungssicherheit<br>(ec.europa.eu)](https://ec.europa.eu/commission/presscorner/detail/de/ip_25_1870)
 
 [^SA.112968]: [SA.112968 Electricity Strategic Reserve<br>(competition-cases.ec.europa.eu)](https://competition-cases.ec.europa.eu/cases/SA.112968)
+
+[^Reuters]: [Sweden fails to secure strategic power reserve for this winter<br>(reuters.com)](https://www.reuters.com/sustainability/boards-policy-regulation/sweden-fails-secure-strategic-power-reserve-this-winter-2025-10-07/)
+
+[^Newsroom]: [No electricity reserve this winter – power outages threaten Sweden<br>(europeannewsroom.com)](https://europeannewsroom.com/no-electricity-reserve-this-winter-power-outages-threaten-sweden/)
