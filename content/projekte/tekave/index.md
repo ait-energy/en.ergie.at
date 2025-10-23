@@ -121,10 +121,12 @@ Kapazitätsmärkte</a><br>
 {{< timeline >}}
 
 <!-- =============================================================================================================== -->
+
 {{< timelineItem icon="star" header="Projektstart" badge="01.03.2024" >}}
 {{< /timelineItem >}}
 
 <!-- =============================================================================================================== -->
+
 {{< timelineItem icon="star" header="Konsortialmeeting" badge="25.04.2025" >}}
 Konsortialmeeting mit dem Projektteam am AIT in Wien
 {{< gallery >}}
@@ -132,8 +134,8 @@ Konsortialmeeting mit dem Projektteam am AIT in Wien
 {{< /gallery >}}
 {{< /timelineItem >}}
 
-<!-- =============================================================================================================== --> 
 <!-- =============================================================================================================== -->
+
 {{< timelineItem icon="star" header="Stakeholder Workshop" subheader="Kapazitätsmechanismen in Österreich und Europa" badge="20.08.2025" >}}
 
 <u>Im Workshop behandelte Themen:</u><br>
@@ -148,6 +150,28 @@ Konsortialmeeting mit dem Projektteam am AIT in Wien
 </ul>
 <u>Präsentation</u>: <a href="assets/TeKaVe_Stakeholder_Workshop_final.pdf" target="_blank">Stakeholder Workshop</a> <br>
 <u>Präsentation</u>: <a href="assets/TeKaVe_Stakeholder_Workshop_WE.pdf" target="_blank">Wien Energie</a>
+{{< /timelineItem >}}
+
+<!-- =============================================================================================================== -->
+
+{{< timelineItem icon="star" header="Stakeholder Bericht" badge="23.10.2025" >}}
+<a href="deliverables/bericht.pdf" target="_blank">Der finale Stakeholder Bericht ist jetzt online</a> und fasst die
+Kernaussagen des Projekts zusammen:<br>
+{{< gallery >}}
+    <a href="deliverables/bericht.pdf" target="_blank">
+        <img src="assets/bericht.png" class="grid-w50" alt="Stakeholder Bericht"/>
+    </a>
+{{< /gallery >}}
+{{< /timelineItem >}}
+
+<!-- =============================================================================================================== -->
+
+{{< timelineItem icon="star" header="Wien Energie Gastbeitrag" badge="23.10.2025" >}}
+Der Gastbeitrag
+<a href="https://positionen.wienenergie.at/blog/gastbeitrag-technologieneutrale-kapazitaetsmechanismen-fuer-eine-versorgungssichere-energiezukunft/" target="_blank">
+    "Technologieneutrale Kapazitätsmechanismen für eine versorgungssichere Energiezukunft"
+</a>,
+der das Projekt TeKaVe zusammenfasst, ist online verfügbar.
 {{< /timelineItem >}}
 
 <!-- =============================================================================================================== -->
