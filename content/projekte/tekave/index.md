@@ -168,7 +168,7 @@ Kernaussagen des Projekts zusammen:<br>
 
 {{< timelineItem icon="star" header="Wien Energie Gastbeitrag" badge="23.10.2025" >}}
 Der Gastbeitrag
-<a href="deliverables/bericht.pdf" target="_blank">
+<a href="https://positionen.wienenergie.at/blog/gastbeitrag-technologieneutrale-kapazitaetsmechanismen-fuer-eine-versorgungssichere-energiezukunft/" target="_blank">
     "Technologieneutrale Kapazitätsmechanismen für eine versorgungssichere Energiezukunft"
 </a>,
 der das Projekt TeKaVe zusammenfasst, ist online verfügbar.
