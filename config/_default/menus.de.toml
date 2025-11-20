@@ -69,6 +69,13 @@
   pageRef = "daten"
   weight = 41
 
+[[main]]
+  name = "Datenmonitor"
+  identifier = "datenmonitor"
+  parent = "Daten"
+  pageRef = "daten/monitor"
+  weight = 42
+
 # ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ #
 # >> main >> PROJEKTE                                                          #
 # ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ #
