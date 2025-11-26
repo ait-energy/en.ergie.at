@@ -73,8 +73,6 @@ Die Projektziele werden mithilfe von vier dedizierten Arbeitspaketen innerhalb d
   <li>Qualitätssicherung</li>
   <li>Kommunikation und Vermarktung der Projektergebnisse sowie Diskussion der Zwischen-/Endergebnisse mit relevanten Stakeholdern</li>
 </ul>
-
-<u>Deliverables</u><br>
 {{< /timelineItem >}}
 <!-- =============================================================================================================== -->
 {{< timelineItem icon="code" header="Arbeitspaket 2" badge="Lead: AIT" subheader="Qualitative Analyse" >}}
@@ -85,7 +83,11 @@ Die Projektziele werden mithilfe von vier dedizierten Arbeitspaketen innerhalb d
   <li>Formulierung von Stakeholder- und Politikempfehlungen (<u>Lead: EI-JKU</u>)</li>
 </ul>
 
-Die Ergebnisse dieses Arbeitspakets sind auf dieser Webseite unter <mark>Themen/Kapazitätsmechanismen</mark> verfügbar.
+Die Ergebnisse dieses Arbeitspakets sind auf dieser Webseite unter <mark>Themen/Kapazitätsmechanismen</mark> verfügbar.<br><br>
+
+<u>Deliverables</u><br>
+<mark>D2.1</mark> <a href="deliverables/d2_1.pdf">Vorhandene Ansätze zur Gewährleistung der Versorgungssicherheit in Europa</a><br>
+<mark>D2.2</mark> <a href="deliverables/bericht.pdf">Stakeholder:innen Report</a><br>
 {{< /timelineItem >}}
 <!-- =============================================================================================================== -->
 {{< timelineItem icon="code" header="Arbeitspaket 3" badge="Lead: AIT" subheader="Marktmodellierung" >}}
@@ -97,6 +99,8 @@ Die Ergebnisse dieses Arbeitspakets sind auf dieser Webseite unter <mark>Themen/
 </ul>
 
 <u>Deliverables</u><br>
+<mark>D3.1</mark> <a href="deliverables/d3_1.pdf">Modellkopplungs Report</a><br>
+<mark>D3.2</mark> <a href="deliverables/d3_2.pdf">Marktanalyse Report</a><br>
 {{< /timelineItem >}}
 <!-- =============================================================================================================== -->
 {{< timelineItem icon="code" header="Arbeitspaket 4" badge="Lead: EI-JKU" subheader="Regulatorische Analyse" >}}
@@ -108,9 +112,8 @@ Die Ergebnisse dieses Arbeitspakets sind auf dieser Webseite unter <mark>Themen/
 </ul>
 
 <u>Deliverables</u><br>
-<mark>D4.1</mark> <a href="assets/Deliverable_4.1_inkl._Präsentation_final.pdf">Regulatorische Rahmenbedingungen für 
-Kapazitätsmärkte</a><br>
-<mark>D4.2</mark> <a href="assets/Deliverable_4.2_final.pdf">Policy Brief</a><br>
+<mark>D4.1</mark> <a href="deliverables/d4_1.pdf">Regulatorische Rahmenbedingungen für Kapazitätsmärkte</a><br>
+<mark>D4.2</mark> <a href="deliverables/d4_2.pdf">Policy Brief</a><br>
 {{< /timelineItem >}}
 <!-- =============================================================================================================== -->
 
