@@ -44,6 +44,13 @@
   pageRef = "themen/kapazitaetsmechanismen"
   weight = 22
 
+[[main]]
+  name = "Flexibilität"
+  identifier = "themen-flex"
+  parent = "Themen"
+  pageRef = "themen/flex"
+  weight = 23
+
 # ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ #
 # >> main >> LITERATUR                                                         #
 # ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ #
