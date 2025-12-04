@@ -46,9 +46,9 @@
 
 [[main]]
   name = "Flexibilität"
-  identifier = "themen-flexibilitaet"
+  identifier = "themen-flex"
   parent = "Themen"
-  pageRef = "themen/flexibilitaet"
+  pageRef = "themen/flex"
   weight = 23
 
 # ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ #
