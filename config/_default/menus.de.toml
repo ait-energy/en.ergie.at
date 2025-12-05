@@ -44,13 +44,6 @@
   pageRef = "themen/kapazitaetsmechanismen"
   weight = 22
 
-[[main]]
-  name = "Flexibilität"
-  identifier = "themen-flex"
-  parent = "Themen"
-  pageRef = "themen/flex"
-  weight = 23
-
 # ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ #
 # >> main >> LITERATUR                                                         #
 # ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ #
@@ -68,20 +61,34 @@
   weight = 32
 
 # ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ #
-# >> main >> DATEN                                                            #
+# >> main >> TOOLS                                                             #
 # ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ #
 
 [[main]]
-  name = "Daten"
-  pageRef = "daten"
+  name = "Tools"
+  pageRef = "tools"
   weight = 41
 
 [[main]]
-  name = "Datenmonitor"
-  identifier = "datenmonitor"
-  parent = "Daten"
-  pageRef = "daten/monitor"
+  name = "EnergyFlexEval"
+  identifier = "energyflexeval"
+  parent = "Tools"
+  pageRef = "tools/energyflexeval"
   weight = 42
+
+[[main]]
+  name = "Daten Monitor"
+  identifier = "datamonitor"
+  parent = "Tools"
+  pageRef = "tools/datamonitor"
+  weight = 43
+
+[[main]]
+  name = "Heat Highway"
+  identifier = "heat_highway"
+  parent = "Tools"
+  pageRef = "tools/heat_highway"
+  weight = 44
 
 # ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ #
 # >> main >> PROJEKTE                                                          #
