@@ -27,6 +27,7 @@ iframe {
     object-fit: cover;
     margin-top: 1em;
     padding: 0.5em;
+    background-color: #ffffff;
 }
 </style>
 <div style="width: 100%; height: 55vh;">
