@@ -4,4 +4,4 @@
 
 [**Knowledge**]({{< ref "/wissen" >}}) — _insights, thematically grouped and clearly presented._  
 
-[**Data**]({{< ref "/daten" >}}) — _and everything that comes with it._
+[**Tools**]({{< ref "/tools" >}}) — _and everything that comes with it._

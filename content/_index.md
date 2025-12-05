@@ -6,4 +6,4 @@ Daten, Fakten, Einblicke und Wissenswertes rund um Energie in Österreich.
 
 [**Wissen**]({{< ref "/wissen" >}}) --- _und Wissenswertes, thematisch gruppiert und verständlich aufbereitet._
 
-[**Daten**]({{< ref "/daten" >}}) --- _und alles was dazugehört._
+[**Tools**]({{< ref "/tools" >}}) --- _und alles was dazugehört._
