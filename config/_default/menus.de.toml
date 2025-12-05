@@ -1,11 +1,32 @@
 # ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ #
-# >> main >> ATLAS                                                             #
+# >> main >> TOOLS                                                             #
 # ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ #
 
 [[main]]
-  name = "Atlas"
-  pageRef = "atlas"
+  name = "Tools"
+  pageRef = "tools"
   weight = 1
+
+[[main]]
+  name = "EnergyFlexEval"
+  identifier = "energyflexeval"
+  parent = "Tools"
+  pageRef = "tools/energyflexeval"
+  weight = 2
+
+[[main]]
+  name = "Datenmonitor"
+  identifier = "datamonitor"
+  parent = "Tools"
+  pageRef = "tools/datamonitor"
+  weight = 3
+
+[[main]]
+  name = "Heat Highway"
+  identifier = "heat_highway"
+  parent = "Tools"
+  pageRef = "tools/heat_highway"
+  weight = 4
 
 # ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ #
 # >> main >> WISSEN                                                            #
@@ -44,13 +65,6 @@
   pageRef = "themen/kapazitaetsmechanismen"
   weight = 22
 
-[[main]]
-  name = "Flexibilität"
-  identifier = "themen-flex"
-  parent = "Themen"
-  pageRef = "themen/flex"
-  weight = 23
-
 # ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ #
 # >> main >> LITERATUR                                                         #
 # ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ #
@@ -66,22 +80,6 @@
   parent = "Literatur"
   pageRef = "literature/kapazitätsmechanismen"
   weight = 32
-
-# ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ #
-# >> main >> DATEN                                                            #
-# ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ #
-
-[[main]]
-  name = "Daten"
-  pageRef = "daten"
-  weight = 41
-
-[[main]]
-  name = "Datenmonitor"
-  identifier = "datenmonitor"
-  parent = "Daten"
-  pageRef = "daten/monitor"
-  weight = 42
 
 # ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ #
 # >> main >> PROJEKTE                                                          #
