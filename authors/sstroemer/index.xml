@@ -1,4 +1,5 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Stefan Strömer on en.ergie.at</title><link>/authors/sstroemer/</link><description>Recent content in Stefan Strömer on en.ergie.at</description><generator>Hugo -- gohugo.io</generator><language>de</language><copyright>&amp;copy; AIT Austrian Institute of Technology GmbH</copyright><lastBuildDate>Sun, 08 Jun 2025 01:58:06 +0200</lastBuildDate><atom:link href="/authors/sstroemer/index.xml" rel="self" type="application/rss+xml"/><item><title>Flex Tool</title><link>/themen/flex/tool/</link><pubDate>Thu, 04 Dec 2025 08:59:33 +0100</pubDate><guid>/themen/flex/tool/</guid><description>&lt;style>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Stefan Strömer on en.ergie.at</title><link>/authors/sstroemer/</link><description>Recent content in Stefan Strömer on en.ergie.at</description><generator>Hugo -- gohugo.io</generator><language>de</language><copyright>&amp;copy; AIT Austrian Institute of Technology GmbH</copyright><lastBuildDate>Sun, 08 Jun 2025 01:58:06 +0200</lastBuildDate><atom:link href="/authors/sstroemer/index.xml" rel="self" type="application/rss+xml"/><item><title>Datenmonitor</title><link>/tools/datamonitor/</link><pubDate>Fri, 05 Dec 2025 13:23:06 +0100</pubDate><guid>/tools/datamonitor/</guid><description>&lt;p>Der &lt;strong>Datenmonitor&lt;/strong> bietet eine Übersicht über verschiedene Datensätze (historische, &amp;ldquo;live&amp;rdquo; und prognostizierte Daten)
+die im Zusammenhang mit dem Thema &lt;strong>Energie&lt;/strong> stehen und für &lt;strong>österreichische&lt;/strong> Anwendungen relevant sind.&lt;/p></description></item><item><title>Flex Tool</title><link>/tools/energyflexeval/</link><pubDate>Fri, 05 Dec 2025 13:23:06 +0100</pubDate><guid>/tools/energyflexeval/</guid><description>&lt;style>
 .loading-container {
 display: flex;
 align-items: center;
@@ -40,54 +41,49 @@ border-top: 1px solid rgb(41, 37, 36); /* Add a top border to separate from head
 &lt;/style>
 &lt;div class="floating-iframe-wrapper">
 &lt;iframe src="https://ies-tools.ait.ac.at/flex/?lang=de" frameborder="0" class="floating-iframe">&lt;/iframe>
-&lt;/div></description></item><item><title>Flexibilität</title><link>/themen/flex/</link><pubDate>Thu, 04 Dec 2025 08:59:33 +0100</pubDate><guid>/themen/flex/</guid><description>&lt;ol class="border-l-2 border-primary-500 dark:border-primary-300 list-none">
-&lt;li>
-&lt;div class="flex flex-start">
-&lt;div class="bg-primary-500 dark:bg-primary-300 text-neutral-50 dark:text-neutral-700 min-w-[30px] h-8 text-2xl flex items-center justify-center rounded-full -ml-12 mt-5">
-&lt;span class="relative block icon">
-&lt;svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 576 512">&lt;path fill="currentColor" d="M287.9 0C297.1 0 305.5 5.25 309.5 13.52L378.1 154.8L531.4 177.5C540.4 178.8 547.8 185.1 550.7 193.7C553.5 202.4 551.2 211.9 544.8 218.2L433.6 328.4L459.9 483.9C461.4 492.9 457.7 502.1 450.2 507.4C442.8 512.7 432.1 513.4 424.9 509.1L287.9 435.9L150.1 509.1C142.9 513.4 133.1 512.7 125.6 507.4C118.2 502.1 114.5 492.9 115.1 483.9L142.2 328.4L31.11 218.2C24.65 211.9 22.36 202.4 25.2 193.7C28.03 185.1 35.5 178.8 44.49 177.5L197.7 154.8L266.3 13.52C270.4 5.249 278.7 0 287.9 0L287.9 0zM287.9 78.95L235.4 187.2C231.9 194.3 225.1 199.3 217.3 200.5L98.98 217.9L184.9 303C190.4 308.5 192.9 316.4 191.6 324.1L171.4 443.7L276.6 387.5C283.7 383.7 292.2 383.7 299.2 387.5L404.4 443.7L384.2 324.1C382.9 316.4 385.5 308.5 391 303L476.9 217.9L358.6 200.5C350.7 199.3 343.9 194.3 340.5 187.2L287.9 78.95z"/>&lt;/svg>
-&lt;/span>
-&lt;/div>
-&lt;div class="block p-6 rounded-lg shadow-2xl min-w-full ml-6 mb-10 break-words">
-&lt;div class="flex justify-between">
-&lt;h2 class="mt-0">
-Wirtschaftlichkeitsbewertung
-&lt;/h2>
-&lt;h3 class="">
-&lt;span class="flex" style="cursor: pointer;">
-&lt;span class="rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400">
-Tool
-&lt;/span>
-&lt;/span>
-&lt;/h3>
-&lt;/div>
-&lt;h4 class="mt-0">
-AIT Flex Tool
-&lt;/h4>
-&lt;div class="mb-6">
-Entdecken Sie die Zukunft der Energieoptimierung mit unserem innovativen Online-Bewertungstool! Ermitteln Sie schnell und einfach die optimale Vermarktung Ihrer Flexibilität: PV-Anlagen, Batteriespeicher, Wärmepumpen und mehr - im Einsatz auf verschiedenen Märkten oder zur Eigenverbrauchsdeckung. Mit präzisen Analysen können Sie Ihre Energieeffizienz steigern und die CO2 Emissionen Ihrer Anlage reduzieren. Profitieren Sie von einer einfachen, transparenten und nachhaltigen Lösung!
-&lt;br>&lt;br>
-&lt;style>
-.\!rounded-md {
-display: inline-block;
-width: 100%;
-text-align: center;
+&lt;/div></description></item><item><title>Flex Tool</title><link>/tools/heat_highway/</link><pubDate>Fri, 05 Dec 2025 13:23:06 +0100</pubDate><guid>/tools/heat_highway/</guid><description>&lt;style>
+.loading-container {
+display: flex;
+align-items: center;
+}
+.spinner {
+border: 4px solid #f3f3f3; /* Light grey */
+border-top: 4px solid #3498db; /* Blue */
+border-radius: 50%;
+width: 2em;
+height: 2em;
+margin-left: 2em;
+animation: spin 1s linear infinite;
+}
+@keyframes spin {
+0% { transform: rotate(0deg); }
+100% { transform: rotate(360deg); }
 }
 &lt;/style>
-&lt;a
-class="!rounded-md bg-primary-600 px-4 py-2 !text-neutral !no-underline hover:!bg-primary-500 dark:bg-primary-800 dark:hover:!bg-primary-700"
-href="tool/"
-target="_self"
-role="button"
->
-Flex Tool jetzt starten!
-&lt;/a>
+&lt;div class="loading-container">
+&lt;span>Das AIT Flex Tool lädt ...&lt;/span>
+&lt;div class="spinner">&lt;/div>
 &lt;/div>
-&lt;/div>
-&lt;/div>
-&lt;/li>
-&lt;/ol></description></item><item><title>Datenmonitor</title><link>/daten/monitor/</link><pubDate>Wed, 26 Nov 2025 13:31:11 +0100</pubDate><guid>/daten/monitor/</guid><description>&lt;p>Der &lt;strong>Datenmonitor&lt;/strong> bietet eine Übersicht über verschiedene Datensätze (historische, &amp;ldquo;live&amp;rdquo; und prognostizierte Daten)
-die im Zusammenhang mit dem Thema &lt;strong>Energie&lt;/strong> stehen und für &lt;strong>österreichische&lt;/strong> Anwendungen relevant sind.&lt;/p></description></item><item><title>TeKaVe</title><link>/projekte/tekave/</link><pubDate>Wed, 26 Nov 2025 12:02:53 +0100</pubDate><guid>/projekte/tekave/</guid><description>&lt;p>Die Kernfrage des Projekts &lt;em>TeKaVe - Technologieneutrale Kapazitätsmechanismen für eine Versorgungssichere Energiezukunft&lt;/em>
+&lt;style>
+.floating-iframe-wrapper {
+position: fixed; /* Position the wrapper fixed relative to the viewport */
+top: 53px; /* Stick it to the top of the page */
+left: 0; /* Align it to the left */
+width: 100vw; /* Make it span the full width of the viewport */
+height: 100vh; /* Make it span the full height of the viewport */
+z-index: 99; /* Ensure it floats above other content, but below the header at z-index 100 */
+overflow: hidden; /* Hide anything that exceeds the iframe's boundaries */
+}
+.floating-iframe {
+width: 100%; /* Make iframe take the full width */
+height: 100%; /* Make iframe take the full height */
+border: none; /* Remove iframe border */
+border-top: 1px solid rgb(41, 37, 36); /* Add a top border to separate from header */
+}
+&lt;/style>
+&lt;div class="floating-iframe-wrapper">
+&lt;iframe src="https://ies-apps.ait.ac.at/hhw#results" frameborder="0" class="floating-iframe">&lt;/iframe>
+&lt;/div></description></item><item><title>TeKaVe</title><link>/projekte/tekave/</link><pubDate>Wed, 26 Nov 2025 12:02:53 +0100</pubDate><guid>/projekte/tekave/</guid><description>&lt;p>Die Kernfrage des Projekts &lt;em>TeKaVe - Technologieneutrale Kapazitätsmechanismen für eine Versorgungssichere Energiezukunft&lt;/em>
 betrifft, ob das Marktsystem in Österreich in seiner derzeitigen Form (Energy-Only-Markt) im Stande ist, zur gleichen Zeit ein versorgungssicheres Energiesystem aufrecht zu erhalten und die Dekarbonisierungsziele Österreichs zu erreichen.&lt;/p></description></item><item><title>Technologieneutrale Kapazitätsmechanismen für eine versorgungssichere Energiezukunft</title><link>/literature/2025/10/ait/</link><pubDate>Thu, 23 Oct 2025 16:36:15 +0200</pubDate><guid>/literature/2025/10/ait/</guid><description>&lt;h2 class="relative group">Überblick
 &lt;div id="%C3%BCberblick" class="anchor">&lt;/div>
 &lt;span
