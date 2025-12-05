@@ -1,11 +1,32 @@
 # ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ #
-# >> main >> ATLAS                                                             #
+# >> main >> TOOLS                                                            #
 # ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ #
 
 [[main]]
-  name = "Atlas"
-  pageRef = "atlas"
-  weight = 11
+  name = "Tools"
+  pageRef = "tools"
+  weight = 1
+
+[[main]]
+  name = "EnergyFlexEval"
+  identifier = "energyflexeval"
+  parent = "Tools"
+  pageRef = "tools/energyflexeval"
+  weight = 2
+
+[[main]]
+  name = "Datamonitor"
+  identifier = "datamonitor"
+  parent = "Tools"
+  pageRef = "tools/datamonitor"
+  weight = 3
+
+[[main]]
+  name = "Heat Highway"
+  identifier = "heat_highway"
+  parent = "Tools"
+  pageRef = "tools/heat_highway"
+  weight = 4
 
 # ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ #
 # >> main >> WISSEN                                                            #
@@ -38,34 +59,8 @@
   weight = 21
 
 # ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ #
-# >> main >> TOOLS                                                            #
+# >> main >> LITERATUR                                                         #
 # ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ #
-
-[[main]]
-  name = "Tools"
-  pageRef = "tools"
-  weight = 41
-
-[[main]]
-  name = "EnergyFlexEval"
-  identifier = "energyflexeval"
-  parent = "Tools"
-  pageRef = "tools/energyflexeval"
-  weight = 42
-
-[[main]]
-  name = "Data Monitor"
-  identifier = "datamonitor"
-  parent = "Tools"
-  pageRef = "tools/datamonitor"
-  weight = 43
-
-[[main]]
-  name = "Heat Highway"
-  identifier = "heat_highway"
-  parent = "Tools"
-  pageRef = "tools/heat_highway"
-  weight = 44
 
 # ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ #
 # >> main >> PROJEKTE                                                          #
