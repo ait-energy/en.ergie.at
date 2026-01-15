@@ -1,4 +1,46 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Stefan Strömer on en.ergie.at</title><link>/authors/sstroemer/</link><description>Recent content in Stefan Strömer on en.ergie.at</description><generator>Hugo -- gohugo.io</generator><language>de</language><copyright>&amp;copy; AIT Austrian Institute of Technology GmbH</copyright><lastBuildDate>Sun, 08 Jun 2025 01:58:06 +0200</lastBuildDate><atom:link href="/authors/sstroemer/index.xml" rel="self" type="application/rss+xml"/><item><title>Datenmonitor</title><link>/tools/datamonitor/</link><pubDate>Fri, 05 Dec 2025 13:23:06 +0100</pubDate><guid>/tools/datamonitor/</guid><description>&lt;p>Der &lt;strong>Datenmonitor&lt;/strong> bietet eine Übersicht über verschiedene Datensätze (historische, &amp;ldquo;live&amp;rdquo; und prognostizierte Daten)
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Stefan Strömer on en.ergie.at</title><link>/authors/sstroemer/</link><description>Recent content in Stefan Strömer on en.ergie.at</description><generator>Hugo -- gohugo.io</generator><language>de</language><copyright>&amp;copy; AIT Austrian Institute of Technology GmbH</copyright><lastBuildDate>Sun, 08 Jun 2025 01:58:06 +0200</lastBuildDate><atom:link href="/authors/sstroemer/index.xml" rel="self" type="application/rss+xml"/><item><title>Heat Highway</title><link>/tools/heat_highway/</link><pubDate>Sat, 06 Dec 2025 20:11:26 +0100</pubDate><guid>/tools/heat_highway/</guid><description>&lt;style>
+.loading-container {
+display: flex;
+align-items: center;
+}
+.spinner {
+border: 4px solid #f3f3f3; /* Light grey */
+border-top: 4px solid #3498db; /* Blue */
+border-radius: 50%;
+width: 2em;
+height: 2em;
+margin-left: 2em;
+animation: spin 1s linear infinite;
+}
+@keyframes spin {
+0% { transform: rotate(0deg); }
+100% { transform: rotate(360deg); }
+}
+&lt;/style>
+&lt;div class="loading-container">
+&lt;span>Das AIT Flex Tool lädt ...&lt;/span>
+&lt;div class="spinner">&lt;/div>
+&lt;/div>
+&lt;style>
+.floating-iframe-wrapper {
+position: fixed; /* Position the wrapper fixed relative to the viewport */
+top: 53px; /* Stick it to the top of the page */
+left: 0; /* Align it to the left */
+width: 100vw; /* Make it span the full width of the viewport */
+height: 100vh; /* Make it span the full height of the viewport */
+z-index: 99; /* Ensure it floats above other content, but below the header at z-index 100 */
+overflow: hidden; /* Hide anything that exceeds the iframe's boundaries */
+}
+.floating-iframe {
+width: 100%; /* Make iframe take the full width */
+height: 100%; /* Make iframe take the full height */
+border: none; /* Remove iframe border */
+border-top: 1px solid rgb(41, 37, 36); /* Add a top border to separate from header */
+}
+&lt;/style>
+&lt;div class="floating-iframe-wrapper">
+&lt;iframe src="https://ies-apps.ait.ac.at/hhw#results" frameborder="0" class="floating-iframe">&lt;/iframe>
+&lt;/div></description></item><item><title>Datenmonitor</title><link>/tools/datamonitor/</link><pubDate>Fri, 05 Dec 2025 13:23:06 +0100</pubDate><guid>/tools/datamonitor/</guid><description>&lt;p>Der &lt;strong>Datenmonitor&lt;/strong> bietet eine Übersicht über verschiedene Datensätze (historische, &amp;ldquo;live&amp;rdquo; und prognostizierte Daten)
 die im Zusammenhang mit dem Thema &lt;strong>Energie&lt;/strong> stehen und für &lt;strong>österreichische&lt;/strong> Anwendungen relevant sind.&lt;/p></description></item><item><title>Flex Tool</title><link>/tools/energyflexeval/</link><pubDate>Fri, 05 Dec 2025 13:23:06 +0100</pubDate><guid>/tools/energyflexeval/</guid><description>&lt;style>
 .loading-container {
 display: flex;
@@ -41,48 +83,6 @@ border-top: 1px solid rgb(41, 37, 36); /* Add a top border to separate from head
 &lt;/style>
 &lt;div class="floating-iframe-wrapper">
 &lt;iframe src="https://ies-tools.ait.ac.at/flex/?lang=de" frameborder="0" class="floating-iframe">&lt;/iframe>
-&lt;/div></description></item><item><title>Flex Tool</title><link>/tools/heat_highway/</link><pubDate>Fri, 05 Dec 2025 13:23:06 +0100</pubDate><guid>/tools/heat_highway/</guid><description>&lt;style>
-.loading-container {
-display: flex;
-align-items: center;
-}
-.spinner {
-border: 4px solid #f3f3f3; /* Light grey */
-border-top: 4px solid #3498db; /* Blue */
-border-radius: 50%;
-width: 2em;
-height: 2em;
-margin-left: 2em;
-animation: spin 1s linear infinite;
-}
-@keyframes spin {
-0% { transform: rotate(0deg); }
-100% { transform: rotate(360deg); }
-}
-&lt;/style>
-&lt;div class="loading-container">
-&lt;span>Das AIT Flex Tool lädt ...&lt;/span>
-&lt;div class="spinner">&lt;/div>
-&lt;/div>
-&lt;style>
-.floating-iframe-wrapper {
-position: fixed; /* Position the wrapper fixed relative to the viewport */
-top: 53px; /* Stick it to the top of the page */
-left: 0; /* Align it to the left */
-width: 100vw; /* Make it span the full width of the viewport */
-height: 100vh; /* Make it span the full height of the viewport */
-z-index: 99; /* Ensure it floats above other content, but below the header at z-index 100 */
-overflow: hidden; /* Hide anything that exceeds the iframe's boundaries */
-}
-.floating-iframe {
-width: 100%; /* Make iframe take the full width */
-height: 100%; /* Make iframe take the full height */
-border: none; /* Remove iframe border */
-border-top: 1px solid rgb(41, 37, 36); /* Add a top border to separate from header */
-}
-&lt;/style>
-&lt;div class="floating-iframe-wrapper">
-&lt;iframe src="https://ies-apps.ait.ac.at/hhw#results" frameborder="0" class="floating-iframe">&lt;/iframe>
 &lt;/div></description></item><item><title>TeKaVe</title><link>/projekte/tekave/</link><pubDate>Wed, 26 Nov 2025 12:02:53 +0100</pubDate><guid>/projekte/tekave/</guid><description>&lt;p>Die Kernfrage des Projekts &lt;em>TeKaVe - Technologieneutrale Kapazitätsmechanismen für eine Versorgungssichere Energiezukunft&lt;/em>
 betrifft, ob das Marktsystem in Österreich in seiner derzeitigen Form (Energy-Only-Markt) im Stande ist, zur gleichen Zeit ein versorgungssicheres Energiesystem aufrecht zu erhalten und die Dekarbonisierungsziele Österreichs zu erreichen.&lt;/p></description></item><item><title>Technologieneutrale Kapazitätsmechanismen für eine versorgungssichere Energiezukunft</title><link>/literature/2025/10/ait/</link><pubDate>Thu, 23 Oct 2025 16:36:15 +0200</pubDate><guid>/literature/2025/10/ait/</guid><description>&lt;h2 class="relative group">Überblick
 &lt;div id="%C3%BCberblick" class="anchor">&lt;/div>
