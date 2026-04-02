@@ -98,7 +98,7 @@ Die Projektziele werden mithilfe von vier dedizierten Arbeitspaketen innerhalb d
 </ul>
 
 <u>Deliverables</u><br>
-<mark>D1.1</mark> <a href="deliverables/d1.1.pdf">Data Management Plan & Projektdatenplan</a><br>
+<mark>D1.1</mark> <a href="deliverables/#">Data Management Plan & Projektdatenplan</a><br> <!-- TODO: replace # with PDF -->
 {{< /timelineItem >}}
 <!-- =============================================================================================================== -->
 
@@ -115,7 +115,7 @@ Die Projektziele werden mithilfe von vier dedizierten Arbeitspaketen innerhalb d
 </ul>
 
 <u>Deliverables</u><br>
-<mark>D2.1</mark> <a href="/deliverables/d2_1.pdf">Demonstrationsberichte</a>
+<mark>D2.1</mark> <a href="/deliverables/#">Demonstrationsberichte</a> <!-- TODO: replace # with PDF -->
 {{< /timelineItem >}}
 <!-- =============================================================================================================== -->
 
@@ -134,10 +134,10 @@ Die Projektziele werden mithilfe von vier dedizierten Arbeitspaketen innerhalb d
 </ul>
 
 <u>Deliverables</u><br>
-<mark>D3.1</mark> <a href="/deliverables/d3_1.pdf">
+<mark>D3.1</mark> <a href="/deliverables/#"> <!-- TODO: replace # with PDF -->
 Materialien und Methoden für sTES-Systeme
 </a><br>
-<mark>D3.2</mark> <a href="/deliverables/d3_2.pdf">
+<mark>D3.2</mark> <a href="/deliverables/#"> <!-- TODO: replace # with PDF -->
 Szenarien zur Übertragung von sTES-Technologien
 </a>
 {{< /timelineItem >}}
@@ -158,15 +158,15 @@ Szenarien zur Übertragung von sTES-Technologien
 </ul>
 <u>Deliverables</u><br>
 
-<mark>D4.1</mark> <a href="/deliverables/d4_1.pdf">
+<mark>D4.1</mark> <a href="/deliverables/#f"> <!-- TODO: replace # with PDF -->
 Digitaler Zwilling und Benchmarking
 </a><br>
 
-<mark>D4.2</mark> <a href="/deliverables/d4_2.pdf">
+<mark>D4.2</mark> <a href="/deliverables/#"> <!-- TODO: replace # with PDF -->
 Steuerungsstrategien für Energiesysteme
 </a><br>
 
-<mark>D4.3</mark> <a href="/deliverables/d4_3.pdf">
+<mark>D4.3</mark> <a href="/deliverables/#"> <!-- TODO: replace # with PDF -->
 Optimale Integration und Flexibilisierung von sTES-Systemen
 </a>
 {{< /timelineItem >}}
@@ -185,11 +185,11 @@ Optimale Integration und Flexibilisierung von sTES-Systemen
 </ul>
 <u>Deliverables</u><br>
 
-<mark>D5.1</mark> <a href="/deliverables/d5_1.pdf">
+<mark>D5.1</mark> <a href="/deliverables/#">  <!-- TODO: replace # with PDF -->
 Umwelt-Synergien und Optimierungspotenziale
 </a><br>
 
-<mark>D5.2</mark> <a href="/deliverables/d5_2.pdf">
+<mark>D5.2</mark> <a href="/deliverables/#"> <!-- TODO: replace # with PDF -->
 Bewertung der Umweltauswirkungen
 </a>
 {{< /timelineItem >}}
@@ -208,19 +208,19 @@ Bewertung der Umweltauswirkungen
 </ul>
 <u>Deliverables</u><br>
 
-<mark>D6.1</mark> <a href="/deliverables/d6_1.pdf">
+<mark>D6.1</mark> <a href="/deliverables/#"> <!-- TODO: replace # with PDF -->
 Verwertungs- und IPR-Managementplan
 </a><br>
 
-<mark>D6.2</mark> <a href="/deliverables/d6_2.pdf">
+<mark>D6.2</mark> <a href="/deliverables/#"> <!-- TODO: replace # with PDF -->
 Markt- und Potenzialanalyse
 </a><br>
 
-<mark>D6.3</mark> <a href="/deliverables/d6_3.pdf">
+<mark>D6.3</mark> <a href="/deliverables/#"> <!-- TODO: replace # with PDF -->
 Leitfaden für sTES-Projekte
 </a><br>
 
-<mark>D6.4</mark> <a href="/deliverables/d6_4.pdf">
+<mark>D6.4</mark> <a href="/deliverables/#"> <!-- TODO: replace # with PDF -->
 Endnutzer-Software zur Projektplanung
 </a>
 {{< /timelineItem >}}
@@ -238,11 +238,11 @@ Endnutzer-Software zur Projektplanung
 </ul>
 <u>Deliverables</u><br>
 
-<mark>D7.1</mark> <a href="/deliverables/d7_1.pdf">
+<mark>D7.1</mark> <a href="/deliverables/#"> <!-- TODO: replace # with PDF -->
 Disseminations- und Kommunikationsplan
 </a><br>
 
-<mark>D7.2</mark> <a href="/deliverables/d7_2.pdf">
+<mark>D7.2</mark> <a href="/deliverables/#"> <!-- TODO: replace # with PDF -->
 Politische Leitlinien und Empfehlungen
 </a>
 {{< /timelineItem >}}
