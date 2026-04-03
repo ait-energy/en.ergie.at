@@ -72,6 +72,11 @@ Während der geplanten 48 Monate des Projekts wird die an zwei bedeutenden Demos
 - [TEKNOLOGIAN TUTKIMUSKESKUS VTT OY](https://www.vttresearch.com/en)
 - [WIZ DEVELOPMENT & SERVICES SRL](https://wizresearch.com/)
 
+### Weitere Informationen
+
+- Projekthomepage: [interstores.eu](https://interstores.eu/)
+- AIT Projektinformationen: [www.ait.ac.at](https://www.ait.ac.at/themen/waermenetze-und-kaeltenetze-fuer-stadt-und-industrie/projekte/saisonalen-thermische-energiespeicher)
+
 ### Förderhinweis
 
 INTERSTORES wird von der Europäischen Union gefördert. Die geäußerten Ansichten und Meinungen entsprechen jedoch aussschließlich denen der Autorinnen und Autoren und spiegeln nicht unbedingt die der Europäischen Union oder der Exekutivagentur für die Forschung wider. Weder die Europäische Union noch die Förderstelle übernehmen dafür Verantwortung
