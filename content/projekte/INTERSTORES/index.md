@@ -8,7 +8,7 @@ Die EU strebt eine rasche Dekarbonisierung des Energiesektors durch das Fit for 
 
 <!--more-->
 
-Das übergeordnete Ziel von INTERSTORES ist die Demonstration und Umsetzung zweier innovativer sTES-Lösungen (Wiederverwendung alter Becken, unterirdische Kavernen) und die Validierung der Nutzung als Mehrzweck-sTES an den Demostandorten. INTERSTORES zielt darauf ab, die Nachhaltigkeit zu verbessern, indem kosteneffiziente, recycelte Isoliermaterialien verwendet werden, der Einsatz erneuerbarer Energien erhöht wird und herkömmlicher Spritzbeton ersetzt wird. Der Haupteffekt wird in der Senkung der Investitionskosten, des Energiebedarfs, der Verringerung der CO2-Emissionen und der Umwelt- und Bodenbelastung gesehen.
+Das übergeordnete Ziel von INTERSTORES ist die Demonstration und Umsetzung zweier innovativer sTES-Lösungen (Wiederverwendung alter Becken, unterirdische Kavernen) und die Validierung der Nutzung als Mehrzweck-sTES an den Demostandorten. INTERSTORES zielt darauf ab, die Nachhaltigkeit zu verbessern, indem kosteneffiziente, recycelte Isoliermaterialien verwendet werden, der Einsatz erneuerbarer Energien erhöht wird und herkömmlicher Spritzbeton ersetzt wird. Der Haupteffekt wird in der Senkung der Investitionskosten, des Energiebedarfs, der Verringerung der CO<sub>2</sub>-Emissionen und der Umwelt- und Bodenbelastung gesehen.
 
 ## Factsheet
 
