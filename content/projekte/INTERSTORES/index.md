@@ -19,8 +19,8 @@ Das übergeordnete Ziel von INTERSTORES ist die Demonstration und Umsetzung zwei
 | **Laufzeit** | 01.01.2024 -- 31.12.2027 |
 | **Partner** | 14 |
 | **Projektform** | Forschungs- und Innovationsprojekt  |
-| **Projektleitung AIT-seitig** | [Abdulrahman Dahash](abdulrahman.dahash(at)ait.ac.at) |
-| **Projektleitung IES-seitig** | [Vikroriia Illyes](viktoria.illyes@ait.ac.at) |
+| **Projekt Koordination** | [Prof. Dr. Peter Bayer](peter.bayer@geo.uni-halle.de) ([MLU](https://www.uni-halle.de/)] |
+| **Projektleitung AIT** | [Dr. Abdulrahman Dahash](abdulrahman.dahash(at)ait.ac.at) & [Dr. Viktoria Illyés](viktoria.illyes@ait.ac.at) |
 ## Haupterkenntnisse
 
 Die Demonstration und Implementierung innovativer sTES-Lösungen im Rahmen von INTERSTORES zeigt ein großes Potenzial zur Verbesserung der Nachhaltigkeit von Energiesystemen.
