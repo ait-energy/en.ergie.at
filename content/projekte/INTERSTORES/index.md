@@ -250,4 +250,41 @@ Politische Leitlinien und Empfehlungen
 
 {{< /timeline >}}
 
-## Einblicke
+## Einblicke <!--Ich bin mir nicht sicher, ob Einblicke so ausschauen sollen, aber derzeit habe ich keine Informationen zu Events oder Fotos -->
+{{< timeline >}}
+
+<!-- =============================================================================================================== -->
+
+{{< timelineItem icon="star" header="Projektstart" badge="01.01.2024" >}}
+{{< /timelineItem >}}
+
+<!-- =============================================================================================================== -->
+
+{{< timelineItem icon="star" header="Digitale Zwillinge für saisonale Speicher" >}}
+
+Im Projekt INTERSTORES werden Digitale Zwillinge eingesetzt, um das thermische Verhalten großer saisonaler Wärmespeicher realitätsnah abzubilden. Mithilfe gekoppelter Simulationsmodelle lassen sich Lade- und Entladeprozesse über den gesamten Jahresverlauf hinweg präzise analysieren.
+
+So können Betriebsstrategien unter realen Bedingungen getestet und kontinuierlich optimiert werden, wodurch Energieverluste gezielt reduziert und die Effizienz der Langzeitspeicherung deutlich gesteigert wird, ohne in den realen Betrieb eingreifen zu müssen..
+
+{{< /timelineItem >}}
+
+<!-- =============================================================================================================== -->
+
+{{< timelineItem icon="star" header="Demonstration und Validierung an realen Standorten" >}}
+
+Ein zentraler Bestandteil des Projekts ist die Umsetzung und das Monitoring an europäischen Demonstrationsstandorten. Dort werden reale Betriebsdaten kontinuierlich erfasst und mit den entwickelten Simulationsmodellen abgeglichen.
+
+Diese Rückkopplung ermöglicht es, Modelle unter realen Klimabedingungen zu validieren und gezielt weiterzuentwickeln. Abweichungen können frühzeitig erkannt und die Systemperformance unter Praxisbedingungen zuverlässig bewertet werden.
+
+{{< /timelineItem >}}
+
+<!-- =============================================================================================================== -->
+
+{{< timelineItem icon="star" header="Sektorübergreifende Systemintegration" >}}
+
+INTERSTORES untersucht die Integration saisonaler Wärmespeicher in komplexe Energiesysteme. Dabei werden Verbraucher, Erzeuger (z. B. Industrieabwärme oder Solarthermie) und Speicher systematisch miteinander verknüpft.
+
+Durch intelligente Regelungsstrategien können Energieflüsse in Echtzeit aufeinander abgestimmt werden. So entsteht ein flexibles Gesamtsystem, das Lastspitzen ausgleicht, erneuerbare Energie optimal nutzt und eine stabile, CO₂-arme Wärmeversorgung ermöglicht.
+
+{{< /timelineItem >}}
+{{< /timeline >}}
