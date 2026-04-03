@@ -1,7 +1,7 @@
 ---
 title: "INTERSTORES"
 topics: ["Thermische Energiespeicherung", "Erneubare Energien", "Optimierung"]
-authors: [Losieva]
+authors: [plosieva]
 ---
 
 Die EU strebt eine rasche Dekarbonisierung des Energiesektors durch das Fit for 55-Paket, den RePowerEU-Plan und den Green Deal an. Großspeichertechnologien zur saisonalen thermischen Energiespeicherung (sTES) (z. B. Becken, Kavernen) können die Bemühungen unterstützen, indem sie die Nutzung fluktuierender Wärmequellen verbessern. INTERSTORES wird sich diesen Herausforderungen stellen und die Dekarbonisierung durch die Anwendung fortschrittlicher sTES-Technologien beschleunigen.
