@@ -76,6 +76,12 @@ Durch die Entwicklung und Validierung interoperabler Lösungen leistet das Proje
 
 {{< keyword >}}Bericht{{< /keyword >}} [At vero eos et accusam!](https://www.example.com) 
 
+### Tools
+
+Das folgende Tool ermöglicht es, die im Projekt entwickelten Ansätze interaktiv zu erkunden und anzuwenden:
+
+- [DigIPlat Tool](https://transnetbw.digiplat.ait.ac.at/)
+
 ### Projektpartner
 
 - [AIT Austrian Institute of Technology GmbH](https://www.ait.ac.at/ueber-das-ait/center/center-for-energy) (Projektkoordinator)
