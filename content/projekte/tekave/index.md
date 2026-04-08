@@ -20,163 +20,90 @@ In vielen Europäischen Ländern sind bereits heute eine Reihe verschiedener Kap
 | **Kurzform** | <mark>TeKaVe</mark> |
 | **Titel** | Technologieneutrale Kapazitätsmechanismen für eine Versorgungssichere Energiezukunft |
 | **Laufzeit** | 01.03.2024 -- 31.08.2025 |
-| **Partner** | 3 |
+| **Partner** | 3 | [alle anzeigen](#projektpartner)
 | **Projektform** | Kofinanziertes Forschungsprojekt |
 | **Projektleitung** | [Stefan Strömer](mailto:stefan.stroemer@ait.ac.at) |
-
-## Haupterkenntnisse
-
-Die qualitative und quantitative Analyse des derzeitigen Energy-Only-Markts in Österreich zeigt, dass ausreichend Deckungsbeiträge für ausgewählte Marktteilnehmer:innen in der aktuellen Markt- und Systemlage nur schwer realisierbar sind und der Energy-Only-Markt derzeit nicht alle Voraussetzungen für ausreichende Investitionsanreize in neue Kapazitäten erfüllt. Unzureichende Planungssicherheit, ausgelöst durch regulatorische und politische Unsicherheiten, sowie die Ungewissheit hinsichtlich des hinreichenden Auftretens von Knappheitspreisen stellen hierbei die ausschlaggebenden Problemfelder dar. Die Ergebnisse der Marktmodellierung zeigen, dass im österreichischen Kontext ein Kapazitätsmarkt eine ausgewogene und effiziente Lösung darstellt, um Versorgungssicherheit zu gewährleisten und gleichzeitig Marktverzerrungen zu minimieren. Eine Ausschreibung für neue Flexibilität weist zwar die geringsten Kosten für Konsument:innen auf, führt jedoch zu erheblichen marktverzerrenden Auswirkungen. Eine reine strategische Reserve scheitert am beschränkten Volumen der Teilnehmer:innen in Österreich und zeigt zudem negative Auswirkungen auf den Day-Ahead-Markt in Form eines erhöhten Preisniveaus.
-
-Die länderübergreifende Analyse bestehender Kapazitätsmechanismen in Europa zeigt, dass in einem Kapazitätsmarkt Lock-in-Effekte fossiler Kapazitäten unbedingt vermieden werden müssen, um die österreichischen Energie- und Klimaziele zu erreichen. Gleichzeitig ist bei der Ausgestaltung Technologie-Inklusivität von zentraler Bedeutung, um den zukünftigen Flexibilitätsbedarf angemessen abzudecken. Regionale Komponenten sind zwar grundsätzlich möglich, ihre Umsetzung erweist sich jedoch als komplex, sodass das Verhältnis von Aufwand und Nutzen kritisch zu hinterfragen ist. Eine weitgehende Harmonisierung ist erstrebenswert, weshalb sich die Ausgestaltung eines österreichischen Kapazitätsmarkts an den Kriterien des Clean Industrial Deal State Aid Frameworks (CISAF) orientieren sollte. Dies erleichtert eine schnellere Genehmigung durch die Europäische Kommission, fördert die grenzüberschreitende Teilnahme und schafft regulatorische Sicherheit für die kommenden Jahre.
-
 
 ## Überblick
 
 Die Kernfrage des Projekts wird aus der regulatorischen sowie ökonomischen Sicht untersucht. Für die ökonomische Analyse wird ein innovativer Modellierungsansatz angewendet, der Investitionsoptimierung und agentenbasierte Marktmodellierung kombiniert. Somit können die KM-Designs verglichen werden sowie der Einfluss weiterer Faktoren wie EE-Förderung, CO2-Bepreisung oder Flexibilitätsmaßnahmen untersucht werden.
 
-### Projektziele
+## Erkentnisse
 
-Die Innovation dieses Projektes besteht darin, dass:
+### Unzureichende Investitionsanreize im Energy-Only-Markt
 
-1. die Kapazitätsmechanismen auf Sinnhaftigkeit im österreichischen Kontext unter Berücksichtigung von drei Zielen, Technologieneutralität, Klimaneutralität und Versorgungssicherheit, untersucht werden;
-2. aus der regulatorischen Sicht der Anpassungsbedarf, die Alternativlösungen zu den KMs sowie der Harmonisierungsbedarf auf europäischer Ebene beleuchtet wird;
-3. ein innovativer Modellierungsansatz für die Abbildung einzelner KMs verwendet wird;
-4. die Grundlage für ein F&E Folgeprojekt, dass den modellierten Ansatz in einem Proof-of-Concept testet, geschaffen wird.
+Die Analyse zeigt, dass der derzeitige Energy-Only-Markt in Österreich keine ausreichenden Investitionsanreize für neue Kapazitäten bietet und somit langfristig die Versorgungssicherheit gefährdet.
 
-Das Projekt TeKaVe leistet damit einen wertvollen Beitrag zur Gestaltung eines versorgungssicheren Stromsystems in Österreich unter Berücksichtigung der EE-Ziele sowie zur Verbesserung der Anreizmodelle für flexible Technologien, Demand Response und erneuerbare Energiequellen.
+### Regulatorische Unsicherheiten als zentrales Problem
 
-### Projektpartner
+Unsicherheiten in regulatorischen und politischen Rahmenbedingungen sowie das Ausbleiben von Knappheitspreisen erschweren Investitionsentscheidungen und stellen wesentliche Herausforderungen dar.
 
-- [AIT Austrian Institute of Technology GmbH](https://www.ait.ac.at/ueber-das-ait/center/center-for-energy) (Projektkoordinator)
-- [Energieinstitut an der Johannes Kepler Universität Linz](https://energieinstitut-linz.at/)
-- [EPEX SPOT SE](https://www.epexspot.com/)
+### Kapazitätsmarkt als geeignete Lösung
+
+Die Ergebnisse der Modellierung deuten darauf hin, dass ein Kapazitätsmarkt eine effiziente Möglichkeit bietet, Versorgungssicherheit zu gewährleisten und Marktverzerrungen zu minimieren.
+
+### Grenzen alternativer Mechanismen
+
+Alternative Ansätze wie Flexibilitätsausschreibungen oder strategische Reserven zeigen entweder hohe Kosten oder eine begrenzte Wirksamkeit im österreichischen Kontext.
+
+### Bedeutung europäischer Harmonisierung
+
+Eine stärkere Harmonisierung mit europäischen Rahmenwerken, insbesondere dem CISAF, kann Genehmigungsprozesse beschleunigen, regulatorische Sicherheit schaffen und die grenzüberschreitende Teilnahme fördern.
+
+### Vermeidung von Lock-in-Effekten
+
+Bei der Gestaltung von Kapazitätsmechanismen ist es entscheidend, Lock-in-Effekte fossiler Technologien zu vermeiden, um die Energie- und Klimaziele zu erreichen.
+
+### Rolle regionaler und technologischer Vielfalt
+
+Technologieoffenheit sowie die Berücksichtigung regionaler Komponenten sind wichtig, um zukünftige Flexibilitätsbedarfe effizient abzudecken, auch wenn deren Umsetzung komplex ist.
+
+## Tätigkeiten
+
+### AP1: Projektmanagement
+<u>Lead: AIT</u>
+
+Effektives Projektmanagement – insbesondere Koordination und Controlling – mit Fokus auf Erreichung der Projektziele und Projektergebnisse. Zeitmanagement, Priorisierung und Moderation der Entscheidungsfindung bei inhaltlichen Problemen sowie Klärung rechtlicher Fragen und Erstellung des Konsortialvertrages. Zusätzlich umfasst das Arbeitspaket Qualitätssicherung sowie Kommunikation und Vermarktung der Projektergebnisse und die Diskussion der Zwischen- und Endergebnisse mit relevanten Stakeholdern.
+
+### AP2: Qualitative Analyse
+<u>Lead: AIT</u>
+
+Überprüfung bestehender Ansätze zur Versorgungssicherheit in Europa und der weiteren Einflussfaktoren. Auswahl eines Satzes von Kapazitätsmechanismen zur Modellierung in Arbeitspaket 3 sowie Formulierung von Stakeholder- und Politikempfehlungen (Lead: EI-JKU).
+
+### AP3: Marktmodellierung
+<u>Lead: AIT</u>
+
+Implementierung eines kombinierten Modells zur Abbildung des Energy-Only-Markts (EOM) und ausgewählter Kapazitätsmechanismen. Vergleich einzelner KM-Designs mit dem Basisszenario (EOM) sowie Durchführung von Szenarioanalysen.
+
+### AP4: Regulatorische Analyse
+<u>Lead: EI-JKU</u>
+
+Entwicklung einer angemessenen Schadenersatzregelung für Kapazitätsmärkte basierend auf mindestens drei bestehenden Berechnungsmethoden für Preisobergrenzen. Analyse von mindestens drei Alternativlösungen zu Kapazitätsmechanismen, darunter Ausstiegsprämien bzw. Überführung in Staatseigentum, Weiterentwicklung vorhandener Märkte (PICASSO, MARI), Stilllegungsverbote und strategische Reserven sowie Analyse des Harmonisierungsbedarfs auf europäischer Ebene.
+
+## Weiterführende Informationen
+
+### Deliverables
+
+- [D2.1 Vorhandene Ansätze zur Gewährleistung der Versorgungssicherheit in Europa](deliverables/d2_1.pdf)
+- [D2.2 Stakeholder:innen Report](deliverables/bericht.pdf)
+- [D3.1 Modellkopplungs Report](deliverables/d3_1.pdf)
+- [D3.2 Marktanalyse Report](deliverables/d3_2.pdf)
+- [D4.1 Regulatorische Rahmenbedingungen für Kapazitätsmärkte](deliverables/d4_1.pdf)
+- [D4.2 Policy Brief](deliverables/d4_2.pdf)
+
+### Dokumente
+
+{{< keyword >}}Homepage{{< /keyword >}} Offizielle Projekthomepage: [FFG Projektdatenbank](https://projekte.ffg.at/projekt/4805444)
+
+{{< keyword >}}Gastbeitrag{{< /keyword >}} [Technologieneutrale Kapazitätsmechanismen für eine versorgungssichere Energiezukunft](https://positionen.wienenergie.at/blog/gastbeitrag-technologieneutrale-kapazitaetsmechanismen-fuer-eine-versorgungs-sichere-energiezukunft/)
+
+{{< keyword >}}Präsentation{{< /keyword >}} [Stakeholder Workshop](assets/TeKaVe_Stakeholder_Workshop_final.pdf)
+
+{{< keyword >}}Präsentation{{< /keyword >}} [Wien Energie](assets/TeKaVe_Stakeholder_Workshop_WE.pdf)
+
+{{< keyword >}}Bericht{{< /keyword >}} [Stakeholder Bericht](deliverables/bericht.pdf)
 
 ### Förderhinweis
 
 Dieses Projekt wird im Rahmen der Ausschreibung "Energie.Frei.Raum" des Bundesministeriums für Klimaschutz, Umwelt, Energie, Mobilität, Innovation und Technologie (BMK) durchgeführt. Die Abwicklung erfolgt im Auftrag des BMK durch die Österreichische Forschungsförderungsgesellschaft (FFG).
 Mehr Informationen finden sich in der [FFG Projektdatenbank](https://projekte.ffg.at/projekt/4805444).
-
-## Arbeitspakete & Deliverables
-
-Die Projektziele werden mithilfe von vier dedizierten Arbeitspaketen innerhalb des Projekts erreicht, die auf Folgendes abzielen:
-
-{{< timeline >}}
-
-<!-- =============================================================================================================== -->
-{{< timelineItem icon="eye" header="Arbeitspaket 1" badge="Lead: AIT" subheader="Projektmanagment" >}}
-<u>Aufgaben</u><br>
-<ul>
-  <li>Effektives Projektmanagement - insbesondere Koordination und Controlling - mit Fokus auf Erreichung der Projektziele und Projektergebnisse</li>
-  <li>Zeitmanagement, Priorisierung und Moderation der Entscheidungsfindung bei inhaltlichen Problemen</li>
-  <li>Klärung rechtlicher Fragen und Erstellung des Konsortialvertrages</li>
-  <li>Qualitätssicherung</li>
-  <li>Kommunikation und Vermarktung der Projektergebnisse sowie Diskussion der Zwischen-/Endergebnisse mit relevanten Stakeholdern</li>
-</ul>
-{{< /timelineItem >}}
-<!-- =============================================================================================================== -->
-{{< timelineItem icon="code" header="Arbeitspaket 2" badge="Lead: AIT" subheader="Qualitative Analyse" >}}
-<u>Aufgaben</u><br>
-<ul>
-  <li>Überprüfung bestehender Ansätze zur Versorgungssicherheit in Europa und der weiteren Einflussfaktoren</li>
-  <li>Auswahl eines Satzes von Kapazitätsmechanismen zur Modellierung in Arbeitspaket 3</li>
-  <li>Formulierung von Stakeholder- und Politikempfehlungen (<u>Lead: EI-JKU</u>)</li>
-</ul>
-
-Die Ergebnisse dieses Arbeitspakets sind auf dieser Webseite unter <mark>Themen/Kapazitätsmechanismen</mark> verfügbar.<br><br>
-
-<u>Deliverables</u><br>
-<mark>D2.1</mark> <a href="deliverables/d2_1.pdf">Vorhandene Ansätze zur Gewährleistung der Versorgungssicherheit in Europa</a><br>
-<mark>D2.2</mark> <a href="deliverables/bericht.pdf">Stakeholder:innen Report</a><br>
-{{< /timelineItem >}}
-<!-- =============================================================================================================== -->
-{{< timelineItem icon="code" header="Arbeitspaket 3" badge="Lead: AIT" subheader="Marktmodellierung" >}}
-<u>Aufgaben</u><br>
-<ul>
-  <li>Implementierung eines kombinierten Modells zur Abbildung des Energy-Only-Markts (EOM) und ausgewählter KMs</li>
-  <li>Vergleich einzelner KM-Designs gegen das Basisszenario (EOM)</li>
-  <li>Szenarioanalyse</li>
-</ul>
-
-<u>Deliverables</u><br>
-<mark>D3.1</mark> <a href="deliverables/d3_1.pdf">Modellkopplungs Report</a><br>
-<mark>D3.2</mark> <a href="deliverables/d3_2.pdf">Marktanalyse Report</a><br>
-{{< /timelineItem >}}
-<!-- =============================================================================================================== -->
-{{< timelineItem icon="code" header="Arbeitspaket 4" badge="Lead: EI-JKU" subheader="Regulatorische Analyse" >}}
-<u>Aufgaben</u><br>
-<ul>
-  <li>Entwicklung einer angemessenen Schadenersatzregelung für Kapazitätsmärkte basieren auf mind. 3 bestehenden Berechungsmethoden für Preisobergrenzen</li>
-  <li>Analyse von mind. 3 Alternativlösungen zu KMs: Ausstiegsprämien bzw. Überführung in Staatseigentum, Weiterentwicklung vorhandener Märkte (PICASSO, MARI), Stilllegungsverbote und strategische Reserven</li>
-  <li>Analyse des Harmonisierungsbedarfs auf europäischer Ebene</li>
-</ul>
-
-<u>Deliverables</u><br>
-<mark>D4.1</mark> <a href="deliverables/d4_1.pdf">Regulatorische Rahmenbedingungen für Kapazitätsmärkte</a><br>
-<mark>D4.2</mark> <a href="deliverables/d4_2.pdf">Policy Brief</a><br>
-{{< /timelineItem >}}
-<!-- =============================================================================================================== -->
-
-{{< /timeline >}}
-
-## Einblicke
-
-{{< timeline >}}
-
-<!-- =============================================================================================================== -->
-
-{{< timelineItem icon="star" header="Projektstart" badge="01.03.2024" >}}
-{{< /timelineItem >}}
-
-<!-- =============================================================================================================== -->
-
-{{< timelineItem icon="star" header="Konsortialmeeting" badge="25.04.2025" >}}
-Konsortialmeeting mit dem Projektteam am AIT in Wien
-{{< gallery >}}
-  <img src="assets/TeKaVe_Konsortialmeeting.jpg" class="grid-w50" alt="Konsortialmeeting"/>
-{{< /gallery >}}
-{{< /timelineItem >}}
-
-<!-- =============================================================================================================== -->
-
-{{< timelineItem icon="star" header="Stakeholder Workshop" subheader="Kapazitätsmechanismen in Österreich und Europa" badge="20.08.2025" >}}
-
-<u>Im Workshop behandelte Themen:</u><br>
-<ul>
-  <li>Potenzielle Problemfelder des österreichischen Energy-Only-Markts: Ergebnisse der quantitativen und qualitativen Analyse für Österreich</li>
-  <li>Regulatorik: Überblick über Anforderungen an Kapazitätsmechanismen laut europäischem Recht</li>
-  <li>Überblick zu Kapazitätsmechanismen, Lessons Learned und Ausgestaltungsoptionen: Empfehlungen für die Ausgestaltung
-  von einem österreichischen Kapazitätsmechanismus basierend auf den bisherigen Erfahrungen in anderen europäischen Ländern</li>
-  <li>Marktmodellierung: Ergebnisse des implementierten Modells für Österreich zur Abbildung des Energy-Only-Markts (EOM),
-  verschiedener Marktmechanismen (Marktprämie, EKB-S) und ausgewählter Kapazitätsmechanismen</li>
-  <li>Stimmen aus der Praxis: Erfahrungen und Perspektiven von ausgewählten Stakeholdern (Wien Energie & EPEX SPOT)</li>
-</ul>
-<u>Präsentation</u>: <a href="assets/TeKaVe_Stakeholder_Workshop_final.pdf" target="_blank">Stakeholder Workshop</a> <br>
-<u>Präsentation</u>: <a href="assets/TeKaVe_Stakeholder_Workshop_WE.pdf" target="_blank">Wien Energie</a>
-{{< /timelineItem >}}
-
-<!-- =============================================================================================================== -->
-
-{{< timelineItem icon="star" header="Stakeholder Bericht" badge="23.10.2025" >}}
-<a href="deliverables/bericht.pdf" target="_blank">Der finale Stakeholder Bericht ist jetzt online</a> und fasst die
-Kernaussagen des Projekts zusammen:<br>
-{{< gallery >}}
-    <a href="deliverables/bericht.pdf" target="_blank">
-        <img src="assets/bericht.png" class="grid-w50" alt="Stakeholder Bericht"/>
-    </a>
-{{< /gallery >}}
-{{< /timelineItem >}}
-
-<!-- =============================================================================================================== -->
-
-{{< timelineItem icon="star" header="Wien Energie Gastbeitrag" badge="23.10.2025" >}}
-Der Gastbeitrag
-<a href="https://positionen.wienenergie.at/blog/gastbeitrag-technologieneutrale-kapazitaetsmechanismen-fuer-eine-versorgungssichere-energiezukunft/" target="_blank">
-    "Technologieneutrale Kapazitätsmechanismen für eine versorgungssichere Energiezukunft"
-</a>,
-der das Projekt TeKaVe zusammenfasst, ist online verfügbar.
-{{< /timelineItem >}}
-
-<!-- =============================================================================================================== -->
-
-{{< /timeline >}}
