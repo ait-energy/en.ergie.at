@@ -31,7 +31,7 @@ Durch die Analyse realer Daten und Testumgebungen können aktivierbare Flexibili
 ### Netzsimulationen unterstützen die Entwicklung zukünftiger Tarife
 Simulationen ermöglichen die Bewertung verschiedener Szenarien und helfen, geeignete Tarifmodelle für zukünftige Energiesysteme zu entwickeln.
 
-## Tätigkeiten
+## Tätigkeiten <!-- TODO: add WP -->
 
 ### AP1: Projektmanagement
 <u>Lead: AIT</u>
@@ -40,9 +40,9 @@ Das Arbeitspaket umfasst die Koordination des gesamten Projekts sowie die Abstim
 
 ## Weiterfürende Informationen
 
-### Deliverables
-- [D2.1 ](www.example.com)
-- [D2.2 ](www.example.com)
+### Deliverables <!-- TODO: replace all # with PDF -->
+- [D2.1 ](#)
+- [D2.2 ](#)
 
 ### Dokumente
 
