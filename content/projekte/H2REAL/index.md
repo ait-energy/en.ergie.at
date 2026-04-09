@@ -83,7 +83,7 @@ Die Kombination aus technologischer Umsetzung und systemischer Betrachtung ermö
 - [Wiener Wasserstoff GmbH](https://www.wienerstadtwerke.at/wiener-wasserstoff)
 - [Windkraft Simonsfeld AG](https://www.wksimonsfeld.at/)
 
-### Forderhinweis 
+### Förderhinweis 
 
 Dieses Projekt wird aus Mitteln des Klima- und Energiefonds gefördert und im Rahmen des Programms „Vorzeigeregion Energie“ durchgeführt.
 Name der Institution: FFG
