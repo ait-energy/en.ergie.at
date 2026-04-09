@@ -46,13 +46,14 @@ Das Arbeitspaket umfasst die Koordination des gesamten Projekts sowie die Abstim
 
 ### Dokumente
 
-{{< keyword >}}Vorstellung des Projekts bei der Mission Innovation Austria Week 2025{{< /keyword >}} [Warum wird die Energiewende im "Sandkasten" erprobt?](https://www.youtube.com/watch?reload=9&v=hbGwq_AQ19E), 07.- 09.10.2025
+{{< keyword >}}Video{{< /keyword >}} [Warum wird die Energiewende im "Sandkasten" erprobt?](https://www.youtube.com/watch?reload=9&v=hbGwq_AQ19E), Vorstellung des Projekts bei der Mission Innovation Austria Week 2025, 09.10.2025
 
-{{< keyword >}}Vorstellung des Projekts bei der Fachtagung Netzanschluss der Berner FH{{< /keyword >}} [INNOnet_Fachtagung-Netzanschluss](https://www.ait.ac.at/fileadmin/mc/energy/downloads/IES/Projekte/INNOnet_Fachtagung-Netzanschluss.pdf), 03.06.2025
+{{< keyword >}}Präsentation{{< /keyword >}} [Mit lastabhängigen Netztarifen die energiepolitischen Ziele
+Österreichs erreichen?](https://www.ait.ac.at/fileadmin/mc/energy/downloads/IES/Projekte/INNOnet_Fachtagung-Netzanschluss.pdf), Vorstellung des Projekts bei der Fachtagung Netzanschluss der Berner FH, 03.06.2025
 
-{{< keyword >}}Vorstellung des Projekts beim PV-Kongress der PV Austria{{< /keyword >}} [INNOnet_PV-Kongress](https://www.ait.ac.at/fileadmin/mc/energy/downloads/IES/Projekte/INNOnet_PV-Kongress.pdf), 17.03.2025 
+{{< keyword >}}Präsentation{{< /keyword >}} [Neue Netztarife: Was sagt die Wissenschaft?](https://www.ait.ac.at/fileadmin/mc/energy/downloads/IES/Projekte/INNOnet_PV-Kongress.pdf), Vorstellung des Projekts beim PV-Kongress der PV Austria, 17.03.2025 
 
-{{< keyword >}}Vorstellung des Projekts beim Symposium Energieinnovation{{< /keyword >}} [INNOnet_Symposium_Energieinnovation](https://www.ait.ac.at/fileadmin/mc/energy/downloads/IES/Projekte/INNOnet_Symposium_Energieinnovation.pdf), 14.-16.02.2024
+{{< keyword >}}Präsentation{{< /keyword >}} [Reduzierung des Netzausbaubedarfs durch variable Stromnetztarife in Haushalten](https://www.ait.ac.at/fileadmin/mc/energy/downloads/IES/Projekte/INNOnet_Symposium_Energieinnovation.pdf), Vorstellung des Projekts beim 18. Symposium Energieinnovation, 14.-16.02.2024
 
 ### Projektpartner
 
