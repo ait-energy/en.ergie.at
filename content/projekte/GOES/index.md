@@ -1,6 +1,6 @@
 ---
 title: "GOES"
-topics: ["Geothermal energy", "Optimal energy system", "4th-5th GDHC", "Carbon-neutral city"]
+topics: ["Geothermie", "Fernwärme", "Dekarbonisierung"]
 authors: [plosieva]
 ---
 
