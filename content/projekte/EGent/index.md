@@ -1,10 +1,10 @@
 ---
-title: "INTERSTORES"
-topics: ["zentrale Gemeinschaftsspeicher", "stationäre und mobile Schwarmspeicher", "Einbindung in Energiegemeinschaften"]
+title: "EGent"
+topics: ["Speicher", "Energiegemeinschaften"]
 authors: [plosieva]
 ---
 
-Das Projekt EGent adressiert zentrale Herausforderungen der Energiewende durch die stärkere Einbindung von Energiegemeinschaften (EGs). Im Fokus steht die Integration von Gemeinschaftsspeichern – sowohl stationär als auch mobil – in das Energiesystem, um deren Potenziale effizient zu nutzen und zur Erreichung der Klimaziele beizutragen.
+Das Projekt EGent adressiert zentrale Herausforderungen der Energiewende durch die stärkere Einbindung von Energiegemeinschaften (EGs). Im Fokus steht die Integration von Gemeinschaftsspeichern - sowohl stationär als auch mobil - in das Energiesystem, um deren Potenziale effizient zu nutzen und zur Erreichung der Klimaziele beizutragen.
 
 Dabei werden technische, wirtschaftliche und regulatorische Aspekte gleichermaßen berücksichtigt, um praktikable und skalierbare Lösungen für die Umsetzung in realen Energiesystemen zu entwickeln.
 
@@ -13,7 +13,7 @@ Dabei werden technische, wirtschaftliche und regulatorische Aspekte gleichermaß
 
 |   |   |
 |---|---|
-| **Kurzform** | <mark>EDent</mark> |
+| **Kurzform** | <mark>EGent</mark> |
 | **Titel** | Stochastische kooperative Agenten-Systeme für mobile und stationäre (Schwarm-)Speicherkonzepte in Energiegemeinschaften |
 | **Laufzeit** | 01.06.2025 -- 30.11.2027 |
 | **Partner** | 15 [alle anzeigen](#projektpartner) |
