@@ -13,12 +13,11 @@ Durch die Verknüpfung von technologischen, räumlichen und systemischen Ebenen 
 |   |   |
 |---|---|
 | **Kurzform** | <mark>GOES</mark> |
-| **Titel** | Geothermal based Optimized Energy Systems |
+| **Titel** | Geothermiebasierte optimierte Energiesysteme |
 | **Laufzeit** | 31.12.2022 -- 31.08.2026 |
 | **Partner** | 8 [alle anzeigen](#projektpartner) | 
 | **Projektform** | Forschungs- und Innovationsprojekt  |
-| **Konsortialführung** | []() | <!-- TODO: add project lead -->
-| **Projektleitung AIT** | []()|  
+| **Projektleitung AIT** | [Nicolas Marx](Nicolas.Marx@ait.ac.at)|  
 
 ## Überblick
 
@@ -54,32 +53,69 @@ Die Anwendung des PBD-Ansatzes in mehreren Pilot- und Fallstudien in unterschied
 
 Die Analyse der Umweltwirkungen und techno-ökonomischen Aspekte liefert wichtige Erkenntnisse für die Umsetzung klimaneutraler Lösungen im Bereich Heizen und Kühlen.
 
-## Tätigkeiten  <!--TODO: add WP-->
+## Tätigkeiten  
 
-### AP1: 
-<u>Lead: </u>
+### AP1: Unterirdischer Maßstab
+
+Auf unterirdischer Ebene werden standortspezifische Bedingungen sowie thermische Wechselwirkungen mit bestehender Infrastruktur analysiert. Durch den Einsatz multiphysikalischer Simulationen werden Modelle entwickelt, die anschließend vereinfacht, standardisiert und anhand von Pilotstandorten validiert werden.
+
+### AP2: Technologie & Gebäudemaßstab
+
+Im zweiten Arbeitspaket werden lokale Energiequellen und -bedarfe analysiert und integriert. Dabei kommen simulationsbasierte Designplattformen sowie maschinelle Lernansätze zum Einsatz, um Heiz- und Kühlbedarfe zu bestimmen und Modelle für Gebäude- und Energiesysteme zu entwickeln.
+
+### AP3: Stadt-zu-Stadt-Skala
+<u>Lead: AIT</u>
+
+Im Fokus steht die Integration räumlich aufgelöster Modelle für Energiebedarf und -angebot sowie die Entwicklung standardisierter Schnittstellen zwischen verschiedenen Maßstabsebenen. Ziel ist es, den Austausch von Modellen und Entwurfsspezifikationen zu ermöglichen und eine konsistente Systemintegration sicherzustellen.
+
+Darüber hinaus umfasst AP3 die Entwicklung eines KPI-Frameworks zur Bewertung von Entscheidungen im Energiesystemdesign sowie den Einsatz fortschrittlicher Modellierungstechniken zur Identifikation optimaler Energielösungen.
+
+Die Verknüpfung von Stadt- und Quartiersebene ermöglicht eine Rückkopplung im Planungsprozess und unterstützt fundierte Entscheidungen über verschiedene Ebenen hinweg.
+
+### AP4: Skalenübergreifende Integration
+
+AP4 verbindet die Ergebnisse der verschiedenen Maßstabsebenen und integriert sie in ein gemeinsames Plattformkonzept. Der Fokus liegt auf der Entwicklung standardisierter Schnittstellen und eines übertragbaren Frameworks zur Anwendung an unterschiedlichen Standorten.
+
+### AP5: Implementierung
+
+In diesem Arbeitspaket werden die entwickelten Methoden und Modelle in Pilotprojekten validiert und demonstriert. Dies umfasst Kalibrierung, Anwendung in realen Umgebungen sowie die Ableitung von Best-Practice-Ansätzen.
+
+### AP6: Management
+
+Das Management umfasst die Koordination und Überwachung aller Projektaktivitäten. Dazu gehören organisatorische Aufgaben, Fortschrittskontrolle, Datenmanagement sowie die Unterstützung von Wissenstransfer und Zusammenarbeit innerhalb des Konsortiums.
 
 ## Weiterführende Informationen
 
-### Deliverable <!-- TODO: replace all # with links -->
+### Deliverable <!-- TODO: add deliverables -->
 
-- [D](#)
-- [D](#)
-- [D](#)
+- [D]()
+- [D]()
+- [D]()
 
-### Dokumente  <!-- TODO: add documents -->
+### Dokumente  
+
+{{< keyword >}}Publikation{{< /keyword >}} [Modell der thermischen Energiespeicherung niedriger Ordnung im Aquifer für die Simulation von geothermischen Systemen,](assets/Publikation_2.pdf), 2023
+
+{{< keyword >}}Publikation{{< /keyword >}} [Technoökonomische Machbarkeit von Fern- und Heiz- und Kühllösungen – Eine vorläufige Bewertung ausgewählter Fallstudien](assets/Publikation_1.pdf), 2024
+
+{{< keyword >}}Zeitschriftartickel{{< /keyword >}} [Plattformbasiertes Design für Energiesysteme](https://www.sciencedirect.com/science/article/pii/S0306261923013193?via%3Dihub), 2023
+
+{{< keyword >}}Zeitschriftartickel{{< /keyword >}} [Schätzung der Kühlkapazitäten aus Luftaufnahmen mit konvolutionalen neuronalen Netzen](https://www.sciencedirect.com/science/article/pii/S030626192300925X?via%3Dihub), 2023
+
+{{< keyword >}}Zeitschriftartickel{{< /keyword >}} [Urbane Energiesystemmodellierung als strategisches Werkzeug für integrierte räumliche und Energieplanung: Ein Multi-Knoten-, Multi-Stufen-Optimierungsansatz](https://www.sciencedirect.com/science/article/pii/S2211467X25002676?via%3Dihub), 2025
 
 
-{{< keyword >}}Homepage{{< /keyword >}} Offizielle Projekthomepage: [example.com](https://www.example.com)  
 
-{{< keyword >}}Gastbeitrag{{< /keyword >}} [example](https://www.example.com)  
+### Projektpartner 
 
-{{< keyword >}}Präsentation{{< /keyword >}} [example](https://www.example.com), by J. Doe, 12.01.2026  
-
-{{< keyword >}}Bericht{{< /keyword >}} [example](https://www.example.com)
-
-### Projektpartner <!-- TODO: add project partners -->
-
+- [Empa](https://www.empa.ch/) (Projektkoordinator)
+- [AIT Austrian Institute of Technology GmbH](https://www.ait.ac.at/)
+- [Lawrence Berkeley National Lab (LBNL)](https://www.lbl.gov/)
+- [University of California – Berkeley](https://www.berkeley.edu/)
+- [Karlsruhe Institute of Technology (KIT)](https://www.kit.edu/)
+- [Aalborg University (AAU)](https://www.en.aau.dk/)
+- [Energy Machines](https://www.energymachines.com/)
+- [Sympheny](https://www.sympheny.com/#1)
 
 ### Förderhinweis
 
