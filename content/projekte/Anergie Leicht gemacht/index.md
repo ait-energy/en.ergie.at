@@ -48,7 +48,11 @@ Workshops und Stakeholder-Beteiligung tragen wesentlich dazu bei, die Akzeptanz 
 
 ### Dokumente <!-- TODO: add Documents -->
 
-{{< keyword >}}Example{{< /keyword >}} [example.com](https://www.example.com)  
+{{< keyword >}}Projektberichte{{< /keyword >}} [Projektberichte aus den Forschungs- und Technologieprogrammen](https://klimaneutralestadt.at/de/publikationen/projektberichte.php)  
+
+{{< keyword >}}Ergebnisbroschüren{{< /keyword >}} [Ergebnisbroschüren, Folder und Leitfäden](https://klimaneutralestadt.at/de/publikationen/eia/)
+
+{{< keyword >}}Videos & Podcasts{{< /keyword >}} [Kurzfilme und Podcasts zum breiten Thema "Klimaneutrale Stadt"](https://klimaneutralestadt.at/de/publikationen/videos-podcasts.php)  
 
 
 ### Projektpartner
