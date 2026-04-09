@@ -1,6 +1,6 @@
 ---
 title: "INNOnet"
-topics: ["Lastabhängige Netztarife", "Flexibilität der Verbraucher", "Prosumer", "Gemeinschaftsspeicher", "Smart Meter"]
+topics: ["Netztarife", "Flexibilität", "Prosumer", "Speicher", "Smart Meter"]
 authors: [plosieva]
 ---
 Lastabhängige Netztarife werden als essentieller Beitrag zur Erreichung energiepolitischer Ziele erachtet. Das Projekt antizipiert diese Entwicklung, testet lastabhängige Netztarife zur Bestimmung von aktivierbaren Flexibilitätspotentialen bei Haushaltskunden im Realbetrieb, unter-sucht Aspekte der praktischen Umsetzung dieser zukünftigen Tarifstrukturen durch Netzbetreiber und unterstützt die Entwicklung einer gemeinsamen Position der österreichischen Netzwirtschaft für eine umsetzbare und effiziente Ausgestaltung zukünftiger Netztarifstrukturen in Österreich.
