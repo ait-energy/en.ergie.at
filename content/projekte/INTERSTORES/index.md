@@ -17,7 +17,7 @@ Das übergeordnete Ziel von INTERSTORES ist die Demonstration und Umsetzung zwei
 | **Kurzform** | <mark>INTERSTORES</mark> |
 | **Titel** | Internationales Innovationsnetzwerk zur Entwicklung von Kosten- und umweltfreundliche saisonale thermische Energiespeicher |
 | **Laufzeit** | 01.01.2024 -- 31.12.2027 |
-| **Partner** | 14  [alle anzeigen](#projektpartner) |
+| **Partner** | 14  ([alle anzeigen]({{< ref "#projektpartner" >}})) |
 | **Projektform** | Forschungs- und Innovationsprojekt  |
 | **Projekt Koordination** | [Prof. Dr. Peter Bayer](peter.bayer@geo.uni-halle.de) [MLU](https://www.uni-halle.de/) |
 | **Projektleitung AIT** | [Dr. Abdulrahman Dahash](abdulrahman.dahash(at)ait.ac.at) & [Dr. Viktoria Illyés](viktoria.illyes@ait.ac.at) |
@@ -85,7 +85,7 @@ Hier werden Kommunikations- und Disseminationsmaßnahmen entwickelt und umgesetz
 
 ## Weiterführende Informationen
 
-### Deliverable <!-- TODO: replace all # with links -->
+<!-- ### Deliverable 
 
 - [D1.1 Data Management Plan & Projektdatenbank](#)
 - [D2.1 Demonstrationsberichte](#)
@@ -101,11 +101,11 @@ Hier werden Kommunikations- und Disseminationsmaßnahmen entwickelt und umgesetz
 - [D6.3 Leitfaden für STES-Projekte](#)
 - [D6.4 Endnutzer-Software zur Projektplanung](#)
 - [D7.1 Disseminations- und Kommunikationsplan](#)
-- [D7.2 Politische Leitlinien und Empfehlungen](#)
+- [D7.2 Politische Leitlinien und Empfehlungen](#) -->
 
-### Dokumente <!-- TODO: add documents -->
+<!-- ### Dokumente 
 
-{{< keyword >}}example{{< /keyword >}} [example](https://www.example.com)  
+{{< keyword >}}example{{< /keyword >}} [example](https://www.example.com)   -->
 
 ### Projektpartner
 
