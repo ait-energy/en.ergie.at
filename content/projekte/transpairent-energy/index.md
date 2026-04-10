@@ -6,6 +6,8 @@ authors: [sstroemer, kmaggauer]
 
 Das Projekt _transpAIrent.energy - Transparent AI Forecasts for Green Energy in Austria_ zielt darauf ab, mithilfe von generative artificial intelligence (AI)-Methoden probabilistische Live-Prognosen für energiesystemrelevante Größen wie Strompreise und CO<sub>2</sub>-Intensitäten in Österreich zu erstellen und eine transparente Plattform zu entwickeln, die diese öffentlich zugänglich macht.
 
+<!--more-->
+
 Diese Prognosen werden im Zuge des Projekts weiters dazu verwendet, eine Optimierungsstrategie für den Betrieb flexibler erneuerbarer Energieanlagen unter vielfältigen umwelt- und systemrelevanten Anforderungen zu entwickeln. Durch diese „Mehrziel"-Optimierungsstrategie werden gleichzeitig ein betriebswirtschaftlicher Nutzen, welcher Anreize erzeugt und eine niedrigere CO<sub>2</sub>-Intensität garantiert und so der Übergang zu einem umweltfreundlicheren Energiesystem gefördert.
 
 ## Factsheet
@@ -25,14 +27,9 @@ Im Rahmen des Projekts werden zwei zentrale Ziele verfolgt: Erstens die Entwickl
 
 ## Erkenntnisse
 
-### Generative AI ermöglicht präzisere Prognosen
-Der Einsatz generativer AI erlaubt die Erstellung probabilistischer Live-Prognosen für zentrale energiesystemrelevante Größen wie Strompreise und CO2-Intensitäten und verbessert damit die Entscheidungsgrundlage im Energiesystem.
-
 ### Transparente Plattform erhöht Zugänglichkeit
 Durch die Entwicklung einer öffentlich zugänglichen Plattform werden Prognosen transparent bereitgestellt, wodurch ihre Nutzung für verschiedene Akteur:innen im Energiesystem erleichtert wird.
 
-### Optimierung steigert Wirtschaftlichkeit und Nachhaltigkeit
-Die Nutzung der Prognosen zur Optimierung flexibler erneuerbarer Energieanlagen ermöglicht einen wirtschaftlicheren Betrieb und trägt gleichzeitig zu einer nachhaltigeren Energieversorgung bei.
 
 ### Multi-Ziel-Optimierung schafft Systemvorteile
 Die kombinierte Optimierung ökonomischer und ökologischer Ziele führt zu einem erhöhten betrieblichen Nutzen, schafft Anreize und reduziert gleichzeitig die CO2-Intensität.
@@ -77,7 +74,7 @@ Durchführung stochastischer Optimierung auf Basis der AI-Prognosen sowie Entwic
 
 Entwicklung von Strategien zur Verbreitung der Plattform und Erhöhung der Sichtbarkeit des Projekts. Einbindung von Stakeholdern zur Sicherstellung der Anwendbarkeit sowie Förderung von wissenschaftlicher Exzellenz, Kooperation und Technologietransfer.
 
-### Deliverables
+<!-- ### Deliverables
 
 - [D1.1 Interim report 1](deliverables/d1_1)
 - [D1.2 Interim report 2](deliverables/d1_2)
@@ -99,7 +96,7 @@ Entwicklung von Strategien zur Verbreitung der Plattform und Erhöhung der Sicht
 - [D6.1 Exploitation roadmap](deliverables/d6_1)
 - [D6.2 Documentation of two public dissemination activities](deliverables/d6_2)
 - [D6.3 Two scientific publications](deliverables/d6_3)
-- [D6.4 Stakeholder workshop documentation](deliverables/d6_4)
+- [D6.4 Stakeholder workshop documentation](deliverables/d6_4) -->
 
 ### Dokumente
 
