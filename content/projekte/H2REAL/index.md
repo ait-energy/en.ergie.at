@@ -1,6 +1,6 @@
 ---
 title: "H2REAL"
-topics: ["Wasserstoffwirtschaft", "Regionale Energiesysteme", "Dekarbonisierung"]
+topics: ["Wasserstoff", "Valley", "Dekarbonisierung"]
 authors: [plosieva]
 ---
 
@@ -12,14 +12,16 @@ Wasserstoff aus erneuerbaren Energiequellen hat das Potenzial, die vollständige
 |---|---|
 | **Kurzform** | <mark>H2REAL</mark> |
 | **Titel** | Hydrogen Region East Austria goes Live |
-| **Laufzeit** | 01.03.2023 -- 28.02.2026 |
-| **Partner** | 19 [alle anzeigen](#projektpartner) |
+| **Laufzeit** | 15.05.23 -- 14.05.26|
+| **Partner** | 19 ([alle anzeigen]({{< ref "#projektpartner" >}})) |
 | **Projektform** | Kofinanziertes Forschungsprojekt |
-| **Projektleitung** | [Johannes Jungbauer](johannes.jungbauer@wienenergie.at) |
+| **Konsortialführung** | [Johannes Jungbauer](johannes.jungbauer@wienenergie.at) (Wien Energie) |
+| **Projektleitung AIT** | [DI Stefan Reuter](stefan.reuter@ait.ac.at) |
+
 
 ## Überblick
 
-Das Projekt H2REAL zielt darauf ab, ein Hydrogen Valley in der Region Ostösterreich aufzubauen und damit die Entwicklung sowie Anwendung von Wasserstofftechnologien voranzutreiben. Im Fokus steht die Demonstration einer integrierten Wertschöpfungskette entlang der gesamten H₂-Nutzung – von Produktion über Speicherung und Verteilung bis hin zum Verbrauch.
+Das Projekt H2REAL zielt darauf ab, ein Hydrogen Valley in der Region Ostösterreich aufzubauen und damit die Entwicklung sowie Anwendung von Wasserstofftechnologien voranzutreiben. Im Fokus steht die Demonstration einer integrierten Wertschöpfungskette entlang der gesamten H<sub>2</sub>-Nutzung – von Produktion über Speicherung und Verteilung bis hin zum Verbrauch.
 
 Das Projekt verfolgt einen ganzheitlichen Ansatz, der sowohl technologische als auch wirtschaftliche und ökologische Anforderungen berücksichtigt und auf eine breite Implementierung sowie Skalierung von Wasserstofflösungen abzielt.
 
@@ -40,16 +42,20 @@ Die Zusammenarbeit mit Modellregionen und Partnern über regionale Grenzen hinwe
 ### Grundlage für skalierbare Energielösungen
 Die Kombination aus technologischer Umsetzung und systemischer Betrachtung ermöglicht die Entwicklung nachhaltiger Scale-up-Projekte für die Energiewende.
 
-## Tätigkeiten <!--TODO: add WPs-->
+<!--TODO: add WPs
+## Tätigkeiten
 
 ### AP1: 
 <u>Lead: </u>
+ -->
 
 ## Weiterführende Informationen
 
-### Deliverables <!--TODO: add Deliverables-->
+ <!--TODO: add Deliverables
+### Deliverables
 
 - [D]()
+-->
 
 ### Dokumente
 
@@ -78,7 +84,7 @@ Die Kombination aus technologischer Umsetzung und systemischer Betrachtung ermö
 - [Wiener Wasserstoff GmbH](https://www.wienerstadtwerke.at/wiener-wasserstoff)
 - [Windkraft Simonsfeld AG](https://www.wksimonsfeld.at/)
 
-### Forderhinweis 
+### Förderhinweis 
 
 Dieses Projekt wird aus Mitteln des Klima- und Energiefonds gefördert und im Rahmen des Programms „Vorzeigeregion Energie“ durchgeführt.
 Name der Institution: FFG
