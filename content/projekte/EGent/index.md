@@ -1,10 +1,10 @@
 ---
-title: "INTERSTORES"
-topics: ["zentrale Gemeinschaftsspeicher", "stationäre und mobile Schwarmspeicher", "Einbindung in Energiegemeinschaften"]
+title: "EGent"
+topics: ["Speicher", "Energiegemeinschaften"]
 authors: [plosieva]
 ---
 
-Das Projekt EGent adressiert zentrale Herausforderungen der Energiewende durch die stärkere Einbindung von Energiegemeinschaften (EGs). Im Fokus steht die Integration von Gemeinschaftsspeichern – sowohl stationär als auch mobil – in das Energiesystem, um deren Potenziale effizient zu nutzen und zur Erreichung der Klimaziele beizutragen.
+Das Projekt EGent adressiert zentrale Herausforderungen der Energiewende durch die stärkere Einbindung von Energiegemeinschaften (EGs). Im Fokus steht die Integration von Gemeinschaftsspeichern – sowohl stationär als auch mobil - in das Energiesystem, um deren Potenziale effizient zu nutzen und zur Erreichung der Klimaziele beizutragen.
 
 Dabei werden technische, wirtschaftliche und regulatorische Aspekte gleichermaßen berücksichtigt, um praktikable und skalierbare Lösungen für die Umsetzung in realen Energiesystemen zu entwickeln.
 
@@ -13,7 +13,7 @@ Dabei werden technische, wirtschaftliche und regulatorische Aspekte gleichermaß
 
 |   |   |
 |---|---|
-| **Kurzform** | <mark>EDent</mark> |
+| **Kurzform** | <mark>EGent</mark> |
 | **Titel** | Stochastische kooperative Agenten-Systeme für mobile und stationäre (Schwarm-)Speicherkonzepte in Energiegemeinschaften |
 | **Laufzeit** | 01.06.2025 -- 30.11.2027 |
 | **Partner** | 15 [alle anzeigen](#projektpartner) |
@@ -46,23 +46,23 @@ Neben technischen Lösungen spielen rechtliche Vorgaben sowie wirtschaftliche An
 
 Die Entwicklung innovativer Tarif- und Geschäftsmodelle sowie geeigneter Anreizmechanismen ist notwendig, um die Teilnahmebereitschaft von Endkund*innen zu erhöhen und langfristige Akzeptanz zu sichern
 
-## Tätigkeiten <!-- Gibt's keine Detail über APs, da Projekt im 1. Projektjahr ist -->
-
+<!-- 
+## Tätigkeiten 
 ### AP1:
 
 ### AP2:
 
-### AP3:
+### AP3: -->
 
 ## Weiterführende Informationen
 
-### Deliverables <!-- Es gibt noch keine Deliverables, da Projekt im 1. Projektjahr ist -->
+<!-- ### Deliverables 
 
 - [D]() 
 
-### Dokumente <!--es gab bereits Workshops und ein Kick-Off Meeting, diese Infos sollen zu diesem Zeitpunkt veröffentlicht werden.  -->
+### Dokumente 
 
-{{< keyword >}}Example{{< /keyword >}} [Example](https://www.example.com)  
+{{< keyword >}}Example{{< /keyword >}} [Example](https://www.example.com)   -->
 
 ### Projektpartner
 
@@ -80,4 +80,4 @@ Die Entwicklung innovativer Tarif- und Geschäftsmodelle sowie geeigneter Anreiz
 - [Reisenbauer Solutions GmbH](https://reisenbauer.solutions/)
 - [Verein ee-volution](https://projekte.ffg.at/partner/135920)
 
-### Förderhinweis
+<!-- ### Förderhinweis -->
