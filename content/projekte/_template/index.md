@@ -16,7 +16,7 @@ Die Kernfrage des Projekts _Template Projekt_ betrifft, lorem ipsum dolor sit am
 | **Kurzform** | <mark>LoReM</mark> |
 | **Titel** | Lorem ipsum dolor sit amet consetetur sadipscing elitr |
 | **Laufzeit** | 01.03.2024 -- 31.08.2025 |
-| **Partner:innen** | 3 ([alle anzeigen]({{< ref "#projektpartner" >}})) |
+| **Partner:innen** | 3 ([alle anzeigen]({{< ref "#projektpartnerinnen" >}})) |
 | **Projektform** | Kofinanziertes Forschungsprojekt |
 | **Konsortialführung** | [Jane Doe](mailto:x.y@z) (OtherCompX) |
 | **Projektleitung AIT** | [Michelle Muster](mailto:x.y@z) |
@@ -57,7 +57,7 @@ FooBarAI at vero eos et accusam et justo duo dolores et ea rebum. Stet clita kas
 - [D2.2 Lorem ipsum dolor sit](www.example.com)
 - [D4.1 Stet clita kasd gubergren](www.example.com)
 
-### Dokumente
+### Veröffentlichungen
 
 {{< keyword >}}Homepage{{< /keyword >}} Offizielle Projekthomepage: [example.com](https://www.example.com)  
 
@@ -66,6 +66,8 @@ FooBarAI at vero eos et accusam et justo duo dolores et ea rebum. Stet clita kas
 {{< keyword >}}Präsentation{{< /keyword >}} [Lorem ipsum dolor sit amet](https://www.example.com), by J. Doe, 12.01.2026  
 
 {{< keyword >}}Bericht{{< /keyword >}} [At vero eos et accusam!](https://www.example.com)  
+
+{{< keyword >}}Journal{{< /keyword >}} Strömer, S., Beck, A., Traninger, M., Orsolits, D., & Reuter, S. (2024). [Transitioning to a renewable hydrogen system: Optimal infrastructure for self-sufficient hydrogen supply in Austria by 2030](https://doi.org/10.1016/j.segy.2024.100151). _Smart Energy, 15_, 100151.
 
 ### Projektpartner:innen
 
