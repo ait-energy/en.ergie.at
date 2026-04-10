@@ -6,6 +6,8 @@ authors: [plosieva]
 
 Das Projekt DigIPlat adressiert zentrale Herausforderungen der Energiewende im Kontext zunehmender Dezentralisierung, Sektorkopplung und Digitalisierung. Im Fokus steht die Entwicklung interoperabler digitaler Lösungen für Flexibilitätsplattformen, die eine koordinierte und effiziente Nutzung von Flexibilität im Energiesystem ermöglichen.
 
+<!--more-->
+
 Durch die Integration technischer, wirtschaftlicher und prozessbezogener Aspekte zielt DigIPlat darauf ab, bestehende Lücken in der Standardisierung und Interoperabilität zu schließen und damit die Grundlage für ein offenes und skalierbares Flexibilitätsökosystem zu schaffen.
 
 ## Factsheet
@@ -15,7 +17,7 @@ Durch die Integration technischer, wirtschaftlicher und prozessbezogener Aspekte
 | **Kurzform** | <mark>DigIPlat</mark> |
 | **Titel** | Digitale Flexibilitätsplatforme |
 | **Laufzeit** | 01.05.2022 -- 31.08.2025 |
-| **Partner** | 7 [alle anzeigen](#projektpartner) |
+| **Partner** | 7 ([alle anzeigen]({{< ref "#projektpartner" >}})) |
 | **Projektform** | Forschungs- und Innovationsprojekt  |
 | **Projektleitung AIT** | [Zobernig Viktor](Viktor.Zobernig@ait.ac.at)
 
@@ -49,32 +51,27 @@ Markt- und Netzsimulationen spielen eine wichtige Rolle bei der Bewertung der te
 
 Durch die Entwicklung und Validierung interoperabler Lösungen leistet das Projekt einen Beitrag zur Schaffung eines transparenten, skalierbaren und europaweit nutzbaren Flexibilitätsökosystems.
 
-## Tätigkeiten <!-- TODO: add WP -->
+<!-- ## Tätigkeiten 
 
 ### AP1: 
 <u>Lead: </u>
 
 ### AP2: 
-<u>Lead: </u>
+<u>Lead: </u> -->
 
 
 ## Weiterführende Informationen
 
-### Deliverables <!-- TODO: replace all # with links -->
+<!-- ### Deliverables 
 
 - [D](#)
 - [D](#)
-- [D](#)
+- [D](#) -->
 
-### Dokumente  <!-- TODO: add dokumets -->
+<!-- ### Dokumente  
 
-{{< keyword >}}Homepage{{< /keyword >}} Offizielle Projekthomepage: [example.com](https://www.example.com)  
-
-{{< keyword >}}Gastbeitrag{{< /keyword >}} [Lorem ipsum dolor sit amet, consetetur sadipscing elitr](https://www.example.com)  
-
-{{< keyword >}}Präsentation{{< /keyword >}} [Lorem ipsum dolor sit amet](https://www.example.com), by J. Doe, 12.01.2026  
-
-{{< keyword >}}Bericht{{< /keyword >}} [At vero eos et accusam!](https://www.example.com) 
+{{< keyword >}}Example{{< /keyword >}} [example.com](https://www.example.com)  
+  -->
 
 ### Tools
 
