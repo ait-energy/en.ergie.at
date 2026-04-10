@@ -12,9 +12,9 @@ Lastabhängige Netztarife werden als essentieller Beitrag zur Erreichung energie
 | **Kurzform** | <mark>INNOnet</mark> |
 | **Titel** | Interaktive Netzoptimierung und Netztarife |
 | **Laufzeit** | 01.03.2023 -- 31.10.2026 |
-| **Partner** | 10 [alle anzeigen](#projektpartner) |
+| **Partner** | 10 ([alle anzeigen]({{< ref "#projektpartner" >}})) |
 | **Projektform** | Kofinanziertes Forschungsprojekt  |
-| **Projektleitung AIT** | [DI Carolin Monsberger](Projekt.INNOnet@ait.ac.at)|
+| **Projektleitung AIT** | [DI Carolin Monsberger](Carolin.Monsberger@ait.ac.at)|
 
 ## Überblick
 
@@ -31,7 +31,7 @@ Durch die Analyse realer Daten und Testumgebungen können aktivierbare Flexibili
 ### Netzsimulationen unterstützen die Entwicklung zukünftiger Tarife
 Simulationen ermöglichen die Bewertung verschiedener Szenarien und helfen, geeignete Tarifmodelle für zukünftige Energiesysteme zu entwickeln.
 
-## Tätigkeiten <!-- TODO: add WP -->
+<!-- ## Tätigkeiten  -->
 
 ### AP1: Projektmanagement
 <u>Lead: AIT</u>
@@ -40,19 +40,21 @@ Das Arbeitspaket umfasst die Koordination des gesamten Projekts sowie die Abstim
 
 ## Weiterfürende Informationen
 
-### Deliverables <!-- TODO: replace all # with PDF -->
+<!-- ### Deliverables
 - [D2.1 ](#)
-- [D2.2 ](#)
+- [D2.2 ](#) -->
 
 ### Dokumente
 
-{{< keyword >}}Vorstellung des Projekts bei der Mission Innovation Austria Week 2025{{< /keyword >}} [Warum wird die Energiewende im "Sandkasten" erprobt?](https://www.youtube.com/watch?reload=9&v=hbGwq_AQ19E), 07.- 09.10.2025
+{{< keyword >}}Video{{< /keyword >}} [Vorstellung des Projekts bei der Mission Innovation Austria Week 2025](https://www.youtube.com/watch?reload=9&v=hbGwq_AQ19E), 07.- 09.10.2025
 
-{{< keyword >}}Vorstellung des Projekts bei der Fachtagung Netzanschluss der Berner FH{{< /keyword >}} [INNOnet_Fachtagung-Netzanschluss](https://www.ait.ac.at/fileadmin/mc/energy/downloads/IES/Projekte/INNOnet_Fachtagung-Netzanschluss.pdf), 03.06.2025
+{{< keyword >}}Präsentation{{< /keyword >}} [Vorstellung des Projekts bei der Fachtagung Netzanschluss der Berner FH](https://www.ait.ac.at/fileadmin/mc/energy/downloads/IES/Projekte/INNOnet_Fachtagung-Netzanschluss.pdf), 03.06.2025
 
-{{< keyword >}}Vorstellung des Projekts beim PV-Kongress der PV Austria{{< /keyword >}} [INNOnet_PV-Kongress](https://www.ait.ac.at/fileadmin/mc/energy/downloads/IES/Projekte/INNOnet_PV-Kongress.pdf), 17.03.2025 
+{{< keyword >}}Präsentation{{< /keyword >}} [Vorstellung des Projekts beim PV-Kongress der PV Austria](https://www.ait.ac.at/fileadmin/mc/energy/downloads/IES/Projekte/INNOnet_PV-Kongress.pdf), 17.03.2025 
 
-{{< keyword >}}Vorstellung des Projekts beim Symposium Energieinnovation{{< /keyword >}} [INNOnet_Symposium_Energieinnovation](https://www.ait.ac.at/fileadmin/mc/energy/downloads/IES/Projekte/INNOnet_Symposium_Energieinnovation.pdf), 14.-16.02.2024
+{{< keyword >}}Konferenzbeitrag{{< /keyword >}} [Vorstellung des Projekts beim Symposium Energieinnovation](https://www.ait.ac.at/fileadmin/mc/energy/downloads/IES/Projekte/INNOnet_Symposium_Energieinnovation.pdf), 14.-16.02.2024
+
+{{< keyword >}}Präsentation{{< /keyword >}} [Reducing the Need for Grid Expansion through Variable Electricity Grid Tariffs in Households](https://publications.ait.ac.at/de/activities/reducing-the-need-for-grid-expansion-through-variable-electricity/)
 
 ### Projektpartner
 
