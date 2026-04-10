@@ -4,11 +4,7 @@ topics: ["Speicher", "Energiegemeinschaften"]
 authors: [plosieva]
 ---
 
-<<<<<<< HEAD
-Das Projekt EGent adressiert zentrale Herausforderungen der Energiewende durch die stärkere Einbindung von Energiegemeinschaften (EGs). Im Fokus steht die Integration von Gemeinschaftsspeichern – sowohl stationär als auch mobil - in das Energiesystem, um deren Potenziale effizient zu nutzen und zur Erreichung der Klimaziele beizutragen.
-=======
 Das Projekt EGent adressiert zentrale Herausforderungen der Energiewende durch die stärkere Einbindung von Energiegemeinschaften (EGs). Im Fokus steht die Integration von Gemeinschaftsspeichern - sowohl stationär als auch mobil - in das Energiesystem, um deren Potenziale effizient zu nutzen und zur Erreichung der Klimaziele beizutragen.
->>>>>>> 20d593b54d25af8abe06ce93f538144c848461be
 
 Dabei werden technische, wirtschaftliche und regulatorische Aspekte gleichermaßen berücksichtigt, um praktikable und skalierbare Lösungen für die Umsetzung in realen Energiesystemen zu entwickeln.
 
