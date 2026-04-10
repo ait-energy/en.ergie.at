@@ -6,6 +6,8 @@ authors: [plosieva]
 
 Die EU strebt eine rasche Dekarbonisierung des Energiesektors durch das Fit for 55-Paket, den RePowerEU-Plan und den Green Deal an. Großspeichertechnologien zur saisonalen thermischen Energiespeicherung (sTES) (z. B. Becken, Kavernen) können die Bemühungen unterstützen, indem sie die Nutzung fluktuierender Wärmequellen verbessern. INTERSTORES wird sich diesen Herausforderungen stellen und die Dekarbonisierung durch die Anwendung fortschrittlicher sTES-Technologien beschleunigen.
 
+<!--more-->
+
 Das übergeordnete Ziel von INTERSTORES ist die Demonstration und Umsetzung zweier innovativer sTES-Lösungen (Wiederverwendung alter Becken, unterirdische Kavernen) und die Validierung der Nutzung als Mehrzweck-sTES an den Demostandorten. INTERSTORES zielt darauf ab, die Nachhaltigkeit zu verbessern, indem kosteneffiziente, recycelte Isoliermaterialien verwendet werden, der Einsatz erneuerbarer Energien erhöht wird und herkömmlicher Spritzbeton ersetzt wird. Der Haupteffekt wird in der Senkung der Investitionskosten, des Energiebedarfs, der Verringerung der CO<sub>2</sub>-Emissionen und der Umwelt- und Bodenbelastung gesehen.
 
 ## Factsheet
@@ -15,7 +17,7 @@ Das übergeordnete Ziel von INTERSTORES ist die Demonstration und Umsetzung zwei
 | **Kurzform** | <mark>INTERSTORES</mark> |
 | **Titel** | Internationales Innovationsnetzwerk zur Entwicklung von Kosten- und umweltfreundliche saisonale thermische Energiespeicher |
 | **Laufzeit** | 01.01.2024 -- 31.12.2027 |
-| **Partner** | 14 | [alle anzeigen](#projektpartner)
+| **Partner** | 14  [alle anzeigen](#projektpartner) |
 | **Projektform** | Forschungs- und Innovationsprojekt  |
 | **Projekt Koordination** | [Prof. Dr. Peter Bayer](peter.bayer@geo.uni-halle.de) [MLU](https://www.uni-halle.de/) |
 | **Projektleitung AIT** | [Dr. Abdulrahman Dahash](abdulrahman.dahash(at)ait.ac.at) & [Dr. Viktoria Illyés](viktoria.illyes@ait.ac.at) |
