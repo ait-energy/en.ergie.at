@@ -6,6 +6,8 @@ authors: [plosieva]
 
 cells4.energy entwickelt und erprobt Energiezellen als neue Organisationsform regionaler Energiesysteme. Diese integrieren erneuerbare Erzeugung, Flexibilität, Speicherung und Netzsystemdienstleistungen in einer gemeinsamen Struktur. Ziel sind Lösungen, die sofort anwendbar sind, die technische, wirtschaftliche und gesellschaftliche Aspekte verbinden und auf andere Regionen übertragbar sind.
 
+<!--more-->
+
 ## Factsheet
 
 |   |   |
@@ -13,16 +15,16 @@ cells4.energy entwickelt und erprobt Energiezellen als neue Organisationsform re
 | **Kurzform** | <mark>cells4.energy</mark> |
 | **Titel** | Regionale Energiezellen als multienergetische reale Labore für einen schnellen Systemwechsel |
 | **Laufzeit** | 01.10.2023 -- 30.09.2027 |
-| **Partner** | 20 | [alle anzeigen](#projektpartner) |
-| **Projektform** | Forschungs- und Innovationsprojekt  |
+| **Partner** | 20 | ([alle anzeigen]({{< ref "#projektpartner" >}})) |
+| **Projektform** | Kofinanziertes Forschungsprojekt  |
 | **Projektleitung AIT** | [Mag. Branislav Iglar](branislav.iglar@ait.ac.at)|
 
 ## Überblick
 
 Ein zentrales Element des Projekts ist die digitale Steuerung und Optimierung der Energieflüsse durch smarte Algorithmen und Plattformlösungen. Dadurch wird es möglich, Energiegemeinschaften, Prosumer, Unternehmen und Kommunen aktiv in das Energiesystem einzubinden. Neben der technologischen Entwicklung wird auch an neuen Geschäftsmodellen, regulatorischen Rahmenbedingungen und Nutzerakzeptanz geforscht.
 
-<mark>cells4.energy</mark> ist Teil des Reallabors, das aus zwei wesentlichen Säulen besteht:
-Das Leitprojekt <mark>cells4.energy</mark>, in dem die grundlegenden Konzepte und Technologien für Energiezellen erforscht und entwickelt werden.
+cells4.energy ist Teil des Reallabors, das aus zwei wesentlichen Säulen besteht:
+Das Leitprojekt cells4.energy, in dem die grundlegenden Konzepte und Technologien für Energiezellen erforscht und entwickelt werden.
 Das Innovationslabor act4.energy next level, das als praxisnahe Testumgebung dient und das eine Innovationsinfrastruktur für Energiewendeprojekte bereit stellt.
 
 Mit cells4.energy schaffen wir eine Blaupause für die nächste Generation dezentraler Energiesysteme und tragen dazu bei, die Energiewende technologisch, wirtschaftlich und gesellschaftlich voranzutreiben.
@@ -98,7 +100,7 @@ Wissenschaftliche und nicht-wissenschaftliche Dissemination, Kommunikation der P
 
 ## Weiterführende Informationen
 
-### Deliverables <!-- TODO: replace all # with link -->
+<!-- ### Deliverables 
 
 - [D1.1 Definition Energiezelle](#)
 - [D1.2 Cells4.energy Szenarienset](#)
@@ -132,11 +134,11 @@ Wissenschaftliche und nicht-wissenschaftliche Dissemination, Kommunikation der P
 - [D8.4 Virtuelles Kraftwerk für Energiezellen](#)
 
 - [D9.1 Infrastruktur für Nutzung durch Innovationslabor](#)
-- [D9.2 Social Media Kommunikationsstrategie](#)
+- [D9.2 Social Media Kommunikationsstrategie](#) -->
 
-### Dokumente <!-- TODO: add documents -->   
+<!-- ### Dokumente 
 
-{{< keyword >}}Example{{< /keyword >}} [Example](https://www.example.com)  
+{{< keyword >}}Example{{< /keyword >}} [Example](https://www.example.com)   -->
 
 ### Projektpartner
 
