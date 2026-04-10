@@ -17,7 +17,7 @@ Diese Prognosen werden im Zuge des Projekts weiters dazu verwendet, eine Optimie
 | **Kurzform** | <mark>transpAIrent.energy</mark> |
 | **Titel** | transpAIrent.energy - Transparent AI Forecasts for Green Energy in Austria |
 | **Laufzeit** | 01.05.2024 -- 30.04.2027 |
-| **Partner** | 4 [alle anzeigen](#projektpartner) |
+| **Partner** | 4 ([alle anzeigen]({{< ref "#projektpartner" >}})) |
 | **Projektform** | Kofinanziertes Forschungsprojekt |
 | **Projektleitung** | [Klara Maggauer](mailto:klara.maggauer@ait.ac.at) & [Stefan Strömer](mailto:stefan.stroemer@ait.ac.at) |
 
