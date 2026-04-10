@@ -13,7 +13,7 @@ Das Projekt _SETHub - Smart Energy Transformation Hub_ zielt auf eine gesamtheit
 | **Kurzform** | <mark>SETHub</mark> |
 | **Titel** | Smart Energy Transformation Hub |
 | **Laufzeit** | 01.10.2023 -- 31.03.2025 |
-| **Partner** | 2 | [alle anzeigen](#projektpartner)
+| **Partner** | 2 ([alle anzeigen]({{< ref "#projektpartner" >}})) | 
 | **Projektform** | Kofinanziertes Forschungsprojekt |
 | **Projektleitung** | [Philipp Ortmann & Stefan Fink](mailto:philipp.ortmann@ait.ac.at) |
 
