@@ -12,7 +12,7 @@ Wasserstoff aus erneuerbaren Energiequellen hat das Potenzial, die vollständige
 |---|---|
 | **Kurzform** | <mark>H2REAL</mark> |
 | **Titel** | Hydrogen Region East Austria goes Live |
-| **Laufzeit** | 15.05.23 -- 14.05.26 |
+| **Laufzeit** | 15.05.23 -- 14.05.27 |
 | **Partner** | 19 ([alle anzeigen]({{< ref "#projektpartner" >}})) |
 | **Projektform** | Kofinanziertes Forschungsprojekt |
 | **Konsortialführung** | [Johannes Jungbauer](johannes.jungbauer@wienenergie.at) (Wien Energie) |
