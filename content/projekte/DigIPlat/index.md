@@ -1,6 +1,6 @@
 ---
 title: "DigIPlat"
-topics: ["Flexibility platforms", "Interoperability", "Standardization", " Redispatch", "Balancing"]
+topics: ["Flexibilität", "Redispatch", "Regelreserve"]
 authors: [plosieva]
 ---
 
@@ -15,7 +15,7 @@ Durch die Integration technischer, wirtschaftlicher und prozessbezogener Aspekte
 |   |   |
 |---|---|
 | **Kurzform** | <mark>DigIPlat</mark> |
-| **Titel** | Digitale Flexibilitätsplatforme |
+| **Titel** | Digitale Lösungen für die Interoperabilität von Flexibilitätsplattformen |
 | **Laufzeit** | 01.05.2022 -- 31.08.2025 |
 | **Partner** | 7 ([alle anzeigen]({{< ref "#projektpartner" >}})) |
 | **Projektform** | Forschungs- und Innovationsprojekt  |
