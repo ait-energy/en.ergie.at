@@ -20,7 +20,7 @@ In vielen Europäischen Ländern sind bereits heute eine Reihe verschiedener Kap
 | **Kurzform** | <mark>TeKaVe</mark> |
 | **Titel** | Technologieneutrale Kapazitätsmechanismen für eine Versorgungssichere Energiezukunft |
 | **Laufzeit** | 01.03.2024 -- 31.08.2025 |
-| **Partner** | 3 | [alle anzeigen](#projektpartner)
+| **Partner** | 3 [alle anzeigen](#projektpartner) | 
 | **Projektform** | Kofinanziertes Forschungsprojekt |
 | **Projektleitung** | [Stefan Strömer](mailto:stefan.stroemer@ait.ac.at) |
 
