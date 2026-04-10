@@ -69,7 +69,7 @@ FooBarAI at vero eos et accusam et justo duo dolores et ea rebum. Stet clita kas
 
 ### Projektpartner
 
-- [AIT Austrian Institute of Technology GmbH](https://www.ait.ac.at/ueber-das-ait/center/center-for-energy) (Projektkoordinator)
+- [AIT Austrian Institute of Technology GmbH](https://www.ait.ac.at/ueber-das-ait/center/center-for-energy) (Projektkoordination)
 - [Energieinstitut an der Johannes Kepler Universität Linz](https://energieinstitut-linz.at/)
 - [EPEX SPOT SE](https://www.epexspot.com/)
 
