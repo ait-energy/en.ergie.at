@@ -32,7 +32,7 @@ Durch die Entwicklung einer öffentlich zugänglichen Plattform werden Prognosen
 
 
 ### Multi-Ziel-Optimierung schafft Systemvorteile
-Die kombinierte Optimierung ökonomischer und ökologischer Ziele führt zu einem erhöhten betrieblichen Nutzen, schafft Anreize und reduziert gleichzeitig die CO2-Intensität.
+Die kombinierte Optimierung ökonomischer und ökologischer Ziele führt zu einem erhöhten betrieblichen Nutzen, schafft Anreize und reduziert gleichzeitig die CO<sub>2</sub>-Intensität.
 
 ### Daten und Modellierung sind zentrale Grundlage
 Datensammlung, -aufbereitung sowie die Entwicklung von AI-basierten Prognosealgorithmen bilden die Basis für die Erstellung zuverlässiger Vorhersagen und deren Anwendung.
