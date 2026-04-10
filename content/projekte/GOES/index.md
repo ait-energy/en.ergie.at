@@ -4,7 +4,9 @@ topics: ["Geothermal energy", "Optimal energy system", "4th-5th GDHC", "Carbon-n
 authors: [plosieva]
 ---
 
-Das Projekt adressiert zentrale Herausforderungen der Transformation des Energiesystems im Kontext von Dekarbonisierung, Digitalisierung und zunehmender Systemkomplexität. Im Fokus steht die Entwicklung eines standardisierten plattformbasierten Designansatzes (PBD), der eine effiziente Integration erneuerbarer Energiequellen – insbesondere Geothermie – auf unterschiedlichen Systemebenen ermöglicht.
+Das Projekt adressiert zentrale Herausforderungen der Transformation des Energiesystems im Kontext von Dekarbonisierung, Digitalisierung und zunehmender Systemkomplexität. Im Fokus steht die Entwicklung eines standardisierten plattformbasierten Designansatzes (PBD), der eine effiziente Integration erneuerbarer Energiequellen - insbesondere Geothermie - auf unterschiedlichen Systemebenen ermöglicht.
+
+<!--more-->
 
 Durch die Verknüpfung von technologischen, räumlichen und systemischen Ebenen zielt das Projekt darauf ab, skalierbare und übertragbare Lösungen für die Planung und Optimierung nachhaltiger Energiesysteme auf Stadt- und Quartiersebene bereitzustellen.
 
@@ -15,7 +17,7 @@ Durch die Verknüpfung von technologischen, räumlichen und systemischen Ebenen 
 | **Kurzform** | <mark>GOES</mark> |
 | **Titel** | Geothermiebasierte optimierte Energiesysteme |
 | **Laufzeit** | 31.12.2022 -- 31.08.2026 |
-| **Partner** | 8 [alle anzeigen](#projektpartner) | 
+| **Partner** | 8 ([alle anzeigen]({{< ref "#projektpartner" >}})) | 
 | **Projektform** | Forschungs- und Innovationsprojekt  |
 | **Projektleitung AIT** | [Nicolas Marx](Nicolas.Marx@ait.ac.at)|  
 
@@ -85,12 +87,11 @@ In diesem Arbeitspaket werden die entwickelten Methoden und Modelle in Pilotproj
 Das Management umfasst die Koordination und Überwachung aller Projektaktivitäten. Dazu gehören organisatorische Aufgaben, Fortschrittskontrolle, Datenmanagement sowie die Unterstützung von Wissenstransfer und Zusammenarbeit innerhalb des Konsortiums.
 
 ## Weiterführende Informationen
-
-### Deliverable <!-- TODO: add deliverables -->
-
+<!-- 
+### Deliverable 
 - [D]()
 - [D]()
-- [D]()
+- [D]() -->
 
 ### Dokumente  
 
@@ -103,8 +104,6 @@ Das Management umfasst die Koordination und Überwachung aller Projektaktivität
 {{< keyword >}}Zeitschriftartickel{{< /keyword >}} [Schätzung der Kühlkapazitäten aus Luftaufnahmen mit konvolutionalen neuronalen Netzen](https://www.sciencedirect.com/science/article/pii/S030626192300925X?via%3Dihub), 2023
 
 {{< keyword >}}Zeitschriftartickel{{< /keyword >}} [Urbane Energiesystemmodellierung als strategisches Werkzeug für integrierte räumliche und Energieplanung: Ein Multi-Knoten-, Multi-Stufen-Optimierungsansatz](https://www.sciencedirect.com/science/article/pii/S2211467X25002676?via%3Dihub), 2025
-
-
 
 ### Projektpartner 
 
@@ -119,4 +118,4 @@ Das Management umfasst die Koordination und Überwachung aller Projektaktivität
 
 ### Förderhinweis
 
-Das Projekt wird neben den nationalen Förderagenturen Österreichs, Dänemarks, Deutschlands, der USA und der Schweiz auch von GEOTHERMICA – ERA-NET SES kofinanziert.
+Das Projekt wird neben den nationalen Förderagenturen Österreichs, Dänemarks, Deutschlands, der USA und der Schweiz auch von GEOTHERMICA - ERA-NET SES kofinanziert.
