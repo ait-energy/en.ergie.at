@@ -1,6 +1,6 @@
 ---
 title: "INNOnet"
-topics: ["Lastabhängige Netztarife", "Flexibilität der Verbraucher", "Prosumer", "Gemeinschaftsspeicher", "Smart Meter"]
+topics: ["Netztarife", "Flexibilität", "Prosumer", "Speicher", "Smart Meter"]
 authors: [plosieva]
 ---
 Lastabhängige Netztarife werden als essentieller Beitrag zur Erreichung energiepolitischer Ziele erachtet. Das Projekt antizipiert diese Entwicklung, testet lastabhängige Netztarife zur Bestimmung von aktivierbaren Flexibilitätspotentialen bei Haushaltskunden im Realbetrieb, unter-sucht Aspekte der praktischen Umsetzung dieser zukünftigen Tarifstrukturen durch Netzbetreiber und unterstützt die Entwicklung einer gemeinsamen Position der österreichischen Netzwirtschaft für eine umsetzbare und effiziente Ausgestaltung zukünftiger Netztarifstrukturen in Österreich.
@@ -46,15 +46,14 @@ Das Arbeitspaket umfasst die Koordination des gesamten Projekts sowie die Abstim
 
 ### Dokumente
 
-{{< keyword >}}Video{{< /keyword >}} [Vorstellung des Projekts bei der Mission Innovation Austria Week 2025](https://www.youtube.com/watch?reload=9&v=hbGwq_AQ19E), 07.- 09.10.2025
+{{< keyword >}}Video{{< /keyword >}} [Warum wird die Energiewende im "Sandkasten" erprobt?](https://www.youtube.com/watch?reload=9&v=hbGwq_AQ19E), Vorstellung des Projekts bei der Mission Innovation Austria Week 2025, 09.10.2025
 
-{{< keyword >}}Präsentation{{< /keyword >}} [Vorstellung des Projekts bei der Fachtagung Netzanschluss der Berner FH](https://www.ait.ac.at/fileadmin/mc/energy/downloads/IES/Projekte/INNOnet_Fachtagung-Netzanschluss.pdf), 03.06.2025
+{{< keyword >}}Präsentation{{< /keyword >}} [Mit lastabhängigen Netztarifen die energiepolitischen Ziele
+Österreichs erreichen?](https://www.ait.ac.at/fileadmin/mc/energy/downloads/IES/Projekte/INNOnet_Fachtagung-Netzanschluss.pdf), Vorstellung des Projekts bei der Fachtagung Netzanschluss der Berner FH, 03.06.2025
 
-{{< keyword >}}Präsentation{{< /keyword >}} [Vorstellung des Projekts beim PV-Kongress der PV Austria](https://www.ait.ac.at/fileadmin/mc/energy/downloads/IES/Projekte/INNOnet_PV-Kongress.pdf), 17.03.2025 
+{{< keyword >}}Präsentation{{< /keyword >}} [Neue Netztarife: Was sagt die Wissenschaft?](https://www.ait.ac.at/fileadmin/mc/energy/downloads/IES/Projekte/INNOnet_PV-Kongress.pdf), Vorstellung des Projekts beim PV-Kongress der PV Austria, 17.03.2025 
 
-{{< keyword >}}Konferenzbeitrag{{< /keyword >}} [Vorstellung des Projekts beim Symposium Energieinnovation](https://www.ait.ac.at/fileadmin/mc/energy/downloads/IES/Projekte/INNOnet_Symposium_Energieinnovation.pdf), 14.-16.02.2024
-
-{{< keyword >}}Präsentation{{< /keyword >}} [Reducing the Need for Grid Expansion through Variable Electricity Grid Tariffs in Households](https://publications.ait.ac.at/de/activities/reducing-the-need-for-grid-expansion-through-variable-electricity/)
+{{< keyword >}}Präsentation{{< /keyword >}} [Reduzierung des Netzausbaubedarfs durch variable Stromnetztarife in Haushalten](https://www.ait.ac.at/fileadmin/mc/energy/downloads/IES/Projekte/INNOnet_Symposium_Energieinnovation.pdf), Vorstellung des Projekts beim 18. Symposium Energieinnovation, 14.-16.02.2024
 
 ### Projektpartner
 
