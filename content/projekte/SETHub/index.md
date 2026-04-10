@@ -6,6 +6,8 @@ authors: [dkrainer, portmann]
 
 Das Projekt _SETHub - Smart Energy Transformation Hub_ zielt auf eine gesamtheitliche Analyse eines netzdienlichen Einsatzes von Elektrolyseanlagen ab und wurde für ausgewählte Standorte in der Steiermark durchgeführt. Ziel war die Analyse des regulatorischen Umsetzungsrahmens und die Betrachtung der Rolle des netzdienlichen Einsatzes von Elektrolyseuren zur Erhöhung der Aufnahmefähigkeit von Verteilernetzen für erneuerbare Erzeugungskapazitäten. Die ökonomische Betrachtung des netzdienlichen Einsatzes von Elektrolyseanlagen wird durch eine techno-ökonomische Modellierung von Elektrolyseuren im Verteilnetz ermöglicht. 
 
+<!--more-->
+
 ## Factsheet
 
 |   |   |
@@ -15,7 +17,7 @@ Das Projekt _SETHub - Smart Energy Transformation Hub_ zielt auf eine gesamtheit
 | **Laufzeit** | 01.10.2023 -- 31.03.2025 |
 | **Partner** | 2 ([alle anzeigen]({{< ref "#projektpartner" >}})) | 
 | **Projektform** | Kofinanziertes Forschungsprojekt |
-| **Projektleitung** | [Philipp Ortmann & Stefan Fink](mailto:philipp.ortmann@ait.ac.at) |
+| **Projektleitung AIT** | [Philipp Ortmann & Stefan Fink](mailto:philipp.ortmann@ait.ac.at) |
 
 ## Überblick
 
