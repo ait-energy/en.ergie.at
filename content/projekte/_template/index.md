@@ -16,7 +16,7 @@ Die Kernfrage des Projekts _Template Projekt_ betrifft, lorem ipsum dolor sit am
 | **Kurzform** | <mark>LoReM</mark> |
 | **Titel** | Lorem ipsum dolor sit amet consetetur sadipscing elitr |
 | **Laufzeit** | 01.03.2024 -- 31.08.2025 |
-| **Partner** | 3 ([alle anzeigen]({{< ref "#projektpartner" >}})) |
+| **Partner:innen** | 3 ([alle anzeigen]({{< ref "#projektpartner" >}})) |
 | **Projektform** | Kofinanziertes Forschungsprojekt |
 | **Konsortialführung** | [Jane Doe](mailto:x.y@z) (OtherCompX) |
 | **Projektleitung AIT** | [Michelle Muster](mailto:x.y@z) |
