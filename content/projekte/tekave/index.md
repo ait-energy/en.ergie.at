@@ -26,7 +26,7 @@ In vielen Europäischen Ländern sind bereits heute eine Reihe verschiedener Kap
 
 ## Überblick
 
-Die Kernfrage des Projekts wird aus der regulatorischen sowie ökonomischen Sicht untersucht. Für die ökonomische Analyse wird ein innovativer Modellierungsansatz angewendet, der Investitionsoptimierung und agentenbasierte Marktmodellierung kombiniert. Somit können die KM-Designs verglichen werden sowie der Einfluss weiterer Faktoren wie EE-Förderung, CO2-Bepreisung oder Flexibilitätsmaßnahmen untersucht werden.
+Die Kernfrage des Projekts wird aus der regulatorischen sowie ökonomischen Sicht untersucht. Für die ökonomische Analyse wird ein innovativer Modellierungsansatz angewendet, der Investitionsoptimierung und agentenbasierte Marktmodellierung kombiniert. Somit können die KM-Designs verglichen werden sowie der Einfluss weiterer Faktoren wie EE-Förderung, CO<sub>2</sub>-Bepreisung oder Flexibilitätsmaßnahmen untersucht werden.
 
 ## Erkentnisse
 
@@ -63,7 +63,7 @@ Technologieoffenheit sowie die Berücksichtigung regionaler Komponenten sind wic
 ### AP1: Projektmanagement
 <u>Lead: AIT</u>
 
-Effektives Projektmanagement – insbesondere Koordination und Controlling – mit Fokus auf Erreichung der Projektziele und Projektergebnisse. Zeitmanagement, Priorisierung und Moderation der Entscheidungsfindung bei inhaltlichen Problemen sowie Klärung rechtlicher Fragen und Erstellung des Konsortialvertrages. Zusätzlich umfasst das Arbeitspaket Qualitätssicherung sowie Kommunikation und Vermarktung der Projektergebnisse und die Diskussion der Zwischen- und Endergebnisse mit relevanten Stakeholdern.
+Effektives Projektmanagement - insbesondere Koordination und Controlling - mit Fokus auf Erreichung der Projektziele und Projektergebnisse. Zeitmanagement, Priorisierung und Moderation der Entscheidungsfindung bei inhaltlichen Problemen sowie Klärung rechtlicher Fragen und Erstellung des Konsortialvertrages. Zusätzlich umfasst das Arbeitspaket Qualitätssicherung sowie Kommunikation und Vermarktung der Projektergebnisse und die Diskussion der Zwischen- und Endergebnisse mit relevanten Stakeholdern.
 
 ### AP2: Qualitative Analyse
 <u>Lead: AIT</u>
@@ -102,6 +102,28 @@ Entwicklung einer angemessenen Schadenersatzregelung für Kapazitätsmärkte bas
 {{< keyword >}}Präsentation{{< /keyword >}} [Wien Energie](assets/TeKaVe_Stakeholder_Workshop_WE.pdf)
 
 {{< keyword >}}Bericht{{< /keyword >}} [Stakeholder Bericht](deliverables/bericht.pdf)
+
+### Projektpartner
+
+- [AIT Austrian Institute of Technology GmbH](https://www.ait.ac.at/ueber-das-ait/center/center-for-energy) (Projektkoordinator)
+- [Raiffeisenlandesbank Burgenland und Revisionsverband eGen](https://www.raiffeisen.at/bgld/de/privatkunden.html)
+- [Hydro GmbH, Ingenieurbüro für Hydrogeo logie und Geothermie](https://www.hydro-gmbh.at/)
+- [Österreichische Stromnetz AG](https://www.apg.at/)
+- [Axtesys GmbH](https://axtesys.at/)
+- [Panasonic Marketing Europe GmbH](https://www.aircon.panasonic.eu/DE_de/)
+- [rabmer GreenTech GmbH](https://www.rabmer.at/)
+- [ENERGIE KOMPASS GMBH](https://www.energie-kompass.at/)
+- [Pink GmbH](https://pink.co.at/)
+- [HyCentA Research GmbH](https://www.hycenta.at/)
+- [CANCOM Austria AG](https://www.cancom.at/)
+- [VERBUND Green Power GmbH](https://www.verbund.com/de/privat)
+- [VIRIDAD GmbH](https://escapade-erasmus.eu/)
+- [Norwegische Universität für Wissenschaft und Technologie](https://www.ntnu.edu/)
+- [Salzburg Research Forschungsgesellschaft m.b.H.](https://www.salzburgresearch.at/)
+- [Landeshauptstadt Freistadt Eisenstadt](https://www.eisenstadt.gv.at/)
+- [Energienetze Steiermark GmbH](https://www.e-netze.at/)
+- [Universität Passau Lehrstuhl für Informatik mit Schwerpunkt Rechnernetze und Rechnerkommunikation](https://www.uni-passau.de/)
+- [Geo5 GmbH](https://www.geo-5.at/)
 
 ### Förderhinweis
 
