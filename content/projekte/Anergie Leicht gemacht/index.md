@@ -12,7 +12,7 @@ authors: [plosieva]
 | **Kurzform** | <mark>Anergie leicht gemacht</mark> |
 | **Titel** | Entwicklung von multiplizierbaren Umsetzungsmodellen für Geothermie-AnergieNetze zur Dekarbonisierung im Gebäudebestand |
 | **Laufzeit** | 01.04.2025 -- 31.03.2027 |
-| **Partner** | 6 [alle anzeigen](#projektpartner) |
+| **Partner** | 6 ([alle anzeigen]({{< ref "#projektpartner" >}})) |
 | **Projektform** | Kofinanziertes Forschungsprojekt |
 | **Konsortialführung** | [ Gerhard Hofer](gerhard.hofer@e-sieben.at) (e7 energy innovation & engineering) |
 | **Projektleitung AIT** | [Edith Haslinger](Edith.Haslinger@ait.ac.at) & [Viktoria Illyés](Viktoria.Illyes@ait.ac.at) |
@@ -35,18 +35,18 @@ Die enge Kooperation mit Gemeinden, Energiedienstleistern und weiteren Akteuren 
 ### Akzeptanz und Beteiligung beeinflussen den Projekterfolg
 Workshops und Stakeholder-Beteiligung tragen wesentlich dazu bei, die Akzeptanz in der Bevölkerung zu steigern und die Umsetzung von Energienetzen langfristig zu sichern.
 
-## Tätigkeiten   <!-- TODO: add WPs -->
+<!-- ## Tätigkeiten   
 
 ### AP1:  
-<u>Lead: </u>
+<u>Lead: </u> -->
 
 ## Weiterführende Informationen
 
-### Deliverables <!-- TODO: add Deliverables -->
+<!-- ### Deliverables 
 
-- [D]()
+- [D]() -->
 
-### Dokumente <!-- TODO: add Documents -->
+### Dokumente 
 
 {{< keyword >}}Projektberichte{{< /keyword >}} [Projektberichte aus den Forschungs- und Technologieprogrammen](https://klimaneutralestadt.at/de/publikationen/projektberichte.php)  
 
