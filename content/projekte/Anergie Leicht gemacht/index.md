@@ -23,7 +23,7 @@ Das Projekt entwickelt und testet skalierbare Umsetzungsmodelle für Energienetz
 
 ## Erkenntnisse
 
-### Standardisierte Umsetzungsmodelle ermöglichen Skalierung
+### Standardisierte Umsetzungsmodelle für unterschiedliche Siedlungstypen ermöglichen Skalierung
 Die Entwicklung multiplikationsfähiger Modelle für Energienetze zeigt, dass sowohl Bottom-up- als auch Top-down-Ansätze notwendig sind, um eine breite und flexible Anwendung in unterschiedlichen Siedlungstypen zu gewährleisten.
 
 ### Integration von technischen, organisatorischen und finanziellen Aspekten ist entscheidend
