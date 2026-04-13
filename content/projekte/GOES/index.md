@@ -17,7 +17,7 @@ Durch die Verknüpfung von technologischen, räumlichen und systemischen Ebenen 
 | **Kurzform** | <mark>GOES</mark> |
 | **Titel** | Geothermiebasierte optimierte Energiesysteme |
 | **Laufzeit** | 31.12.2022 -- 31.08.2026 |
-| **Partner** | 8 ([alle anzeigen]({{< ref "#projektpartner" >}})) | 
+| **Partner:innen** | 8 ([alle anzeigen]({{< ref "#projektpartnerinnen" >}})) | 
 | **Projektform** | Forschungs- und Innovationsprojekt  |
 | **Projektleitung AIT** | [Nicolas Marx](Nicolas.Marx@ait.ac.at)|  
 
@@ -93,21 +93,21 @@ Das Management umfasst die Koordination und Überwachung aller Projektaktivität
 - [D]()
 - [D]() -->
 
-### Dokumente  
+###  Veröffentlichungen  
 
-{{< keyword >}}Publikation{{< /keyword >}} [Modell der thermischen Energiespeicherung niedriger Ordnung im Aquifer für die Simulation von geothermischen Systemen](https://doi.org/10.3384/ecp204389), 2023
+{{< keyword >}}Publikation{{< /keyword >}} Alessandro Maccarini, Michael Wetter, Davide Varesano, Martin Bloemendal, Alireza Afshari (2023). [Low-order aquifer thermal energy storage model for geothermal system simulation](https://doi.org/10.3384/ecp204389)
 
-{{< keyword >}}Publikation{{< /keyword >}} [Technoökonomische Machbarkeit von Fern- und Heiz- und Kühllösungen – Eine vorläufige Bewertung ausgewählter Fallstudien](https://vbn.aau.dk/en/publications/book-of-abstracts-10th-international-conference-on-smart-energy-s-2/), 2024
+{{< keyword >}}Publikation{{< /keyword >}} Nicolas Marx, Daniel Horak, Johannes Conrad, Bernhard Mayr, Ralf-Roman Schmidt, Edith Haslinger and Ali Hainoun (2024). [Techno-Economic Feasibility of District and Individual Heating & Cooling Solutions – A Preliminary Assessment of Selected Case Studies](https://vbn.aau.dk/en/publications/book-of-abstracts-10th-international-conference-on-smart-energy-s-2/)
 
-{{< keyword >}}Journal{{< /keyword >}} [Plattformbasiertes Design für Energiesysteme](https://doi.org/10.1016/j.apenergy.2023.121955), 2023
+{{< keyword >}}Journal{{< /keyword >}} Matthias Sulzer, Michael Wetter, Robin Mutschler, Alberto Sangiovanni-Vincentelli (2023). [Platform-based design for energy systems](https://doi.org/10.1016/j.apenergy.2023.121955)
 
-{{< keyword >}}Journal{{< /keyword >}} [Schätzung der Kühlkapazitäten aus Luftaufnahmen mit konvolutionalen neuronalen Netzen](https://doi.org/10.1016/j.apenergy.2023.121561), 2023
+{{< keyword >}}Journal{{< /keyword >}} Florian Barth, Simon Schüppler, Kathrin Menberg, Philipp Blum (2023). [Estimating cooling capacities from aerial images using convolutional neural networks](https://doi.org/10.1016/j.apenergy.2023.121561)
 
-{{< keyword >}}Journal{{< /keyword >}} [Urbane Energiesystemmodellierung als strategisches Werkzeug für integrierte räumliche und Energieplanung: Ein Multi-Knoten-, Multi-Stufen-Optimierungsansatz](https://doi.org/10.1016/j.esr.2025.101904), 2025
+{{< keyword >}}Journal{{< /keyword >}} Daniel Horak, Ali Hainoun, Gernot Stoeglehner (2025). [Urban energy system modeling as strategic tool for integrated spatial and energy planning: A multi-node, multi-stage optimization approach](https://doi.org/10.1016/j.esr.2025.101904), 2025
 
-### Projektpartner 
+### Projektpartner:innen 
 
-- [Empa](https://www.empa.ch/) (Projektkoordinator)
+- [Empa](https://www.empa.ch/) (Projektkoordination)
 - [AIT Austrian Institute of Technology GmbH](https://www.ait.ac.at/)
 - [Lawrence Berkeley National Lab (LBNL)](https://www.lbl.gov/)
 - [University of California – Berkeley](https://www.berkeley.edu/)
