@@ -1,6 +1,6 @@
 ---
 title: "ENABLE-DHC"
-topics: ["ThemaA", "ThemaB"]
+topics: ["Dekarbonisierung", "Fernwärme", "Investitionsplanung"]
 authors: [plosieva]
 ---
 ENABLE-DHC ist ein EU-gefördertes Projekt im Rahmen des LIFE-Programms, das die Transformation von Fernwärme- und Fernkältesystemen in Richtung Klimaneutralität unterstützt. Im Fokus steht die Entwicklung konkreter Investitionsstrategien und praxisnaher Lösungen zur Dekarbonisierung bestehender Systeme in mehreren europäischen Ländern.
