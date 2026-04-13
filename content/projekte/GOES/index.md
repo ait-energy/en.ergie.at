@@ -4,7 +4,7 @@ topics: ["Geothermie", "Fernwärme", "Dekarbonisierung"]
 authors: [plosieva]
 ---
 
-Das Projekt adressiert zentrale Herausforderungen der Transformation des Energiesystems im Kontext von Dekarbonisierung, Digitalisierung und zunehmender Systemkomplexität. Im Fokus steht die Entwicklung eines standardisierten plattformbasierten Designansatzes (PBD), der eine effiziente Integration erneuerbarer Energiequellen - insbesondere Geothermie - auf unterschiedlichen Systemebenen ermöglicht.
+Das Projekt adressiert zentrale Herausforderungen der Transformation des Energiesystems im Kontext von Dekarbonisierung, Digitalisierung und zunehmender Systemkomplexität. Im Fokus steht die Entwicklung eines standardisierten <abbr title="plattformbasierter Designansatz">PBD</abbr>, der eine effiziente Integration erneuerbarer Energiequellen - insbesondere Geothermie - auf unterschiedlichen Systemebenen ermöglicht.
 
 <!--more-->
 
@@ -95,15 +95,15 @@ Das Management umfasst die Koordination und Überwachung aller Projektaktivität
 
 ### Dokumente  
 
-{{< keyword >}}Publikation{{< /keyword >}} [Modell der thermischen Energiespeicherung niedriger Ordnung im Aquifer für die Simulation von geothermischen Systemen,](assets/Publikation_2.pdf), 2023
+{{< keyword >}}Publikation{{< /keyword >}} [Modell der thermischen Energiespeicherung niedriger Ordnung im Aquifer für die Simulation von geothermischen Systemen](https://doi.org/10.3384/ecp204389), 2023
 
-{{< keyword >}}Publikation{{< /keyword >}} [Technoökonomische Machbarkeit von Fern- und Heiz- und Kühllösungen – Eine vorläufige Bewertung ausgewählter Fallstudien](assets/Publikation_1.pdf), 2024
+{{< keyword >}}Publikation{{< /keyword >}} [Technoökonomische Machbarkeit von Fern- und Heiz- und Kühllösungen – Eine vorläufige Bewertung ausgewählter Fallstudien](https://vbn.aau.dk/en/publications/book-of-abstracts-10th-international-conference-on-smart-energy-s-2/), 2024
 
-{{< keyword >}}Zeitschriftartickel{{< /keyword >}} [Plattformbasiertes Design für Energiesysteme](https://www.sciencedirect.com/science/article/pii/S0306261923013193?via%3Dihub), 2023
+{{< keyword >}}Journal{{< /keyword >}} [Plattformbasiertes Design für Energiesysteme](https://doi.org/10.1016/j.apenergy.2023.121955), 2023
 
-{{< keyword >}}Zeitschriftartickel{{< /keyword >}} [Schätzung der Kühlkapazitäten aus Luftaufnahmen mit konvolutionalen neuronalen Netzen](https://www.sciencedirect.com/science/article/pii/S030626192300925X?via%3Dihub), 2023
+{{< keyword >}}Journal{{< /keyword >}} [Schätzung der Kühlkapazitäten aus Luftaufnahmen mit konvolutionalen neuronalen Netzen](https://doi.org/10.1016/j.apenergy.2023.121561), 2023
 
-{{< keyword >}}Zeitschriftartickel{{< /keyword >}} [Urbane Energiesystemmodellierung als strategisches Werkzeug für integrierte räumliche und Energieplanung: Ein Multi-Knoten-, Multi-Stufen-Optimierungsansatz](https://www.sciencedirect.com/science/article/pii/S2211467X25002676?via%3Dihub), 2025
+{{< keyword >}}Journal{{< /keyword >}} [Urbane Energiesystemmodellierung als strategisches Werkzeug für integrierte räumliche und Energieplanung: Ein Multi-Knoten-, Multi-Stufen-Optimierungsansatz](https://doi.org/10.1016/j.esr.2025.101904), 2025
 
 ### Projektpartner 
 
