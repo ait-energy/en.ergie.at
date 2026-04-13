@@ -13,14 +13,14 @@ Wasserstoff aus erneuerbaren Energiequellen hat das Potenzial, die vollständige
 | **Kurzform** | <mark>H2REAL</mark> |
 | **Titel** | Hydrogen Region East Austria goes Live |
 | **Laufzeit** | 15.05.23 -- 14.05.27 |
-| **Partner** | 19 ([alle anzeigen]({{< ref "#projektpartner" >}})) |
+| **Partner:innen** | 19 ([alle anzeigen]({{< ref "#projektpartnerinnen" >}})) |
 | **Projektform** | Kofinanziertes Forschungsprojekt |
 | **Konsortialführung** | [Johannes Jungbauer](johannes.jungbauer@wienenergie.at) (Wien Energie) |
-| **Projektleitung AIT** | [Dana Orsolits](Dana.Orsolits@ait.ac.at) |
+| **Projektleitung AIT** | [DI Stefan Reuter](stefan.reuter@ait.ac.at) |
 
 ## Überblick
 
-Das Projekt H2REAL zielt darauf ab, ein Hydrogen Valley in der Region Ostösterreich aufzubauen und damit die Entwicklung sowie Anwendung von Wasserstofftechnologien voranzutreiben. Im Fokus steht die Demonstration einer integrierten Wertschöpfungskette entlang der gesamten H<sub>2</sub>-Nutzung – von Produktion über Speicherung und Verteilung bis hin zum Verbrauch.
+Das Projekt H2REAL zielt darauf ab, ein Hydrogen Valley in der Region Ostösterreich aufzubauen und damit die Entwicklung sowie Anwendung von Wasserstofftechnologien voranzutreiben. Im Fokus steht die Demonstration einer integrierten Wertschöpfungskette entlang der gesamten H<sub>2</sub>-Nutzung - von Produktion über Speicherung und Verteilung bis hin zum Verbrauch.
 
 Das Projekt verfolgt einen ganzheitlichen Ansatz, der sowohl technologische als auch wirtschaftliche und ökologische Anforderungen berücksichtigt und auf eine breite Implementierung sowie Skalierung von Wasserstofflösungen abzielt.
 
@@ -56,14 +56,14 @@ Die Kombination aus technologischer Umsetzung und systemischer Betrachtung ermö
 - [D]()
 -->
 
-### Dokumente
+### Veröffentlichungen
 
 {{< keyword >}}Projektvideo{{< /keyword >}} [Vorstellung des Projekts](https://www.youtube.com/watch?v=WPlUJpRNThg)  
 {{< keyword >}}Artikel{{< /keyword >}} [Wasserstoff-Forschung im Osten Österreichs bündelt ihre Kräfte](https://www.wiva.at/2024/05/24/wasserstoff-forschung-im-osten-oesterreichs-buendelt-ihre-kraefte/)  
 
-### Projektpartner
+### Partner:innen
 
-- [Wien Energie GmbH](https://www.wienenergie.at/) (Projektkoordinator)
+- [Wien Energie GmbH](https://www.wienenergie.at/) (Projektkoordination)
 - [AIT Austrian Institute of Technology GmbH](https://www.ait.ac.at/)
 - [Energieinstitut an der JKU Linz](https://energieinstitut-linz.at/)
 - [HyCentA Research GmbH](https://www.hycenta.at/)
