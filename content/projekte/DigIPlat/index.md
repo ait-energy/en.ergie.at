@@ -62,16 +62,64 @@ Durch die Entwicklung und Validierung interoperabler Lösungen leistet das Proje
 
 ## Weiterführende Informationen
 
-<!-- ### Deliverables 
+### Deliverables 
 
-- [D](#)
-- [D](#)
-- [D](#) -->
+- [D1.3 Regulatorische Handlungsempfehlungen aus DigIPlat](deliverables/D1.3.pdf)
 
-<!-- ### Dokumente  
+- [D3.1 Aktuelles Framework und Best Practices von bestehenden Flexibilitätsplattformen](deliverables/D3.1.pdf)
+- [D3.2 Standardisierte Flexibilitätsprodukte und Attribute](deliverables/D3.2.pdf) 
+- [D3.3 Definition von Anwendungsfällen für multifunktionale Flexibilität](deliverables/D3.3.pdf) 
+- [D3.4 Standardisierter Rahmen für interoperable Flexibilität](deliverables/D3.4.pdf) 
 
-{{< keyword >}}Example{{< /keyword >}} [example.com](https://www.example.com)  
-  -->
+- [D4.1 + D4.2 Implementierung des Demonstrators](deliverables/D4.1_D4.2.pdf) 
+- [D4.3 Definition und Implementierung eines standardisierten Stromnetzmodells](deliverables/D4.3.pdf) 
+- [D4.4 Technische Bewertung der entwickelten Architektur basierend auf den Ergebnissen des Feldtest-PDFs](deliverables/D4.4.pdf) 
+
+- [D5.1 Integration standardisierter Flexibilitätsanforderungen und multimarktorientierte Kommerzialisierung von Flexibilität in einem virtuellen Kraftwerk](deliverables/D5.1.pdf) 
+- [D5.2 Standardisierte interoperabe Flexibilität durch Vermeidung von Netzüberlastung](deliverables/D5.2.pdf) 
+- [D5.3 Ansätze zur Beschaffung von Balancing und Redispatch sowie zugehörige Anreize für Flexibilitätsanbieter](deliverables/D5.3.pdf) 
+- [D5.4 Relevanz von Intraday-Märkten für Flexibilität Bewertung](deliverables/D5.4.pdf) 
+- [D5.5 Bewertung und Effizienz von Flexibilitätsplattformen](deliverables/D5.5.pdf) 
+
+### Dokumente  
+
+{{< keyword >}}Journal{{< /keyword >}} [Dynamische Modellierung und Steuerung zur Bewertung der großflächigen Wind- und Solareinbindung in Energiesystemen](https://doi.org/10.1049/iet-rpg.2020.0458?urlappend=%3Futm_source%3Dresearchgate.net%26utm_medium%3Darticle)
+
+{{< keyword >}}Journal{{< /keyword >}} [IT-Lösungen zur Erbringung von Regelleistungaus PV-Anlagen unter Verwendung derSmart-Meter-Infrastruktur](https://doi.org/10.1365/s40702-024-01087-y)
+
+{{< keyword >}}Journal{{< /keyword >}} [Ensuring Data Privacy in AC Optimal Power Flow with a Distributed Co-Simulation Framework](https://doi.org/10.1016/j.epsr.2024.110710)
+
+{{< keyword >}}Journal{{< /keyword >}} [Effiziente Operationalisierung der Flexibilitätsbeschaffung: Marktdesignanalyse und Prozessdefinition](https://doi.org/10.3390/en17122876)
+
+{{< keyword >}}Journal{{< /keyword >}} [Offene, datengetriebene Automatisierung der Wohnverteilungsnetzmodellierung mit minimalen Datenanforderungen](https://doi.org/10.3390/en17122876)
+
+
+
+{{< keyword >}}Publikation{{< /keyword >}} [Offene, datengetriebene Automatisierung der Wohnverteilungsnetzmodellierung mit minimalen Datenanforderungen](https://doi.org/10.48550/arXiv.2312.06552)  
+
+{{< keyword >}}Publikation{{< /keyword >}} [Wie die Interoperabilität von Flexibilitätsplattformen Marktdesign-Möglichkeiten ermöglicht](https://doi.org/10.1109/EEM58374.2023.10161815)  
+
+{{< keyword >}}Publikation{{< /keyword >}} [Herausforderungen bei der Teilnahme kleiner PV-Anlagen am Regelreservemarkt aus bilanzieller Sicht](https://www.energiewirtschaft.org/wp-content/uploads/2023/05/PDF_18127_et_1_2_2023_S_48_53.pdf)
+
+{{< keyword >}}Publikation{{< /keyword >}} [Ein optimierungsbasierter Ansatz zur automatisierten Generierung von Wohn-Niederspannungsnetzmodellen unter Verwendung von Open Data und Open-Source-Software](https://doi.org/10.1109/ISGT-Europe54678.2022.9960483) 
+
+{{< keyword >}}Publikation{{< /keyword >}} [Verwendung von Open Data zur Modellierung und Simulation der All Electrical Society in eASiMOV](https://doi.org/10.1109/OSMSES54027.2022.9769145) 
+
+{{< keyword >}}Publikation{{< /keyword >}} [Nutzung ungenutzter Kapazitäten im Netz](https://doi.org/10.1109/ISGT-Asia.2019.8880909) 
+
+{{< keyword >}}Publikation{{< /keyword >}} [Schnelle Netzzustandsschätzung für Stromnetze: Ein Ensemble-Machine-Learning-Ansatz](https://doi.org/10.1109/SEGE55279.2022.9889763)  
+
+{{< keyword >}}Publikation{{< /keyword >}} [TSO-DSO Interaction: Privacy-Preserving Optimal Power Flow with Distributed Generators Using a Machine Learning-Based Approach](https://doi.org/10.1109/APPEEC57400.2023.10562006)
+
+
+
+{{< keyword >}}Konferenz{{< /keyword >}} [TSO-DSO-Interaktion: Datenschutzwahrender optimaler Stromfluss mit verteilten Generatoren unter Verwendung eines maschinellen Lernansatzes](https://doi.org/10.1109/APPEEC57400.2023.10562006)
+
+{{< keyword >}}Konferenz{{< /keyword >}} [Technische Lösungen und Geschäftsaussichten für die Beteiligung kleiner PV-Systeme am Markt für Balancenenergie](https://doi.org/10.1109/EEM54602.2022.9921005)
+
+
+
+{{< keyword >}}Bericht{{< /keyword >}} ["Einsatz von kleinen PV-Anlagen zur Erbringung von Regelleistung"](https://www.energiewirtschaft.org/wp-content/uploads/2021/11/Artikel_et_11_2021_S_61_64.pdf#:~:text=PV-Anlagen%20bergen%20grunds%C3%A4tzlich%20ein%20sehr%20hohes%20Potenzial%20zur,eine%20attraktive%20Option%20zur%20Erhaltung%20der%20Systemstabilit%C3%A4t%20dar)
 
 ### Tools
 
