@@ -4,7 +4,7 @@ topics: ["Thermal energy storage", "Renewable energy", "Optimization"]
 authors: [plosieva]
 ---
 
-The EU aims for a rapid decarbonization of the energy sector through the Fit for 55 package, the REPowerEU plan, and the Green Deal. Large scale seasonal thermal energy storage (sTES) technologies (e.g. basins, caverns) can support these efforts by improving the use of fluctuating heat sources. INTERSTORES addresses these challenges and accelerates decarbonization through the application of advanced sTES technologies.
+The EU aims for a rapid decarbonization of the energy sector through the Fit for 55 package, the REPowerEU plan, and the Green Deal. Large scale <abbr title="seasonal thermal energy storage technologies">sTES</abbr> (e.g. basins, caverns) can support these efforts by improving the use of fluctuating heat sources. INTERSTORES addresses these challenges and accelerates decarbonization through the application of advanced sTES technologies.
 
 <!--more-->
 
@@ -18,9 +18,9 @@ The overall objective of INTERSTORES is to demonstrate and implement two innovat
 | **Title** | International Innovation Network for the Development of Cost- and Environmentally Efficient Seasonal Thermal Energy Storages |
 | **Duration** | 01.01.2024 -- 31.12.2027 |
 | **Partners** | 14 ([show all]({{< ref "#project partners" >}})) |
-| **Project type** | Research and innovation project |
-| **Project coordination** | [Prof. Dr. Peter Bayer](peter.bayer@geo.uni-halle.de) [MLU](https://www.uni-halle.de/) |
-| **Project lead AIT** | [Dr. Abdulrahman Dahash](abdulrahman.dahash(at)ait.ac.at) & [Dr. Viktoria Illyés](viktoria.illyes@ait.ac.at) |
+| **Project type** | Co-funded research project |
+| **Consortium lead** | [Peter Bayer](peter.bayer@geo.uni-halle.de) [MLU](https://www.uni-halle.de/) |
+| **Project lead AIT** | [Abdulrahman Dahash](abdulrahman.dahash(at)ait.ac.at) & [Viktoria Illyés](viktoria.illyes@ait.ac.at) |
 
 ## Overview
 
@@ -28,7 +28,7 @@ The INTERSTORES consortium aims to overcome high capital costs by reusing infras
 
 Another approach focuses on reducing capital costs for new sTES developments by utilizing natural environments such as caverns in dense rock formations. INTERSTORES will integrate the world’s largest thermal energy storage system in rock caverns (Giga-CTES, FI).
 
-## Insights
+## Findings
 
 ### Innovative use of existing infrastructure
 
@@ -103,7 +103,7 @@ Development and implementation of communication and dissemination measures to sh
 - [D7.1 Dissemination & Communication Plan]()
 - [D7.2 Policy Guidelines]() -->
 
-<!-- ### Documents 
+<!-- ### Publications
 
 {{< keyword >}}Example{{< /keyword >}} [Example](https://www.example.com)  
 -->
