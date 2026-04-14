@@ -4,8 +4,7 @@ topics: ["Kapazitätsmechanismen", "Versorgungssicherheit", "Märkte"]
 authors: [sstroemer]
 ---
 
-Die Kernfrage des Projekts _TeKaVe - Technologieneutrale Kapazitätsmechanismen für eine Versorgungssichere Energiezukunft_
-betrifft, ob das Marktsystem in Österreich in seiner derzeitigen Form (Energy-Only-Markt) im Stande ist, zur gleichen Zeit ein versorgungssicheres Energiesystem aufrecht zu erhalten und die Dekarbonisierungsziele Österreichs zu erreichen.
+Die Kernfrage des Projekts _TeKaVe - Technologieneutrale Kapazitätsmechanismen für eine Versorgungssichere Energiezukunft_ betrifft, ob das Marktsystem in Österreich in seiner derzeitigen Form (Energy-Only-Markt) im Stande ist, zur gleichen Zeit ein versorgungssicheres Energiesystem aufrecht zu erhalten und die Dekarbonisierungsziele Österreichs zu erreichen.
 
 <!--more-->
 
@@ -20,9 +19,9 @@ In vielen Europäischen Ländern sind bereits heute eine Reihe verschiedener Kap
 | **Kurzform** | <mark>TeKaVe</mark> |
 | **Titel** | Technologieneutrale Kapazitätsmechanismen für eine Versorgungssichere Energiezukunft |
 | **Laufzeit** | 01.03.2024 -- 31.08.2025 |
-| **Partner** | 3 ([alle anzeigen]({{< ref "#projektpartner" >}})) | 
+| **Partner:innen** | 3 ([alle anzeigen]({{< ref "#projektpartnerinnen" >}})) | 
 | **Projektform** | Kofinanziertes Forschungsprojekt |
-| **Projektleitung** | [Stefan Strömer](mailto:stefan.stroemer@ait.ac.at) |
+| **Projektleitung AIT** | [Stefan Strömer](mailto:stefan.stroemer@ait.ac.at) |
 
 ## Überblick
 
@@ -73,7 +72,7 @@ Effektives Projektmanagement - insbesondere Koordination und Controlling - mit F
 ### AP3: Marktmodellierung
 <u>Lead: AIT</u>
 
-Implementierung eines kombinierten Modells zur Abbildung des Energy-Only-Markts (EOM) und ausgewählter Kapazitätsmechanismen. Vergleich einzelner KM-Designs mit dem Basisszenario (EOM) sowie Durchführung von Szenarioanalysen.
+Implementierung eines kombinierten Modells zur Abbildung des <abbr title="Energy-Only-Markts">EOM</abbr> und ausgewählter Kapazitätsmechanismen. Vergleich einzelner KM-Designs mit dem Basisszenario (EOM) sowie Durchführung von Szenarioanalysen.
 
 ### AP4: Regulatorische Analyse
 <u>Lead: EI-JKU</u>
@@ -91,7 +90,7 @@ Entwicklung einer angemessenen Schadenersatzregelung für Kapazitätsmärkte bas
 - [D4.1 Regulatorische Rahmenbedingungen für Kapazitätsmärkte](deliverables/d4_1.pdf)
 - [D4.2 Policy Brief](deliverables/d4_2.pdf)
 
-### Dokumente
+### Veröffentlichungen
 
 {{< keyword >}}Homepage{{< /keyword >}} Offizielle Projekthomepage: [FFG Projektdatenbank](https://projekte.ffg.at/projekt/4805444)
 
@@ -103,9 +102,9 @@ Entwicklung einer angemessenen Schadenersatzregelung für Kapazitätsmärkte bas
 
 {{< keyword >}}Bericht{{< /keyword >}} [Stakeholder Bericht](deliverables/bericht.pdf)
 
-### Projektpartner
+### Projektpartner:innen
 
-- [AIT Austrian Institute of Technology GmbH](https://www.ait.ac.at/ueber-das-ait/center/center-for-energy) (Projektkoordinator)
+- [AIT Austrian Institute of Technology GmbH](https://www.ait.ac.at/ueber-das-ait/center/center-for-energy) (Projektkoordination)
 - [Raiffeisenlandesbank Burgenland und Revisionsverband eGen](https://www.raiffeisen.at/bgld/de/privatkunden.html)
 - [Hydro GmbH, Ingenieurbüro für Hydrogeo logie und Geothermie](https://www.hydro-gmbh.at/)
 - [Österreichische Stromnetz AG](https://www.apg.at/)
