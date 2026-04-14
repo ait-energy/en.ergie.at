@@ -1,6 +1,6 @@
 ---
-title: "cells.4energy"
-topics: ["Energiezellen", "Reallabore", "Sektorkopplung"]
+title: "cells4.energy"
+topics: ["Energiezellen", "Reallabore", "Flexibilitä", "integrierte regionale Energiesysteme", "Hybride Kraftwerke und Wasserstoff"]
 authors: [plosieva]
 ---
 
@@ -13,9 +13,9 @@ cells4.energy entwickelt und erprobt Energiezellen als neue Organisationsform re
 |   |   |
 |---|---|
 | **Kurzform** | <mark>cells4.energy</mark> |
-| **Titel** | Regionale Energiezellen als multienergetische reale Labore für einen schnellen Systemwechsel |
-| **Laufzeit** | 01.10.2023 -- 30.09.2027 |
-| **Partner** | 20 | ([alle anzeigen]({{< ref "#projektpartner" >}})) |
+| **Titel** | Regionale Energiezellen als Multi-Energy-Reallabore für eine schnelle Systemtransition |
+| **Laufzeit** | 01.11.2023 -- 31.10.2027 |
+| **Partner:innen** | 20 ([alle anzeigen]({{< ref "#projektpartnerinnen" >}})) |
 | **Projektform** | Kofinanziertes Forschungsprojekt  |
 | **Projektleitung AIT** | [Mag. Branislav Iglar](branislav.iglar@ait.ac.at)|
 
@@ -86,7 +86,7 @@ Etablierung von Energiezellen in verschiedenen Regionen zur praktischen Umsetzun
 ### AP7: Implementierung in realen Energiezellen 
 <u>Lead: Energiekompass</u>
 
-Übertragung und Umsetzung der entwickelten Technologien in reale Energiezellen sowie Bewertung der Umsetzungsstrategien.
+Übertragung und Umsetzung der entwickelten Technologien in reale Energiezellen und Bewertung der Umsetzungsstrategien.
 
 ### AP8: Digitale Infrastruktur und virtuelle Kraftwerke 
 <u>Lead: Salzburg Research GmbH</u>
@@ -102,47 +102,47 @@ Wissenschaftliche und nicht-wissenschaftliche Dissemination, Kommunikation der P
 
 <!-- ### Deliverables 
 
-- [D1.1 Definition Energiezelle](#)
-- [D1.2 Cells4.energy Szenarienset](#)
+- [D1.1 Definition Energiezelle]()
+- [D1.2 Cells4.energy Szenarienset]()
 
-- [D2.1 Ergebnisse der regulatorischen Analyse](#)
-- [D2.2 Zellsimulator](#)
+- [D2.1 Ergebnisse der regulatorischen Analyse]()
+- [D2.2 Zellsimulator]()
 
-- [D3.1 Konzept für hybride Kraftwerkskonzepte](#)
-- [D3.2 Konzept für sektorübergreifende Energiegemeinschaften](#)
-- [D3.3 Konzept für Endverbrauchsflexibilität](#)
-- [D3.4 Konzept für Grid-Forming Ansätze](#)
+- [D3.1 Konzept für hybride Kraftwerkskonzepte]()
+- [D3.2 Konzept für sektorübergreifende Energiegemeinschaften]()
+- [D3.3 Konzept für Endverbrauchsflexibilität]()
+- [D3.4 Konzept für Grid-Forming Ansätze]()
 
-- [D4.1 Konzept für Nahwärme und Power2Heat](#)
-- [D4.2 Konzept zur Netzstabilisierung und Energiespeicherung](#)
-- [D4.3 Konzept für hybride Kraftwerksanlagen und Wasserstoff](#)
+- [D4.1 Konzept für Nahwärme und Power2Heat]()
+- [D4.2 Konzept zur Netzstabilisierung und Energiespeicherung]()
+- [D4.3 Konzept für hybride Kraftwerksanlagen und Wasserstoff]()
 
-- [D5.1 Standortkonzept für Wärmeenergiegemeinschaften](#)
-- [D5.2 Standortkonzept für innovative Ladeinfrastruktur](#)
-- [D5.3 Standortkonzept für Grid-Forming Umrichter](#)
-- [D5.4 Standortkonzept für Elektrolyse](#)
+- [D5.1 Standortkonzept für Wärmeenergiegemeinschaften]()
+- [D5.2 Standortkonzept für innovative Ladeinfrastruktur]()
+- [D5.3 Standortkonzept für Grid-Forming Umrichter]()
+- [D5.4 Standortkonzept für Elektrolyse]()
 
-- [D6.1 Energiekonzept Mittelburgenland](#)
-- [D6.2 Energiekonzept Neudau](#)
-- [D6.3 Energiekonzept Eisenstadt](#)
+- [D6.1 Energiekonzept Mittelburgenland]()
+- [D6.2 Energiekonzept Neudau]()
+- [D6.3 Energiekonzept Eisenstadt]()
 
-- [D7.1 Bewertung der Validität der geplanten Umsetzungspfade](#)
+- [D7.1 Bewertung der Validität der geplanten Umsetzungspfade]()
 
-- [D8.1 IKT-Plattform / Middleware für Energiezellen](#)
-- [D8.2 Digitale Außenschnittstellen der Energiezellen](#)
-- [D8.3 App zur Userintegration](#)
-- [D8.4 Virtuelles Kraftwerk für Energiezellen](#)
+- [D8.1 IKT-Plattform / Middleware für Energiezellen]()
+- [D8.2 Digitale Außenschnittstellen der Energiezellen]()
+- [D8.3 App zur Userintegration]()
+- [D8.4 Virtuelles Kraftwerk für Energiezellen]()
 
-- [D9.1 Infrastruktur für Nutzung durch Innovationslabor](#)
-- [D9.2 Social Media Kommunikationsstrategie](#) -->
+- [D9.1 Infrastruktur für Nutzung durch Innovationslabor]()
+- [D9.2 Social Media Kommunikationsstrategie]() -->
 
-<!-- ### Dokumente 
+<!-- ### Veröffentlichungen 
 
 {{< keyword >}}Example{{< /keyword >}} [Example](https://www.example.com)   -->
 
-### Projektpartner
+### Projektpartner:innen
 
-- [AIT Austrian Institute of Technology GmbH](https://www.ait.ac.at/ueber-das-ait/center/center-for-energy) (Projektkoordinator)
+- [AIT Austrian Institute of Technology GmbH](https://www.ait.ac.at/ueber-das-ait/center/center-for-energy) (Projektkoordination)
 - [Raiffeisenlandesbank Burgenland und Revisionsverband eGen](https://www.raiffeisen.at/bgld/de/privatkunden.html)
 - [Hydro GmbH, Ingenieurbüro für Hydrogeo logie und Geothermie](https://www.hydro-gmbh.at/)
 - [Österreichische Stromnetz AG](https://www.apg.at/)
@@ -164,5 +164,5 @@ Wissenschaftliche und nicht-wissenschaftliche Dissemination, Kommunikation der P
 
 ### Förderhinweis
 
-Dieses Projekt wird vom Bundesministerium für Klimawandel, Umwelt, Energie, Mobilität, Innovation und Technologie im Rahmen des 100%-Programms für erneuerbare Energien finanziert.
-
+Dieses Projek wird durch das Bundesministerium für Klimaschutz, Umwelt, Energie, Mobilität, Innovation und Technologie (BMK) im Rahmen des Programms "100%-Erneuerbare-Energie-Reallabore" gefördert. Die Abwicklung erfolgt im Auftrag des BMK durch die Österreichische Forschungsförderungsgesellschaft (FFG).
+Mehr Informationen finden sich in der [FFG Projektdatenbank](https://projekte.ffg.at/projekt/4849884).
