@@ -87,23 +87,24 @@ Hier werden Kommunikations- und Disseminationsmaßnahmen entwickelt und umgesetz
 
 <!-- ### Deliverables 
 
-- [D1.1 Data Management Plan & Projektdatenbank](#)
-- [D2.1 Demonstrationsberichte](#)
-- [D3.1 Materialien und Methoden für STES-Systeme](#)
-- [D3.2 Szenarien zur Übertragung von STES-Technologien](#)
-- [D4.1 Digitaler Zwilling und Benchmarking](#)
-- [D4.2 Steuerungsstrategien für Energiesysteme](#)
-- [D4.3 Optimale Integration und Flexibilisierung von STES-Systemen](#)
-- [D5.1 Umwelt-Synergien und Optimierungspotenziale](#)
-- [D5.2 Bewertung der Umweltauswirkungen](#)
-- [D6.1 Verwertungs- und IPR-Managementplan](#)
-- [D6.2 Markt- und Potenzialanalyse](#)
-- [D6.3 Leitfaden für STES-Projekte](#)
-- [D6.4 Endnutzer-Software zur Projektplanung](#)
-- [D7.1 Disseminations- und Kommunikationsplan](#)
-- [D7.2 Politische Leitlinien und Empfehlungen](#) -->
+- [D1.1 Data Management Plan & Project Database (dts.: Data Management Plan & Projektdatenbank)]()
+- [D2.1 Demo Reports (dts.: Demonstrationsberichte)]()
+- [D3.1 sTES Materials & Methods (dts.: Materialien und Methoden für STES-Systeme)]()
+- [D3.2 sTES Replication Scenarios (dts.: Szenarien zur Übertragung von STES-Technologien)]()
+- [D4.1 Digital Twin Benchmarks (dts.: Digitaler Zwilling und Benchmarking)]()
+- [D4.2 ES Controls (dts.: Steuerungsstrategien für Energiesysteme)]()
+- [D4.3 Optimal sTES Integration & ES Flexibilisation (dts.: Optimale Integration und Flexibilisierung von STES-Systemen)]()
+- [D5.1 Environmental Synergies (dts.: Umwelt-Synergien und Optimierungspotenziale)]()
+- [D5.2 Environmental Impact Assessment (dts.: Bewertung der Umweltauswirkungen)]()
+- [D6.1 Exploitation/ IPR Management Plan (dts.: Verwertungs- und IPR-Managementplan)]()
+- [D6.2 Market & Potential Analysis (dts.: Markt- und Potenzialanalyse)]()
+- [D6.3 Guide for sTES Projects (dts.: Leitfaden für STES-Projekte)]()
+- [D6.4 End-User Software (dts.: Endnutzer-Software zur Projektplanung)]()
+- [D7.1 Dissemination & Communication Plan (dts.: Disseminations- und Kommunikationsplan)]()
+- [D7.2 Policy Guidelines (dts.: Politische Leitlinien und Empfehlungen)]()
 
-<!-- ### Dokumente 
+
+<!-- ### Vetöffentlichungen
 
 {{< keyword >}}example{{< /keyword >}} [example](https://www.example.com)   -->
 
