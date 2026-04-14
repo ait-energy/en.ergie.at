@@ -94,7 +94,7 @@ Entwicklung einer angemessenen Schadenersatzregelung für Kapazitätsmärkte bas
 
 {{< keyword >}}Homepage{{< /keyword >}} Offizielle Projekthomepage: [FFG Projektdatenbank](https://projekte.ffg.at/projekt/4805444)
 
-{{< keyword >}}Gastbeitrag{{< /keyword >}} [Technologieneutrale Kapazitätsmechanismen für eine versorgungssichere Energiezukunft](https://positionen.wienenergie.at/blog/gastbeitrag-technologieneutrale-kapazitaetsmechanismen-fuer-eine-versorgungs-sichere-energiezukunft/)
+{{< keyword >}}Gastbeitrag{{< /keyword >}} [Technologieneutrale Kapazitätsmechanismen für eine versorgungssichere Energiezukunft](https://positionen.wienerstadtwerke.at/aktuelles/gastbeitrag-technologieneutrale-kapazitaetsmechanismen-fuer-eine-versorgungssichere-energiezukunft)
 
 {{< keyword >}}Präsentation{{< /keyword >}} [Stakeholder Workshop](assets/TeKaVe_Stakeholder_Workshop_final.pdf)
 
