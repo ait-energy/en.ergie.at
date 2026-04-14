@@ -21,7 +21,7 @@ In many European countries, various capacity mechanisms (CM), such as centralize
 | **Duration** | 01.03.2024 -- 31.08.2025 |
 | **Partners** | 3 ([show all]({{< ref "#project partners" >}})) | 
 | **Project type** | Co-funded research project |
-| **Project lead** | [Stefan Strömer](mailto:stefan.stroemer@ait.ac.at) |
+| **Project lead AIT** | [Stefan Strömer](mailto:stefan.stroemer@ait.ac.at) |
 
 ## Overview
 
@@ -72,7 +72,7 @@ Review of existing approaches to security of supply in Europe and additional inf
 ### WP3: Market modeling  
 <u>Lead: AIT</u>
 
-Implementation of a combined model representing the energy-only market (EOM) and selected capacity mechanisms. Comparison of different CM designs with the baseline scenario (EOM) and execution of scenario analyses.
+Implementation of a combined model representing the <abbr title="energy-only market">EOM</abbr> and selected capacity mechanisms. Comparison of different CM designs with the baseline scenario (EOM) and execution of scenario analyses.
 
 ### WP4: Regulatory analysis  
 <u>Lead: EI-JKU</u>
@@ -94,7 +94,7 @@ Development of an appropriate compensation scheme for capacity markets based on 
 
 {{< keyword >}}Homepage{{< /keyword >}} Official project website: [FFG project database](https://projekte.ffg.at/projekt/4805444)
 
-{{< keyword >}}Guest article{{< /keyword >}} [Technology-neutral capacity mechanisms for a secure energy future](https://positionen.wienenergie.at/blog/gastbeitrag-technologieneutrale-kapazitaetsmechanismen-fuer-eine-versorgungs-sichere-energiezukunft/)
+{{< keyword >}}Guest article{{< /keyword >}} [Technologieneutrale Kapazitätsmechanismen für eine versorgungssichere Energiezukunft](https://positionen.wienerstadtwerke.at/aktuelles/gastbeitrag-technologieneutrale-kapazitaetsmechanismen-fuer-eine-versorgungssichere-energiezukunft)
 
 {{< keyword >}}Presentation{{< /keyword >}} [Stakeholder workshop](assets/TeKaVe_Stakeholder_Workshop_final.pdf)
 
@@ -127,3 +127,4 @@ Development of an appropriate compensation scheme for capacity markets based on 
 ### Funding
 
 This project is carried out within the funding program "Energie.Frei.Raum" of the Federal Ministry for Climate Action, Environment, Energy, Mobility, Innovation and Technology (BMK). The program is administered on behalf of the BMK by the Austrian Research Promotion Agency (FFG). 
+More information can be found in the [FFG project database](https://projekte.ffg.at/projekt/4805444)
