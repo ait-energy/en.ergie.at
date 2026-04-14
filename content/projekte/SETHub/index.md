@@ -15,7 +15,7 @@ Das Projekt _SETHub - Smart Energy Transformation Hub_ zielt auf eine gesamtheit
 | **Kurzform** | <mark>SETHub</mark> |
 | **Titel** | Smart Energy Transformation Hub |
 | **Laufzeit** | 01.10.2023 -- 31.03.2025 |
-| **Partner** | 2 ([alle anzeigen]({{< ref "#projektpartner" >}})) | 
+| **Partner:innen** | 2 ([alle anzeigen]({{< ref "#projektpartnerinnen" >}})) | 
 | **Projektform** | Kofinanziertes Forschungsprojekt |
 | **Projektleitung AIT** | [Philipp Ortmann & Stefan Fink](mailto:philipp.ortmann@ait.ac.at) |
 
@@ -67,15 +67,13 @@ Dieses Arbeitspaket umfasst die Durchführung von Öffentlichkeitsarbeit sowie d
 - [D3 Simulation von Fallstudien und wirtschaftliche Bewertung von Elektrolyse im Verteilnetz](assets/SETHub_D3_Fallstudien_v100.pdf)
 - [D4 Grid-supportive electrolysis in distribution grids: techno-economic and regulatory analysis for Austria](assets/SETHub_D4_ElectrolysisInDistributionGrids.pdf)
 
-### Dokumente
-
-{{< keyword >}}Gastbeitrag{{< /keyword >}} [Technologieneutrale Kapazitätsmechanismen für eine versorgungssichere Energiezukunft](https://positionen.wienenergie.at/blog/gastbeitrag-technologieneutrale-kapazitaetsmechanismen-fuer-eine-versorgungssichere-energiezukunft/)
+### Veröffentlichungen
 
 {{< keyword >}}Präsentation{{< /keyword >}} [Electrolysis in distribution grids: A Regulatory Valuation on Grid-Supportive Operation](assets/NEFI24_Ortmann_ElectrolysisInDistributionGrids_v100.pdf)
 
 {{< keyword >}}Präsentation{{< /keyword >}} [Elektrolyse im Verteilnetz: Eine techno-ökonomische Analyse zum netzstützenden Einsatz](assets/SETHub_IEWT_v100.pdf)
 
-### Projektpartner
+### Projektpartner:innen
 
 - [AIT Austrian Institute of Technology GmbH](https://www.ait.ac.at/ueber-das-ait/center/center-for-energy)
 - [Energienetze Steiermark GmbH](https://www.e-netze.at/)
