@@ -18,7 +18,7 @@ Das übergeordnete Ziel von INTERSTORES ist die Demonstration und Umsetzung zwei
 | **Titel** | Internationales Innovationsnetzwerk zur Entwicklung von Kosten- und umweltfreundliche saisonale thermische Energiespeicher |
 | **Laufzeit** | 01.01.2024 -- 31.12.2027 |
 | **Partner:innen** | 14  ([alle anzeigen]({{< ref "#projektpartnerinnen" >}})) |
-| **Projektform** | Forschungs- und Innovationsprojekt  |
+| **Projektform** | Kofinanziertes Forschungsprojekt  |
 | **Konsortialführung** | [Peter Bayer](peter.bayer@geo.uni-halle.de) [MLU](https://www.uni-halle.de/) |
 | **Projektleitung AIT** | [Abdulrahman Dahash](abdulrahman.dahash(at)ait.ac.at) & [Viktoria Illyés](viktoria.illyes@ait.ac.at) |
 
