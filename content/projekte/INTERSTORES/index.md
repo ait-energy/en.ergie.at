@@ -4,7 +4,7 @@ topics: ["Thermische Energiespeicherung", "Erneubare Energien", "Optimierung"]
 authors: [plosieva]
 ---
 
-Die EU strebt eine rasche Dekarbonisierung des Energiesektors durch das Fit for 55-Paket, den RePowerEU-Plan und den Green Deal an. Großspeichertechnologien zur saisonalen thermischen Energiespeicherung (sTES) (z. B. Becken, Kavernen) können die Bemühungen unterstützen, indem sie die Nutzung fluktuierender Wärmequellen verbessern. INTERSTORES wird sich diesen Herausforderungen stellen und die Dekarbonisierung durch die Anwendung fortschrittlicher sTES-Technologien beschleunigen.
+Die EU strebt eine rasche Dekarbonisierung des Energiesektors durch das Fit for 55-Paket, den RePowerEU-Plan und den Green Deal an. Großspeichertechnologien zur <abbr title="saisonalen thermischen Energiespeicherung">sTES</abbr> (z. B. Becken, Kavernen) können die Bemühungen unterstützen, indem sie die Nutzung fluktuierender Wärmequellen verbessern. INTERSTORES wird sich diesen Herausforderungen stellen und die Dekarbonisierung durch die Anwendung fortschrittlicher sTES-Technologien beschleunigen.
 
 <!--more-->
 
@@ -17,10 +17,10 @@ Das übergeordnete Ziel von INTERSTORES ist die Demonstration und Umsetzung zwei
 | **Kurzform** | <mark>INTERSTORES</mark> |
 | **Titel** | Internationales Innovationsnetzwerk zur Entwicklung von Kosten- und umweltfreundliche saisonale thermische Energiespeicher |
 | **Laufzeit** | 01.01.2024 -- 31.12.2027 |
-| **Partner** | 14  ([alle anzeigen]({{< ref "#projektpartner" >}})) |
+| **Partner:innen** | 14  ([alle anzeigen]({{< ref "#projektpartnerinnen" >}})) |
 | **Projektform** | Forschungs- und Innovationsprojekt  |
-| **Projekt Koordination** | [Prof. Dr. Peter Bayer](peter.bayer@geo.uni-halle.de) [MLU](https://www.uni-halle.de/) |
-| **Projektleitung AIT** | [Dr. Abdulrahman Dahash](abdulrahman.dahash(at)ait.ac.at) & [Dr. Viktoria Illyés](viktoria.illyes@ait.ac.at) |
+| **Konsortialführung** | [Peter Bayer](peter.bayer@geo.uni-halle.de) [MLU](https://www.uni-halle.de/) |
+| **Projektleitung AIT** | [Abdulrahman Dahash](abdulrahman.dahash(at)ait.ac.at) & [Viktoria Illyés](viktoria.illyes@ait.ac.at) |
 
 ## Überblick
 
@@ -40,7 +40,7 @@ Der Einsatz kosteneffizienter und recycelter Dämmmaterialien trägt wesentlich 
 
 ### Beitrag zur Emissionsreduktion
 
-Die implementierten Lösungen führen zu einer signifikanten Reduktion von CO₂-Emissionen sowie des ökologischen und bodenbezogenen Fußabdrucks.
+Die implementierten Lösungen führen zu einer signifikanten Reduktion von CO<sub>2</sub>-Emissionen sowie des ökologischen und bodenbezogenen Fußabdrucks.
 
 ### Förderung der Kreislaufwirtschaft
 
@@ -85,7 +85,7 @@ Hier werden Kommunikations- und Disseminationsmaßnahmen entwickelt und umgesetz
 
 ## Weiterführende Informationen
 
-<!-- ### Deliverable 
+<!-- ### Deliverables 
 
 - [D1.1 Data Management Plan & Projektdatenbank](#)
 - [D2.1 Demonstrationsberichte](#)
@@ -107,9 +107,9 @@ Hier werden Kommunikations- und Disseminationsmaßnahmen entwickelt und umgesetz
 
 {{< keyword >}}example{{< /keyword >}} [example](https://www.example.com)   -->
 
-### Projektpartner
+### Projektpartner:innen
 
-- [MARTIN-LUTHER-UNIVERSITAT HALLE-WITTENBERG](https://geo.uni-halle.de/appliedgeo/home/) (Projektkoordinator)
+- [MARTIN-LUTHER-UNIVERSITAT HALLE-WITTENBERG](https://geo.uni-halle.de/appliedgeo/home/) (Projektkoordination)
 - [AIT Austrian Institute of Technology GmbH](https://www.ait.ac.at/ueber-das-ait/center/center-for-energy)
 - [E.ON UK Infrastructure Services Limited](https://www.eonenergy.com/)
 - [Stichting Global Energiesprong Alliance](https://www.energiesprong.org/)
