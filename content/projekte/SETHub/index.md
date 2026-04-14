@@ -75,8 +75,8 @@ Dieses Arbeitspaket umfasst die Durchführung von Öffentlichkeitsarbeit sowie d
 
 ### Projektpartner:innen
 
+- [Energienetze Steiermark GmbH](https://www.e-netze.at/) (Projektkoordination)
 - [AIT Austrian Institute of Technology GmbH](https://www.ait.ac.at/ueber-das-ait/center/center-for-energy)
-- [Energienetze Steiermark GmbH](https://www.e-netze.at/)
 
 ### Förderhinweis 
 
