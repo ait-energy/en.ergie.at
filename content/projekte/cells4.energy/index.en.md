@@ -100,39 +100,39 @@ Scientific and non-scientific dissemination, communication of project results, a
 
 <!-- ### Deliverables 
 
-- [D1.1 Definition of Energy Cells]()
-- [D1.2 Cells4.energy Scenario Set]()
+- [D1.1 Definition Energiezelle (engl.: Definition of Energy Cells)]()
+- [D1.2 Cells4.energy Szenarienset (engl.: Cells4.energy Scenario Set)]()
 
-- [D2.1 Results of the Regulatory Analysis]()
-- [D2.2 Cell Simulator]()
+- [D2.1 Ergebnisse der regulatorischen Analyse (engl.: Results of the Regulatory Analysis)]()
+- [D2.2 Zellsimulator (engl.: Cell Simulator)]()
 
-- [D3.1 Concept for Hybrid Power Plant Systems]()
-- [D3.2 Concept for Cross-Sector Energy Communities]()
-- [D3.3 Concept for End-User Flexibility]()
-- [D3.4 Concept for Grid-Forming Approaches]()
+- [D3.1 Konzept für hybride Kraftwerkskonzepte (engl.: Concept for Hybrid Power Plant Systems)]()
+- [D3.2 Konzept für sektorübergreifende Energiegemeinschaften (engl.: Concept for Cross-Sector Energy Communities)]()
+- [D3.3 Konzept für Endverbrauchsflexibilität (engl.: Concept for End-User Flexibility)]()
+- [D3.4 Konzept für Grid-Forming Ansätze (engl.: Concept for Grid-Forming Approaches)]()
 
-- [D4.1 Concept for District Heating and Power-to-Heat]()
-- [D4.2 Concept for Grid Stabilization and Energy Storage]()
-- [D4.3 Concept for Hybrid Power Plants and Hydrogen]()
+- [D4.1 Konzept für Nahwärme und Power2Heat (engl.: Concept for District Heating and Power-to-Heat)]()
+- [D4.2 Konzept zur Netzstabilisierung und Energiespeicherung (engl.: Concept for Grid Stabilization and Energy Storage)]()
+- [D4.3 Konzept für hybride Kraftwerksanlagen und Wasserstoff (engl.: Concept for Hybrid Power Plants and Hydrogen)]()
 
-- [D5.1 Site Concept for Thermal Energy Communities]()
-- [D5.2 Site Concept for Innovative Charging Infrastructure]()
-- [D5.3 Site Concept for Grid-Forming Converters]()
-- [D5.4 Site Concept for Electrolysis]()
+- [D5.1 Standortkonzept für Wärmeenergiegemeinschaften (engl.: Site Concept for Thermal Energy Communities)]()
+- [D5.2 Standortkonzept für innovative Ladeinfrastruktur (engl.: Site Concept for Innovative Charging Infrastructure)]()
+- [D5.3 Standortkonzept für Grid-Forming Umrichter (engl.: Site Concept for Grid-Forming Converters)]()
+- [D5.4 Standortkonzept für Elektrolyse (engl.: Site Concept for Electrolysis)]()
 
-- [D6.1 Energy Concept for Mittelburgenland]()
-- [D6.2 Energy Concept for Neudau]()
-- [D6.3 Energy Concept for Eisenstadt]()
+- [D6.1 Energiekonzept Mittelburgenland (engl.: Energy Concept for Mittelburgenland)]()
+- [D6.2 Energiekonzept Neudau (engl.: Energy Concept for Neudau)]()
+- [D6.3 Energiekonzept Eisenstadt (engl.: Energy Concept for Eisenstadt)]()
 
-- [D7.1 Evaluation of the Validity of the Planned Implementation Pathways]()
+- [D7.1 Bewertung der Validität der geplanten Umsetzungspfade (engl.: Evaluation of the Validity of the Planned Implementation Pathways)]()
 
-- [D8.1 ICT Platform / Middleware for Energy Cells]()
-- [D8.2 Digital External Interfaces of Energy Cells]()
-- [D8.3 App for User Integration]()
-- [D8.4 Virtual Power Plant for Energy Cells]()
+- [D8.1 IKT-Plattform / Middleware für Energiezellen (engl.: ICT Platform / Middleware for Energy Cells)]()
+- [D8.2 Digitale Außenschnittstellen der Energiezellen (engl.: Digital External Interfaces of Energy Cells)]()
+- [D8.3 App zur Userintegration (engl.: App for User Integration)]()
+- [D8.4 Virtuelles Kraftwerk für Energiezellen (engl.: Virtual Power Plant for Energy Cells)]()
 
-- [D9.1 Infrastructure for Use by the Innovation Lab]()
-- [D9.2 Social Media Communication Strategy]() -->
+- [D9.1 Infrastruktur für Nutzung durch Innovationslabor (engl.: Infrastructure for Use by the Innovation Lab)]()
+- [D9.2 Social Media Kommunikationsstrategie (engl.: Social Media Communication Strategy)]()  -->
 
 <!-- ### Publications 
 
