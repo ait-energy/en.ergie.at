@@ -1,6 +1,6 @@
 ---
 title: "cells4.energy"
-topics: ["Energiezellen", "Reallabore", "Flexibilitä", "integrierte regionale Energiesysteme", "Hybride Kraftwerke und Wasserstoff"]
+topics: ["Energiezellen", "Reallabore", "Flexibilität", "integrierte regionale Energiesysteme", "Hybride Kraftwerke und Wasserstoff"]
 authors: [plosieva]
 ---
 

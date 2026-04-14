@@ -1,6 +1,6 @@
 ---
-title: "cells.4energy"
-topics: ["Energy cells", "Living labs", "Sector coupling"]
+title: "cells4.energy"
+topics: ["Energy cells", "Living labs", "Flexibility", "Integrated Regional Energy Systems", "Hybrid Power Plants and Hydrogen"]
 authors: [plosieva]
 ---
 
@@ -13,23 +13,21 @@ cells4.energy develops and tests energy cells as a new organizational model for 
 |   |   |
 |---|---|
 | **Short name** | <mark>cells4.energy</mark> |
-| **Titel** | Regional energy cells as multi-energy real-world laboratories for a rapid system transition |
-| **Duration** | 01.10.2023 -- 30.09.2027 |
-| **Partners** | 20 | ([show all]({{< ref "#project partners" >}})) |
+| **Titel** | Regional energy cells as multi-energy living labs for a rapid system transition |
+| **Duration** | 01.11.2023 -- 31.10.2027 |
+| **Partners** | 20 ([show all]({{< ref "#projektpartnerinnen" >}})) |
 | **Project type** | Co-funded research project  |
 | **Project lead AIT** | [Mag. Branislav Iglar](branislav.iglar@ait.ac.at)|
 
 ## Overview
 
-A key element of the project is the digital control and optimization of energy flows through smart algorithms and platform solutions. This enables energy communities, prosumers, companies, and municipalities to actively participate in the energy system. In addition to technological development, new business models, regulatory frameworks, and user acceptance are also being explored.
+A central element of the project is the digital control and optimization of energy flows through smart algorithms and platform solutions. This enables energy communities, prosumers, businesses, and municipalities to actively participate in the energy system. In addition to technological development, research is also being conducted on new business models, regulatory frameworks, and user acceptance.
 
-cells4.energy is part of a real-world laboratory consisting of two main pillars:  
-The flagship project cells4.energy, in which the fundamental concepts and technologies for energy cells are researched and developed.  
-The innovation lab act4.energy next level, which serves as a practical testing environment and provides an innovation infrastructure for energy transition projects.
+cells4.energy is part of the cells4.energy real-world laboratory, which consists of two key pillars: the flagship project cells4.energy, where the fundamental concepts and technologies for energy cells are researched and developed, and the innovation lab act4.energy next level, which serves as a practice-oriented test environment and provides an innovation infrastructure for energy transition projects. 
 
-With cells4.energy, a blueprint for the next generation of decentralized energy systems is created, contributing to advancing the energy transition technologically, economically, and socially.
+With cells4.energy, we are creating a blueprint for the next generation of decentralized energy systems and contributing to the advancement of the energy transition technologically, economically, and socially.
 
-## Insights
+## Findings
 
 ### Accelerating the energy transition through living labs
 
@@ -136,14 +134,14 @@ Scientific and non-scientific dissemination, communication of project results, a
 - [D9.1 Infrastructure for Use by the Innovation Lab]()
 - [D9.2 Social Media Communication Strategy]() -->
 
-<!-- ### Documents 
+<!-- ### Publications 
 
 {{< keyword >}}Example{{< /keyword >}} [Example](https://www.example.com)  
 -->
 
 ### Project partners
 
-- [AIT Austrian Institute of Technology GmbH](https://www.ait.ac.at/ueber-das-ait/center/center-for-energy) (Project coordinator)
+- [AIT Austrian Institute of Technology GmbH](https://www.ait.ac.at/ueber-das-ait/center/center-for-energy) (Project coordination)
 - [Raiffeisenlandesbank Burgenland und Revisionsverband eGen](https://www.raiffeisen.at/bgld/de/privatkunden.html)
 - [Hydro GmbH, Engineering office for hydrogeology and geothermal energy](https://www.hydro-gmbh.at/)
 - [Austrian Power Grid AG](https://www.apg.at/)
@@ -165,5 +163,5 @@ Scientific and non-scientific dissemination, communication of project results, a
 
 ### Funding
 
-This project is funded by the Federal Ministry for Climate Action, Environment, Energy, Mobility, Innovation and Technology within the framework of the 100% renewable energy program.
-
+This project is funded by the Federal Ministry for Climate Change, Environment, Energy, Mobility, Innovation and Technology (BMK) as part of the "100% Renewable Energy Laboratories" program. Implementation is carried out on behalf by the Austrian Research Promotion Agency (FFG).
+More information can be found in the [FFG project database](https://projekte.ffg.at/projekt/4849884)
