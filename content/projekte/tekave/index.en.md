@@ -126,5 +126,5 @@ Development of an appropriate compensation scheme for capacity markets based on 
 
 ### Funding
 
-This project is carried out within the funding program "Energie.Frei.Raum" of the Federal Ministry for Climate Action, Environment, Energy, Mobility, Innovation and Technology (BMK). The program is administered on behalf of the BMK by the Austrian Research Promotion Agency (FFG). 
+This project was implemented under the call “Energy.Free.Space” des Federal Ministry for Agriculture and Forestry,Climate and Environmental Protection, Regions and Water Management (BMLUK). The project was carried out on behalf of the BMLUK by the Austrian Research Promotion Agency (FFG)
 More information can be found in the [FFG project database](https://projekte.ffg.at/projekt/4805444)
