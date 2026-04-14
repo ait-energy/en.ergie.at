@@ -13,7 +13,7 @@ cells4.energy develops and tests energy cells as a new organizational model for 
 |   |   |
 |---|---|
 | **Short name** | <mark>cells4.energy</mark> |
-| **Titel** | Regional energy cells as multi-energy living labs for a rapid system transition |
+| **Title** | Regional energy cells as multi-energy living labs for a rapid system transition |
 | **Duration** | 01.11.2023 -- 31.10.2027 |
 | **Partners** | 20 ([show all]({{< ref "#projektpartnerinnen" >}})) |
 | **Project type** | Co-funded research project  |
