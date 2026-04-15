@@ -4,7 +4,7 @@ topics: ["Energiezellen", "Reallabore", "Flexibilität", "integrierte regionale 
 authors: [plosieva]
 ---
 
-cells4.energy entwickelt und erprobt Energiezellen als neue Organisationsform regionaler Energiesysteme. Diese integrieren erneuerbare Erzeugung, Flexibilität, Speicherung und Netzsystemdienstleistungen in einer gemeinsamen Struktur. Ziel sind Lösungen, die sofort anwendbar sind, die technische, wirtschaftliche und gesellschaftliche Aspekte verbinden und auf andere Regionen übertragbar sind.
+_cells4.energy_ entwickelt und erprobt Energiezellen als neue Organisationsform regionaler Energiesysteme. Diese integrieren erneuerbare Erzeugung, Flexibilität, Speicherung und Netzsystemdienstleistungen in einer gemeinsamen Struktur. Ziel sind Lösungen, die sofort anwendbar sind, die technische, wirtschaftliche und gesellschaftliche Aspekte verbinden und auf andere Regionen übertragbar sind.
 
 <!--more-->
 
@@ -23,10 +23,10 @@ cells4.energy entwickelt und erprobt Energiezellen als neue Organisationsform re
 
 Ein zentrales Element des Projekts ist die digitale Steuerung und Optimierung der Energieflüsse durch smarte Algorithmen und Plattformlösungen. Dadurch wird es möglich, Energiegemeinschaften, Prosumer, Unternehmen und Kommunen aktiv in das Energiesystem einzubinden. Neben der technologischen Entwicklung wird auch an neuen Geschäftsmodellen, regulatorischen Rahmenbedingungen und Nutzerakzeptanz geforscht.
 
-cells4.energy ist Teil des Reallabors, das aus zwei wesentlichen Säulen besteht:
-das Leitprojekt cells4.energy, in dem die grundlegenden Konzepte und Technologien für Energiezellen erforscht und entwickelt werden und das Innovationslabor act4.energy next level, das als praxisnahe Testumgebung dient und das eine Innovationsinfrastruktur für Energiewendeprojekte bereit stellt.
+_cells4.energy_ ist Teil des Reallabors, das aus zwei wesentlichen Säulen besteht:
+das Leitprojekt _cells4.energy_, in dem die grundlegenden Konzepte und Technologien für Energiezellen erforscht und entwickelt werden und das Innovationslabor act4.energy next level, das als praxisnahe Testumgebung dient und das eine Innovationsinfrastruktur für Energiewendeprojekte bereit stellt.
 
-Mit cells4.energy schaffen wir eine Blaupause für die nächste Generation dezentraler Energiesysteme und tragen dazu bei, die Energiewende technologisch, wirtschaftlich und gesellschaftlich voranzutreiben.
+Mit _cells4.energy_ schaffen wir eine Blaupause für die nächste Generation dezentraler Energiesysteme und tragen dazu bei, die Energiewende technologisch, wirtschaftlich und gesellschaftlich voranzutreiben.
 
 ## Erkentnisse
 
@@ -137,7 +137,7 @@ Wissenschaftliche und nicht-wissenschaftliche Dissemination, Kommunikation der P
 
 ### Veröffentlichungen 
 
-{{< keyword >}}Video{{< /keyword >}} Interview mit Markus Tascheck, Reallabor Cells4Energy, anlässlich der Mission Innovation Austria Week 2024: [Interview mit Markus Tascheck](https://reallabore.at/video/2/reallabor-cellsenergy-interview-mit-markus-tascheck)   
+{{< keyword >}}Video{{< /keyword >}} Interview mit Markus Tascheck, Reallabor cells4Energy, anlässlich der Mission Innovation Austria Week 2024: [Interview mit Markus Tascheck](https://reallabore.at/video/2/reallabor-cellsenergy-interview-mit-markus-tascheck)   
 
 {{< keyword >}}Video{{< /keyword >}} Das Reallabor cells4.energy bringt die digitale Energiezelle in die Praxis! [Reallabor cells4.energy - Kurzvideo](https://reallabore.at/video/7/reallabor-cellsenergy-kurzvideo) 
 
