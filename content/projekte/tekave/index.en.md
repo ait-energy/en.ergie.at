@@ -90,7 +90,7 @@ Development of an appropriate compensation scheme for capacity markets based on 
 - [D4.1 Regulatory framework for capacity markets](deliverables/d4_1.pdf)
 - [D4.2 Policy brief](deliverables/d4_2.pdf)
 
-### Documents
+### Publications
 
 {{< keyword >}}Homepage{{< /keyword >}} Official project website: [FFG project database](https://projekte.ffg.at/projekt/4805444)
 
@@ -104,7 +104,7 @@ Development of an appropriate compensation scheme for capacity markets based on 
 
 ### Project partners
 
-- [AIT Austrian Institute of Technology GmbH](https://www.ait.ac.at/ueber-das-ait/center/center-for-energy) (Project coordinator)
+- [AIT Austrian Institute of Technology GmbH](https://www.ait.ac.at/ueber-das-ait/center/center-for-energy) (Project coordination)
 - [Raiffeisenlandesbank Burgenland und Revisionsverband eGen](https://www.raiffeisen.at/bgld/de/privatkunden.html)
 - [Hydro GmbH, Engineering office for hydrogeology and geothermal energy](https://www.hydro-gmbh.at/)
 - [Austrian Power Grid AG](https://www.apg.at/)
