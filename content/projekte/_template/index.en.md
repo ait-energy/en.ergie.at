@@ -16,7 +16,7 @@ A central element of the project is, lorem ipsum dolor sit amet, consetetur sadi
 | **Short name** | <mark>LoReM</mark> |
 | **Title** | Lorem ipsum dolor sit amet consetetur sadipscing elitr |
 | **Duration** | 01.03.2024 -- 31.08.2025 |
-| **Partners** | 3 ([show all]({{< ref "#project partners" >}})) |
+| **Partners** | 3 ([show all]({{< ref "#project-partners" >}})) |
 | **Project type** | Co-funded research project  |
 | **Consortium lead** | [Jane Doe](mailto:x.y@z) (OtherCompX) |
 | **Project lead AIT** | [Michelle Muster](mailto:x.y@z) |
