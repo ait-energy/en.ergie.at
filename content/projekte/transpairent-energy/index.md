@@ -30,10 +30,6 @@ Im Rahmen des Projekts werden zwei zentrale Ziele verfolgt: Erstens die Entwickl
 ### Transparente Plattform erhöht Zugänglichkeit
 Durch die Entwicklung einer öffentlich zugänglichen Plattform werden Prognosen transparent bereitgestellt, wodurch ihre Nutzung für verschiedene Akteur:innen im Energiesystem erleichtert wird.
 
-
-### Multi-Ziel-Optimierung schafft Systemvorteile
-Die kombinierte Optimierung ökonomischer und ökologischer Ziele führt zu einem erhöhten betrieblichen Nutzen, schafft Anreize und reduziert gleichzeitig die CO<sub>2</sub>-Intensität.
-
 ### Daten und Modellierung sind zentrale Grundlage
 Datensammlung, -aufbereitung sowie die Entwicklung von AI-basierten Prognosealgorithmen bilden die Basis für die Erstellung zuverlässiger Vorhersagen und deren Anwendung.
 
@@ -41,6 +37,7 @@ Datensammlung, -aufbereitung sowie die Entwicklung von AI-basierten Prognosealgo
 Die Validierung der entwickelten Methoden durch Simulationen und Live-Tests stellt sicher, dass die Lösungen auch unter realen Bedingungen funktionieren.
 
 ### Verbreitung verstärkt den Projektnutzen
+Die gezielte Verbreitung der Projektergebnisse erhöht deren Sichtbarkeit und fördert die Nutzung durch relevante Stakeholder. Dadurch wird der Wissenstransfer unterstützt und die Wirkung des Projekts über die Projektlaufzeit hinaus verstärkt.
 
 ## Tätigkeiten
 
