@@ -85,18 +85,20 @@ Development and implementation of communication and dissemination measures to sh
 
 ## Further information
 
-<!-- ### Deliverables 
+### Deliverables 
 
-- [D1.1 Data Management Plan & Project Database]()
-- [D2.1 Demo Reports]()
-- [D3.1 sTES Materials & Methods]()
-- [D3.2 sTES Replication Scenarios]()
-- [D4.1 Digital Twin Benchmarks]()
+<!-- - [D1.1 Data Management Plan & Project Database]() -->
+- [D2.1 Demo Reports](deliverables/D2.1.pdf)
+<!-- - [D3.1 sTES Materials & Methods]()
+- [D3.2 sTES Replication Scenarios]() -->
+- [D3.4 Concepts for Innovative sTES (dts. Konzepte für innovative sTES)](deliverables/D3.4.pdf)
+<!-- - [D4.1 Digital Twin Benchmarks]()
 - [D4.2 ES Controls]()
 - [D4.3 Optimal sTES Integration & ES Flexibilisation]()
 - [D5.1 Environmental Synergies]()
-- [D5.2 Environmental Impact Assessment]()
-- [D6.1 Exploitation/ IPR Management Plan]()
+- [D5.2 Environmental Impact Assessment]() -->
+- [D5.4 Monitoring concepts for sTES ambient domains (dts.: Motitoringkonzepte für sTES Anwendungsbereiche)](deliverables/D5.4.pdf)
+<!-- - [D6.1 Exploitation/ IPR Management Plan]()
 - [D6.2 Market & Potential Analysis]()
 - [D6.3 Guide for sTES Projects]()
 - [D6.4 End-User Software]()
