@@ -17,7 +17,7 @@ The overall objective of INTERSTORES is to demonstrate and implement two innovat
 | **Short name** | <mark>INTERSTORES</mark> |
 | **Title** | International Innovation Network for the Development of Cost- and Environmentally Efficient Seasonal Thermal Energy Storages |
 | **Duration** | 01.01.2024 -- 31.12.2027 |
-| **Partners** | 14 ([show all]({{< ref "#project partners" >}})) |
+| **Partners** | 14 ([show all]({{< ref "#project-partners" >}})) |
 | **Project type** | Co-funded research project |
 | **Consortium lead** | [Peter Bayer](peter.bayer@geo.uni-halle.de) [MLU](https://www.uni-halle.de/) |
 | **Project lead AIT** | [Abdulrahman Dahash](abdulrahman.dahash(at)ait.ac.at) & [Viktoria Illyés](viktoria.illyes@ait.ac.at) |
