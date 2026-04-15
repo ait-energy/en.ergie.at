@@ -135,9 +135,11 @@ Wissenschaftliche und nicht-wissenschaftliche Dissemination, Kommunikation der P
 - [D9.1 Infrastruktur für Nutzung durch Innovationslabor]()
 - [D9.2 Social Media Kommunikationsstrategie]() -->
 
-<!-- ### Veröffentlichungen 
+### Veröffentlichungen 
 
-{{< keyword >}}Example{{< /keyword >}} [Example](https://www.example.com)   -->
+{{< keyword >}}Video{{< /keyword >}} Interview mit Markus Tascheck, Reallabor Cells4Energy, anlässlich der Mission Innovation Austria Week 2024: [Interview mit Markus Tascheck](https://reallabore.at/video/2/reallabor-cellsenergy-interview-mit-markus-tascheck)   
+
+{{< keyword >}}Video{{< /keyword >}} Das Reallabor cells4.energy bringt die digitale Energiezelle in die Praxis! [Reallabor cells4.energy - Kurzvideo](https://reallabore.at/video/7/reallabor-cellsenergy-kurzvideo) 
 
 ### Projektpartner:innen
 
