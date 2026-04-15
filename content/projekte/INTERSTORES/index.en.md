@@ -88,16 +88,16 @@ Development and implementation of communication and dissemination measures to sh
 ### Deliverables 
 
 <!-- - [D1.1 Data Management Plan & Project Database]() -->
-- [D2.1 Demo Reports](deliverables/D2.1.pdf)
+- [D2.1 Demo Reports](/projekte/INTERSTORES/deliverables/D2.1.pdf)
 <!-- - [D3.1 sTES Materials & Methods]()
 - [D3.2 sTES Replication Scenarios]() -->
-- [D3.4 Concepts for Innovative sTES (dts. Konzepte für innovative sTES)](deliverables/D3.4.pdf)
+- [D3.4 Concepts for Innovative sTES (dts. Konzepte für innovative sTES)](/projekte/INTERSTORES/deliverables/D3.4.pdf)
 <!-- - [D4.1 Digital Twin Benchmarks]()
 - [D4.2 ES Controls]()
 - [D4.3 Optimal sTES Integration & ES Flexibilisation]()
 - [D5.1 Environmental Synergies]()
 - [D5.2 Environmental Impact Assessment]() -->
-- [D5.4 Monitoring concepts for sTES ambient domains (dts.: Motitoringkonzepte für sTES Anwendungsbereiche)](deliverables/D5.4.pdf)
+- [D5.4 Monitoring concepts for sTES ambient domains (dts.: Motitoringkonzepte für sTES Anwendungsbereiche)](/projekte/INTERSTORES/deliverables/D5.4.pdf)
 <!-- - [D6.1 Exploitation/ IPR Management Plan]()
 - [D6.2 Market & Potential Analysis]()
 - [D6.3 Guide for sTES Projects]()
@@ -109,23 +109,23 @@ Development and implementation of communication and dissemination measures to sh
 
 {{< keyword >}}Conference paper{{< /keyword >}} Proceedings of Building Simulation 2025: 19th Conference of IBPSA [A modelling-based parametric assessment of sTES design and operation within a thermal source network](https://doi.org/10.26868/25222708.2025.1708)
 
-{{< keyword >}}Conference paper{{< /keyword >}} [Simulation-based design of world's largest cavern thermal energy storage: Optomosation of VARANTO](assets/publikation1.pdf)
+{{< keyword >}}Conference paper{{< /keyword >}} [Simulation-based design of world's largest cavern thermal energy storage: Optomosation of VARANTO](/projekte/INTERSTORES/assets/publikation1.pdf)
 
-{{< keyword >}}Conference paper{{< /keyword >}} [Thermal characterization of crystalline rocks for cavern thermal energy storage application](assets/publikation2.pdf)
+{{< keyword >}}Conference paper{{< /keyword >}} [Thermal characterization of crystalline rocks for cavern thermal energy storage application](/projekte/INTERSTORES/assets/publikation2.pdf)
 
-{{< keyword >}}Conference paper{{< /keyword >}} [Towards high thermal-to-hydraulic performance of heat exchangers for water-gravel thermal energy storage](assets/publikation3.pdf)
+{{< keyword >}}Conference paper{{< /keyword >}} [Towards high thermal-to-hydraulic performance of heat exchangers for water-gravel thermal energy storage](/projekte/INTERSTORES/assets/publikation3.pdf)
 
 {{< keyword >}}Conference paper{{< /keyword >}} [Recycling of subsurface heat loss from thermal energy storage basins through geothermal trenches](https://doi.org/10.5194/egusphere-egu25-5644)
 
 {{< keyword >}}Conference paper{{< /keyword >}} [Modeling multi-basin water-gravel thermal energy storages with STORE](10.5281/zenodo.13790499)
 
-{{< keyword >}}Conference paper{{< /keyword >}} [Wärme- und Kältenetze der 5. Generation in der industriellen Energieversorgung -- Herausforderungen und Potenziale am Beispiel des incampus](assets/publikation5.pdf)
+{{< keyword >}}Conference paper{{< /keyword >}} [Wärme- und Kältenetze der 5. Generation in der industriellen Energieversorgung -- Herausforderungen und Potenziale am Beispiel des incampus](/projekte/INTERSTORES/assets/publikation5.pdf)
 
-{{< keyword >}}Conference paper{{< /keyword >}} [The IN-Campus: A lighthouse site for re-used infrastructures as seasonal thermal energy storage](assets/publikation6.pdf)
+{{< keyword >}}Conference paper{{< /keyword >}} [The IN-Campus: A lighthouse site for re-used infrastructures as seasonal thermal energy storage](/projekte/INTERSTORES/assets/publikation6.pdf)
 
 {{< keyword >}}Conference paper{{< /keyword >}} [Modeling and simulation of combined basin structures for seasonalthermal energy storage](https://doi.org/10.5194/egusphere-egu24-1482)
 
-{{< keyword >}}Conference paper{{< /keyword >}} [Enhancing Efficiency and Feasibility of Large-Scale Thermal Energy Storage in District Heating ](assets/publikation7.pdf)
+{{< keyword >}}Conference paper{{< /keyword >}} [Enhancing Efficiency and Feasibility of Large-Scale Thermal Energy Storage in District Heating ](/projekte/INTERSTORES/assets/publikation7.pdf)
 
 {{< keyword >}}Article{{< /keyword >}} [Simulation-based planning for cost-effective and energy-efficient large-scale seasonal thermal energy storage systems](https://doi.org/10.1016/j.renene.2025.124813)
 
@@ -145,15 +145,15 @@ Development and implementation of communication and dissemination measures to sh
 
 {{< keyword >}}Article{{< /keyword >}} [Analytical solution for the simulation of ground thermal conditions around planar trench collector](https://doi.org/10.1016/j.geothermics.2024.103123)
 
-{{< keyword >}}Presentation{{< /keyword >}} [Environmental impacts from constructing seasonal underground thermal energy storage systems](assets/Presentation3.pdf)
+{{< keyword >}}Presentation{{< /keyword >}} [Environmental impacts from constructing seasonal underground thermal energy storage systems](/projekte/INTERSTORES/assets/Presentation3.pdf)
 
-{{< keyword >}}Presentation{{< /keyword >}} [Modern Benchmark of Adaptive Thermal Source Network at an Industrial Site](assets/Presentation4.pdf)
+{{< keyword >}}Presentation{{< /keyword >}} [Modern Benchmark of Adaptive Thermal Source Network at an Industrial Site](/projekte/INTERSTORES/assets/Presentation4.pdf)
 
-{{< keyword >}}Presentaion{{< /keyword >}} [Environmental impact and optimisation potential of sTES](assets/Presentation1.pdf)
+{{< keyword >}}Presentaion{{< /keyword >}} [Environmental impact and optimisation potential of sTES](/projekte/INTERSTORES/assets/Presentation1.pdf)
 
-{{< keyword >}}Presentaion{{< /keyword >}} [Geothermal trenches for utilisation os shallow ground resources](assets/Presentation2.pdf)
+{{< keyword >}}Presentaion{{< /keyword >}} [Geothermal trenches for utilisation os shallow ground resources](/projekte/INTERSTORES/assets/Presentation2.pdf)
 
-{{< keyword >}}Poster{{< /keyword >}} [Recycling of subsurface heat loss from thermal energy storage basins through geothermal trenches](assets/poster1.pdf)
+{{< keyword >}}Poster{{< /keyword >}} [Recycling of subsurface heat loss from thermal energy storage basins through geothermal trenches](/projekte/INTERSTORES/assets/poster1.pdf)
 
 
 ### Project partners
