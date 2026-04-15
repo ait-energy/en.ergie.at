@@ -19,7 +19,7 @@ In many European countries, various capacity mechanisms (CM), such as centralize
 | **Short name** | <mark>TeKaVe</mark> |
 | **Title** | Technology-neutral capacity mechanisms for a secure energy future |
 | **Duration** | 01.03.2024 -- 31.08.2025 |
-| **Partners** | 3 ([show all]({{< ref "#project partners" >}})) | 
+| **Partners** | 3 ([show all]({{< ref "#project-partners" >}})) | 
 | **Project type** | Co-funded research project |
 | **Project lead AIT** | [Stefan Strömer](mailto:stefan.stroemer@ait.ac.at) |
 
