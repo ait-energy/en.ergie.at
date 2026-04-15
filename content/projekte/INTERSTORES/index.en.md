@@ -105,10 +105,58 @@ Development and implementation of communication and dissemination measures to sh
 - [D7.1 Dissemination & Communication Plan]()
 - [D7.2 Policy Guidelines]() -->
 
-<!-- ### Publications
+### Publications
 
-{{< keyword >}}Example{{< /keyword >}} [Example](https://www.example.com)  
--->
+{{< keyword >}}Conference paper{{< /keyword >}} Proceedings of Building Simulation 2025: 19th Conference of IBPSA [A modelling-based parametric assessment of sTES design and operation within a thermal source network](https://doi.org/10.26868/25222708.2025.1708)
+
+{{< keyword >}}Conference paper{{< /keyword >}} [Simulation-based design of world's largest cavern thermal energy storage: Optomosation of VARANTO](assets/publikation1.pdf)
+
+{{< keyword >}}Conference paper{{< /keyword >}} [Thermal characterization of crystalline rocks for cavern thermal energy storage application](assets/publikation2.pdf)
+
+{{< keyword >}}Conference paper{{< /keyword >}} [Towards high thermal-to-hydraulic performance of heat exchangers for water-gravel thermal energy storage](assets/publikation3.pdf)
+
+{{< keyword >}}Conference paper{{< /keyword >}} [Recycling of subsurface heat loss from thermal energy storage basins through geothermal trenches](https://doi.org/10.5194/egusphere-egu25-5644)
+
+{{< keyword >}}Conference paper{{< /keyword >}} [Modeling multi-basin water-gravel thermal energy storages with STORE](10.5281/zenodo.13790499)
+
+{{< keyword >}}Conference paper{{< /keyword >}} [Wärme- und Kältenetze der 5. Generation in der industriellen Energieversorgung -- Herausforderungen und Potenziale am Beispiel des incampus](assets/publikation5.pdf)
+
+{{< keyword >}}Conference paper{{< /keyword >}} [The IN-Campus: A lighthouse site for re-used infrastructures as seasonal thermal energy storage](assets/publikation6.pdf)
+
+{{< keyword >}}Conference paper{{< /keyword >}} [Modeling and simulation of combined basin structures for seasonalthermal energy storage](https://doi.org/10.5194/egusphere-egu24-1482)
+
+{{< keyword >}}Conference paper{{< /keyword >}} [Enhancing Efficiency and Feasibility of Large-Scale Thermal Energy Storage in District Heating ](assets/publikation7.pdf)
+
+{{< keyword >}}Article{{< /keyword >}} [Simulation-based planning for cost-effective and energy-efficient large-scale seasonal thermal energy storage systems](https://doi.org/10.1016/j.renene.2025.124813)
+
+{{< keyword >}}Article{{< /keyword >}} [Comprehensive life cycle assessment of selected seasonal thermal energy storage systems](https://doi.org/10.1016/j.renene.2025.124232)
+
+{{< keyword >}}Article{{< /keyword >}} [Development of a reduced-order dynamic model for large-scale seasonal thermal energy storage applications](https://doi.org/10.1016/j.energy.2025.137379)
+
+{{< keyword >}}Article{{< /keyword >}} [Cavern thermal energy storage: State of play and prospects](https://doi.org/10.1016/j.apenergy.2025.127141)
+
+{{< keyword >}}Article{{< /keyword >}} [Implementation of an expanding thermal source network as a step towards CO2-neutral industry](https://doi.org/10.1016/j.energy.2025.136766)
+
+{{< keyword >}}Article{{< /keyword >}} [Implementation of an expanding thermal source network as a step towards CO<sub>2</sub> neutral industry](https://doi.org/10.1016/j.energy.2025.136766)
+
+{{< keyword >}}Article{{< /keyword >}} [Integrating a seasonal thermal energy storage FMU in a MATLAB/Simscape thermal source network model](https://doi.org/10.3384/ecp218851)
+
+{{< keyword >}}Abstract{{< /keyword >}} [Environmental impacts from constructing seasonal underground thermal energy storage systems](https://doi.org/10.5194/egusphere-egu25-6553)
+
+{{< keyword >}}Article{{< /keyword >}} [Influence of thermal energy storage basins on the subsurface and shallow groundwater](https://doi.org/10.1016/j.est.2024.112222)
+
+{{< keyword >}}Article{{< /keyword >}} [Analytical solution for the simulation of ground thermal conditions around planar trench collector](https://doi.org/10.1016/j.geothermics.2024.103123)
+
+{{< keyword >}}Presentation{{< /keyword >}} [Environmental impacts from constructing seasonal underground thermal energy storage systems](assets/Presentation3.pdf)
+
+{{< keyword >}}Presentation{{< /keyword >}} [Modern Benchmark of Adaptive Thermal Source Network at an Industrial Site](assets/Presentation4.pdf)
+
+{{< keyword >}}Presentaion{{< /keyword >}} [Environmental impact and optimisation potential of sTES](assets/Presentation1.pdf)
+
+{{< keyword >}}Presentaion{{< /keyword >}} [Geothermal trenches for utilisation os shallow ground resources](assets/Presentation2.pdf)
+
+{{< keyword >}}Poster{{< /keyword >}} [Recycling of subsurface heat loss from thermal energy storage basins through geothermal trenches](assets/poster1.pdf)
+
 
 ### Project partners
 
