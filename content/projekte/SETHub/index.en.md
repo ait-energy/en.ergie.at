@@ -16,7 +16,7 @@ The economic evaluation of the grid-supportive use of electrolysers is enabled t
 | **Short name** | <mark>SETHub</mark> |
 | **Title** | Smart Energy Transformation Hub |
 | **Duration** | 01.10.2023 -- 31.03.2025 |
-| **Partners** | 2 ([show all]({{< ref "#project partners" >}})) |
+| **Partners** | 2 ([show all]({{< ref "#project-partners" >}})) |
 | **Project type** | Co-funded research project  |
 | **Project lead AIT** | [Philipp Ortmann & Stefan Fink](mailto:philipp.ortmann@ait.ac.at) |
 
