@@ -136,8 +136,6 @@ Hier werden Kommunikations- und Disseminationsmaßnahmen entwickelt und umgesetz
 
 {{< keyword >}}Artikel{{< /keyword >}} [Cavern thermal energy storage: State of play and prospects](https://doi.org/10.1016/j.apenergy.2025.127141)
 
-{{< keyword >}}Artikel{{< /keyword >}} [Implementation of an expanding thermal source network as a step towards CO2-neutral industry](https://doi.org/10.1016/j.energy.2025.136766)
-
 {{< keyword >}}Artikel{{< /keyword >}} [Implementation of an expanding thermal source network as a step towards CO<sub>2</sub> neutral industry](https://doi.org/10.1016/j.energy.2025.136766)
 
 {{< keyword >}}Artikel{{< /keyword >}} [Integrating a seasonal thermal energy storage FMU in a MATLAB/Simscape thermal source network model](https://doi.org/10.3384/ecp218851)
