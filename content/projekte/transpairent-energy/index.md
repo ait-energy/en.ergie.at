@@ -4,7 +4,7 @@ topics: ["AI", "Prognosen", "Biogas", "PV", "Batteriespeicher"]
 authors: [sstroemer, kmaggauer]
 ---
 
-Das Projekt _transpAIrent.energy - Transparent AI Forecasts for Green Energy in Austria_ zielt darauf ab, mithilfe von generative artificial intelligence (AI)-Methoden probabilistische Live-Prognosen für energiesystemrelevante Größen wie Strompreise und CO<sub>2</sub>-Intensitäten in Österreich zu erstellen und eine transparente Plattform zu entwickeln, die diese öffentlich zugänglich macht.
+Das Projekt _transpAIrent.energy - Transparent AI Forecasts for Green Energy in Austria_ zielt darauf ab, mithilfe von generative <abbr title="artificial intelligence">AI</abbr>-Methoden probabilistische Live-Prognosen für energiesystemrelevante Größen wie Strompreise und CO<sub>2</sub>-Intensitäten in Österreich zu erstellen und eine transparente Plattform zu entwickeln, die diese öffentlich zugänglich macht.
 
 <!--more-->
 
