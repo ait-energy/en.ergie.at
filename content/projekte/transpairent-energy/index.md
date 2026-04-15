@@ -17,9 +17,9 @@ Diese Prognosen werden im Zuge des Projekts weiters dazu verwendet, eine Optimie
 | **Kurzform** | <mark>transpAIrent.energy</mark> |
 | **Titel** | transpAIrent.energy - Transparent AI Forecasts for Green Energy in Austria |
 | **Laufzeit** | 01.05.2024 -- 30.04.2027 |
-| **Partner** | 4 ([alle anzeigen]({{< ref "#projektpartner" >}})) |
+| **Partner:innen** | 4 ([alle anzeigen]({{< ref "#projektpartnerinnen" >}})) |
 | **Projektform** | Kofinanziertes Forschungsprojekt |
-| **Projektleitung** | [Klara Maggauer](mailto:klara.maggauer@ait.ac.at) & [Stefan Strömer](mailto:stefan.stroemer@ait.ac.at) |
+| **Projektleitung AIT** | [Klara Maggauer](mailto:klara.maggauer@ait.ac.at) & [Stefan Strömer](mailto:stefan.stroemer@ait.ac.at) |
 
 ## Überblick 
 
@@ -74,6 +74,8 @@ Durchführung stochastischer Optimierung auf Basis der AI-Prognosen sowie Entwic
 
 Entwicklung von Strategien zur Verbreitung der Plattform und Erhöhung der Sichtbarkeit des Projekts. Einbindung von Stakeholdern zur Sicherstellung der Anwendbarkeit sowie Förderung von wissenschaftlicher Exzellenz, Kooperation und Technologietransfer.
 
+## Weiterführende Informationen
+
 <!-- ### Deliverables
 
 - [D1.1 Interim report 1](deliverables/d1_1)
@@ -98,13 +100,13 @@ Entwicklung von Strategien zur Verbreitung der Plattform und Erhöhung der Sicht
 - [D6.3 Two scientific publications](deliverables/d6_3)
 - [D6.4 Stakeholder workshop documentation](deliverables/d6_4) -->
 
-### Dokumente
+### Veröffentlichungen
 
 {{< keyword >}}Präsentation{{< /keyword >}} [Probabilistische Vorhersagen relevanter Energiesystemvariablen mittels Generative AI](assets/94_presentation_20250318_160623.pdf), 26.02.2025
 
-### Projektpartner
+### Projektpartner:innen
 
-- [AIT Austrian Institute of Technology GmbH](https://www.ait.ac.at/ueber-das-ait/center/center-for-energy) (Projektkoordinator)
+- [AIT Austrian Institute of Technology GmbH](https://www.ait.ac.at/ueber-das-ait/center/center-for-energy) (Projektkoordination)
 - [B-SEC better secure GmbH & Co KG](https://www.b-sec.net/)
 - [Projektplanungs- Beratungs- und Entwicklungs GmbH](https://www.pbeg.at/)
 - [UBIMET GmbH](https://www.ubimet.com/)
