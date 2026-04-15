@@ -24,8 +24,7 @@ cells4.energy entwickelt und erprobt Energiezellen als neue Organisationsform re
 Ein zentrales Element des Projekts ist die digitale Steuerung und Optimierung der Energieflüsse durch smarte Algorithmen und Plattformlösungen. Dadurch wird es möglich, Energiegemeinschaften, Prosumer, Unternehmen und Kommunen aktiv in das Energiesystem einzubinden. Neben der technologischen Entwicklung wird auch an neuen Geschäftsmodellen, regulatorischen Rahmenbedingungen und Nutzerakzeptanz geforscht.
 
 cells4.energy ist Teil des Reallabors, das aus zwei wesentlichen Säulen besteht:
-Das Leitprojekt cells4.energy, in dem die grundlegenden Konzepte und Technologien für Energiezellen erforscht und entwickelt werden.
-Das Innovationslabor act4.energy next level, das als praxisnahe Testumgebung dient und das eine Innovationsinfrastruktur für Energiewendeprojekte bereit stellt.
+das Leitprojekt cells4.energy, in dem die grundlegenden Konzepte und Technologien für Energiezellen erforscht und entwickelt werden und das Innovationslabor act4.energy next level, das als praxisnahe Testumgebung dient und das eine Innovationsinfrastruktur für Energiewendeprojekte bereit stellt.
 
 Mit cells4.energy schaffen wir eine Blaupause für die nächste Generation dezentraler Energiesysteme und tragen dazu bei, die Energiewende technologisch, wirtschaftlich und gesellschaftlich voranzutreiben.
 
