@@ -8,7 +8,7 @@ The EU aims for a rapid decarbonization of the energy sector through the Fit for
 
 <!--more-->
 
-The overall objective of _INTERSTORES_ is to demonstrate and implement two innovative sTES solutions (reuse of existing basins and underground caverns) and to validate their use as multipurpose sTES at demonstration sites. INTERSTORES aims to improve sustainability by using costefficient, recycled insulation materials, increasing the share of renewable energy, and replacing conventional shotcrete. The main impact lies in reducing investment costs, energy demand, CO<sub>2</sub> emissions, and environmental and soil impacts.
+The overall objective of _INTERSTORES_ is to demonstrate and implement two innovative sTES solutions (reuse of existing basins and underground caverns) and to validate their use as multipurpose sTES at demonstration sites. _INTERSTORES_ aims to improve sustainability by using costefficient, recycled insulation materials, increasing the share of renewable energy, and replacing conventional shotcrete. The main impact lies in reducing investment costs, energy demand, CO<sub>2</sub> emissions, and environmental and soil impacts.
 
 ## Factsheet
 
