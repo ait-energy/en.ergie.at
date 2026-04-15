@@ -110,7 +110,7 @@ Development and implementation of communication and dissemination measures to sh
 
 ### Project partners
 
-- [MARTIN-LUTHER-UNIVERSITY HALLE-WITTENBERG](https://geo.uni-halle.de/appliedgeo/home/) (Project coordinator)
+- [MARTIN-LUTHER-UNIVERSITY HALLE-WITTENBERG](https://geo.uni-halle.de/appliedgeo/home/) (Project coordination)
 - [AIT Austrian Institute of Technology GmbH](https://www.ait.ac.at/ueber-das-ait/center/center-for-energy)
 - [E.ON UK Infrastructure Services Limited](https://www.eonenergy.com/)
 - [Stichting Global Energiesprong Alliance](https://www.energiesprong.org/)
