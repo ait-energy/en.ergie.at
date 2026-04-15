@@ -83,12 +83,12 @@ Development of an appropriate compensation scheme for capacity markets based on 
 
 ### Deliverables
 
-- [D2.1 Existing approaches to ensuring security of supply in Europe](deliverables/d2_1.pdf)
-- [D2.2 Stakeholder report](deliverables/bericht.pdf)
-- [D3.1 Model coupling report](deliverables/d3_1.pdf)
-- [D3.2 Market analysis report](deliverables/d3_2.pdf)
-- [D4.1 Regulatory framework for capacity markets](deliverables/d4_1.pdf)
-- [D4.2 Policy brief](deliverables/d4_2.pdf)
+- [D2.1 Existing approaches to ensuring security of supply in Europe](/projekte/tekave/deliverables/d2_1.pdf)
+- [D2.2 Stakeholder report](/projekte/tekave/deliverables/bericht.pdf)
+- [D3.1 Model coupling report](/projekte/tekave/deliverables/d3_1.pdf)
+- [D3.2 Market analysis report](/projekte/tekave/deliverables/d3_2.pdf)
+- [D4.1 Regulatory framework for capacity markets](/projekte/tekave/deliverables/d4_1.pdf)
+- [D4.2 Policy brief](/projekte/tekave/deliverables/d4_2.pdf)
 
 ### Publications
 
@@ -96,11 +96,11 @@ Development of an appropriate compensation scheme for capacity markets based on 
 
 {{< keyword >}}Guest article{{< /keyword >}} [Technologieneutrale Kapazitätsmechanismen für eine versorgungssichere Energiezukunft](https://positionen.wienerstadtwerke.at/aktuelles/gastbeitrag-technologieneutrale-kapazitaetsmechanismen-fuer-eine-versorgungssichere-energiezukunft)
 
-{{< keyword >}}Presentation{{< /keyword >}} [Stakeholder workshop](assets/TeKaVe_Stakeholder_Workshop_final.pdf)
+{{< keyword >}}Presentation{{< /keyword >}} [Stakeholder workshop](/projekte/tekave/assets/TeKaVe_Stakeholder_Workshop_final.pdf)
 
-{{< keyword >}}Presentation{{< /keyword >}} [Wien Energie](assets/TeKaVe_Stakeholder_Workshop_WE.pdf)
+{{< keyword >}}Presentation{{< /keyword >}} [Wien Energie](/projekte/tekave/assets/TeKaVe_Stakeholder_Workshop_WE.pdf)
 
-{{< keyword >}}Report{{< /keyword >}} [Stakeholder report](deliverables/bericht.pdf)
+{{< keyword >}}Report{{< /keyword >}} [Stakeholder report](/projekte/tekave/deliverables/bericht.pdf)
 
 ### Project partners
 
