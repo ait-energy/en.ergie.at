@@ -4,7 +4,7 @@ topics: ["Energy cells", "Living labs", "Flexibility", "Integrated Regional Ener
 authors: [plosieva]
 ---
 
-cells4.energy develops and tests energy cells as a new organizational model for regional energy systems. These integrate renewable generation, flexibility, storage, and grid services within a common structure. The goal is to create solutions that are immediately applicable, combine technical, economic, and societal aspects, and can be transferred to other regions.
+_cells4.energy_ develops and tests energy cells as a new organizational model for regional energy systems. These integrate renewable generation, flexibility, storage, and grid services within a common structure. The goal is to create solutions that are immediately applicable, combine technical, economic, and societal aspects, and can be transferred to other regions.
 
 <!--more-->
 
@@ -23,9 +23,9 @@ cells4.energy develops and tests energy cells as a new organizational model for 
 
 A central element of the project is the digital control and optimization of energy flows through smart algorithms and platform solutions. This enables energy communities, prosumers, businesses, and municipalities to actively participate in the energy system. In addition to technological development, research is also being conducted on new business models, regulatory frameworks, and user acceptance.
 
-cells4.energy is part of the cells4.energy real-world laboratory, which consists of two key pillars: the flagship project cells4.energy, where the fundamental concepts and technologies for energy cells are researched and developed, and the innovation lab act4.energy next level, which serves as a practice-oriented test environment and provides an innovation infrastructure for energy transition projects. 
+_cells4.energy_ is part of the cells4.energy real-world laboratory, which consists of two key pillars: the flagship project _cells4.energy_, where the fundamental concepts and technologies for energy cells are researched and developed, and the innovation lab act4.energy next level, which serves as a practice-oriented test environment and provides an innovation infrastructure for energy transition projects. 
 
-With cells4.energy, we are creating a blueprint for the next generation of decentralized energy systems and contributing to the advancement of the energy transition technologically, economically, and socially.
+With _cells4.energy_, we are creating a blueprint for the next generation of decentralized energy systems and contributing to the advancement of the energy transition technologically, economically, and socially.
 
 ## Findings
 
@@ -134,10 +134,12 @@ Scientific and non-scientific dissemination, communication of project results, a
 - [D9.1 Infrastruktur für Nutzung durch Innovationslabor (engl.: Infrastructure for Use by the Innovation Lab)]()
 - [D9.2 Social Media Kommunikationsstrategie (engl.: Social Media Communication Strategy)]()  -->
 
-<!-- ### Publications 
+### Publications 
 
-{{< keyword >}}Example{{< /keyword >}} [Example](https://www.example.com)  
--->
+{{< keyword >}}Video{{< /keyword >}} Interview with Markus Tascheck, cells4Energy Living Lab, on the occasion of the Mission Innovation Austria Week 2024: [Interview with Markus Tascheck](https://reallabore.at/video/2/reallabor-cellsenergy-interview-mit-markus-tascheck)   
+
+{{< keyword >}}Video{{< /keyword >}} The cells4.energy living lab brings the digital ebergy cell into practice! [cells4.energy living lab - short video](https://reallabore.at/video/7/reallabor-cellsenergy-kurzvideo) 
+
 
 ### Project partners
 
