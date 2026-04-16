@@ -19,7 +19,7 @@ Durch die Verknüpfung von technologischen, räumlichen und systemischen Ebenen 
 | **Laufzeit** | 31.12.2022 -- 31.08.2026 |
 | **Partner:innen** | 8 ([alle anzeigen]({{< ref "#projektpartnerinnen" >}})) | 
 | **Projektform** | Kofinanziertes Forschungsprojekt |
-| **Projektleitung AIT** | [Nicolas Marx](Nicolas.Marx@ait.ac.at)|  
+| **Projektleitung AIT** | [Nicolas Marx](mailto:Nicolas.Marx@ait.ac.at)|  
 
 ## Überblick
 
