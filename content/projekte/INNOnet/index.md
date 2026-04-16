@@ -26,12 +26,15 @@ _INNOnet_ testet lastabhängige Netztarife zur Bestimmung von aktivierbaren Flex
 ## Erkenntnisse
 
 ### Dynamische Netztarife beeinflussen das Verbrauchsverhalten
+
 Zeitvariable Preissignale können das Verhalten von Haushaltskund:innen gezielt steuern und helfen, Lastspitzen im Netz zu reduzieren.
 
 ### Flexibilitätspotenziale können im Realbetrieb identifiziert werden
+
 Durch die Analyse realer Daten und Testumgebungen können aktivierbare Flexibilitäten im Stromverbrauch erkannt und genutzt werden.
 
 ### Netzsimulationen unterstützen die Entwicklung zukünftiger Tarife
+
 Simulationen ermöglichen die Bewertung verschiedener Szenarien und helfen, geeignete Tarifmodelle für zukünftige Energiesysteme zu entwickeln.
 
 <!-- ## Tätigkeiten  -->
