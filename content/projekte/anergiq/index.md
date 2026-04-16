@@ -88,7 +88,7 @@ Modell für Investitions- und Betriebskosten über 30 Jahre
 
 Am 23.04.2026 findet ein Vortrag über Anergienetze statt, in welchem AnergIQ vorgestellt wird, veranstaltet vom [Energie- und Klimaforum NÖ Städte](https://www.enu.at/):
 
-{{< button href="[#button](https://www.enu.at/anmeldung-anergienetze-23-4-2026/)" target="_blank" >}}
+{{< button href="https://link.enu.at/u/gm.php?prm=BP923zu3q2_755245779_3280170_28&_esuh=_11_1f45f0506b5e6cc65c6278ac8b73204275e48da67ef117942b30617ff0f50ee4" target="_blank" >}}
 Jetzt zum Vortrag anmelden!
 {{< /button >}}
 
