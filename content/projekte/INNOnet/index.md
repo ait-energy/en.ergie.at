@@ -17,7 +17,7 @@ Lastabhängige Netztarife werden als essentieller Beitrag zur Erreichung energie
 | **Laufzeit** | 01.03.2023 -- 31.10.2026 |
 | **Partner:innen** | 10 ([alle anzeigen]({{< ref "#projektpartnerinnen" >}})) |
 | **Projektform** | Kofinanziertes Forschungsprojekt  |
-| **Projektleitung AIT** | [Carolin Monsberger](mailto:Carolin.Monsberger@ait.ac.at)|
+| **Projektleitung AIT** | [Carolin Monsberger](mailto:Carolin.Monsberger@ait.ac.at) |
 
 ## Überblick
 
