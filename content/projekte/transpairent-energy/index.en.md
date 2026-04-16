@@ -8,7 +8,7 @@ The project _transpAIrent.energy – Transparent AI Forecasts for Green Energy i
 
 <!--more-->
 
-Within the project, these forecasts are further used to develop an optimization strategy for the operation of flexible renewable energy systems under various environmental and system-related constraints. This “multi-objective” optimization approach simultaneously enables economic benefits—creating incentives - while ensuring lower CO<sub>2</sub> intensity, thereby supporting the transition to a more environmentally sustainable energy system.
+Within the project, these forecasts are further used to develop an optimization strategy for the operation of flexible renewable energy systems under various environmental and system-related constraints. This “multi-objective” optimization approach simultaneously enables economic benefits - creating incentives - while ensuring lower CO<sub>2</sub> intensity, thereby supporting the transition to a more environmentally sustainable energy system.
 
 ## Factsheet
 
@@ -23,7 +23,7 @@ Within the project, these forecasts are further used to develop an optimization 
 
 ## Overview
 
-Within the project, two main objectives are pursued: first, the development of an innovative generative AI–based algorithm for producing probabilistic forecasts of energy system–relevant variables, as well as their real-time publication on a transparent platform. Second, the use of these forecasts to optimize flexible renewable energy systems in order to make their operation both more economically efficient and more sustainable.
+Within the project, two main objectives are pursued: first, the development of an innovative generative AI-based algorithm for producing probabilistic forecasts of energy system-relevant variables, as well as their real-time publication on a transparent platform. Second, the use of these forecasts to optimize flexible renewable energy systems in order to make their operation both more economically efficient and more sustainable.
 
 ## Findings
 

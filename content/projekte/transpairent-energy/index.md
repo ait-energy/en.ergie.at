@@ -28,7 +28,7 @@ Im Rahmen des Projekts werden zwei zentrale Ziele verfolgt: Erstens die Entwickl
 ## Erkenntnisse
 
 ### Generative AI ermöglicht präzisere Prognosen
-Der Einsatz generativer AI erlaubt die Erstellung probabilistischer Live-Prognosen für zentrale energiesystemrelevante Größen wie Strompreise und CO2-Intensitäten und verbessert damit die Entscheidungsgrundlage im Energiesystem.
+Der Einsatz generativer AI erlaubt die Erstellung probabilistischer Live-Prognosen für zentrale energiesystemrelevante Größen wie Strompreise und CO<sub>2</sub>-Intensitäten und verbessert damit die Entscheidungsgrundlage im Energiesystem.
 
 ### Daten und Modellierung sind zentrale Grundlage
 Datensammlung, -aufbereitung sowie die Entwicklung von AI-basierten Prognosealgorithmen bilden die Basis für die Erstellung zuverlässiger Vorhersagen und deren Anwendung.
@@ -49,7 +49,7 @@ Projektmanagement und Koordination des Projektteams sowie Überwachung von Forts
 ### AP2: Datensammlung und -aufbereitung
 <u>Lead: AIT</u>
 
-Design und Implementierung einer Datenverarbeitungspipeline inklusive Datenbank sowie automatisierte Datensammlung und Datenbereinigung. Ergänzend werden fehlende Daten mithilfe generativer AI ergänzt und CO2-Intensitäten berechnet sowie Wetterprognosen entwickelt.
+Design und Implementierung einer Datenverarbeitungspipeline inklusive Datenbank sowie automatisierte Datensammlung und Datenbereinigung. Ergänzend werden fehlende Daten mithilfe generativer AI ergänzt und CO<sub>2</sub>-Intensitäten berechnet sowie Wetterprognosen entwickelt.
 
 ### AP3: Entwicklung von AI-basierten Prognosealgorithmen
 <u>Lead: AIT</u>
