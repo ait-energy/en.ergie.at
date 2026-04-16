@@ -1,45 +1,48 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Studie on en.ergie.at</title><link>/literature/studie/</link><description>Recent content in Studie on en.ergie.at</description><generator>Hugo -- gohugo.io</generator><language>de</language><copyright>&amp;copy; AIT Austrian Institute of Technology GmbH</copyright><lastBuildDate>Thu, 23 Oct 2025 16:36:15 +0200</lastBuildDate><atom:link href="/literature/studie/index.xml" rel="self" type="application/rss+xml"/><item><title>Technologieneutrale Kapazitätsmechanismen für eine versorgungssichere Energiezukunft</title><link>/literature/2025/10/ait/</link><pubDate>Thu, 23 Oct 2025 16:36:15 +0200</pubDate><guid>/literature/2025/10/ait/</guid><description>&lt;h2 class="relative group">Überblick
-&lt;div id="%C3%BCberblick" class="anchor">&lt;/div>
-&lt;span
-class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
-&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
-style="text-decoration-line: none !important;" href="#%C3%BCberblick" aria-label="Anker">#&lt;/a>
-&lt;/span>
-&lt;/h2>
-&lt;figure>
-&lt;div class="flex mt-2">
-&lt;span
-class="rounded-full bg-primary-500 dark:bg-primary-400 text-neutral-50 dark:text-neutral-800 px-1.5 py-[1px] text-xs font-normal"
->
-&lt;span class="flex flex-row items-center">
-&lt;span>Originaldokument&lt;/span>
-&lt;/span>
-&lt;/span>
-&lt;/div>
-&lt;blockquote style="margin-top: 0.5em;">
-&lt;a href="https://en.ergie.at/projekte/tekave/deliverables/bericht.pdf" target="_blank">
-Technologieneutrale Kapazitätsmechanismen für eine versorgungssichere Energiezukunft
-&lt;/a>
-&lt;/blockquote>
-&lt;figcaption>— AIT Austrian Institute of Technology GmbH, im Oktober 2025&lt;/figcaption>
-&lt;/figure>
-&lt;h3 class="relative group">Inhalte
-&lt;div id="inhalte" class="anchor">&lt;/div>
-&lt;span
-class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
-&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
-style="text-decoration-line: none !important;" href="#inhalte" aria-label="Anker">#&lt;/a>
-&lt;/span>
-&lt;/h3>
-&lt;h4 class="relative group">Kapazitätsmechanismen
-&lt;div id="kapazit%C3%A4tsmechanismen" class="anchor">&lt;/div>
-&lt;span
-class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
-&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
-style="text-decoration-line: none !important;" href="#kapazit%C3%A4tsmechanismen" aria-label="Anker">#&lt;/a>
-&lt;/span>
-&lt;/h4>
-&lt;p>Das Projekt „Technologieneutrale Kapazitätsmechanismen für eine versorgungssichere
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Studie on en.ergie.at</title><link>/literature/studie/</link><description>Recent content in Studie on en.ergie.at</description><generator>Hugo -- gohugo.io</generator><language>de</language><copyright>&amp;copy; AIT Austrian Institute of Technology GmbH</copyright><lastBuildDate>Thu, 23 Oct 2025 16:36:15 +0200</lastBuildDate><atom:link href="/literature/studie/index.xml" rel="self" type="application/rss+xml"/><item><title>Technologieneutrale Kapazitätsmechanismen für eine versorgungssichere Energiezukunft</title><link>/literature/2025/10/ait/</link><pubDate>Thu, 23 Oct 2025 16:36:15 +0200</pubDate><guid>/literature/2025/10/ait/</guid><description>&lt;h2 class="relative group"&gt;Überblick
+ &lt;div id="überblick" class="anchor"&gt;&lt;/div&gt;
+ 
+ &lt;span
+ class="absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none"&gt;
+ &lt;a class="text-primary-300 dark:text-neutral-700 !no-underline" href="#%c3%bcberblick" aria-label="Anker"&gt;#&lt;/a&gt;
+ &lt;/span&gt;
+ 
+&lt;/h2&gt;
+&lt;figure&gt;
+ &lt;div class="flex mt-2"&gt;
+ &lt;span
+ class="rounded-full bg-primary-500 dark:bg-primary-400 text-neutral-50 dark:text-neutral-800 px-1.5 py-[1px] text-xs font-normal"&gt;
+ &lt;span class="flex flex-row items-center"&gt;&lt;span&gt;Originaldokument&lt;/span&gt;
+ &lt;/span&gt;
+ &lt;/span&gt;
+&lt;/div&gt;
+ &lt;blockquote style="margin-top: 0.5em;"&gt;
+ &lt;a href="https://en.ergie.at/projekte/tekave/deliverables/bericht.pdf" target="_blank"&gt;
+ Technologieneutrale Kapazitätsmechanismen für eine versorgungssichere Energiezukunft
+ &lt;/a&gt;
+ &lt;/blockquote&gt;
+ &lt;figcaption&gt;— AIT Austrian Institute of Technology GmbH, im Oktober 2025&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;h3 class="relative group"&gt;Inhalte
+ &lt;div id="inhalte" class="anchor"&gt;&lt;/div&gt;
+ 
+ &lt;span
+ class="absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none"&gt;
+ &lt;a class="text-primary-300 dark:text-neutral-700 !no-underline" href="#inhalte" aria-label="Anker"&gt;#&lt;/a&gt;
+ &lt;/span&gt;
+ 
+&lt;/h3&gt;
+
+&lt;h4 class="relative group"&gt;Kapazitätsmechanismen
+ &lt;div id="kapazitätsmechanismen" class="anchor"&gt;&lt;/div&gt;
+ 
+ &lt;span
+ class="absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none"&gt;
+ &lt;a class="text-primary-300 dark:text-neutral-700 !no-underline" href="#kapazit%c3%a4tsmechanismen" aria-label="Anker"&gt;#&lt;/a&gt;
+ &lt;/span&gt;
+ 
+&lt;/h4&gt;
+&lt;p&gt;Das Projekt „Technologieneutrale Kapazitätsmechanismen für eine versorgungssichere
 Energiezukunft“ (TeKaVe) untersucht die Anreize für Investitionen in versorgungsrelevante
 Kapazitäten aktuellen im Energy-Only-Markt (EOM) und welchen zukünftigen Beitrag
 Kapazitätsmechanismen zur Versorgungssicherheit leisten können. Die durchgeführte
@@ -48,92 +51,98 @@ den bestehenden Instrumenten darstellt und wie
 dessen Ausgestaltung erfolgen kann, um Versorgungssicherheit und nationale Klima- und
 Energieziele zu vereinen. Begleitet wurden diese Untersuchungen von einer Analyse der
 Voraussetzungen für die Einführung eines Kapazitätsmechanismus im europäischen Recht
-und welche Anforderung ein solcher Mechanismus erfüllen muss.&lt;/p></description></item><item><title>Die Ordnung der Transformation. Versorgungssicherheit im Strommarkt.</title><link>/literature/2024/07/connect_energy_economics/</link><pubDate>Tue, 21 Oct 2025 15:39:09 +0200</pubDate><guid>/literature/2024/07/connect_energy_economics/</guid><description>&lt;h2 class="relative group">Überblick
-&lt;div id="%C3%BCberblick" class="anchor">&lt;/div>
-&lt;span
-class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
-&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
-style="text-decoration-line: none !important;" href="#%C3%BCberblick" aria-label="Anker">#&lt;/a>
-&lt;/span>
-&lt;/h2>
-&lt;figure>
-&lt;div class="flex mt-2">
-&lt;span
-class="rounded-full bg-primary-500 dark:bg-primary-400 text-neutral-50 dark:text-neutral-800 px-1.5 py-[1px] text-xs font-normal"
->
-&lt;span class="flex flex-row items-center">
-&lt;span>Originaldokument&lt;/span>
-&lt;/span>
-&lt;/span>
-&lt;/div>
-&lt;blockquote style="margin-top: 0.5em;">
-&lt;a href="https://www.connect-ee.com/wp-content/uploads/2024/07/Connect_Ordnung_der_Transformation_2024.pdf" target="_blank">
-Die Ordnung der Transformation. Versorgungssicherheit im Strommarkt
-&lt;/a>
-&lt;/blockquote>
-&lt;figcaption>— Connect Energy Economics, im Juli 2024&lt;/figcaption>
-&lt;/figure>
-&lt;h3 class="relative group">Inhalte
-&lt;div id="inhalte" class="anchor">&lt;/div>
-&lt;span
-class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
-&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
-style="text-decoration-line: none !important;" href="#inhalte" aria-label="Anker">#&lt;/a>
-&lt;/span>
-&lt;/h3>
-&lt;h4 class="relative group">Kapazitätsmechanismen
-&lt;div id="kapazit%C3%A4tsmechanismen" class="anchor">&lt;/div>
-&lt;span
-class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
-&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
-style="text-decoration-line: none !important;" href="#kapazit%C3%A4tsmechanismen" aria-label="Anker">#&lt;/a>
-&lt;/span>
-&lt;/h4>
-&lt;p>Die vom Bundesverband neue Energiewirtschaft e.V. (BNE), Deutsche Industrie- und Handelskammer (DIHK) und European Energy Exchange AG (EEX)
+und welche Anforderung ein solcher Mechanismus erfüllen muss.&lt;/p&gt;</description></item><item><title>Die Ordnung der Transformation. Versorgungssicherheit im Strommarkt.</title><link>/literature/2024/07/connect_energy_economics/</link><pubDate>Tue, 21 Oct 2025 15:39:09 +0200</pubDate><guid>/literature/2024/07/connect_energy_economics/</guid><description>&lt;h2 class="relative group"&gt;Überblick
+ &lt;div id="überblick" class="anchor"&gt;&lt;/div&gt;
+ 
+ &lt;span
+ class="absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none"&gt;
+ &lt;a class="text-primary-300 dark:text-neutral-700 !no-underline" href="#%c3%bcberblick" aria-label="Anker"&gt;#&lt;/a&gt;
+ &lt;/span&gt;
+ 
+&lt;/h2&gt;
+&lt;figure&gt;
+ &lt;div class="flex mt-2"&gt;
+ &lt;span
+ class="rounded-full bg-primary-500 dark:bg-primary-400 text-neutral-50 dark:text-neutral-800 px-1.5 py-[1px] text-xs font-normal"&gt;
+ &lt;span class="flex flex-row items-center"&gt;&lt;span&gt;Originaldokument&lt;/span&gt;
+ &lt;/span&gt;
+ &lt;/span&gt;
+&lt;/div&gt;
+ &lt;blockquote style="margin-top: 0.5em;"&gt;
+ &lt;a href="https://www.connect-ee.com/wp-content/uploads/2024/07/Connect_Ordnung_der_Transformation_2024.pdf" target="_blank"&gt;
+ Die Ordnung der Transformation. Versorgungssicherheit im Strommarkt
+ &lt;/a&gt;
+ &lt;/blockquote&gt;
+ &lt;figcaption&gt;— Connect Energy Economics, im Juli 2024&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;h3 class="relative group"&gt;Inhalte
+ &lt;div id="inhalte" class="anchor"&gt;&lt;/div&gt;
+ 
+ &lt;span
+ class="absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none"&gt;
+ &lt;a class="text-primary-300 dark:text-neutral-700 !no-underline" href="#inhalte" aria-label="Anker"&gt;#&lt;/a&gt;
+ &lt;/span&gt;
+ 
+&lt;/h3&gt;
+
+&lt;h4 class="relative group"&gt;Kapazitätsmechanismen
+ &lt;div id="kapazitätsmechanismen" class="anchor"&gt;&lt;/div&gt;
+ 
+ &lt;span
+ class="absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none"&gt;
+ &lt;a class="text-primary-300 dark:text-neutral-700 !no-underline" href="#kapazit%c3%a4tsmechanismen" aria-label="Anker"&gt;#&lt;/a&gt;
+ &lt;/span&gt;
+ 
+&lt;/h4&gt;
+&lt;p&gt;Die vom Bundesverband neue Energiewirtschaft e.V. (BNE), Deutsche Industrie- und Handelskammer (DIHK) und European Energy Exchange AG (EEX)
 in Auftrag gegebene Studie empfiehlt die Einführung einer Absicherungspflicht für die Lieferverpflichtungen von Energieversorgern über den Terminmarkt.
 Die Studie kommt zu dem Schluss, dass eine Absicherungspflicht besser als ein Kapazitätsmarkt geeignet ist, um Versorgungssicherheit zu gewährleisten,
-da Kapazitätsmärkte Fehlanreize und permanente politische Nachfragesteuerung mit sich bringen.&lt;/p></description></item><item><title>Neudefinition der Energiesicherheit im Zeitalter der Elektrizität</title><link>/literature/2025/02/eurelectric/</link><pubDate>Wed, 18 Jun 2025 16:21:11 +0200</pubDate><guid>/literature/2025/02/eurelectric/</guid><description>&lt;h2 class="relative group">Überblick
-&lt;div id="%C3%BCberblick" class="anchor">&lt;/div>
-&lt;span
-class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
-&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
-style="text-decoration-line: none !important;" href="#%C3%BCberblick" aria-label="Anker">#&lt;/a>
-&lt;/span>
-&lt;/h2>
-&lt;figure>
-&lt;div class="flex mt-2">
-&lt;span
-class="rounded-full bg-primary-500 dark:bg-primary-400 text-neutral-50 dark:text-neutral-800 px-1.5 py-[1px] text-xs font-normal"
->
-&lt;span class="flex flex-row items-center">
-&lt;span>Originaldokument&lt;/span>
-&lt;/span>
-&lt;/span>
-&lt;/div>
-&lt;blockquote style="margin-top: 0.5em;">
-&lt;a href="https://energy-security.eurelectric.org/wp-content/uploads/Eurelectric-report-energy-security-in-the-age-of-electricity-1.pdf" target="_blank">
-Redefining energy security in the age of electricity
-&lt;/a>
-&lt;/blockquote>
-&lt;figcaption>— Eurelectric, im Februar 2025&lt;/figcaption>
-&lt;/figure>
-&lt;h3 class="relative group">Inhalte
-&lt;div id="inhalte" class="anchor">&lt;/div>
-&lt;span
-class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
-&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
-style="text-decoration-line: none !important;" href="#inhalte" aria-label="Anker">#&lt;/a>
-&lt;/span>
-&lt;/h3>
-&lt;h4 class="relative group">Kapazitätsmechanismen
-&lt;div id="kapazit%C3%A4tsmechanismen" class="anchor">&lt;/div>
-&lt;span
-class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
-&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
-style="text-decoration-line: none !important;" href="#kapazit%C3%A4tsmechanismen" aria-label="Anker">#&lt;/a>
-&lt;/span>
-&lt;/h4>
-&lt;p>Die Studie erläutert, warum Kapazitätsmechanismen notwendig sein können, um Investitionen in gesicherte und flexible
+da Kapazitätsmärkte Fehlanreize und permanente politische Nachfragesteuerung mit sich bringen.&lt;/p&gt;</description></item><item><title>Neudefinition der Energiesicherheit im Zeitalter der Elektrizität</title><link>/literature/2025/02/eurelectric/</link><pubDate>Wed, 18 Jun 2025 16:21:11 +0200</pubDate><guid>/literature/2025/02/eurelectric/</guid><description>&lt;h2 class="relative group"&gt;Überblick
+ &lt;div id="überblick" class="anchor"&gt;&lt;/div&gt;
+ 
+ &lt;span
+ class="absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none"&gt;
+ &lt;a class="text-primary-300 dark:text-neutral-700 !no-underline" href="#%c3%bcberblick" aria-label="Anker"&gt;#&lt;/a&gt;
+ &lt;/span&gt;
+ 
+&lt;/h2&gt;
+&lt;figure&gt;
+ &lt;div class="flex mt-2"&gt;
+ &lt;span
+ class="rounded-full bg-primary-500 dark:bg-primary-400 text-neutral-50 dark:text-neutral-800 px-1.5 py-[1px] text-xs font-normal"&gt;
+ &lt;span class="flex flex-row items-center"&gt;&lt;span&gt;Originaldokument&lt;/span&gt;
+ &lt;/span&gt;
+ &lt;/span&gt;
+&lt;/div&gt;
+ &lt;blockquote style="margin-top: 0.5em;"&gt;
+ &lt;a href="https://energy-security.eurelectric.org/wp-content/uploads/Eurelectric-report-energy-security-in-the-age-of-electricity-1.pdf" target="_blank"&gt;
+ Redefining energy security in the age of electricity
+ &lt;/a&gt;
+ &lt;/blockquote&gt;
+ &lt;figcaption&gt;— Eurelectric, im Februar 2025&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;h3 class="relative group"&gt;Inhalte
+ &lt;div id="inhalte" class="anchor"&gt;&lt;/div&gt;
+ 
+ &lt;span
+ class="absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none"&gt;
+ &lt;a class="text-primary-300 dark:text-neutral-700 !no-underline" href="#inhalte" aria-label="Anker"&gt;#&lt;/a&gt;
+ &lt;/span&gt;
+ 
+&lt;/h3&gt;
+
+&lt;h4 class="relative group"&gt;Kapazitätsmechanismen
+ &lt;div id="kapazitätsmechanismen" class="anchor"&gt;&lt;/div&gt;
+ 
+ &lt;span
+ class="absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none"&gt;
+ &lt;a class="text-primary-300 dark:text-neutral-700 !no-underline" href="#kapazit%c3%a4tsmechanismen" aria-label="Anker"&gt;#&lt;/a&gt;
+ &lt;/span&gt;
+ 
+&lt;/h4&gt;
+&lt;p&gt;Die Studie erläutert, warum Kapazitätsmechanismen notwendig sein können, um Investitionen in gesicherte und flexible
 Stromerzeugung zu fördern und beschreibt das sogenannte &amp;ldquo;Missing-Money&amp;rdquo;-Problem, das entsteht, wenn Einnahmen aus Energie- und
 Ausgleichsmärkten nicht die Fixkosten decken. Bieten die Energiemärkte keine ausreichenden Investitionsanreize für die
 Versorgungssicherheit (SoS), spricht sich Eurelectric für die Einführung ergänzender Unterstützungsmechanismen aus.
@@ -142,297 +151,318 @@ in flexible Kapazitäten fördert. Liegt hingegen nur ein Bedarf an gesicherter 
 Kapazitätsmechanismus eingesetzt werden, der allen technisch geeigneten Technologien offensteht - einschließlich
 Speicherlösungen und Nachfragesteuerung. Werden sowohl gesicherte als auch flexible Kapazitäten benötigt, kann entweder
 ein gemeinsamer, optimierter Mechanismus oder zwei getrennte Mechanismen eingeführt werden. Die Wahl hängt davon ab,
-inwieweit sich die Technologien zur Deckung beider Anforderungen überschneiden.&lt;/p></description></item><item><title>Grenzüberschreitende Teilnahme: Eine trügerische Hoffnung zur Behebung von Externalitäten der Kapazitätsmärkte?</title><link>/literature/2024/11/fsr_xb/</link><pubDate>Mon, 16 Jun 2025 14:37:28 +0200</pubDate><guid>/literature/2024/11/fsr_xb/</guid><description>&lt;h2 class="relative group">Überblick
-&lt;div id="%C3%BCberblick" class="anchor">&lt;/div>
-&lt;span
-class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
-&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
-style="text-decoration-line: none !important;" href="#%C3%BCberblick" aria-label="Anker">#&lt;/a>
-&lt;/span>
-&lt;/h2>
-&lt;figure>
-&lt;div class="flex mt-2">
-&lt;span
-class="rounded-full bg-primary-500 dark:bg-primary-400 text-neutral-50 dark:text-neutral-800 px-1.5 py-[1px] text-xs font-normal"
->
-&lt;span class="flex flex-row items-center">
-&lt;span>Originaldokument&lt;/span>
-&lt;/span>
-&lt;/span>
-&lt;/div>
-&lt;blockquote style="margin-top: 0.5em;">
-&lt;a href="https://cadmus.eui.eu/server/api/core/bitstreams/59f5ad95-8002-50dc-b5c8-ee0b8b39396f/content" target="_blank">
-Cross-Border participation: A false hope for fixing capacity market externalities?
-&lt;/a>
-&lt;/blockquote>
-&lt;figcaption>— Florence School of Regulation, im November 2024&lt;/figcaption>
-&lt;/figure>
-&lt;h3 class="relative group">Inhalte
-&lt;div id="inhalte" class="anchor">&lt;/div>
-&lt;span
-class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
-&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
-style="text-decoration-line: none !important;" href="#inhalte" aria-label="Anker">#&lt;/a>
-&lt;/span>
-&lt;/h3>
-&lt;h4 class="relative group">Kapazitätsmechanismen
-&lt;div id="kapazit%C3%A4tsmechanismen" class="anchor">&lt;/div>
-&lt;span
-class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
-&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
-style="text-decoration-line: none !important;" href="#kapazit%C3%A4tsmechanismen" aria-label="Anker">#&lt;/a>
-&lt;/span>
-&lt;/h4>
-&lt;p>In dieser Arbeit wird die Wirksamkeit von &amp;ldquo;expliziter&amp;rdquo; und &amp;ldquo;impliziter&amp;rdquo; grenzüberschreitender Teilnahme zur Begrenzung externer Effekte eines nationalen Kapazitätsmechanismus auf ein benachbartes System ohne eigenen Mechanismus untersucht. Die modellbasierten Analysen führen zu drei zentralen Ergebnissen: Erstens kann grenzüberschreitende Teilnahme die externen Auswirkungen auf Verbraucher, Erzeuger und Interkonnektoren im Nachbarsystem nicht vollständig kompensieren. Zweitens führen implizite und explizite grenzüberschreitende Teilnahme zu vergleichbaren Ergebnissen. Drittens können die grenzüberschreitenden Effekte nationaler Kapazitätsmärkte deren primäres Ziel – die Gewährleistung der Versorgungssicherheit – erheblich beeinträchtigen.&lt;/p></description></item><item><title>Die Ausgestaltung der Absicherungspflicht</title><link>/literature/2025/04/connect_energy_economics/</link><pubDate>Mon, 16 Jun 2025 13:53:54 +0200</pubDate><guid>/literature/2025/04/connect_energy_economics/</guid><description>&lt;h2 class="relative group">Überblick
-&lt;div id="%C3%BCberblick" class="anchor">&lt;/div>
-&lt;span
-class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
-&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
-style="text-decoration-line: none !important;" href="#%C3%BCberblick" aria-label="Anker">#&lt;/a>
-&lt;/span>
-&lt;/h2>
-&lt;figure>
-&lt;div class="flex mt-2">
-&lt;span
-class="rounded-full bg-primary-500 dark:bg-primary-400 text-neutral-50 dark:text-neutral-800 px-1.5 py-[1px] text-xs font-normal"
->
-&lt;span class="flex flex-row items-center">
-&lt;span>Originaldokument&lt;/span>
-&lt;/span>
-&lt;/span>
-&lt;/div>
-&lt;blockquote style="margin-top: 0.5em;">
-&lt;a href="https://www.connect-ee.com/wp-content/uploads/2025/04/Connect_Ausgestaltung_der_Absicherungspflicht_2025.pdf" target="_blank">
-Die Ausgestaltung der Absicherungspflicht
-&lt;/a>
-&lt;/blockquote>
-&lt;figcaption>— Connect Energy Economics, im April 2025&lt;/figcaption>
-&lt;/figure>
-&lt;h3 class="relative group">Inhalte
-&lt;div id="inhalte" class="anchor">&lt;/div>
-&lt;span
-class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
-&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
-style="text-decoration-line: none !important;" href="#inhalte" aria-label="Anker">#&lt;/a>
-&lt;/span>
-&lt;/h3>
-&lt;h4 class="relative group">Kapazitätsmechanismen
-&lt;div id="kapazit%C3%A4tsmechanismen" class="anchor">&lt;/div>
-&lt;span
-class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
-&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
-style="text-decoration-line: none !important;" href="#kapazit%C3%A4tsmechanismen" aria-label="Anker">#&lt;/a>
-&lt;/span>
-&lt;/h4>
-&lt;p>Im Auftrag des BNE Bundesverband neue Energiewirtschaft e.V., der DIHK Deutsche Industrie- und Handelskammer, Die Familienunternehmer e.V., der EEX European Energy Exchange AG, der VEA Bundesverband der Energie-Abnehmer e.V. und des ZVEI Verband der Elektro- und Digitalindustrie e.V. hat Connect Energy Economics eine konkrete Ausgestaltung der Absicherungspflicht erarbeitet. Die Absicherungspflicht wird dabei als Alternative zu einem Kapazitätsmarkt in Deutschland hervorgehoben. Sie soll bestehende Marktprozesse ergänzen, indem eine frühzeitige Absicherung der Stromnachfrage die Vorhaltung steuerbarer Leistung in einem technologieoffenen Wettbewerb anreizt.&lt;/p></description></item><item><title>Einbindung von dezentraler Flexibilität in einen integrierten Kapazitätsmarkt</title><link>/literature/2025/03/frontier_economics_dr/</link><pubDate>Mon, 16 Jun 2025 13:53:54 +0200</pubDate><guid>/literature/2025/03/frontier_economics_dr/</guid><description>&lt;h2 class="relative group">Überblick
-&lt;div id="%C3%BCberblick" class="anchor">&lt;/div>
-&lt;span
-class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
-&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
-style="text-decoration-line: none !important;" href="#%C3%BCberblick" aria-label="Anker">#&lt;/a>
-&lt;/span>
-&lt;/h2>
-&lt;figure>
-&lt;div class="flex mt-2">
-&lt;span
-class="rounded-full bg-primary-500 dark:bg-primary-400 text-neutral-50 dark:text-neutral-800 px-1.5 py-[1px] text-xs font-normal"
->
-&lt;span class="flex flex-row items-center">
-&lt;span>Originaldokument&lt;/span>
-&lt;/span>
-&lt;/span>
-&lt;/div>
-&lt;blockquote style="margin-top: 0.5em;">
-&lt;a href="https://www.frontier-economics.com/media/yhoparih/frontier-economics-kurzstudie-fuer-bdew-zu-flexibilitaet-im-ikm-2025-03-15-stc.pdf" target="_blank">
-Einbindung von dezentraler Flexibilität in einen integrierten Kapazitätsmarkt
-&lt;/a>
-&lt;/blockquote>
-&lt;figcaption>— Frontier Economics, im März 2025&lt;/figcaption>
-&lt;/figure>
-&lt;h3 class="relative group">Inhalte
-&lt;div id="inhalte" class="anchor">&lt;/div>
-&lt;span
-class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
-&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
-style="text-decoration-line: none !important;" href="#inhalte" aria-label="Anker">#&lt;/a>
-&lt;/span>
-&lt;/h3>
-&lt;h4 class="relative group">Kapazitätsmechanismen
-&lt;div id="kapazit%C3%A4tsmechanismen" class="anchor">&lt;/div>
-&lt;span
-class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
-&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
-style="text-decoration-line: none !important;" href="#kapazit%C3%A4tsmechanismen" aria-label="Anker">#&lt;/a>
-&lt;/span>
-&lt;/h4>
-&lt;p>Die Kurzstudie analysiert die Integration dezentraler Flexibilitäten wie Speicher und Lastmanagement in einen Integrierten Kapazitätsmarkt (IKM). Sie empfiehlt einen technologieoffenen Ansatz mit zentralen Ausschreibungen, um Investitionssicherheit zu gewährleisten und Flexibilitäten effizient einzubinden. Durch explizite Anreize in den Ausschreibungen sowie durch dynamische Umlagesysteme können dezentrale Flexibilitäten aktiviert werden. Internationale Erfahrungen zeigen, dass zentrale Märkte Flexibilität effektiv integrieren können, wenn geeignete Instrumente eingesetzt werden.&lt;/p></description></item><item><title>Kombinierter Kapazitätsmarkt - eine Analyse der Vor- und Nachteile</title><link>/literature/2024/11/frontier_kkm/</link><pubDate>Mon, 16 Jun 2025 13:53:54 +0200</pubDate><guid>/literature/2024/11/frontier_kkm/</guid><description>&lt;h2 class="relative group">Überblick
-&lt;div id="%C3%BCberblick" class="anchor">&lt;/div>
-&lt;span
-class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
-&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
-style="text-decoration-line: none !important;" href="#%C3%BCberblick" aria-label="Anker">#&lt;/a>
-&lt;/span>
-&lt;/h2>
-&lt;figure>
-&lt;div class="flex mt-2">
-&lt;span
-class="rounded-full bg-primary-500 dark:bg-primary-400 text-neutral-50 dark:text-neutral-800 px-1.5 py-[1px] text-xs font-normal"
->
-&lt;span class="flex flex-row items-center">
-&lt;span>Originaldokument&lt;/span>
-&lt;/span>
-&lt;/span>
-&lt;/div>
-&lt;blockquote style="margin-top: 0.5em;">
-&lt;a href="https://www.frontier-economics.com/media/hqiiv3hf/frontier-economcis-kurzstudie-zum-kombinierten-kapazitaetsmarkt-14-11-2024-stc.pdf" target="_blank">
-Kombinierter Kapazitätsmarkt - eine Analyse der Vor- und Nachteile
-&lt;/a>
-&lt;/blockquote>
-&lt;figcaption>— Frontier Economics, im November 2024&lt;/figcaption>
-&lt;/figure>
-&lt;h3 class="relative group">Inhalte
-&lt;div id="inhalte" class="anchor">&lt;/div>
-&lt;span
-class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
-&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
-style="text-decoration-line: none !important;" href="#inhalte" aria-label="Anker">#&lt;/a>
-&lt;/span>
-&lt;/h3>
-&lt;h4 class="relative group">Kapazitätsmechanismen
-&lt;div id="kapazit%C3%A4tsmechanismen" class="anchor">&lt;/div>
-&lt;span
-class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
-&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
-style="text-decoration-line: none !important;" href="#kapazit%C3%A4tsmechanismen" aria-label="Anker">#&lt;/a>
-&lt;/span>
-&lt;/h4>
-&lt;p>Die Studie bewertet kritisch den vom (deutschen) Bundesministerium für Wirtschaft und Klimaschutz vorgeschlagenen Kombinierten Kapazitätsmarkt (KKM). Sie kommt zu dem Schluss, dass die erwarteten Vorteile des KKM, insbesondere im Hinblick auf die Einbindung dezentraler Flexibilitätsoptionen, in der Praxis voraussichtlich nicht realisiert werden. Die Studie hebt erhebliche Komplexitäten und praktische Nachteile des KKM hervor und schlägt stattdessen zentralisierte, umfassende Ausschreibungen als wirksameren Ansatz zur Sicherstellung von Investitionen und zur effizienten Integration flexibler Ressourcen vor.&lt;/p></description></item><item><title>Studie Kapazitätsmarkt Österreich</title><link>/literature/2025/04/fraunhofer/</link><pubDate>Mon, 16 Jun 2025 13:53:54 +0200</pubDate><guid>/literature/2025/04/fraunhofer/</guid><description>&lt;h2 class="relative group">Überblick
-&lt;div id="%C3%BCberblick" class="anchor">&lt;/div>
-&lt;span
-class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
-&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
-style="text-decoration-line: none !important;" href="#%C3%BCberblick" aria-label="Anker">#&lt;/a>
-&lt;/span>
-&lt;/h2>
-&lt;figure>
-&lt;div class="flex mt-2">
-&lt;span
-class="rounded-full bg-primary-500 dark:bg-primary-400 text-neutral-50 dark:text-neutral-800 px-1.5 py-[1px] text-xs font-normal"
->
-&lt;span class="flex flex-row items-center">
-&lt;span>Originaldokument&lt;/span>
-&lt;/span>
-&lt;/span>
-&lt;/div>
-&lt;blockquote style="margin-top: 0.5em;">
-&lt;a href="https://positionen.wienenergie.at/wp-content/uploads/2025/05/Kapazitaetsmarkt-Oesterreich_Fraunhofer-ISI.pdf" target="_blank">
-Studie Kapazitätsmarkt Österrreich
-&lt;/a>
-&lt;/blockquote>
-&lt;figcaption>— Fraunhofer ISI, im April 2025&lt;/figcaption>
-&lt;/figure>
-&lt;h3 class="relative group">Inhalte
-&lt;div id="inhalte" class="anchor">&lt;/div>
-&lt;span
-class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
-&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
-style="text-decoration-line: none !important;" href="#inhalte" aria-label="Anker">#&lt;/a>
-&lt;/span>
-&lt;/h3>
-&lt;h4 class="relative group">Kapazitätsmechanismen
-&lt;div id="kapazit%C3%A4tsmechanismen" class="anchor">&lt;/div>
-&lt;span
-class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
-&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
-style="text-decoration-line: none !important;" href="#kapazit%C3%A4tsmechanismen" aria-label="Anker">#&lt;/a>
-&lt;/span>
-&lt;/h4>
-&lt;p>Die Studie analysiert die Notwendigkeit und Ausgestaltung eines Kapazitätsmechanismus für den österreichischen Strommarkt. Die Autoren schlagen einen kombinierten Kapazitätsmarkt vor, der zentrale und dezentrale Elemente integriert, um Versorgungssicherheit und Investitionsanreize zu gewährleisten.&lt;/p></description></item><item><title>Überblick zur Ausgestaltung eines kombinierten Kapazitätsmarkts</title><link>/literature/2024/09/consentec_kkm/</link><pubDate>Mon, 16 Jun 2025 13:53:54 +0200</pubDate><guid>/literature/2024/09/consentec_kkm/</guid><description>&lt;h2 class="relative group">Überblick
-&lt;div id="%C3%BCberblick" class="anchor">&lt;/div>
-&lt;span
-class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
-&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
-style="text-decoration-line: none !important;" href="#%C3%BCberblick" aria-label="Anker">#&lt;/a>
-&lt;/span>
-&lt;/h2>
-&lt;figure>
-&lt;div class="flex mt-2">
-&lt;span
-class="rounded-full bg-primary-500 dark:bg-primary-400 text-neutral-50 dark:text-neutral-800 px-1.5 py-[1px] text-xs font-normal"
->
-&lt;span class="flex flex-row items-center">
-&lt;span>Originaldokument&lt;/span>
-&lt;/span>
-&lt;/span>
-&lt;/div>
-&lt;blockquote style="margin-top: 0.5em;">
-&lt;a href="https://www.bmwk.de/Redaktion/DE/Downloads/klimaschutz/ag3-inputpapier-kombinierter-kapazitaetsmarkt-kkm.pdf?__blob=publicationFile&amp;v=6" target="_blank">
-Überblick zur Ausgestaltung eines kombinierten Kapazitätsmarkts
-&lt;/a>
-&lt;/blockquote>
-&lt;figcaption>— Consentec, energy consulting und Öko-Institut e.V., im September 2024&lt;/figcaption>
-&lt;/figure>
-&lt;h3 class="relative group">Inhalte
-&lt;div id="inhalte" class="anchor">&lt;/div>
-&lt;span
-class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
-&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
-style="text-decoration-line: none !important;" href="#inhalte" aria-label="Anker">#&lt;/a>
-&lt;/span>
-&lt;/h3>
-&lt;h4 class="relative group">Kapazitätsmechanismen
-&lt;div id="kapazit%C3%A4tsmechanismen" class="anchor">&lt;/div>
-&lt;span
-class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
-&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
-style="text-decoration-line: none !important;" href="#kapazit%C3%A4tsmechanismen" aria-label="Anker">#&lt;/a>
-&lt;/span>
-&lt;/h4>
-&lt;p>Die deutsche Bundesregierung plant die Einführung eines technologieneutralen Kapazitätsmechanismus, der ab 2028 in Betrieb gehen soll. Im Zentrum der aktuellen Diskussion steht die Auswahl eines geeigneten Modells. Diese Studie präsentiert den „Kombinierten Kapazitätsmarkt (KKM)“ als vielversprechenden Ansatz. Dieses Konzept vereint zentrale und dezentrale Marktelemente und kann – bei entsprechender Ausgestaltung – die jeweiligen Vorteile beider Systeme nutzen, während es deren Nachteile reduziert. Der KKM verspricht eine effektive Integration dezentraler Flexibilitätsoptionen sowie eine effiziente Nutzung von lokalem Wissen über die Entwicklung der Nachfrage. Gleichzeitig bietet er Investitionssicherheit für neue Kapazitäten und kann so einen stabilen Beitrag zur Versorgungssicherheit leisten.&lt;/p></description></item><item><title>Ausarbeitung eines Kapazitätsmechanismus für den deutschen Strommarkt</title><link>/literature/2024/05/consentec/</link><pubDate>Mon, 16 Jun 2025 13:35:20 +0200</pubDate><guid>/literature/2024/05/consentec/</guid><description>&lt;h2 class="relative group">Überblick
-&lt;div id="%C3%BCberblick" class="anchor">&lt;/div>
-&lt;span
-class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
-&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
-style="text-decoration-line: none !important;" href="#%C3%BCberblick" aria-label="Anker">#&lt;/a>
-&lt;/span>
-&lt;/h2>
-&lt;figure>
-&lt;div class="flex mt-2">
-&lt;span
-class="rounded-full bg-primary-500 dark:bg-primary-400 text-neutral-50 dark:text-neutral-800 px-1.5 py-[1px] text-xs font-normal"
->
-&lt;span class="flex flex-row items-center">
-&lt;span>Originaldokument&lt;/span>
-&lt;/span>
-&lt;/span>
-&lt;/div>
-&lt;blockquote style="margin-top: 0.5em;">
-&lt;a href="https://www.ecologic.eu/sites/default/files/publication/2024/60019-Ausarbeitung-kapazitaetsmechanismus-deutscher-strommarkt.pdf" target="_blank">
-Ausarbeitung eines Kapazitätsmechanismus für den deutschen Strommarkt
-&lt;/a>
-&lt;/blockquote>
-&lt;figcaption>— Consentec, im Mai 2024&lt;/figcaption>
-&lt;/figure>
-&lt;h3 class="relative group">Inhalte
-&lt;div id="inhalte" class="anchor">&lt;/div>
-&lt;span
-class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
-&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
-style="text-decoration-line: none !important;" href="#inhalte" aria-label="Anker">#&lt;/a>
-&lt;/span>
-&lt;/h3>
-&lt;h4 class="relative group">Kapazitätsmechanismen
-&lt;div id="kapazit%C3%A4tsmechanismen" class="anchor">&lt;/div>
-&lt;span
-class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
-&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
-style="text-decoration-line: none !important;" href="#kapazit%C3%A4tsmechanismen" aria-label="Anker">#&lt;/a>
-&lt;/span>
-&lt;/h4>
-&lt;p>In der von den vier deutschen Übertragungsnetzbetreibern beauftragten Studie wird die Ausgestaltung eines umfassenden,
+inwieweit sich die Technologien zur Deckung beider Anforderungen überschneiden.&lt;/p&gt;</description></item><item><title>Grenzüberschreitende Teilnahme: Eine trügerische Hoffnung zur Behebung von Externalitäten der Kapazitätsmärkte?</title><link>/literature/2024/11/fsr_xb/</link><pubDate>Mon, 16 Jun 2025 14:37:28 +0200</pubDate><guid>/literature/2024/11/fsr_xb/</guid><description>&lt;h2 class="relative group"&gt;Überblick
+ &lt;div id="überblick" class="anchor"&gt;&lt;/div&gt;
+ 
+ &lt;span
+ class="absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none"&gt;
+ &lt;a class="text-primary-300 dark:text-neutral-700 !no-underline" href="#%c3%bcberblick" aria-label="Anker"&gt;#&lt;/a&gt;
+ &lt;/span&gt;
+ 
+&lt;/h2&gt;
+&lt;figure&gt;
+ &lt;div class="flex mt-2"&gt;
+ &lt;span
+ class="rounded-full bg-primary-500 dark:bg-primary-400 text-neutral-50 dark:text-neutral-800 px-1.5 py-[1px] text-xs font-normal"&gt;
+ &lt;span class="flex flex-row items-center"&gt;&lt;span&gt;Originaldokument&lt;/span&gt;
+ &lt;/span&gt;
+ &lt;/span&gt;
+&lt;/div&gt;
+ &lt;blockquote style="margin-top: 0.5em;"&gt;
+ &lt;a href="https://cadmus.eui.eu/server/api/core/bitstreams/59f5ad95-8002-50dc-b5c8-ee0b8b39396f/content" target="_blank"&gt;
+ Cross-Border participation: A false hope for fixing capacity market externalities?
+ &lt;/a&gt;
+ &lt;/blockquote&gt;
+ &lt;figcaption&gt;— Florence School of Regulation, im November 2024&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;h3 class="relative group"&gt;Inhalte
+ &lt;div id="inhalte" class="anchor"&gt;&lt;/div&gt;
+ 
+ &lt;span
+ class="absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none"&gt;
+ &lt;a class="text-primary-300 dark:text-neutral-700 !no-underline" href="#inhalte" aria-label="Anker"&gt;#&lt;/a&gt;
+ &lt;/span&gt;
+ 
+&lt;/h3&gt;
+
+&lt;h4 class="relative group"&gt;Kapazitätsmechanismen
+ &lt;div id="kapazitätsmechanismen" class="anchor"&gt;&lt;/div&gt;
+ 
+ &lt;span
+ class="absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none"&gt;
+ &lt;a class="text-primary-300 dark:text-neutral-700 !no-underline" href="#kapazit%c3%a4tsmechanismen" aria-label="Anker"&gt;#&lt;/a&gt;
+ &lt;/span&gt;
+ 
+&lt;/h4&gt;
+&lt;p&gt;In dieser Arbeit wird die Wirksamkeit von &amp;ldquo;expliziter&amp;rdquo; und &amp;ldquo;impliziter&amp;rdquo; grenzüberschreitender Teilnahme zur Begrenzung externer Effekte eines nationalen Kapazitätsmechanismus auf ein benachbartes System ohne eigenen Mechanismus untersucht. Die modellbasierten Analysen führen zu drei zentralen Ergebnissen: Erstens kann grenzüberschreitende Teilnahme die externen Auswirkungen auf Verbraucher, Erzeuger und Interkonnektoren im Nachbarsystem nicht vollständig kompensieren. Zweitens führen implizite und explizite grenzüberschreitende Teilnahme zu vergleichbaren Ergebnissen. Drittens können die grenzüberschreitenden Effekte nationaler Kapazitätsmärkte deren primäres Ziel – die Gewährleistung der Versorgungssicherheit – erheblich beeinträchtigen.&lt;/p&gt;</description></item><item><title>Die Ausgestaltung der Absicherungspflicht</title><link>/literature/2025/04/connect_energy_economics/</link><pubDate>Mon, 16 Jun 2025 13:53:54 +0200</pubDate><guid>/literature/2025/04/connect_energy_economics/</guid><description>&lt;h2 class="relative group"&gt;Überblick
+ &lt;div id="überblick" class="anchor"&gt;&lt;/div&gt;
+ 
+ &lt;span
+ class="absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none"&gt;
+ &lt;a class="text-primary-300 dark:text-neutral-700 !no-underline" href="#%c3%bcberblick" aria-label="Anker"&gt;#&lt;/a&gt;
+ &lt;/span&gt;
+ 
+&lt;/h2&gt;
+&lt;figure&gt;
+ &lt;div class="flex mt-2"&gt;
+ &lt;span
+ class="rounded-full bg-primary-500 dark:bg-primary-400 text-neutral-50 dark:text-neutral-800 px-1.5 py-[1px] text-xs font-normal"&gt;
+ &lt;span class="flex flex-row items-center"&gt;&lt;span&gt;Originaldokument&lt;/span&gt;
+ &lt;/span&gt;
+ &lt;/span&gt;
+&lt;/div&gt;
+ &lt;blockquote style="margin-top: 0.5em;"&gt;
+ &lt;a href="https://www.connect-ee.com/wp-content/uploads/2025/04/Connect_Ausgestaltung_der_Absicherungspflicht_2025.pdf" target="_blank"&gt;
+ Die Ausgestaltung der Absicherungspflicht
+ &lt;/a&gt;
+ &lt;/blockquote&gt;
+ &lt;figcaption&gt;— Connect Energy Economics, im April 2025&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;h3 class="relative group"&gt;Inhalte
+ &lt;div id="inhalte" class="anchor"&gt;&lt;/div&gt;
+ 
+ &lt;span
+ class="absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none"&gt;
+ &lt;a class="text-primary-300 dark:text-neutral-700 !no-underline" href="#inhalte" aria-label="Anker"&gt;#&lt;/a&gt;
+ &lt;/span&gt;
+ 
+&lt;/h3&gt;
+
+&lt;h4 class="relative group"&gt;Kapazitätsmechanismen
+ &lt;div id="kapazitätsmechanismen" class="anchor"&gt;&lt;/div&gt;
+ 
+ &lt;span
+ class="absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none"&gt;
+ &lt;a class="text-primary-300 dark:text-neutral-700 !no-underline" href="#kapazit%c3%a4tsmechanismen" aria-label="Anker"&gt;#&lt;/a&gt;
+ &lt;/span&gt;
+ 
+&lt;/h4&gt;
+&lt;p&gt;Im Auftrag des BNE Bundesverband neue Energiewirtschaft e.V., der DIHK Deutsche Industrie- und Handelskammer, Die Familienunternehmer e.V., der EEX European Energy Exchange AG, der VEA Bundesverband der Energie-Abnehmer e.V. und des ZVEI Verband der Elektro- und Digitalindustrie e.V. hat Connect Energy Economics eine konkrete Ausgestaltung der Absicherungspflicht erarbeitet. Die Absicherungspflicht wird dabei als Alternative zu einem Kapazitätsmarkt in Deutschland hervorgehoben. Sie soll bestehende Marktprozesse ergänzen, indem eine frühzeitige Absicherung der Stromnachfrage die Vorhaltung steuerbarer Leistung in einem technologieoffenen Wettbewerb anreizt.&lt;/p&gt;</description></item><item><title>Einbindung von dezentraler Flexibilität in einen integrierten Kapazitätsmarkt</title><link>/literature/2025/03/frontier_economics_dr/</link><pubDate>Mon, 16 Jun 2025 13:53:54 +0200</pubDate><guid>/literature/2025/03/frontier_economics_dr/</guid><description>&lt;h2 class="relative group"&gt;Überblick
+ &lt;div id="überblick" class="anchor"&gt;&lt;/div&gt;
+ 
+ &lt;span
+ class="absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none"&gt;
+ &lt;a class="text-primary-300 dark:text-neutral-700 !no-underline" href="#%c3%bcberblick" aria-label="Anker"&gt;#&lt;/a&gt;
+ &lt;/span&gt;
+ 
+&lt;/h2&gt;
+&lt;figure&gt;
+ &lt;div class="flex mt-2"&gt;
+ &lt;span
+ class="rounded-full bg-primary-500 dark:bg-primary-400 text-neutral-50 dark:text-neutral-800 px-1.5 py-[1px] text-xs font-normal"&gt;
+ &lt;span class="flex flex-row items-center"&gt;&lt;span&gt;Originaldokument&lt;/span&gt;
+ &lt;/span&gt;
+ &lt;/span&gt;
+&lt;/div&gt;
+ &lt;blockquote style="margin-top: 0.5em;"&gt;
+ &lt;a href="https://www.frontier-economics.com/media/yhoparih/frontier-economics-kurzstudie-fuer-bdew-zu-flexibilitaet-im-ikm-2025-03-15-stc.pdf" target="_blank"&gt;
+ Einbindung von dezentraler Flexibilität in einen integrierten Kapazitätsmarkt
+ &lt;/a&gt;
+ &lt;/blockquote&gt;
+ &lt;figcaption&gt;— Frontier Economics, im März 2025&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;h3 class="relative group"&gt;Inhalte
+ &lt;div id="inhalte" class="anchor"&gt;&lt;/div&gt;
+ 
+ &lt;span
+ class="absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none"&gt;
+ &lt;a class="text-primary-300 dark:text-neutral-700 !no-underline" href="#inhalte" aria-label="Anker"&gt;#&lt;/a&gt;
+ &lt;/span&gt;
+ 
+&lt;/h3&gt;
+
+&lt;h4 class="relative group"&gt;Kapazitätsmechanismen
+ &lt;div id="kapazitätsmechanismen" class="anchor"&gt;&lt;/div&gt;
+ 
+ &lt;span
+ class="absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none"&gt;
+ &lt;a class="text-primary-300 dark:text-neutral-700 !no-underline" href="#kapazit%c3%a4tsmechanismen" aria-label="Anker"&gt;#&lt;/a&gt;
+ &lt;/span&gt;
+ 
+&lt;/h4&gt;
+&lt;p&gt;Die Kurzstudie analysiert die Integration dezentraler Flexibilitäten wie Speicher und Lastmanagement in einen Integrierten Kapazitätsmarkt (IKM). Sie empfiehlt einen technologieoffenen Ansatz mit zentralen Ausschreibungen, um Investitionssicherheit zu gewährleisten und Flexibilitäten effizient einzubinden. Durch explizite Anreize in den Ausschreibungen sowie durch dynamische Umlagesysteme können dezentrale Flexibilitäten aktiviert werden. Internationale Erfahrungen zeigen, dass zentrale Märkte Flexibilität effektiv integrieren können, wenn geeignete Instrumente eingesetzt werden.&lt;/p&gt;</description></item><item><title>Kombinierter Kapazitätsmarkt - eine Analyse der Vor- und Nachteile</title><link>/literature/2024/11/frontier_kkm/</link><pubDate>Mon, 16 Jun 2025 13:53:54 +0200</pubDate><guid>/literature/2024/11/frontier_kkm/</guid><description>&lt;h2 class="relative group"&gt;Überblick
+ &lt;div id="überblick" class="anchor"&gt;&lt;/div&gt;
+ 
+ &lt;span
+ class="absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none"&gt;
+ &lt;a class="text-primary-300 dark:text-neutral-700 !no-underline" href="#%c3%bcberblick" aria-label="Anker"&gt;#&lt;/a&gt;
+ &lt;/span&gt;
+ 
+&lt;/h2&gt;
+&lt;figure&gt;
+ &lt;div class="flex mt-2"&gt;
+ &lt;span
+ class="rounded-full bg-primary-500 dark:bg-primary-400 text-neutral-50 dark:text-neutral-800 px-1.5 py-[1px] text-xs font-normal"&gt;
+ &lt;span class="flex flex-row items-center"&gt;&lt;span&gt;Originaldokument&lt;/span&gt;
+ &lt;/span&gt;
+ &lt;/span&gt;
+&lt;/div&gt;
+ &lt;blockquote style="margin-top: 0.5em;"&gt;
+ &lt;a href="https://www.frontier-economics.com/media/hqiiv3hf/frontier-economcis-kurzstudie-zum-kombinierten-kapazitaetsmarkt-14-11-2024-stc.pdf" target="_blank"&gt;
+ Kombinierter Kapazitätsmarkt - eine Analyse der Vor- und Nachteile
+ &lt;/a&gt;
+ &lt;/blockquote&gt;
+ &lt;figcaption&gt;— Frontier Economics, im November 2024&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;h3 class="relative group"&gt;Inhalte
+ &lt;div id="inhalte" class="anchor"&gt;&lt;/div&gt;
+ 
+ &lt;span
+ class="absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none"&gt;
+ &lt;a class="text-primary-300 dark:text-neutral-700 !no-underline" href="#inhalte" aria-label="Anker"&gt;#&lt;/a&gt;
+ &lt;/span&gt;
+ 
+&lt;/h3&gt;
+
+&lt;h4 class="relative group"&gt;Kapazitätsmechanismen
+ &lt;div id="kapazitätsmechanismen" class="anchor"&gt;&lt;/div&gt;
+ 
+ &lt;span
+ class="absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none"&gt;
+ &lt;a class="text-primary-300 dark:text-neutral-700 !no-underline" href="#kapazit%c3%a4tsmechanismen" aria-label="Anker"&gt;#&lt;/a&gt;
+ &lt;/span&gt;
+ 
+&lt;/h4&gt;
+&lt;p&gt;Die Studie bewertet kritisch den vom (deutschen) Bundesministerium für Wirtschaft und Klimaschutz vorgeschlagenen Kombinierten Kapazitätsmarkt (KKM). Sie kommt zu dem Schluss, dass die erwarteten Vorteile des KKM, insbesondere im Hinblick auf die Einbindung dezentraler Flexibilitätsoptionen, in der Praxis voraussichtlich nicht realisiert werden. Die Studie hebt erhebliche Komplexitäten und praktische Nachteile des KKM hervor und schlägt stattdessen zentralisierte, umfassende Ausschreibungen als wirksameren Ansatz zur Sicherstellung von Investitionen und zur effizienten Integration flexibler Ressourcen vor.&lt;/p&gt;</description></item><item><title>Studie Kapazitätsmarkt Österreich</title><link>/literature/2025/04/fraunhofer/</link><pubDate>Mon, 16 Jun 2025 13:53:54 +0200</pubDate><guid>/literature/2025/04/fraunhofer/</guid><description>&lt;h2 class="relative group"&gt;Überblick
+ &lt;div id="überblick" class="anchor"&gt;&lt;/div&gt;
+ 
+ &lt;span
+ class="absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none"&gt;
+ &lt;a class="text-primary-300 dark:text-neutral-700 !no-underline" href="#%c3%bcberblick" aria-label="Anker"&gt;#&lt;/a&gt;
+ &lt;/span&gt;
+ 
+&lt;/h2&gt;
+&lt;figure&gt;
+ &lt;div class="flex mt-2"&gt;
+ &lt;span
+ class="rounded-full bg-primary-500 dark:bg-primary-400 text-neutral-50 dark:text-neutral-800 px-1.5 py-[1px] text-xs font-normal"&gt;
+ &lt;span class="flex flex-row items-center"&gt;&lt;span&gt;Originaldokument&lt;/span&gt;
+ &lt;/span&gt;
+ &lt;/span&gt;
+&lt;/div&gt;
+ &lt;blockquote style="margin-top: 0.5em;"&gt;
+ &lt;a href="https://positionen.wienenergie.at/wp-content/uploads/2025/05/Kapazitaetsmarkt-Oesterreich_Fraunhofer-ISI.pdf" target="_blank"&gt;
+ Studie Kapazitätsmarkt Österrreich
+ &lt;/a&gt;
+ &lt;/blockquote&gt;
+ &lt;figcaption&gt;— Fraunhofer ISI, im April 2025&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;h3 class="relative group"&gt;Inhalte
+ &lt;div id="inhalte" class="anchor"&gt;&lt;/div&gt;
+ 
+ &lt;span
+ class="absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none"&gt;
+ &lt;a class="text-primary-300 dark:text-neutral-700 !no-underline" href="#inhalte" aria-label="Anker"&gt;#&lt;/a&gt;
+ &lt;/span&gt;
+ 
+&lt;/h3&gt;
+
+&lt;h4 class="relative group"&gt;Kapazitätsmechanismen
+ &lt;div id="kapazitätsmechanismen" class="anchor"&gt;&lt;/div&gt;
+ 
+ &lt;span
+ class="absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none"&gt;
+ &lt;a class="text-primary-300 dark:text-neutral-700 !no-underline" href="#kapazit%c3%a4tsmechanismen" aria-label="Anker"&gt;#&lt;/a&gt;
+ &lt;/span&gt;
+ 
+&lt;/h4&gt;
+&lt;p&gt;Die Studie analysiert die Notwendigkeit und Ausgestaltung eines Kapazitätsmechanismus für den österreichischen Strommarkt. Die Autoren schlagen einen kombinierten Kapazitätsmarkt vor, der zentrale und dezentrale Elemente integriert, um Versorgungssicherheit und Investitionsanreize zu gewährleisten.&lt;/p&gt;</description></item><item><title>Überblick zur Ausgestaltung eines kombinierten Kapazitätsmarkts</title><link>/literature/2024/09/consentec_kkm/</link><pubDate>Mon, 16 Jun 2025 13:53:54 +0200</pubDate><guid>/literature/2024/09/consentec_kkm/</guid><description>&lt;h2 class="relative group"&gt;Überblick
+ &lt;div id="überblick" class="anchor"&gt;&lt;/div&gt;
+ 
+ &lt;span
+ class="absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none"&gt;
+ &lt;a class="text-primary-300 dark:text-neutral-700 !no-underline" href="#%c3%bcberblick" aria-label="Anker"&gt;#&lt;/a&gt;
+ &lt;/span&gt;
+ 
+&lt;/h2&gt;
+&lt;figure&gt;
+ &lt;div class="flex mt-2"&gt;
+ &lt;span
+ class="rounded-full bg-primary-500 dark:bg-primary-400 text-neutral-50 dark:text-neutral-800 px-1.5 py-[1px] text-xs font-normal"&gt;
+ &lt;span class="flex flex-row items-center"&gt;&lt;span&gt;Originaldokument&lt;/span&gt;
+ &lt;/span&gt;
+ &lt;/span&gt;
+&lt;/div&gt;
+ &lt;blockquote style="margin-top: 0.5em;"&gt;
+ &lt;a href="https://www.bmwk.de/Redaktion/DE/Downloads/klimaschutz/ag3-inputpapier-kombinierter-kapazitaetsmarkt-kkm.pdf?__blob=publicationFile&amp;v=6" target="_blank"&gt;
+ Überblick zur Ausgestaltung eines kombinierten Kapazitätsmarkts
+ &lt;/a&gt;
+ &lt;/blockquote&gt;
+ &lt;figcaption&gt;— Consentec, energy consulting und Öko-Institut e.V., im September 2024&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;h3 class="relative group"&gt;Inhalte
+ &lt;div id="inhalte" class="anchor"&gt;&lt;/div&gt;
+ 
+ &lt;span
+ class="absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none"&gt;
+ &lt;a class="text-primary-300 dark:text-neutral-700 !no-underline" href="#inhalte" aria-label="Anker"&gt;#&lt;/a&gt;
+ &lt;/span&gt;
+ 
+&lt;/h3&gt;
+
+&lt;h4 class="relative group"&gt;Kapazitätsmechanismen
+ &lt;div id="kapazitätsmechanismen" class="anchor"&gt;&lt;/div&gt;
+ 
+ &lt;span
+ class="absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none"&gt;
+ &lt;a class="text-primary-300 dark:text-neutral-700 !no-underline" href="#kapazit%c3%a4tsmechanismen" aria-label="Anker"&gt;#&lt;/a&gt;
+ &lt;/span&gt;
+ 
+&lt;/h4&gt;
+&lt;p&gt;Die deutsche Bundesregierung plant die Einführung eines technologieneutralen Kapazitätsmechanismus, der ab 2028 in Betrieb gehen soll. Im Zentrum der aktuellen Diskussion steht die Auswahl eines geeigneten Modells. Diese Studie präsentiert den „Kombinierten Kapazitätsmarkt (KKM)“ als vielversprechenden Ansatz. Dieses Konzept vereint zentrale und dezentrale Marktelemente und kann – bei entsprechender Ausgestaltung – die jeweiligen Vorteile beider Systeme nutzen, während es deren Nachteile reduziert. Der KKM verspricht eine effektive Integration dezentraler Flexibilitätsoptionen sowie eine effiziente Nutzung von lokalem Wissen über die Entwicklung der Nachfrage. Gleichzeitig bietet er Investitionssicherheit für neue Kapazitäten und kann so einen stabilen Beitrag zur Versorgungssicherheit leisten.&lt;/p&gt;</description></item><item><title>Ausarbeitung eines Kapazitätsmechanismus für den deutschen Strommarkt</title><link>/literature/2024/05/consentec/</link><pubDate>Mon, 16 Jun 2025 13:35:20 +0200</pubDate><guid>/literature/2024/05/consentec/</guid><description>&lt;h2 class="relative group"&gt;Überblick
+ &lt;div id="überblick" class="anchor"&gt;&lt;/div&gt;
+ 
+ &lt;span
+ class="absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none"&gt;
+ &lt;a class="text-primary-300 dark:text-neutral-700 !no-underline" href="#%c3%bcberblick" aria-label="Anker"&gt;#&lt;/a&gt;
+ &lt;/span&gt;
+ 
+&lt;/h2&gt;
+&lt;figure&gt;
+ &lt;div class="flex mt-2"&gt;
+ &lt;span
+ class="rounded-full bg-primary-500 dark:bg-primary-400 text-neutral-50 dark:text-neutral-800 px-1.5 py-[1px] text-xs font-normal"&gt;
+ &lt;span class="flex flex-row items-center"&gt;&lt;span&gt;Originaldokument&lt;/span&gt;
+ &lt;/span&gt;
+ &lt;/span&gt;
+&lt;/div&gt;
+ &lt;blockquote style="margin-top: 0.5em;"&gt;
+ &lt;a href="https://www.ecologic.eu/sites/default/files/publication/2024/60019-Ausarbeitung-kapazitaetsmechanismus-deutscher-strommarkt.pdf" target="_blank"&gt;
+ Ausarbeitung eines Kapazitätsmechanismus für den deutschen Strommarkt
+ &lt;/a&gt;
+ &lt;/blockquote&gt;
+ &lt;figcaption&gt;— Consentec, im Mai 2024&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;h3 class="relative group"&gt;Inhalte
+ &lt;div id="inhalte" class="anchor"&gt;&lt;/div&gt;
+ 
+ &lt;span
+ class="absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none"&gt;
+ &lt;a class="text-primary-300 dark:text-neutral-700 !no-underline" href="#inhalte" aria-label="Anker"&gt;#&lt;/a&gt;
+ &lt;/span&gt;
+ 
+&lt;/h3&gt;
+
+&lt;h4 class="relative group"&gt;Kapazitätsmechanismen
+ &lt;div id="kapazitätsmechanismen" class="anchor"&gt;&lt;/div&gt;
+ 
+ &lt;span
+ class="absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none"&gt;
+ &lt;a class="text-primary-300 dark:text-neutral-700 !no-underline" href="#kapazit%c3%a4tsmechanismen" aria-label="Anker"&gt;#&lt;/a&gt;
+ &lt;/span&gt;
+ 
+&lt;/h4&gt;
+&lt;p&gt;In der von den vier deutschen Übertragungsnetzbetreibern beauftragten Studie wird die Ausgestaltung eines umfassenden,
 zentralen Kapazitätsmarkt diskutiert. Im zugehörigen Begleitschreiben, sprechen sich 50Hertz, Amprion, TenneT und
 Transnet BW daher für einen zentralen Kapazitätsmarkt mit lokaler Komponente aus. Dabei sollen Ausschreibungen derart
 gestaltet sein, dass nicht nur die Verfügbarkeit von Leistung im gesamten Bundesgebiet beanreizt wird, sondern dass
 lokale Investitionsanreize entstehen. Die vier deutschen Übertragungsnetzbetreiber erwarten sich durch die lokale
-Komponente eine Verringerung der CO&lt;sub>2&lt;/sub>-Emissionen, des Redispatch- und Netzreservebedarfs, der Kosten für
-Systemdienstleistungen sowie folglich auch der Netzentgelte.&lt;/p></description></item></channel></rss>
+Komponente eine Verringerung der CO&lt;sub&gt;2&lt;/sub&gt;-Emissionen, des Redispatch- und Netzreservebedarfs, der Kosten für
+Systemdienstleistungen sowie folglich auch der Netzentgelte.&lt;/p&gt;</description></item></channel></rss>

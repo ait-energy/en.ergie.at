@@ -1,24 +1,37 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Philipp Ortmann on en.ergie.at</title><link>/authors/portmann/</link><description>Recent content in Philipp Ortmann on en.ergie.at</description><generator>Hugo -- gohugo.io</generator><language>de</language><copyright>&amp;copy; AIT Austrian Institute of Technology GmbH</copyright><lastBuildDate>Mon, 14 Jul 2025 11:07:19 +0200</lastBuildDate><atom:link href="/authors/portmann/index.xml" rel="self" type="application/rss+xml"/><item><title>SETHub</title><link>/projekte/sethub/</link><pubDate>Thu, 02 Oct 2025 14:58:43 +0200</pubDate><guid>/projekte/sethub/</guid><description>&lt;p>Das Projekt &lt;em>SETHub - Smart Energy Transformation Hub&lt;/em> zielt auf eine gesamtheitliche Analyse eines netzdienlichen Einsatzes von Elektrolyseanlagen ab und wurde für ausgewählte Standorte in der Steiermark durchgeführt. Ziel war die Analyse des regulatorischen Umsetzungsrahmens und die Betrachtung der Rolle des netzdienlichen Einsatzes von Elektrolyseuren zur Erhöhung der Aufnahmefähigkeit von Verteilernetzen für erneuerbare Erzeugungskapazitäten. Die ökonomische Betrachtung des netzdienlichen Einsatzes von Elektrolyseanlagen wird durch eine techno-ökonomische Modellierung von Elektrolyseuren im Verteilnetz ermöglicht.&lt;/p></description></item><item><title>Sind die Voraussetzungen derzeit, historisch und in der absehbaren Zukunft hinreichend erfüllt?</title><link>/themen/kapazitaetsmechanismen/warum/analyse_der_voraussetzungen/</link><pubDate>Mon, 29 Sep 2025 09:12:55 +0200</pubDate><guid>/themen/kapazitaetsmechanismen/warum/analyse_der_voraussetzungen/</guid><description>&lt;br>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Philipp Ortmann on en.ergie.at</title><link>/authors/portmann/</link><description>Recent content in Philipp Ortmann on en.ergie.at</description><generator>Hugo -- gohugo.io</generator><language>de</language><copyright>&amp;copy; AIT Austrian Institute of Technology GmbH</copyright><lastBuildDate>Thu, 02 Oct 2025 14:58:43 +0200</lastBuildDate><atom:link href="/authors/portmann/index.xml" rel="self" type="application/rss+xml"/><item><title>SETHub</title><link>/projekte/sethub/</link><pubDate>Thu, 02 Oct 2025 14:58:43 +0200</pubDate><guid>/projekte/sethub/</guid><description>&lt;p&gt;Das Projekt &lt;em&gt;SETHub - Smart Energy Transformation Hub&lt;/em&gt; zielt auf eine gesamtheitliche Analyse eines netzdienlichen Einsatzes von Elektrolyseanlagen ab und wurde für ausgewählte Standorte in der Steiermark durchgeführt. Ziel war die Analyse des regulatorischen Umsetzungsrahmens und die Betrachtung der Rolle des netzdienlichen Einsatzes von Elektrolyseuren zur Erhöhung der Aufnahmefähigkeit von Verteilernetzen für erneuerbare Erzeugungskapazitäten. Die ökonomische Betrachtung des netzdienlichen Einsatzes von Elektrolyseanlagen wird durch eine techno-ökonomische Modellierung von Elektrolyseuren im Verteilnetz ermöglicht.&lt;/p&gt;</description></item><item><title>Sind die Voraussetzungen derzeit, historisch und in der absehbaren Zukunft hinreichend erfüllt?</title><link>/themen/kapazitaetsmechanismen/warum/analyse_der_voraussetzungen/</link><pubDate>Mon, 29 Sep 2025 09:12:55 +0200</pubDate><guid>/themen/kapazitaetsmechanismen/warum/analyse_der_voraussetzungen/</guid><description>&lt;br&gt;
+
+ 
+
+
+
 &lt;div
-class="flex px-4 py-3 rounded-md bg-primary-100 dark:bg-primary-900"
->
-&lt;span
-class="text-primary-400 ltr:pr-3 rtl:pl-3 flex items-center"
->
-&lt;span class="relative block icon">
-&lt;svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">&lt;path fill="currentColor" d="M506.3 417l-213.3-364c-16.33-28-57.54-28-73.98 0l-213.2 364C-10.59 444.9 9.849 480 42.74 480h426.6C502.1 480 522.6 445 506.3 417zM232 168c0-13.25 10.75-24 24-24S280 154.8 280 168v128c0 13.25-10.75 24-23.1 24S232 309.3 232 296V168zM256 416c-17.36 0-31.44-14.08-31.44-31.44c0-17.36 14.07-31.44 31.44-31.44s31.44 14.08 31.44 31.44C287.4 401.9 273.4 416 256 416z"/>&lt;/svg>
-&lt;/span>
-&lt;/span>
-&lt;span
-class="dark:text-neutral-300"
->Wir arbeiten gerade an diesem Artikel. Informationen können unvollständig oder teilweise inkorrekt sein. Fehler oder fehlende Details kannst Du direkt per &lt;a href="https://github.com/ait-energy/en.ergie.at/issues" target="_blank">GitHub Issue melden&lt;/a>.&lt;/span>
-&lt;/div>
-&lt;p>Im folgenden Abschnitt wird evaluiert, ob die Voraussetzungen eines reinen &lt;a href="/wissen/markt-energy-only/">Energy-Only-Markt&lt;/a> (&lt;abbr title="Energy-Only-Markt">EOM&lt;/abbr>) aktuell und in der absehbaren Zukunft gegeben sind.&lt;/p></description></item><item><title>Missing Money - Quantitativ-Historische Analyse</title><link>/themen/kapazitaetsmechanismen/warum/missing_money_quantitativ_historische_analyse/</link><pubDate>Thu, 18 Sep 2025 13:26:40 +0200</pubDate><guid>/themen/kapazitaetsmechanismen/warum/missing_money_quantitativ_historische_analyse/</guid><description>&lt;h2 class="relative group">1. Kernfragestellung und methodischer Ansatz
-&lt;div id="1-kernfragestellung-und-methodischer-ansatz" class="anchor">&lt;/div>
-&lt;span
-class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
-&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
-style="text-decoration-line: none !important;" href="#1-kernfragestellung-und-methodischer-ansatz" aria-label="Anker">#&lt;/a>
-&lt;/span>
-&lt;/h2>
-&lt;p>Der folgende Abschnitt beschäftigt sich mit der Frage, ob bestehende und neue Kraftwerkskapazitäten im Setting eines &lt;a href="/wissen/markt-energy-only/">Energy-Only-Marktes&lt;/a> ausreichend finanziert werden können. Ziel der Analyse ist somit ein &amp;ldquo;quantitativer Nachweis&amp;rdquo; des Missing Money Problems auf Basis historischer Jahre für Österreich. Dazu wurden folgende Kraftwerkstechnologien untersucht:&lt;/p></description></item><item><title>Vorraussetzungen eines reinen Energy Only Marktes</title><link>/themen/kapazitaetsmechanismen/warum/voraussetzung_eines_eom/</link><pubDate>Thu, 10 Jul 2025 09:49:49 +0200</pubDate><guid>/themen/kapazitaetsmechanismen/warum/voraussetzung_eines_eom/</guid><description>&lt;p>Ein reiner &lt;a href="/wissen/markt-energy-only/">Energy-Only-Markt&lt;/a> (EOM) kann Versorgungssicherheit gewährleisten – jedoch nur, wenn zentrale Marktbedingungen erfüllt sind. Diese Seite analysiert, welche ökonomischen Voraussetzungen bestehen müssen, damit Investitionen allein durch Marktpreise ausgelöst werden: vollkommener Wettbewerb, ausreichende Planungssicherheit sowie die Möglichkeit zur Bildung von Knappheitspreisen. Die theoretischen Grundlagen werden praxisnah eingeordnet und bewertet.&lt;/p></description></item><item><title>Warum könnten Kapazitätsmechanismen notwendig sein?</title><link>/themen/kapazitaetsmechanismen/warum/</link><pubDate>Thu, 10 Jul 2025 09:49:49 +0200</pubDate><guid>/themen/kapazitaetsmechanismen/warum/</guid><description>&lt;p>&lt;a href="/wissen/markt-energy-only/">Energy-Only-Märkte&lt;/a> (EOM) basieren auf der Annahme, dass Versorgungssicherheit allein durch freie Preisbildung und daraus resultierende Investitionsanreize gewährleistet werden kann. Doch wie realistisch ist diese Annahme in der Praxis? Die folgenden Abschnitte erläutern zunächst, welche Voraussetzungen hierfür erfüllt sein müssten – und analysieren anschließend, in welchem Maße diese Bedingungen heute und zukünftig tatsächlich bestehen.&lt;/p></description></item></channel></rss>
+ 
+ class="flex px-4 py-3 rounded-md shadow bg-primary-100 dark:bg-primary-900"
+ 
+ &gt;
+ &lt;span
+ 
+ class="text-primary-400 pe-3 flex items-center"
+ 
+ &gt;
+ &lt;span class="relative block icon"&gt;&lt;svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"&gt;&lt;path fill="currentColor" d="M506.3 417l-213.3-364c-16.33-28-57.54-28-73.98 0l-213.2 364C-10.59 444.9 9.849 480 42.74 480h426.6C502.1 480 522.6 445 506.3 417zM232 168c0-13.25 10.75-24 24-24S280 154.8 280 168v128c0 13.25-10.75 24-23.1 24S232 309.3 232 296V168zM256 416c-17.36 0-31.44-14.08-31.44-31.44c0-17.36 14.07-31.44 31.44-31.44s31.44 14.08 31.44 31.44C287.4 401.9 273.4 416 256 416z"/&gt;&lt;/svg&gt;
+&lt;/span&gt;
+ &lt;/span&gt;
+
+ &lt;span
+ 
+ class="dark:text-neutral-300"
+ 
+ &gt;Wir arbeiten gerade an diesem Artikel. Informationen können unvollständig oder teilweise inkorrekt sein. Fehler oder fehlende Details kannst Du direkt per &lt;a href="https://github.com/ait-energy/en.ergie.at/issues" target="_blank" rel="noreferrer"&gt;GitHub Issue melden&lt;/a&gt;.&lt;/span&gt;
+&lt;/div&gt;
+
+&lt;p&gt;Im folgenden Abschnitt wird evaluiert, ob die Voraussetzungen eines reinen &lt;a href="/wissen/markt-energy-only/" &gt;Energy-Only-Markt&lt;/a&gt; (&lt;abbr title="Energy-Only-Markt"&gt;EOM&lt;/abbr&gt;) aktuell und in der absehbaren Zukunft gegeben sind.&lt;/p&gt;</description></item><item><title>Missing Money - Quantitativ-Historische Analyse</title><link>/themen/kapazitaetsmechanismen/warum/missing_money_quantitativ_historische_analyse/</link><pubDate>Thu, 18 Sep 2025 13:26:40 +0200</pubDate><guid>/themen/kapazitaetsmechanismen/warum/missing_money_quantitativ_historische_analyse/</guid><description>&lt;h2 class="relative group"&gt;1. Kernfragestellung und methodischer Ansatz
+ &lt;div id="1-kernfragestellung-und-methodischer-ansatz" class="anchor"&gt;&lt;/div&gt;
+ 
+ &lt;span
+ class="absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none"&gt;
+ &lt;a class="text-primary-300 dark:text-neutral-700 !no-underline" href="#1-kernfragestellung-und-methodischer-ansatz" aria-label="Anker"&gt;#&lt;/a&gt;
+ &lt;/span&gt;
+ 
+&lt;/h2&gt;
+&lt;p&gt;Der folgende Abschnitt beschäftigt sich mit der Frage, ob bestehende und neue Kraftwerkskapazitäten im Setting eines &lt;a href="/wissen/markt-energy-only/" &gt;Energy-Only-Marktes&lt;/a&gt; ausreichend finanziert werden können. Ziel der Analyse ist somit ein &amp;ldquo;quantitativer Nachweis&amp;rdquo; des Missing Money Problems auf Basis historischer Jahre für Österreich. Dazu wurden folgende Kraftwerkstechnologien untersucht:&lt;/p&gt;</description></item><item><title>Vorraussetzungen eines reinen Energy Only Marktes</title><link>/themen/kapazitaetsmechanismen/warum/voraussetzung_eines_eom/</link><pubDate>Thu, 10 Jul 2025 09:49:49 +0200</pubDate><guid>/themen/kapazitaetsmechanismen/warum/voraussetzung_eines_eom/</guid><description>&lt;p&gt;Ein reiner &lt;a href="/wissen/markt-energy-only/" &gt;Energy-Only-Markt&lt;/a&gt; (EOM) kann Versorgungssicherheit gewährleisten – jedoch nur, wenn zentrale Marktbedingungen erfüllt sind. Diese Seite analysiert, welche ökonomischen Voraussetzungen bestehen müssen, damit Investitionen allein durch Marktpreise ausgelöst werden: vollkommener Wettbewerb, ausreichende Planungssicherheit sowie die Möglichkeit zur Bildung von Knappheitspreisen. Die theoretischen Grundlagen werden praxisnah eingeordnet und bewertet.&lt;/p&gt;</description></item><item><title>Warum könnten Kapazitätsmechanismen notwendig sein?</title><link>/themen/kapazitaetsmechanismen/warum/</link><pubDate>Thu, 10 Jul 2025 09:49:49 +0200</pubDate><guid>/themen/kapazitaetsmechanismen/warum/</guid><description>&lt;p&gt;&lt;a href="/wissen/markt-energy-only/" &gt;Energy-Only-Märkte&lt;/a&gt; (EOM) basieren auf der Annahme, dass Versorgungssicherheit allein durch freie Preisbildung und daraus resultierende Investitionsanreize gewährleistet werden kann. Doch wie realistisch ist diese Annahme in der Praxis? Die folgenden Abschnitte erläutern zunächst, welche Voraussetzungen hierfür erfüllt sein müssten – und analysieren anschließend, in welchem Maße diese Bedingungen heute und zukünftig tatsächlich bestehen.&lt;/p&gt;</description></item></channel></rss>
