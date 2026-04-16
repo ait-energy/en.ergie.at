@@ -68,4 +68,4 @@ Zusätzlich werden rechtliche Rahmenbedingungen, Nutzerbedürfnisse sowie wirtsc
 ### Förderhinweis
 
 Das Projekt _EGent_ wird im Rahmen der Ausschreibung „Energieforschung 2024“ durch das Bundesministerium für Innovation, Mobilität und Infrastruktur (BMIMI) gefördert.
-Mehr Informationen finden sich in der [FFG Projektdatenbank](https://projekte.ffg.at/projekt/926341).
+Mehr Informationen finden sich in der [FFG Projektdatenbank](https://projekte.ffg.at/projekt/5137477).
