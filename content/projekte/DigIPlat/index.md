@@ -65,21 +65,18 @@ Durch die Entwicklung und Validierung interoperabler Lösungen leistet das Proje
 ### Deliverables 
 
 - [D1.3 Regulatorische Handlungsempfehlungen aus DigIPlat](deliverables/D1.3.pdf)
-
-- [D3.1 Aktuelles Framework und Best Practices von bestehenden Flexibilitätsplattformen](deliverables/D3.1.pdf)
-- [D3.2 Standardisierte Flexibilitätsprodukte und Attribute](deliverables/D3.2.pdf) 
-- [D3.3 Definition von Anwendungsfällen für multifunktionale Flexibilität](deliverables/D3.3.pdf) 
-- [D3.4 Standardisierter Rahmen für interoperable Flexibilität](deliverables/D3.4.pdf) 
-
-- [D4.1 + D4.2 Implementierung des Demonstrators](deliverables/D4.1_D4.2.pdf) 
-- [D4.3 Definition und Implementierung eines standardisierten Stromnetzmodells](deliverables/D4.3.pdf) 
-- [D4.4 Technische Bewertung der entwickelten Architektur basierend auf den Ergebnissen des Feldtest-PDFs](deliverables/D4.4.pdf) 
-
-- [D5.1 Integration standardisierter Flexibilitätsanforderungen und multimarktorientierte Kommerzialisierung von Flexibilität in einem virtuellen Kraftwerk](deliverables/D5.1.pdf) 
-- [D5.2 Standardisierte interoperabe Flexibilität durch Vermeidung von Netzüberlastung](deliverables/D5.2.pdf) 
-- [D5.3 Ansätze zur Beschaffung von Balancing und Redispatch sowie zugehörige Anreize für Flexibilitätsanbieter](deliverables/D5.3.pdf) 
-- [D5.4 Relevanz von Intraday-Märkten für Flexibilität Bewertung](deliverables/D5.4.pdf) 
-- [D5.5 Bewertung und Effizienz von Flexibilitätsplattformen](deliverables/D5.5.pdf) 
+- [D3.1 Current framework for the operation and setup of existing flexibility platforms (dts.: Aktuelles Framework und Best Practices von bestehenden Flexibilitätsplattformen)](deliverables/D3.1.pdf)
+- [D3.2 Standardized Flexibility products and attributes (dts.: Standardisierte Flexibilitätsprodukte und Attribute)](deliverables/D3.2.pdf) 
+- [D3.3 Definition of multifunctional flexibility use cases (dts.: Definition von Anwendungsfällen für multifunktionale Flexibilität)](deliverables/D3.3.pdf) 
+- [D3.4 Standardized framework for interoperable flexibility (dts.: Standardisierter Rahmen für interoperable Flexibilität)](deliverables/D3.4.pdf) 
+- [D4.1 + D4.2 Implementation of Demonstrator (dts.: Implementierung des Demonstrators)](deliverables/D4.1_D4.2.pdf) 
+- [D4.3 Definition and Implementation of a Standardized Electricity Grid Model (dts.: Definition und Implementierung eines standardisierten Stromnetzmodells)](deliverables/D4.3.pdf) 
+- [D4.4 Technical Evaluation for the developed architecture based on the results of the field test (dts.: Technische Bewertung der entwickelten Architektur basierend auf den Ergebnissen des Feldtest-PDFs)](deliverables/D4.4.pdf) 
+- [D5.1 Integration of standardized flexibility requirements and multi-market commercialization of flexibility in a virtual power plant (dts.: Integration standardisierter Flexibilitätsanforderungen und multimarktorientierte Kommerzialisierung von Flexibilität in einem virtuellen Kraftwerk)](deliverables/D5.1.pdf) 
+- [D5.2 Standardized interoperable flexibility provisioning by avoiding grid congestion (dts.: Standardisierte interoperabe Flexibilität durch Vermeidung von Netzüberlastung)](deliverables/D5.2.pdf) 
+- [D5.3 Approaches to procurement of balancing and redispatch and associated incentives of flexibility providers (dts.: Ansätze zur Beschaffung von Balancing und Redispatch sowie zugehörige Anreize für Flexibilitätsanbieter)](deliverables/D5.3.pdf) 
+- [D5.4 Relevance of Intraday Markets for Flexibility Valuation (dts.: Relevanz von Intraday-Märkten für Flexibilität Bewertung)](deliverables/D5.4.pdf) 
+- [D5.5 Evaluation and Efficiency of Flexibility Platforms (dts.: Bewertung und Effizienz von Flexibilitätsplattformen)](deliverables/D5.5.pdf) 
 
 ### Veröffentlichungen  
 
