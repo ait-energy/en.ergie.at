@@ -36,14 +36,14 @@
 /*
  * Style "title" in main nav menu, to prevent changing the actual title.
  */
-nav.flex:first-of-type a.text-base {
+div.main-menu a.text-base {
     font-weight: bold;
 }
 
-nav.flex:first-of-type a.text-base::before {
+div.main-menu > a.text-base::before {
     content: "[ ";
 }
 
-nav.flex:first-of-type a.text-base::after {
+div.main-menu > a.text-base::after {
     content: " ]";
 }
