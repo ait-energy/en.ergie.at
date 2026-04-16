@@ -47,3 +47,9 @@ div.main-menu > a.text-base::before {
 div.main-menu > a.text-base::after {
     content: " ]";
 }
+
+article.article-link--card {
+    box-shadow: 5px 5px 5px 1px rgba(0,0,0,0.5);
+    -webkit-box-shadow: 5px 5px 5px 1px rgba(0,0,0,0.5);
+    -moz-box-shadow: 5px 5px 5px 1px rgba(0,0,0,0.5);
+}
