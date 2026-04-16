@@ -6,6 +6,8 @@ authors: [plosieva]
 
 Wasserstoff aus erneuerbaren Energiequellen hat das Potenzial, die vollständige Dekarbonisierung des Energiesystems zu ermöglichen. Eine breite Einführung erneuerbaren Wasserstoffs wird derzeit  durch hohe Gesamtkosten gebremst. Um diese Bremse zu lockern wurde das Projekt _H2REAL_ ins Leben gerufen.
 
+<!--more-->
+
 ## Factsheet
 
 |   |   |
