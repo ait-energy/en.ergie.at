@@ -175,4 +175,4 @@ Development and implementation of communication and dissemination measures to sh
 
 ### Funding
 
-_INTERSTORES_ is funded by the European Union. However, the views and opinions expressed are solely those of the authors and do not necessarily reflect those of the European Union or the Research Executive Agency. Neither the European Union nor the funding authority can be held responsible for them.
+_INTERSTORES_ is funded by the European Union. Views and opinions expressed are however those of the author(s) only and do not necessarily reflect those of the European Union or European Climate, Infrastructure and Environment Executive Agency (CINEA). Neither the European Union nor the granting authority can be held responsible for them..
