@@ -4,10 +4,9 @@ topics: ["Speicher", "Energiegemeinschaften"]
 authors: [plosieva]
 ---
 
-Das Projekt EGent adressiert zentrale Herausforderungen der Energiewende durch die stärkere Einbindung von Energiegemeinschaften (EGs). Im Fokus steht die Integration von Gemeinschaftsspeichern - sowohl stationär als auch mobil - in das Energiesystem, um deren Potenziale effizient zu nutzen und zur Erreichung der Klimaziele beizutragen.
+Das Projekt EGent adressiert zentrale Herausforderungen der Energiewende durch die stärkere Einbindung von <abbr title="Energiegemeinschaften">EGs</abbr>. Im Fokus steht die Integration von Gemeinschaftsspeichern - sowohl stationär als auch mobil - in das Energiesystem, um deren Potenziale effizient zu nutzen und zur Erreichung der Klimaziele beizutragen.
 
 Dabei werden technische, wirtschaftliche und regulatorische Aspekte gleichermaßen berücksichtigt, um praktikable und skalierbare Lösungen für die Umsetzung in realen Energiesystemen zu entwickeln.
-
 
 ## Factsheet
 
@@ -16,9 +15,9 @@ Dabei werden technische, wirtschaftliche und regulatorische Aspekte gleichermaß
 | **Kurzform** | <mark>EGent</mark> |
 | **Titel** | Stochastische kooperative Agenten-Systeme für mobile und stationäre (Schwarm-)Speicherkonzepte in Energiegemeinschaften |
 | **Laufzeit** | 01.06.2025 -- 30.11.2027 |
-| **Partner** | 15 [alle anzeigen](#projektpartner) |
+| **Partner:innen** | 15 [alle anzeigen](#projektpartnerinnen) |
 | **Projektform** | Kooperatives Forschungsprojekt, Industrielle Forschung  |
-| **Projektleitung AIT** | [Dr. DI Bernadette Fina](Bernadette.Fina@ait.ac.at) |
+| **Projektleitung AIT** | [Bernadette Fina](mailto:Bernadette.Fina@ait.ac.at) |
 
 ## Überblick
 
@@ -28,23 +27,7 @@ Ein besonderer Fokus liegt auf der Entwicklung innovativer Methoden zur Prognose
 
 Zusätzlich werden rechtliche Rahmenbedingungen, Nutzerbedürfnisse sowie wirtschaftliche Aspekte analysiert, um tragfähige Geschäftsmodelle und Tarifstrukturen zu entwickeln. Dadurch soll eine effiziente Integration von Energiegemeinschaften in das Gesamtsystem ermöglicht werden.
 
-## Erkenntnisse
-
-### Integration von Gemeinschaftsspeichern ist zentral für Energiegemeinschaften
-
-Die Einbindung von stationären und mobilen Speichern stellt einen entscheidenden Hebel dar, um das Potenzial von Energiegemeinschaften voll auszuschöpfen und deren Beitrag zur Energiewende zu stärken.
-
-### Komplexität erfordert neue Modellierungs- und Prognoseansätze
-
-Die hohe Heterogenität von Teilnehmern, Lastprofilen und Erzeugungsstrukturen macht den Einsatz stochastischer und KI-basierter Methoden notwendig, um zuverlässige Prognosen und Optimierungen zu ermöglichen.
-
-### Wirtschaftliche und regulatorische Rahmenbedingungen sind entscheidend
-
-Neben technischen Lösungen spielen rechtliche Vorgaben sowie wirtschaftliche Anreize eine zentrale Rolle für die erfolgreiche Implementierung von Energiegemeinschaften und deren Speicherlösungen.
-
-### Nutzerakzeptanz und Geschäftsmodelle sind Schlüsselfaktoren
-
-Die Entwicklung innovativer Tarif- und Geschäftsmodelle sowie geeigneter Anreizmechanismen ist notwendig, um die Teilnahmebereitschaft von Endkund*innen zu erhöhen und langfristige Akzeptanz zu sichern
+<!-- ## Erkenntnisse -->
 
 <!-- 
 ## Tätigkeiten 
@@ -60,13 +43,13 @@ Die Entwicklung innovativer Tarif- und Geschäftsmodelle sowie geeigneter Anreiz
 
 - [D]() 
 
-### Dokumente 
+### Veröffentlichungen 
 
 {{< keyword >}}Example{{< /keyword >}} [Example](https://www.example.com)   -->
 
-### Projektpartner
+### Projektpartner:innen
 
-- [AIT Austrian Institute of Technology GmbH](https://www.ait.ac.at/ueber-das-ait/center/center-for-energy) (Projektkoordinator)
+- [AIT Austrian Institute of Technology GmbH](https://www.ait.ac.at/ueber-das-ait/center/center-for-energy) (Projektkoordination)
 - [Christian Hofmann Unternehmensberatung GmbH](https://www.christian-hofmann.at/)
 - [CyberGrid GmbH](https://www.cyber-grid.com/deecoplus)
 - [ecoplus.Niederösterreichs Wirtschaftsagentur GmbH](https://www.ecoplus.at/)
@@ -80,4 +63,7 @@ Die Entwicklung innovativer Tarif- und Geschäftsmodelle sowie geeigneter Anreiz
 - [Reisenbauer Solutions GmbH](https://reisenbauer.solutions/)
 - [Verein ee-volution](https://projekte.ffg.at/partner/135920)
 
-<!-- ### Förderhinweis -->
+### Förderhinweis
+
+Das Projekt „EGent“ wird im Rahmen der Ausschreibung „Energieforschung 2024“ durch das Bundesministerium für Innovation, Mobilität und Infrastruktur (BMIMI) gefördert.
+Mehr Informationen finden sich in der [FFG Projektdatenbank](https://projekte.ffg.at/projekt/926341).
