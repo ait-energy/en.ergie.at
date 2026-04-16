@@ -12,13 +12,13 @@ Lastabhängige Netztarife werden als essentieller Beitrag zur Erreichung energie
 | **Kurzform** | <mark>INNOnet</mark> |
 | **Titel** | Interaktive Netzoptimierung und Netztarife |
 | **Laufzeit** | 01.03.2023 -- 31.10.2026 |
-| **Partner** | 10 ([alle anzeigen]({{< ref "#projektpartner" >}})) |
+| **Partner:innen** | 10 ([alle anzeigen]({{< ref "#projektpartnerinnen" >}})) |
 | **Projektform** | Kofinanziertes Forschungsprojekt  |
-| **Projektleitung AIT** | [DI Carolin Monsberger](Carolin.Monsberger@ait.ac.at)|
+| **Projektleitung AIT** | [Carolin Monsberger](mailto:Carolin.Monsberger@ait.ac.at)|
 
 ## Überblick
 
-INNOnet testet lastabhängige Netztarife zur Bestimmung von aktivierbaren Flexibilitätspotentialen bei Haushaltskund:innen im Realbetrieb, wobei Entwicklungen hinsichtlich Einspeisung und Lasten (PV, E-Fahrzeuge, Wärmepumpen) antizipativ in Netzsimulationen berücksichtigt werden. Zudem untersucht INNOnet Aspekte der praktischen Umsetzung dieser zukünftigen Tarifstrukturen durch Netzbetreiber und unterstützt die Entwicklung einer gemeinsamen Position der österreichischen Netzwirtschaft für eine umsetzbare und effiziente Ausgestaltung zukünftiger Netztarifstrukturen in Österreich.
+_INNOnet_ testet lastabhängige Netztarife zur Bestimmung von aktivierbaren Flexibilitätspotentialen bei Haushaltskund:innen im Realbetrieb, wobei Entwicklungen hinsichtlich Einspeisung und Lasten (PV, E-Fahrzeuge, Wärmepumpen) antizipativ in Netzsimulationen berücksichtigt werden. Zudem untersucht _INNOnet_ Aspekte der praktischen Umsetzung dieser zukünftigen Tarifstrukturen durch Netzbetreiber und unterstützt die Entwicklung einer gemeinsamen Position der österreichischen Netzwirtschaft für eine umsetzbare und effiziente Ausgestaltung zukünftiger Netztarifstrukturen in Österreich.
 
 ## Erkenntnisse
 
@@ -44,7 +44,7 @@ Das Arbeitspaket umfasst die Koordination des gesamten Projekts sowie die Abstim
 - [D2.1 ](#)
 - [D2.2 ](#) -->
 
-### Dokumente
+### Veröffentlichungen
 
 {{< keyword >}}Video{{< /keyword >}} [Warum wird die Energiewende im "Sandkasten" erprobt?](https://www.youtube.com/watch?reload=9&v=hbGwq_AQ19E), Vorstellung des Projekts bei der Mission Innovation Austria Week 2025, 09.10.2025
 
@@ -54,9 +54,9 @@ Das Arbeitspaket umfasst die Koordination des gesamten Projekts sowie die Abstim
 
 {{< keyword >}}Präsentation{{< /keyword >}} [Reduzierung des Netzausbaubedarfs durch variable Stromnetztarife in Haushalten](https://www.ait.ac.at/fileadmin/mc/energy/downloads/IES/Projekte/INNOnet_Symposium_Energieinnovation.pdf), Vorstellung des Projekts beim 18. Symposium Energieinnovation, 14.-16.02.2024
 
-### Projektpartner
+### Projektpartner:innen
 
-- [AIT Austrian Institute of Technology GmbH](https://www.ait.ac.at/ueber-das-ait/center/center-for-energy) (Projektkoordinator)
+- [AIT Austrian Institute of Technology GmbH](https://www.ait.ac.at/ueber-das-ait/center/center-for-energy) (Projektkoordination)
 - [HAKOM Time Series GmbH](https://www.hakom.at/)
 - [Energieinstitut an der Johannes Kepler Universität Linz](https://energieinstitut-linz.at/)
 - [FH OÖ Forschungs & Entwicklungs GmbH](https://fh-ooe.at/forschung/ueber-die-forschung-entwicklung)
@@ -69,4 +69,4 @@ Das Arbeitspaket umfasst die Koordination des gesamten Projekts sowie die Abstim
 
 ### Förderhinweis
  
-Dieses Projekt wird im Rahmen der 2.AS Energie.Frei.Raum der FFG unter der Projektnummer FO999894848 gefördert. [projekte.ffg.at](https://projekte.ffg.at/projekt/4478292)
+Dieses Projekt wird im Rahmen der 2.AS Energie.Frei.Raum der FFG unter der Projektnummer FO999894848 gefördert. Mehr Informationen finden sich in der [FFG Projektdatenbank](https://projekte.ffg.at/projekt/4478292)
