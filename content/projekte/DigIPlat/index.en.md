@@ -1,40 +1,54 @@
 ---
 title: "DigIPlat"
-topics: ["ThemeA", "ThemeB"]
+topics: ["Flexibility", "Redispatch", "Balancing reserves"]
 authors: [plosieva]
 ---
-
-A central element of the project is, lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum.
+The project _DigIPlat_ addresses key challenges of the energy transition in the context of increasing decentralization, sector coupling, and digitalization. The focus is on the development of interoperable digital solutions for flexibility platforms that enable the coordinated and efficient use of flexibility within the energy system.
 
 <!--more-->
+
+By integrating technical, economic, and process-related aspects, _DigIPlat_ aims to close existing gaps in standardization and interoperability, thereby establishing the foundation for an open and scalable flexibility ecosystem.
 
 ## Factsheet
 
 |   |   |
 |---|---|
-| **Short name** | <mark>LoReM</mark> |
-| **Title** | Lorem ipsum dolor sit amet consetetur sadipscing elitr |
-| **Duration** | 01.03.2024 -- 31.08.2025 |
-| **Partners** | 3 ([show all]({{< ref "#project-partners" >}})) |
+| **Short name** | <mark>DigIPlat</mark> |
+| **Title** | Digitale Lösungen für die Interoperabilität von Flexibilitätsplattforme |
+| **Duration** | 01.05.2022 -- 31.08.2025 |
+| **Partners** | 7 ([show all]({{< ref "#project-partners" >}})) |
 | **Project type** | Co-funded research project  |
-| **Consortium lead** | [Jane Doe](mailto:x.y@z) (OtherCompX) |
-| **Project lead AIT** | [Michelle Muster](mailto:x.y@z) |
+| **Project lead AIT** | [Zobernig Viktor](mailto:Viktor.Zobernig@ait.ac.at) |
 
 ## Overview
 
-Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
+_DigIPlat_ develops and investigates digital solutions to improve the interoperability of flexibility platforms within the energy system. The aim is to define standardized frameworks and requirements, as well as to evaluate their technical and economic feasibility.
 
-Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi. Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat.
+Within the project, cross-border and cross-platform use cases are analyzed, particularly in the context of redispatch, balancing markets, and intraday markets. Market and grid simulations are used to assess the potential benefits of interoperability and the standardized use of flexibility.
+
+The project results contribute to the standardization of flexibility solutions in the DACH region and beyond, and support the development of a transparent and efficient energy system.
 
 ## Findings
 
-### X can generate Y
+### Interoperability is crucial for the energy transition
 
-Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
+The increasing decentralization and digitalization of the energy system require interoperable platforms to enable the efficient and cross-system use of flexibility. Without standardized interfaces and processes, coordination remains fragmented and inefficient.
 
-### A and B can be achieved through Z
+### Standardization enables efficient use of flexibility
 
-Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
+A unified framework for technical, economic, and regulatory requirements is necessary to connect flexibility platforms and facilitate their use across different markets.
+
+### Cross-platform coordination creates added value
+
+The analysis of use cases such as redispatch, balancing markets, and intraday markets shows that coordinated, cross-platform solutions can lead to better utilization of flexibility and economic benefits.
+
+### Simulations are essential for evaluating solutions
+
+Market and grid simulations play a key role in assessing the technical feasibility and potential benefits of interoperability and standardization.
+
+### DigIPlat contributes to the development of an open flexibility ecosystem
+
+By developing and validating interoperable solutions, the project contributes to the creation of a transparent, scalable, and Europe-wide flexibility ecosystem.
 
 ## Activities
 
@@ -52,27 +66,69 @@ FooBarAI at vero eos et accusam et justo duo dolores et ea rebum. Stet clita kas
 
 ### Deliverables
 
-- [D2.1 At vero eos et accusam](www.example.com)
-- [D2.2 Lorem ipsum dolor sit](www.example.com)
-- [D4.1 Stet clita kasd gubergren](www.example.com)
+- [D1.3 Regulatorische Handlungsempfehlungen aus DigIPlat (engl.: Regulatory recommendations from DigIPlat)](/projekte/DigIPlat/deliverables/D1.3.pdf)
+- [D3.1 Current framework for the operation and setup of existing flexibility platforms](/projekte/DigIPlat/deliverables/D3.1.pdf)
+- [D3.2 Standardized Flexibility products and attributes](/projekte/DigIPlat/deliverables/D3.2.pdf) 
+- [D3.3 Definition of multifunctional flexibility use cases](/projekte/DigIPlat/deliverables/D3.3.pdf) 
+- [D3.4 Standardized framework for interoperable flexibility](/projekte/DigIPlat/deliverables/D3.4.pdf) 
+- [D4.1 + D4.2 Implementation of Demonstrator](/projekte/DigIPlat/deliverables/D4.1_D4.2.pdf) 
+- [D4.3 Definition and Implementation of a Standardized Electricity Grid Model](/projekte/DigIPlat/deliverables/D4.3.pdf) 
+- [D4.4 Technical Evaluation for the developed architecture based on the results of the field test](/projekte/DigIPlat/deliverables/D4.4.pdf) 
+- [D5.1 Integration of standardized flexibility requirements and multi-market commercialization of flexibility in a virtual power plant](/projekte/DigIPlat/deliverables/D5.1.pdf) 
+- [D5.2 Standardized interoperable flexibility provisioning by avoiding grid congestion](/projekte/DigIPlat/deliverables/D5.2.pdf) 
+- [D5.3 Approaches to procurement of balancing and redispatch and associated incentives of flexibility providers](/projekte/DigIPlat/deliverables/D5.3.pdf) 
+- [D5.4 Relevance of Intraday Markets for Flexibility Valuation](/projekte/DigIPlat/deliverables/D5.4.pdf) 
+- [D5.5 Evaluation and Efficiency of Flexibility Platforms](/projekte/DigIPlat/deliverables/D5.5.pdf) 
 
 ### Publications
+{{< keyword >}}Journal{{< /keyword >}} [Dynamische Modellierung und Steuerung zur Bewertung der großflächigen Wind- und Solareinbindung in Energiesystemen](https://doi.org/10.1049/iet-rpg.2020.0458?urlappend=%3Futm_source%3Dresearchgate.net%26utm_medium%3Darticle)
 
-{{< keyword >}}Homepage{{< /keyword >}} Official project homepage: [example.com](https://www.example.com)  
+{{< keyword >}}Journal{{< /keyword >}} [IT-Lösungen zur Erbringung von Regelleistungaus PV-Anlagen unter Verwendung derSmart-Meter-Infrastruktur](https://doi.org/10.1365/s40702-024-01087-y)
 
-{{< keyword >}}Guest article{{< /keyword >}} [Lorem ipsum dolor sit amet, consetetur sadipscing elitr](https://www.example.com)  
+{{< keyword >}}Journal{{< /keyword >}} [Ensuring Data Privacy in AC Optimal Power Flow with a Distributed Co-Simulation Framework](https://doi.org/10.1016/j.epsr.2024.110710)
 
-{{< keyword >}}Presentation{{< /keyword >}} [Lorem ipsum dolor sit amet](https://www.example.com), by J. Doe, 12.01.2026  
+{{< keyword >}}Journal{{< /keyword >}} [Effiziente Operationalisierung der Flexibilitätsbeschaffung: Marktdesignanalyse und Prozessdefinition](https://doi.org/10.3390/en17122876)
 
-{{< keyword >}}Report{{< /keyword >}} [At vero eos et accusam!](https://www.example.com)  
+{{< keyword >}}Journal{{< /keyword >}} [Offene, datengetriebene Automatisierung der Wohnverteilungsnetzmodellierung mit minimalen Datenanforderungen](https://doi.org/10.3390/en17122876)
 
-{{< keyword >}}Journal{{< /keyword >}} Strömer, S., Beck, A., Traninger, M., Orsolits, D., & Reuter, S. (2024). [Transitioning to a renewable hydrogen system: Optimal infrastructure for self-sufficient hydrogen supply in Austria by 2030](https://doi.org/10.1016/j.segy.2024.100151). _Smart Energy, 15_, 100151.
+{{< keyword >}}Publication{{< /keyword >}} [Offene, datengetriebene Automatisierung der Wohnverteilungsnetzmodellierung mit minimalen Datenanforderungen](https://doi.org/10.48550/arXiv.2312.06552)  
+
+{{< keyword >}}Publication{{< /keyword >}} [Wie die Interoperabilität von Flexibilitätsplattformen Marktdesign-Möglichkeiten ermöglicht](https://doi.org/10.1109/EEM58374.2023.10161815)  
+
+{{< keyword >}}Publication{{< /keyword >}} [Herausforderungen bei der Teilnahme kleiner PV-Anlagen am Regelreservemarkt aus bilanzieller Sicht](https://www.energiewirtschaft.org/wp-content/uploads/2023/05/PDF_18127_et_1_2_2023_S_48_53.pdf)
+
+{{< keyword >}}Publication{{< /keyword >}} [Ein optimierungsbasierter Ansatz zur automatisierten Generierung von Wohn-Niederspannungsnetzmodellen unter Verwendung von Open Data und Open-Source-Software](https://doi.org/10.1109/ISGT-Europe54678.2022.9960483) 
+
+{{< keyword >}}Publication{{< /keyword >}} [Verwendung von Open Data zur Modellierung und Simulation der All Electrical Society in eASiMOV](https://doi.org/10.1109/OSMSES54027.2022.9769145) 
+
+{{< keyword >}}Publication{{< /keyword >}} [Nutzung ungenutzter Kapazitäten im Netz](https://doi.org/10.1109/ISGT-Asia.2019.8880909) 
+
+{{< keyword >}}Publication{{< /keyword >}} [Schnelle Netzzustandsschätzung für Stromnetze: Ein Ensemble-Machine-Learning-Ansatz](https://doi.org/10.1109/SEGE55279.2022.9889763)  
+
+{{< keyword >}}Publication{{< /keyword >}} [TSO-DSO Interaction: Privacy-Preserving Optimal Power Flow with Distributed Generators Using a Machine Learning-Based Approach](https://doi.org/10.1109/APPEEC57400.2023.10562006)
+
+{{< keyword >}}Conference{{< /keyword >}} [TSO-DSO-Interaktion: Datenschutzwahrender optimaler Stromfluss mit verteilten Generatoren unter Verwendung eines maschinellen Lernansatzes](https://doi.org/10.1109/APPEEC57400.2023.10562006)
+
+{{< keyword >}}Conference{{< /keyword >}} [Technische Lösungen und Geschäftsaussichten für die Beteiligung kleiner PV-Systeme am Markt für Balancenenergie](https://doi.org/10.1109/EEM54602.2022.9921005)
+
+{{< keyword >}}Report{{< /keyword >}} ["Einsatz von kleinen PV-Anlagen zur Erbringung von Regelleistung"](https://www.energiewirtschaft.org/wp-content/uploads/2021/11/Artikel_et_11_2021_S_61_64.pdf#:~:text=PV-Anlagen%20bergen%20grunds%C3%A4tzlich%20ein%20sehr%20hohes%20Potenzial%20zur,eine%20attraktive%20Option%20zur%20Erhaltung%20der%20Systemstabilit%C3%A4t%20dar)
+
+### Tools
+
+The following tool enables interactive exploration and application of the approaches developed in the project:
+
+- [DigIPlat Tool](https://transnetbw.digiplat.ait.ac.at/)
+
 
 ### Project partners
 
 - [AIT Austrian Institute of Technology GmbH](https://www.ait.ac.at/ueber-das-ait/center/center-for-energy) (Project coordination)
-- [Energy Institute at Johannes Kepler University Linz](https://energieinstitut-linz.at/)
-- [EPEX SPOT SE](https://www.epexspot.com/)
+- [Austrian Power Grid AG](https://www.apg.at/)
+- [Ulm University of Applied Sciences](https://www.thu.de/de/Seiten/THU.aspx)
+- [University of St. Gallen](https://www.unisg.ch/en/)
+- [Karlsruhe Institute of Technology (KIT)](https://www.kit.edu/)
+- [TransnetBW](https://www.transnetbw.de/de)
+- [Fichtner](https://www.fichtner.de/)
 
 ### Funding
 
