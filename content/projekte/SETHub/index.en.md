@@ -64,15 +64,15 @@ This work package includes public outreach activities and the preparation of sci
 
 ### Deliverables
 
-- [D2.1 Organisationsmodelle für den netzdienlichen Einsatz von Elektrolyse](assets/SEHub_D2_Organisationsmodelle-RegulatorischerRahmen_v100.pdf)
-- [D3 Simulation von Fallstudien und wirtschaftliche Bewertung von Elektrolyse im Verteilnetz](assets/SETHub_D3_Fallstudien_v100.pdf)
-- [D4 Grid-supportive electrolysis in distribution grids: techno-economic and regulatory analysis for Austria](assets/SETHub_D4_ElectrolysisInDistributionGrids.pdf)
+- [D2.1 Organisationsmodelle für den netzdienlichen Einsatz von Elektrolyse](/projekte/SETHub/assets/SEHub_D2_Organisationsmodelle-RegulatorischerRahmen_v100.pdf)
+- [D3 Simulation von Fallstudien und wirtschaftliche Bewertung von Elektrolyse im Verteilnetz](/projekte/SETHub/assets/SETHub_D3_Fallstudien_v100.pdf)
+- [D4 Grid-supportive electrolysis in distribution grids: techno-economic and regulatory analysis for Austria](/projekte/SETHub/assets/SETHub_D4_ElectrolysisInDistributionGrids.pdf)
 
 ### Publications
 
-{{< keyword >}}Presentation{{< /keyword >}} [Electrolysis in distribution grids: A Regulatory Valuation on Grid-Supportive Operation](assets/NEFI24_Ortmann_ElectrolysisInDistributionGrids_v100.pdf)
+{{< keyword >}}Presentation{{< /keyword >}} [Electrolysis in distribution grids: A Regulatory Valuation on Grid-Supportive Operation](/projekte/SETHub/assets/NEFI24_Ortmann_ElectrolysisInDistributionGrids_v100.pdf)
 
-{{< keyword >}}Presentation{{< /keyword >}} [Elektrolyse im Verteilnetz: Eine techno-ökonomische Analyse zum netzstützenden Einsatz](assets/SETHub_IEWT_v100.pdf)
+{{< keyword >}}Presentation{{< /keyword >}} [Elektrolyse im Verteilnetz: Eine techno-ökonomische Analyse zum netzstützenden Einsatz](/projekte/SETHub/assets/SETHub_IEWT_v100.pdf)
 
 ### Project partners
 
