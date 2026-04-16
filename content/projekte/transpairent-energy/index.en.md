@@ -73,31 +73,37 @@ Development of strategies for disseminating the platform and increasing the visi
 
 ## Further information
 
-### Deliverables
+<!-- ### Deliverables
 
-- [D2.1 At vero eos et accusam](www.example.com)
-- [D2.2 Lorem ipsum dolor sit](www.example.com)
-- [D4.1 Stet clita kasd gubergren](www.example.com)
+- [D1.1 Interim report 1](/projekte/transpairent-energy/deliverables/d1_1)
+- [D1.2 Interim report 2](/projekte/transpairent-energy/deliverables/d1_2)
+- [D1.3 Final report](/projekte/transpairent-energy/deliverables/d1_3)
+- [D2.1 Documentation of data validation](/projekte/transpairent-energy/deliverables/d2_1)
+- [D2.2 Publication of algorithmic methodologies and complete data pipeline](/projekte/transpairent-energy/deliverables/d2_2)
+- [D3.1 Algorithm review and implementation documentation](/projekte/transpairent-energy/deliverables/d3_1)
+- [D3.2 Algorithm validation result documentation](/projekte/transpairent-energy/deliverables/d3_2)
+- [D4.1 Application requirements and use case specification](/projekte/transpairent-energy/deliverables/d4_1)
+- [D4.2 Application software development report](/projekte/transpairent-energy/deliverables/d4_2)
+- [D4.3 Application usage statistics report](/projekte/transpairent-energy/deliverables/d4_3)
+- [D5.1 Digital twin optimization result documentation](/projekte/transpairent-energy/deliverables/d5_1)
+- [D5.2 Live test site optimization result documentation)](/projekte/transpairent-energy/deliverables/d5_2)
+- [D6.1 Exploitation roadmap]/projekte/transpairent-energy/(deliverables/d6_1)
+- [D6.2 Documentation of two public dissemination activities](/projekte/transpairent-energy/deliverables/d6_2)
+- [D6.3 Two scientific publications](/projekte/transpairent-energy/deliverables/d6_3)
+- [D6.4 Stakeholder workshop documentation](/projekte/transpairent-energy/deliverables/d6_4) -->
 
 ### Publications
 
-{{< keyword >}}Homepage{{< /keyword >}} Official project homepage: [example.com](https://www.example.com)  
-
-{{< keyword >}}Guest article{{< /keyword >}} [Lorem ipsum dolor sit amet, consetetur sadipscing elitr](https://www.example.com)  
-
-{{< keyword >}}Presentation{{< /keyword >}} [Lorem ipsum dolor sit amet](https://www.example.com), by J. Doe, 12.01.2026  
-
-{{< keyword >}}Report{{< /keyword >}} [At vero eos et accusam!](https://www.example.com)  
-
-{{< keyword >}}Journal{{< /keyword >}} Strömer, S., Beck, A., Traninger, M., Orsolits, D., & Reuter, S. (2024). [Transitioning to a renewable hydrogen system: Optimal infrastructure for self-sufficient hydrogen supply in Austria by 2030](https://doi.org/10.1016/j.segy.2024.100151). _Smart Energy, 15_, 100151.
+{{< keyword >}}Presentation{{< /keyword >}} [Probabilistische Vorhersagen relevanter Energiesystemvariablen mittels Generative AI](/projekte/transpairent-energy/assets/94_presentation_20250318_160623.pdf), 26.02.2025
 
 ### Project partners
 
 - [AIT Austrian Institute of Technology GmbH](https://www.ait.ac.at/ueber-das-ait/center/center-for-energy) (Project coordination)
-- [Energy Institute at Johannes Kepler University Linz](https://energieinstitut-linz.at/)
-- [EPEX SPOT SE](https://www.epexspot.com/)
+- [B-SEC better secure GmbH & Co KG](https://www.b-sec.net/)
+- [Projektplanungs- Beratungs- und Entwicklungs GmbH](https://www.pbeg.at/)
+- [UBIMET GmbH](https://www.ubimet.com/)
 
 ### Funding
 
-This project is funded by the Federal Ministry for Climate Change, Environment, Energy, Mobility, Innovation and Technology (BMK) as part of the "100% Renewable Energy Laboratories" program. Implementation is carried out on behalf by the Austrian Research Promotion Agency (FFG).
-More information can be found in the [FFG project database](https://projekte.ffg.at/projekt/4849884)
+This project is conducted within the framework of the "AI for Green 2023" call by the Federal Ministry for Climate Action, Environment, Energy, Mobility, Innovation, and Technology (BMK). It is administered on behalf of the BMK by the Austrian Research Promotion Agency (FFG).
+More information can be found in the [FFG project database](https://projekte.ffg.at/projekt/5121370)
