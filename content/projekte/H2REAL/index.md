@@ -15,7 +15,7 @@ Wasserstoff aus erneuerbaren Energiequellen hat das Potenzial, die vollständige
 | **Laufzeit** | 15.05.23 -- 14.05.27 |
 | **Partner:innen** | 19 ([alle anzeigen]({{< ref "#projektpartnerinnen" >}})) |
 | **Projektform** | Kofinanziertes Forschungsprojekt |
-| **Konsortialführung** | [Johannes Jungbauer](johannes.jungbauer@wienenergie.at) [Wien Energie](https://www.wienenergie.at/) |
+| **Konsortialführung** | [Johannes Jungbauer](mailto:johannes.jungbauer@wienenergie.at) [Wien Energie](https://www.wienenergie.at/) |
 | **Projektleitung AIT** | [Stefan Reuter](mailto:stefan.reuter@ait.ac.at) |
 
 ## Überblick
