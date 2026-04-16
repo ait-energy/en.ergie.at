@@ -51,14 +51,22 @@ Markt- und Netzsimulationen spielen eine wichtige Rolle bei der Bewertung der te
 
 Durch die Entwicklung und Validierung interoperabler Lösungen leistet das Projekt einen Beitrag zur Schaffung eines transparenten, skalierbaren und europaweit nutzbaren Flexibilitätsökosystems.
 
-<!-- ## Tätigkeiten 
+## Tätigkeiten 
 
-### AP1: 
-<u>Lead: </u>
+### AP3: Standardisierter Rahmen für interoperable Flexibilitätsplattformen
+<u>Lead: AIT</u>
 
-### AP2: 
-<u>Lead: </u> -->
+Entwicklung eines standardisierten Rahmens zur Verbesserung der Interoperabilität von Flexibilitätsplattformen sowie Definition von Use Cases und technischen Anforderungen für Multi-Markt-Anwendungen.
 
+### AP4: Implementierung und technische Validierung
+<u>Lead: THU</u>
+
+Umsetzung des entwickelten Frameworks und Durchführung technischer Tests zur Bewertung von Funktionalität, Sicherheit und Übertragbarkeit in realen Anwendungen.
+
+### AP5: Ökonomische Bewertung
+<u>Lead: AIT</u>
+
+Analyse der wirtschaftlichen Auswirkungen und Anreizstrukturen für Flexibilitätsanbieter sowie Bewertung von Effizienzgewinnen durch interoperable Plattformlösungen.
 
 ## Weiterführende Informationen
 

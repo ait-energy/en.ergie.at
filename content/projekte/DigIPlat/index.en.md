@@ -52,15 +52,20 @@ By developing and validating interoperable solutions, the project contributes to
 
 ## Activities
 
-### WP1: Qualitative Analysis
+### WP3: Standardized framework for interoperable flexibility platforms 
+<u>Lead: AIT</u>
 
-AIT erarbeitet, mit Unterstützung durch OtherCompX, lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
+Development of a standardized framework to enhance the interoperability of flexibility platforms, including the definition of use cases and technical requirements for multi-market applications.
 
-### MP2: Lorem ipsum dolor sit amet
+### WP4: Implementation of standardized framework and technical testing in a field test
+<u>Lead: THU</u>
 
-OtherCompX, lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
+Implementation of the developed framework and execution of technical tests to assess functionality, security, and applicability in real-world settings.
 
-FooBarAI at vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
+### WP4: Economic evaluation
+<u>Lead: AIT</u>
+
+Analysis of economic impacts and incentive structures for flexibility providers, as well as evaluation of efficiency gains enabled by interoperable platform solutions.
 
 ## Further information
 
