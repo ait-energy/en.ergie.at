@@ -66,4 +66,4 @@ In addition, regulatory frameworks, user needs, and economic aspects are analyze
 ### Funding
 
 The project _EGent_ is funded under the “Energy Research 2024” call by the Federal Ministry for Innovation, Mobility and Infrastructure (BMIMI).
-Mehr Informationen finden sich in der [FFG Projektdatenbank](https://projekte.ffg.at/projekt/5137477).
+More information can be found in the [FFG project database](https://projekte.ffg.at/projekt/5137477).
