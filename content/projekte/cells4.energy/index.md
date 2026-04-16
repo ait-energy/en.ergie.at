@@ -17,7 +17,7 @@ _cells4.energy_ entwickelt und erprobt Energiezellen als neue Organisationsform 
 | **Laufzeit** | 01.11.2023 -- 31.10.2027 |
 | **Partner:innen** | 20 ([alle anzeigen]({{< ref "#projektpartnerinnen" >}})) |
 | **Projektform** | Kofinanziertes Forschungsprojekt  |
-| **Projektleitung AIT** | [Branislav Iglar](branislav.iglar@ait.ac.at)|
+| **Projektleitung AIT** | [Branislav Iglar](mailto:branislav.iglar@ait.ac.at)|
 
 ## Überblick
 

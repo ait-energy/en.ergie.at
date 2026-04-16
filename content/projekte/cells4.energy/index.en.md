@@ -17,7 +17,7 @@ _cells4.energy_ develops and tests energy cells as a new organizational model fo
 | **Duration** | 01.11.2023 -- 31.10.2027 |
 | **Partners** | 20 ([show all]({{< ref "#project-partners" >}})) |
 | **Project type** | Co-funded research project  |
-| **Project lead AIT** | [Branislav Iglar](branislav.iglar@ait.ac.at)|
+| **Project lead AIT** | [Branislav Iglar](mailto:branislav.iglar@ait.ac.at)|
 
 ## Overview
 
