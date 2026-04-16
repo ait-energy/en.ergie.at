@@ -15,15 +15,15 @@ Durch die Verknüpfung von technologischen, räumlichen und systemischen Ebenen 
 |   |   |
 |---|---|
 | **Kurzform** | <mark>GOES</mark> |
-| **Titel** | Geothermiebasierte optimierte Energiesysteme |
+| **Titel** | Geothermal based Optimized Energy Systems |
 | **Laufzeit** | 31.12.2022 -- 31.08.2026 |
 | **Partner:innen** | 8 ([alle anzeigen]({{< ref "#projektpartnerinnen" >}})) | 
-| **Projektform** | Forschungs- und Innovationsprojekt  |
+| **Projektform** | Kofinanziertes Forschungsprojekt |
 | **Projektleitung AIT** | [Nicolas Marx](Nicolas.Marx@ait.ac.at)|  
 
 ## Überblick
 
-Das Projekt entwickelt und validiert ein standardisiertes Framework für plattformbasiertes Design (PBD), das den Informationsaustausch und die Interoperabilität zwischen verschiedenen Ebenen des Energiesystems verbessert. Ziel ist es, die Integration geothermischer Energiesysteme in bestehende und neue urbane Strukturen zu erleichtern und deren Einsatz effizient zu gestalten.
+Das Projekt entwickelt und validiert ein standardisiertes Framework für PBD, das den Informationsaustausch und die Interoperabilität zwischen verschiedenen Ebenen des Energiesystems verbessert. Ziel ist es, die Integration geothermischer Energiesysteme in bestehende und neue urbane Strukturen zu erleichtern und deren Einsatz effizient zu gestalten.
 
 Im Rahmen des Projekts werden Methoden zur Identifikation geeigneter Standorte, zur Erstellung detaillierter Untergrundmodelle sowie zur Integration von Wärme- und Kältenetzen entwickelt. Die Lösungen werden in mehreren Pilot- und Demonstrationsprojekten in unterschiedlichen Ländern angewendet und getestet.
 
@@ -33,7 +33,7 @@ Darüber hinaus werden die ökologischen und techno-ökonomischen Auswirkungen d
 
 ### Plattformbasierte Ansätze ermöglichen integrierte Energiesysteme
 
-Die Anwendung eines standardisierten Platform-Based Design (PBD) Ansatzes erlaubt die Verknüpfung verschiedener Ebenen des Energiesystems und unterstützt eine ganzheitliche Planung und Optimierung geothermischer Energiesysteme.
+Die Anwendung eines standardisierten PBD Ansatzes erlaubt die Verknüpfung verschiedener Ebenen des Energiesystems und unterstützt eine ganzheitliche Planung und Optimierung geothermischer Energiesysteme.
 
 ### Standardisierte Schnittstellen sind zentral für Skalierbarkeit
 
@@ -118,4 +118,5 @@ Das Management umfasst die Koordination und Überwachung aller Projektaktivität
 
 ### Förderhinweis
 
-Das Projekt wird neben den nationalen Förderagenturen Österreichs, Dänemarks, Deutschlands, der USA und der Schweiz auch von GEOTHERMICA - ERA-NET SES kofinanziert.
+Das Projekt wird neben den nationalen Förderagenturen Österreichs, Dänemarks, Deutschlands, der USA und der Schweiz auch von GEOTHERMICA - ERA-NET SES kofinanziert. Dieses  Projekt hat Fördermittel aus dem Forschungs- und Innovationsprogramm Horizon 2020 der Europäischen Union im Rahmen der Finanzhilfevereinbarung Nr. 731117 erhalten.
+Mehr Informationen finden sich in der [FFG Projektdatenbank](https://projekte.ffg.at/projekt/4448096).
