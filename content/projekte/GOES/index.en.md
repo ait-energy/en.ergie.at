@@ -1,8 +1,7 @@
 ---
 title: "Template Project"
 topics: ["Geothermal energy", " Optimal energy system", "Carbon-neutral city"]
-authors: [p.losieva]
-draft: true
+authors: [plosieva]
 ---
 
 The project addresses key challenges in the transformation of the energy system in the context of decarbonization, digitalization, and increasing system complexity. The focus is on the development of a standardized <abbr title="platform-based design">PBD</abbr> approach, which enables the efficient integration of renewable energy sources - particularly geothermal energy - across different system levels.
