@@ -17,9 +17,9 @@ Durch die Integration technischer, wirtschaftlicher und prozessbezogener Aspekte
 | **Kurzform** | <mark>DigIPlat</mark> |
 | **Titel** | Digitale Lösungen für die Interoperabilität von Flexibilitätsplattformen |
 | **Laufzeit** | 01.05.2022 -- 31.08.2025 |
-| **Partner** | 7 ([alle anzeigen]({{< ref "#projektpartner" >}})) |
-| **Projektform** | Forschungs- und Innovationsprojekt  |
-| **Projektleitung AIT** | [Zobernig Viktor](Viktor.Zobernig@ait.ac.at)
+| **Partner:innen** | 7 ([alle anzeigen]({{< ref "#projektpartnerinnen" >}})) |
+| **Projektform** | Kofinanziertes Forschungsprojekt  |
+| **Projektleitung AIT** | [Zobernig Viktor](mailto:Viktor.Zobernig@ait.ac.at) |
 
 ## Überblick
 
@@ -81,7 +81,7 @@ Durch die Entwicklung und Validierung interoperabler Lösungen leistet das Proje
 - [D5.4 Relevanz von Intraday-Märkten für Flexibilität Bewertung](deliverables/D5.4.pdf) 
 - [D5.5 Bewertung und Effizienz von Flexibilitätsplattformen](deliverables/D5.5.pdf) 
 
-### Dokumente  
+### Veröffentlichungen  
 
 {{< keyword >}}Journal{{< /keyword >}} [Dynamische Modellierung und Steuerung zur Bewertung der großflächigen Wind- und Solareinbindung in Energiesystemen](https://doi.org/10.1049/iet-rpg.2020.0458?urlappend=%3Futm_source%3Dresearchgate.net%26utm_medium%3Darticle)
 
@@ -92,8 +92,6 @@ Durch die Entwicklung und Validierung interoperabler Lösungen leistet das Proje
 {{< keyword >}}Journal{{< /keyword >}} [Effiziente Operationalisierung der Flexibilitätsbeschaffung: Marktdesignanalyse und Prozessdefinition](https://doi.org/10.3390/en17122876)
 
 {{< keyword >}}Journal{{< /keyword >}} [Offene, datengetriebene Automatisierung der Wohnverteilungsnetzmodellierung mit minimalen Datenanforderungen](https://doi.org/10.3390/en17122876)
-
-
 
 {{< keyword >}}Publikation{{< /keyword >}} [Offene, datengetriebene Automatisierung der Wohnverteilungsnetzmodellierung mit minimalen Datenanforderungen](https://doi.org/10.48550/arXiv.2312.06552)  
 
@@ -111,13 +109,9 @@ Durch die Entwicklung und Validierung interoperabler Lösungen leistet das Proje
 
 {{< keyword >}}Publikation{{< /keyword >}} [TSO-DSO Interaction: Privacy-Preserving Optimal Power Flow with Distributed Generators Using a Machine Learning-Based Approach](https://doi.org/10.1109/APPEEC57400.2023.10562006)
 
-
-
 {{< keyword >}}Konferenz{{< /keyword >}} [TSO-DSO-Interaktion: Datenschutzwahrender optimaler Stromfluss mit verteilten Generatoren unter Verwendung eines maschinellen Lernansatzes](https://doi.org/10.1109/APPEEC57400.2023.10562006)
 
 {{< keyword >}}Konferenz{{< /keyword >}} [Technische Lösungen und Geschäftsaussichten für die Beteiligung kleiner PV-Systeme am Markt für Balancenenergie](https://doi.org/10.1109/EEM54602.2022.9921005)
-
-
 
 {{< keyword >}}Bericht{{< /keyword >}} ["Einsatz von kleinen PV-Anlagen zur Erbringung von Regelleistung"](https://www.energiewirtschaft.org/wp-content/uploads/2021/11/Artikel_et_11_2021_S_61_64.pdf#:~:text=PV-Anlagen%20bergen%20grunds%C3%A4tzlich%20ein%20sehr%20hohes%20Potenzial%20zur,eine%20attraktive%20Option%20zur%20Erhaltung%20der%20Systemstabilit%C3%A4t%20dar)
 
@@ -127,9 +121,9 @@ Das folgende Tool ermöglicht es, die im Projekt entwickelten Ansätze interakti
 
 - [DigIPlat Tool](https://transnetbw.digiplat.ait.ac.at/)
 
-### Projektpartner
+### Projektpartner:innen
 
-- [AIT Austrian Institute of Technology GmbH](https://www.ait.ac.at/ueber-das-ait/center/center-for-energy) (Projektkoordinator)
+- [AIT Austrian Institute of Technology GmbH](https://www.ait.ac.at/ueber-das-ait/center/center-for-energy) (Projektkoordination)
 - [Österreichische Stromnetz AG](https://www.apg.at/)
 - [Technische Hochschule Ulm](https://www.thu.de/de/Seiten/THU.aspx)
 - [University of St.Gallen](https://www.unisg.ch/en/)
