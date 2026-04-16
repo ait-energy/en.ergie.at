@@ -65,7 +65,7 @@ Dieses Arbeitspaket umfasst die Durchführung von Öffentlichkeitsarbeit sowie d
 
 - [D2.1 Organisationsmodelle für den netzdienlichen Einsatz von Elektrolyse](assets/SEHub_D2_Organisationsmodelle-RegulatorischerRahmen_v100.pdf)
 - [D3 Simulation von Fallstudien und wirtschaftliche Bewertung von Elektrolyse im Verteilnetz](assets/SETHub_D3_Fallstudien_v100.pdf)
-- [D4 Grid-supportive electrolysis in distribution grids: techno-economic and regulatory analysis for Austria](assets/SETHub_D4_ElectrolysisInDistributionGrids.pdf)
+- [D4 Grid-supportive electrolysis in distribution grids: techno-economic and regulatory analysis for Austria (dts.: Netzdienliche Elektrolyse in Verteilnetzen: techno-ökonomische und regulatorische Analyse für Österreich)](assets/SETHub_D4_ElectrolysisInDistributionGrids.pdf)
 
 ### Veröffentlichungen
 

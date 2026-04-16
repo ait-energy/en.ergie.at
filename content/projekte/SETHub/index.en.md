@@ -64,8 +64,8 @@ This work package includes public outreach activities and the preparation of sci
 
 ### Deliverables
 
-- [D2.1 Organisationsmodelle für den netzdienlichen Einsatz von Elektrolyse](/projekte/SETHub/assets/SEHub_D2_Organisationsmodelle-RegulatorischerRahmen_v100.pdf)
-- [D3 Simulation von Fallstudien und wirtschaftliche Bewertung von Elektrolyse im Verteilnetz](/projekte/SETHub/assets/SETHub_D3_Fallstudien_v100.pdf)
+- [D2.1 Organisationsmodelle für den netzdienlichen Einsatz von Elektrolyse (engl.: Organizational models for grid-supportive operation of electrolysis)](/projekte/SETHub/assets/SEHub_D2_Organisationsmodelle-RegulatorischerRahmen_v100.pdf)
+- [D3 Simulation von Fallstudien und wirtschaftliche Bewertung von Elektrolyse im Verteilnetz (engl.: Simulation of case studies and economic evaluation of electrolysis in distribution grids)](/projekte/SETHub/assets/SETHub_D3_Fallstudien_v100.pdf)
 - [D4 Grid-supportive electrolysis in distribution grids: techno-economic and regulatory analysis for Austria](/projekte/SETHub/assets/SETHub_D4_ElectrolysisInDistributionGrids.pdf)
 
 ### Publications
