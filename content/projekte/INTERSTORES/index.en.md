@@ -19,8 +19,8 @@ The overall objective of _INTERSTORES_ is to demonstrate and implement two innov
 | **Duration** | 01.01.2024 -- 31.12.2027 |
 | **Partners** | 14 ([show all]({{< ref "#project-partners" >}})) |
 | **Project type** | Co-funded research project |
-| **Consortium lead** | [Peter Bayer](peter.bayer@geo.uni-halle.de) [MLU](https://www.uni-halle.de/) |
-| **Project lead AIT** | [Abdulrahman Dahash](abdulrahman.dahash(at)ait.ac.at) & [Viktoria Illyés](viktoria.illyes@ait.ac.at) |
+| **Consortium lead** | [Peter Bayer](mailto:peter.bayer@geo.uni-halle.de) [MLU](https://www.uni-halle.de/) |
+| **Project lead AIT** | [Abdulrahman Dahash](mailto:abdulrahman.dahash(at)ait.ac.at) & [Viktoria Illyés](mailto:viktoria.illyes@ait.ac.at) |
 
 ## Overview
 

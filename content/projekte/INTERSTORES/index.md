@@ -19,8 +19,8 @@ Das übergeordnete Ziel von _INTERSTORES_ ist die Demonstration und Umsetzung zw
 | **Laufzeit** | 01.01.2024 -- 31.12.2027 |
 | **Partner:innen** | 14  ([alle anzeigen]({{< ref "#projektpartnerinnen" >}})) |
 | **Projektform** | Kofinanziertes Forschungsprojekt  |
-| **Konsortialführung** | [Peter Bayer](peter.bayer@geo.uni-halle.de) [MLU](https://www.uni-halle.de/) |
-| **Projektleitung AIT** | [Abdulrahman Dahash](abdulrahman.dahash(at)ait.ac.at) & [Viktoria Illyés](viktoria.illyes@ait.ac.at) |
+| **Konsortialführung** | [Peter Bayer](mailto:peter.bayer@geo.uni-halle.de) [MLU](https://www.uni-halle.de/) |
+| **Projektleitung AIT** | [Abdulrahman Dahash](mailto:abdulrahman.dahash(at)ait.ac.at) & [Viktoria Illyés](mailto:viktoria.illyes@ait.ac.at) |
 
 ## Überblick
 
