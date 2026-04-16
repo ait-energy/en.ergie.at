@@ -27,8 +27,8 @@ Im Rahmen des Projekts werden zwei zentrale Ziele verfolgt: Erstens die Entwickl
 
 ## Erkenntnisse
 
-### Transparente Plattform erhöht Zugänglichkeit
-Durch die Entwicklung einer öffentlich zugänglichen Plattform werden Prognosen transparent bereitgestellt, wodurch ihre Nutzung für verschiedene Akteur:innen im Energiesystem erleichtert wird.
+### Generative AI ermöglicht präzisere Prognosen
+Der Einsatz generativer AI erlaubt die Erstellung probabilistischer Live-Prognosen für zentrale energiesystemrelevante Größen wie Strompreise und CO2-Intensitäten und verbessert damit die Entscheidungsgrundlage im Energiesystem.
 
 ### Daten und Modellierung sind zentrale Grundlage
 Datensammlung, -aufbereitung sowie die Entwicklung von AI-basierten Prognosealgorithmen bilden die Basis für die Erstellung zuverlässiger Vorhersagen und deren Anwendung.

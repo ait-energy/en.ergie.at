@@ -27,8 +27,8 @@ Within the project, two main objectives are pursued: first, the development of a
 
 ## Findings
 
-### Transparent platform increases accessibility
-By developing a publicly accessible platform, forecasts are provided in a transparent manner, facilitating their use by various stakeholders in the energy system.
+### Generative AI enables more accurate forecasts
+The use of generative AI allows for the creation of probabilistic live forecasts for key energy system variables such as electricity prices and CO₂ intensities, thereby improving the decision-making basis within the energy system.
 
 ### Data and modelling form the core foundation
 Data collection, processing, and the development of AI-based forecasting algorithms form the basis for generating reliable predictions and their application.
