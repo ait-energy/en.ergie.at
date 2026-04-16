@@ -1,0 +1,79 @@
+---
+title: "INNOnet"
+topics: ["Grid tariffs", "Flexibility", "Prosumers", "Storage", "Smart meters"]
+authors: [plosieva]
+---
+
+Load-dependent grid tariffs are considered an essential contribution to achieving energy policy goals. The project anticipates this development, tests load-dependent grid tariffs to determine activatable flexibility potentials of household customers under real operating conditions, investigates aspects of the practical implementation of these future tariff structures by grid operators, and supports the development of a common position of the Austrian grid industry for a feasible and efficient design of future grid tariff structures in Austria.
+
+<!--more-->
+
+## Factsheet
+
+|   |   |
+|---|---|
+| **Short name** | <mark>INNOne</mark> |
+| **Title** | Interaktive Netzoptimierung und Netztarife |
+| **Duration** | 01.03.2023 -- 31.10.2026 |
+| **Partners** | 10 ([show all]({{< ref "#project-partners" >}})) |
+| **Project type** | Co-funded research project  |
+| **Project lead AIT** | [Carolin Monsberger](mailto:Carolin.Monsberger@ait.ac.at) |
+
+## Overview
+
+_INNOnet_ tests load-dependent grid tariffs to determine activatable flexibility potentials of household customers under real operating conditions, while anticipating developments in generation and loads (PV, electric vehicles, heat pumps) through grid simulations. In addition, _INNOnet_ investigates aspects of the practical implementation of these future tariff structures by grid operators and supports the development of a common position of the Austrian grid industry for a feasible and efficient design of future grid tariff structures in Austria.
+
+## Findings
+
+### Dynamic grid tariffs influence consumption behavior
+
+Time-variable price signals can actively steer household consumption behavior and help reduce peak loads in the grid.
+
+### Flexibility potentials can be identified under real conditions
+
+By analyzing real-world data and test environments, activatable flexibilities in electricity consumption can be identified and utilized.
+
+### Grid simulations support the development of future tariffs
+
+Simulations enable the evaluation of different scenarios and support the development of suitable tariff models for future energy systems.
+
+## Activities
+
+### WP1: Project Management
+<u>Lead: AIT</u>
+
+This work package includes the coordination of the entire project as well as alignment between project partners. It covers the organization of meetings, progress monitoring, and ensuring compliance with timelines and budgets.
+
+## Further information
+
+<!-- ### Deliverables
+- [D2.1 ](#)
+- [D2.2 ](#) -->
+
+### Publications
+
+{{< keyword >}}Video{{< /keyword >}} [Warum wird die Energiewende im "Sandkasten" erprobt?](https://www.youtube.com/watch?reload=9&v=hbGwq_AQ19E), presentation at the Mission Innovation Austria Week 2025, 09.10.2025
+
+{{< keyword >}}Presentation{{< /keyword >}} [Mit lastabhängigen Netztarifen die energiepolitischen Ziele Österreichs erreichen?](https://www.ait.ac.at/fileadmin/mc/energy/downloads/IES/Projekte/INNOnet_Fachtagung-Netzanschluss.pdf), presentation at the Grid Connection Conference of Bern University of Applied Sciences, 03.06.2025
+
+{{< keyword >}}Presentation{{< /keyword >}} [Neue Netztarife: Was sagt die Wissenschaft?](https://www.ait.ac.at/fileadmin/mc/energy/downloads/IES/Projekte/INNOnet_PV-Kongress.pdf), presentation at the PV Austria Congress, 17.03.2025
+
+{{< keyword >}}Presentation{{< /keyword >}} [Reduzierung des Netzausbaubedarfs durch variable Stromnetztarife in Haushalten](https://www.ait.ac.at/fileadmin/mc/energy/downloads/IES/Projekte/INNOnet_Symposium_Energieinnovation.pdf), presentation at the 18th Symposium on Energy Innovation, 14–16.02.2024
+
+### Project partners
+
+- [AIT Austrian Institute of Technology GmbH](https://www.ait.ac.at/ueber-das-ait/center/center-for-energy) (Project coordination)
+- [HAKOM Time Series GmbH](https://www.hakom.at/)
+- [Energy Institute at Johannes Kepler University Linz](https://energieinstitut-linz.at/)
+- [FH Upper Austria Research & Development GmbH](https://fh-ooe.at/forschung/ueber-die-forschung-entwicklung)
+- [Siemens AG Austria](https://www.siemens.com/de-de/)
+- [Netz Oberösterreich GmbH](https://www.netzooe.at/)
+- [Energienetze Steiermark GmbH](https://www.e-netze.at/)
+- [LINZ NETZ GmbH](https://www.linznetz.at/portal/de/home#)
+- [tounify GmbH](https://www.tounify.io/)
+- [clever-PV GmbH](https://clever-pv.com/de/)
+
+### Funding
+
+This project is funded under the 2nd call “Energy.Frei.Raum” of the FFG under project number FO999894848.
+More information can be found in the [FFG project database](https://projekte.ffg.at/projekt/4478292)
