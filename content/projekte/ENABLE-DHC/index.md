@@ -67,7 +67,7 @@ Die im Projekt entwickelten Lösungen werden in mehreren Fallstudien getestet un
 
 ### Projektpartner:innen
 
-- [Ambiente Italia srl](https://www.ambienteitalia.it/) (Project coordination)
+- [Ambiente Italia srl](https://www.ambienteitalia.it/) (Projektkoordination)
 - [AIT Austrian Institute of Technology GmbH](https://www.ait.ac.at/)
 - [AEE – Institut für Nachhaltige Technologien](https://www.aee-intec.at/)
 - [AGFW-PROJEKTGESELLSCHAFT FÜR RATIONALISIERUNG, INFORMATION UND STANDARDISIERUNG MBH](https://www.agfw.de/)
