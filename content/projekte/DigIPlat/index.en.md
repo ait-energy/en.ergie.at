@@ -135,7 +135,7 @@ The following tool enables interactive exploration and application of the approa
 - [TransnetBW](https://www.transnetbw.de/de)
 - [Fichtner](https://www.fichtner.de/)
 
-### Funding
+<!-- ### Funding
 
 This project has received funding in the framework of the joint programming initiative ERA-Net Smart Energy Systems’ focus initiative Digital Transformation for the Energy Transition, with support from the European Union’s Horizon 2020 research and innovation programme under grant agreement No 883973.
-More information can be found in the [FFG project database](https://projekte.ffg.at/projekt/4199872)
+More information can be found in the [FFG project database](https://projekte.ffg.at/projekt/4199872) -->

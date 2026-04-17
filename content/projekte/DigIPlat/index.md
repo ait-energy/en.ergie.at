@@ -136,7 +136,7 @@ Das folgende Tool ermöglicht es, die im Projekt entwickelten Ansätze interakti
 - [TRANSNET BW](https://www.transnetbw.de/de)
 - [Fichtner](https://www.fichtner.de/)
 
-### Förderhinweis
+<!-- ### Förderhinweis
 
 Dieses Projekt wurde im Rahmen der gemeinsamen Programminitiativ ERA-Net Smart Energy Systems mit Schwerpunktinitiative Digital Transformation for the Energy Transition finanziert, unterstützt vom Forschungs- und Innovationsprogramm Horizon 2020 der Europäischen Union im Rahmen der Fördervereinbarung Nr. 883973.
-Mehr Informationen finden sich in der [FFG Projektdatenbank](https://projekte.ffg.at/projekt/4199872).
+Mehr Informationen finden sich in der [FFG Projektdatenbank](https://projekte.ffg.at/projekt/4199872). -->
