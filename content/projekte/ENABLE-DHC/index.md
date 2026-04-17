@@ -3,7 +3,7 @@ title: "ENABLE-DHC"
 topics: ["Dekarbonisierung", "Fernwärme", "Investitionsplanung"]
 authors: [plosieva]
 ---
-ENABLE-DHC ist ein EU-gefördertes Projekt im Rahmen des LIFE-Programms, das die Transformation von Fernwärme- und Fernkältesystemen in Richtung Klimaneutralität unterstützt. Im Fokus steht die Entwicklung konkreter Investitionsstrategien und praxisnaher Lösungen zur Dekarbonisierung bestehender Systeme in mehreren europäischen Ländern.
+_ENABLE-DHC_ ist ein EU-gefördertes Projekt im Rahmen des LIFE-Programms, das die Transformation von Fernwärme- und Fernkältesystemen in Richtung Klimaneutralität unterstützt. Im Fokus steht die Entwicklung konkreter Investitionsstrategien und praxisnaher Lösungen zur Dekarbonisierung bestehender Systeme in mehreren europäischen Ländern.
 
 <!--more-->
 
@@ -12,17 +12,17 @@ ENABLE-DHC ist ein EU-gefördertes Projekt im Rahmen des LIFE-Programms, das die
 |   |   |
 |---|---|
 | **Kurzform** | <mark>ENABLE-DHC</mark> |
-| **Titel** | Ermöglichung von Strategien und Investitionsplänen für effiziente, multienergetische und digitalisierte DHC |
+| **Titel** | Enabling strategies and investment plans for efficient, multi-energy and digitalized DHC |
 | **Laufzeit** | 09.01.2024 -- 31.08.2027 |
-| **Partner** | 12 ([alle anzeigen]({{< ref "#projektpartner" >}})) |
+| **Partner:innen** | 12 ([alle anzeigen]({{< ref "#projektpartnerinnen" >}})) |
 | **Projektform** | Kofinanziertes Forschungsprojekt |
-| **Konsortialführung** | [Riccardo BATTISTI](riccardo.battisti@ambienteitalia.it) (Ambiente Italia srl) |
-| **Projektleitung AIT** | [Iná Maia-Novak](ina.maia-novak(at)ait.ac.at) |
+| **Konsortialführung** | [Riccardo BATTISTI](mailto:riccardo.battisti@ambienteitalia.it) [(Ambiente Italia srl)](https://www.ambienteitalia.it/) |
+| **Projektleitung AIT** | [Iná Maia-Novak](maito:ina.maia-novak(at)ait.ac.at) |
 
 
 ## Überblick
 
-Das Projekt ENABLE-DHC zielt darauf ab, die Dekarbonisierung von Fernwärme- und Fernkältesystemen in Europa zu unterstützen. Im Rahmen des EU-Programms LIFE werden in mehreren Ländern Investitionspläne für bestehende DHC-Systeme entwickelt, um deren Effizienz zu steigern und den Einsatz erneuerbarer Energien sowie Abwärme zu fördern.
+Das Projekt _ENABLE-DHC_ zielt darauf ab, die Dekarbonisierung von Fernwärme- und Fernkältesystemen in Europa zu unterstützen. Im Rahmen des EU-Programms LIFE werden in mehreren Ländern Investitionspläne für bestehende DHC-Systeme entwickelt, um deren Effizienz zu steigern und den Einsatz erneuerbarer Energien sowie Abwärme zu fördern.
 
 Ein besonderer Fokus liegt auf der Entwicklung praxisnaher Strategien und Geschäftsmodelle, die Betreiber bei der Transformation ihrer Energiesysteme unterstützen. Durch Fallstudien in verschiedenen europäischen Regionen sowie die enge Zusammenarbeit mit lokalen Akteuren werden konkrete Lösungen für technische, wirtschaftliche und regulatorische Herausforderungen erarbeitet.
 
@@ -53,7 +53,7 @@ Die im Projekt entwickelten Lösungen werden in mehreren Fallstudien getestet un
 
 - [D]() -->
 
-### Dokumente
+### Veröffentlichungen
 
 {{< keyword >}}Artickel{{< /keyword >}} [Decarbonizzare una vecchia e fitta rete di teleriscaldamento](assets/Publikation_1.pdf),by Riccardo Battisti, 01.09.2025
 
@@ -61,9 +61,9 @@ Die im Projekt entwickelten Lösungen werden in mehreren Fallstudien getestet un
 
 {{< keyword >}}Banner{{< /keyword >}} [ENABLE DHC-Projektbanner](assets/Publikation_2.pdf) 
 
-### Projektpartner
+### Projektpartner:innen
 
-- [Ambiente Italia srl](https://www.ambienteitalia.it/) (Projektkoordinator)
+- [Ambiente Italia srl](https://www.ambienteitalia.it/) (Projektkoordination)
 - [AIT Österreichisches Institut für Technologie GmbH](https://www.ait.ac.at/)
 - [AEE – Institut für Nachhaltige Technologien](https://www.aee-intec.at/)
 - [AGFW-PROJEKTGESELLSCHAFT FÜR RATIONALISIERUNG, INFORMATION UND STANDARDISIERUNG MBH](https://www.agfw.de/)
