@@ -52,9 +52,13 @@ The solutions developed within the project are tested and validated in several c
 
 ### Publications
 
-{{< keyword >}}Article{{< /keyword >}} [Decarbonizzare una vecchia e fitta rete di teleriscaldamento](/projekte/ENABLE-DHC/assets/Publikation_1.pdf),by Riccardo Battisti, 01.09.2025
+{{< keyword >}}Article{{< /keyword >}} [Decarbonizzare una vecchia e fitta rete di teleriscaldamento](/projekte/ENABLE-DHC/assets/Publikation_1.pdf), by Riccardo Battisti, 01.09.2025
 
-{{< keyword >}}Article{{< /keyword >}} [Calore di scarto ed elettrificazione per teleriscaldamento](/projekte/ENABLE-DHC/assets/Publikation_3.pdf),by Riccardo Battisti, 01.08.2025
+{{< keyword >}}Article{{< /keyword >}} [Calore di scarto ed elettrificazione per teleriscaldamento](/projekte/ENABLE-DHC/assets/Publikation_3.pdf), by Riccardo Battisti, 01.08.2025
+
+{{< keyword >}}Article{{< /keyword >}} [Piani di investimento per un teleriscaldamento efficiente](/projekte/ENABLE-DHC/assets/Publikation_5.pdf), by Riccardo Battisti, 03.12.2024
+
+{{< keyword >}}Article{{< /keyword >}} [Il teleriscaldamento di Acqui Terme cerca di decarbonizzarsi](/projekte/ENABLE-DHC/assets/Publikation_4.pdf), by Riccardo Battisti, 02.07.2025
 
 {{< keyword >}}Banner{{< /keyword >}} [ENABLE DHC-Project banner](/projekte/ENABLE-DHC/assets/Publikation_2.pdf) 
 
