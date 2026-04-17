@@ -165,5 +165,6 @@ Wissenschaftliche und nicht-wissenschaftliche Dissemination, Kommunikation der P
 
 ### Förderhinweis
 
-Dieses Projekt wird durch das Bundesministerium für Klimaschutz, Umwelt, Energie, Mobilität, Innovation und Technologie (BMK) im Rahmen des Programms "100%-Erneuerbare-Energie-Reallabore" gefördert. Die Abwicklung erfolgt im Auftrag des BMK durch die Österreichische Forschungsförderungsgesellschaft (FFG).
+Dieses Projekt wird aus Mitteln des fördergebenden Bundesministeriums für Innovation, Mobilität und Infrastruktur und der FFG gefördert. 
+Die FFG ist die zentrale nationale Förderorganisation und stärkt Österreichs Innovationskraft.  
 Mehr Informationen finden sich in der [FFG Projektdatenbank](https://projekte.ffg.at/projekt/4849884).

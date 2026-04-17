@@ -165,5 +165,6 @@ Scientific and non-scientific dissemination, communication of project results, a
 
 ### Funding
 
-This project is funded by the Federal Ministry for Climate Change, Environment, Energy, Mobility, Innovation and Technology (BMK) as part of the "100% Renewable Energy Laboratories" program. Implementation is carried out on behalf by the Austrian Research Promotion Agency (FFG).
+his project is funded by the granting organisation Federal Ministry of Innovation, Mobility and Infrastructure and the FFG. 
+The FFG is the central national funding agency and strengthens Austria’s innovative capacity. 
 More information can be found in the [FFG project database](https://projekte.ffg.at/projekt/4849884)
