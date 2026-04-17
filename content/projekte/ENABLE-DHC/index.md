@@ -63,18 +63,19 @@ Die im Projekt entwickelten Lösungen werden in mehreren Fallstudien getestet un
 
 ### Projektpartner:innen
 
-- [Ambiente Italia srl](https://www.ambienteitalia.it/) (Projektkoordination)
-- [AIT Österreichisches Institut für Technologie GmbH](https://www.ait.ac.at/)
+- [Ambiente Italia srl](https://www.ambienteitalia.it/) (Project coordination)
+- [AIT Austrian Institute of Technology GmbH](https://www.ait.ac.at/)
 - [AEE – Institut für Nachhaltige Technologien](https://www.aee-intec.at/)
 - [AGFW-PROJEKTGESELLSCHAFT FÜR RATIONALISIERUNG, INFORMATION UND STANDARDISIERUNG MBH](https://www.agfw.de/)
 - [ENERGO D.O.O. ZA PROIZVODNJU I DISTRIBUCIJU TOPLINSKE ENERGIJE I PLINA](https://energo.hr/)
 - [ENVIRODUAL, trajnostno okoljsko in energetsko upravljanje, raziskave in izobraževanje, d.o.o.](https://www.envirodual.com/)
 - [Euroheat & Power](https://www.euroheat.org/)
-- [Irischer Bezirksenergieverband CLG](https://districtenergy.ie/)
+- [Irish District Energy Association CLG](https://districtenergy.ie/)
 - [City Institut](https://city-institute.org/en)
 - [OPTIT srl](https://optit.net/)
-- [Stadtverwaltung Riga "Energiebehörde Riga"](https://rea.riga.lv/)
-- [WIRTSCHAFT UND INFRASTRUKTUR GMBH & CO PLANUNGS KG ](https://www.wip-munich.de/welcome/home/)
+- [Rīgas enerģētikas aģentūra](https://rea.riga.lv/)
+- [WIRTSCHAFT UND INFRASTRUKTUR GMBH & CO PLANUNGS KG](https://www.wip-munich.de/welcome/home/)
+
 
 <!-- 
 ### Förderhinweis
