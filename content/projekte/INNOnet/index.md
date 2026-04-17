@@ -37,7 +37,7 @@ Durch die Analyse realer Daten und Testumgebungen können aktivierbare Flexibili
 
 Simulationen ermöglichen die Bewertung verschiedener Szenarien und helfen, geeignete Tarifmodelle für zukünftige Energiesysteme zu entwickeln.
 
-<!-- ## Tätigkeiten  -->
+## Tätigkeiten
 
 ### AP1: Projektmanagement
 <u>Lead: AIT</u>
