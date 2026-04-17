@@ -76,6 +76,7 @@ Die im Projekt entwickelten Lösungen werden in mehreren Fallstudien getestet un
 - [Stadtverwaltung Riga "Energiebehörde Riga"](https://rea.riga.lv/)
 - [WIRTSCHAFT UND INFRASTRUKTUR GMBH & CO PLANUNGS KG ](https://www.wip-munich.de/welcome/home/)
 
+<!-- 
 ### Förderhinweis
 
-Gefördert von der Europäischen Union. Die geäußerten Ansichten und Meinungen sind jedoch ausschließlich die der Autor(en) und spiegeln nicht notwendigerweise die der Europäischen Union oder CINEA wider. Weder die Europäische Union noch CINEA können dafür verantwortlich gemacht werden
+Gefördert von der Europäischen Union. Die geäußerten Ansichten und Meinungen sind jedoch ausschließlich die der Autor(en) und spiegeln nicht notwendigerweise die der Europäischen Union oder CINEA wider. Weder die Europäische Union noch CINEA können dafür verantwortlich gemacht werden -->
