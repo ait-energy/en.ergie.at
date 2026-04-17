@@ -66,5 +66,8 @@ Workshops und Stakeholder-Beteiligung tragen wesentlich dazu bei, die Akzeptanz 
 
 ### Förderhinweis
 
-Gefördert im Rahmen von:
-[TIKS - Technologien und Innovationen für die klimaneutrale Stadt](https://klimaneutralestadt.at/de/initiativen/tiks-technologien-innovationen-klimaneutrale-stadt.php) (3. Ausschreibung, 2024)
+Dieses Projekt wird aus Mitteln des fördergebenden Bundesministeriums für Innovation, Mobilität und Infrastruktur, 
+dem Klima- und Energiefonds und der FFG gefördert. 
+Die FFG ist die zentrale nationale Förderorganisation und stärkt Österreichs Innovationskraft.  
+Zusätzlich in Publikationen: „Die Ausschreibung „Technologien und Innovationen für die klimaneutrale Stadt“ ist Teil des FTI-Schwerpunkts „Klimaneutrale Stadt“ des Bundesministeriums für Innovation, Mobilität und Infrastruktur (BMIMI) und des Klima- und Energiefonds (KLIEN). Die Abwicklung erfolgt im Auftrag des BMIMI und KLIEN durch die Österreichische Forschungsförderungsgesellschaft (FFG) gemeinsam mit der Austria Wirtschaftsservice Gesellschaft mbH (AWS).“ 
+Mehr Informationen finden sich in der [FFG Projektdatenbank](https://projekte.ffg.at/projekt/5134461).
