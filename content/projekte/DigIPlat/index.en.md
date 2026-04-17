@@ -118,13 +118,6 @@ Analysis of economic impacts and incentive structures for flexibility providers,
 
 {{< keyword >}}Report{{< /keyword >}} ["Einsatz von kleinen PV-Anlagen zur Erbringung von Regelleistung"](https://www.energiewirtschaft.org/wp-content/uploads/2021/11/Artikel_et_11_2021_S_61_64.pdf#:~:text=PV-Anlagen%20bergen%20grunds%C3%A4tzlich%20ein%20sehr%20hohes%20Potenzial%20zur,eine%20attraktive%20Option%20zur%20Erhaltung%20der%20Systemstabilit%C3%A4t%20dar)
 
-### Tools
-
-The following tool enables interactive exploration and application of the approaches developed in the project:
-
-- [DigIPlat Tool](https://transnetbw.digiplat.ait.ac.at/)
-
-
 ### Project partners
 
 - [AIT Austrian Institute of Technology GmbH](https://www.ait.ac.at/ueber-das-ait/center/center-for-energy) (Project coordination)

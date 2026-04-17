@@ -120,11 +120,6 @@ Analyse der wirtschaftlichen Auswirkungen und Anreizstrukturen für Flexibilitä
 
 {{< keyword >}}Bericht{{< /keyword >}} ["Einsatz von kleinen PV-Anlagen zur Erbringung von Regelleistung"](https://www.energiewirtschaft.org/wp-content/uploads/2021/11/Artikel_et_11_2021_S_61_64.pdf#:~:text=PV-Anlagen%20bergen%20grunds%C3%A4tzlich%20ein%20sehr%20hohes%20Potenzial%20zur,eine%20attraktive%20Option%20zur%20Erhaltung%20der%20Systemstabilit%C3%A4t%20dar)
 
-### Tools
-
-Das folgende Tool ermöglicht es, die im Projekt entwickelten Ansätze interaktiv zu erkunden und anzuwenden:
-
-- [DigIPlat Tool](https://transnetbw.digiplat.ait.ac.at/)
 
 ### Projektpartner:innen
 
