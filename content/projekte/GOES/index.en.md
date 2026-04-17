@@ -111,7 +111,7 @@ Management includes the coordination and monitoring of all project activities. T
 - [Energy Machines](https://www.energymachines.com/)
 - [Sympheny](https://www.sympheny.com/#1)
 
-### Funding
+<!-- ### Funding
 
 The project is co-funded not only by the national funding agencies of Austria, Denmark, Germany, the USA, and Switzerland, but also by GEOTHERMICA – ERA-NET SES. This project has received funding from the European Union’s Horizon 2020 research and innovation programme under grant agreement No 731117.
-More information can be found in the [FFG project database](https://projekte.ffg.at/projekt/4448096)
+More information can be found in the [FFG project database](https://projekte.ffg.at/projekt/4448096) -->

@@ -116,7 +116,7 @@ Das Management umfasst die Koordination und Überwachung aller Projektaktivität
 - [Energy Machines](https://www.energymachines.com/)
 - [Sympheny](https://www.sympheny.com/#1)
 
-### Förderhinweis
+<!-- ### Förderhinweis
 
 Das Projekt wird neben den nationalen Förderagenturen Österreichs, Dänemarks, Deutschlands, der USA und der Schweiz auch von GEOTHERMICA - ERA-NET SES kofinanziert. Dieses  Projekt hat Fördermittel aus dem Forschungs- und Innovationsprogramm Horizon 2020 der Europäischen Union im Rahmen der Finanzhilfevereinbarung Nr. 731117 erhalten.
-Mehr Informationen finden sich in der [FFG Projektdatenbank](https://projekte.ffg.at/projekt/4448096).
+Mehr Informationen finden sich in der [FFG Projektdatenbank](https://projekte.ffg.at/projekt/4448096). -->
