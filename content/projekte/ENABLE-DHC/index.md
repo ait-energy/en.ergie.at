@@ -17,7 +17,7 @@ _ENABLE-DHC_ ist ein EU-gefördertes Projekt im Rahmen des LIFE-Programms, das d
 | **Partner:innen** | 12 ([alle anzeigen]({{< ref "#projektpartnerinnen" >}})) |
 | **Projektform** | Kofinanziertes Forschungsprojekt |
 | **Konsortialführung** | [Riccardo BATTISTI](mailto:riccardo.battisti@ambienteitalia.it) [(Ambiente Italia srl)](https://www.ambienteitalia.it/) |
-| **Projektleitung AIT** | [Iná Maia-Novak](maito:ina.maia-novak(at)ait.ac.at) |
+| **Projektleitung AIT** | [Iná Maia-Novak](mailto:ina.maia-novak(at)ait.ac.at) |
 
 
 ## Überblick
