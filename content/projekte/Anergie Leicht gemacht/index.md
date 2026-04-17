@@ -3,7 +3,10 @@ title: "Anergie leicht gemacht"
 topics: ["Anergienetze", "Quartier", "Dekarbonisierung", "Umsetzungsmodelle", "Geschäftsmodell"]
 authors: [plosieva]
 ---
+
 Österreich verfolgt das Ziel, bis 2040 klimaneutral zu werden, wobei der Gebäudesektor aufgrund seines hohen Anteils am Energieverbrauch eine zentrale Rolle spielt. Besonders in Gebieten ohne Fernwärmeanschluss besteht ein Bedarf an nachhaltigen und kosteneffizienten Lösungen für die Wärmeversorgung. Das Projekt adressiert diese Herausforderung durch die Entwicklung neuer Umsetzungsmodelle für erneuerbare Energienetze.
+
+<!--more-->
 
 ## Factsheet
 
@@ -12,10 +15,10 @@ authors: [plosieva]
 | **Kurzform** | <mark>Anergie leicht gemacht</mark> |
 | **Titel** | Entwicklung von multiplizierbaren Umsetzungsmodellen für Geothermie-AnergieNetze zur Dekarbonisierung im Gebäudebestand |
 | **Laufzeit** | 01.04.2025 -- 31.03.2027 |
-| **Partner** | 6 ([alle anzeigen]({{< ref "#projektpartner" >}})) |
+| **Partner:innen** | 6 ([alle anzeigen]({{< ref "#projektpartnerinnen" >}})) |
 | **Projektform** | Kofinanziertes Forschungsprojekt |
-| **Konsortialführung** | [ Gerhard Hofer](gerhard.hofer@e-sieben.at) (e7 energy innovation & engineering) |
-| **Projektleitung AIT** | [Edith Haslinger](Edith.Haslinger@ait.ac.at) & [Viktoria Illyés](Viktoria.Illyes@ait.ac.at) |
+| **Konsortialführung** | [Gerhard Hofer](mailto:gerhard.hofer@e-sieben.at) [(e7 energy innovation & engineering)](https://www.e-sieben.at/de/) |
+| **Projektleitung AIT** | [Edith Haslinger](mailto:Edith.Haslinger@ait.ac.at) & [Viktoria Illyés](mailto:Viktoria.Illyes@ait.ac.at) |
 
 ## Überblick
 
@@ -24,15 +27,19 @@ Das Projekt entwickelt und testet skalierbare Umsetzungsmodelle für Energienetz
 ## Erkenntnisse
 
 ### Standardisierte Umsetzungsmodelle für unterschiedliche Siedlungstypen ermöglichen Skalierung
+
 Die Entwicklung multiplikationsfähiger Modelle für Energienetze zeigt, dass sowohl Bottom-up- als auch Top-down-Ansätze notwendig sind, um eine breite und flexible Anwendung in unterschiedlichen Siedlungstypen zu gewährleisten.
 
 ### Integration von technischen, organisatorischen und finanziellen Aspekten ist entscheidend
+
 Erfolgreiche Energienetzlösungen erfordern nicht nur technische Konzepte, sondern auch passende organisatorische Strukturen, Finanzierungsmodelle und rechtliche Rahmenbedingungen.
 
 ### Zusammenarbeit mit Gemeinden und Stakeholdern erhöht Umsetzbarkeit
+
 Die enge Kooperation mit Gemeinden, Energiedienstleistern und weiteren Akteuren ist zentral, um praxisnahe Lösungen zu entwickeln und die Implementierung zu erleichtern.
 
 ### Akzeptanz und Beteiligung beeinflussen den Projekterfolg
+
 Workshops und Stakeholder-Beteiligung tragen wesentlich dazu bei, die Akzeptanz in der Bevölkerung zu steigern und die Umsetzung von Energienetzen langfristig zu sichern.
 
 <!-- ## Tätigkeiten   
@@ -46,7 +53,7 @@ Workshops und Stakeholder-Beteiligung tragen wesentlich dazu bei, die Akzeptanz 
 
 - [D]() -->
 
-### Dokumente 
+### Veröffentlichungen 
 
 {{< keyword >}}Projektberichte{{< /keyword >}} [Projektberichte aus den Forschungs- und Technologieprogrammen](https://klimaneutralestadt.at/de/publikationen/projektberichte.php)  
 
@@ -55,9 +62,9 @@ Workshops und Stakeholder-Beteiligung tragen wesentlich dazu bei, die Akzeptanz 
 {{< keyword >}}Videos & Podcasts{{< /keyword >}} [Kurzfilme und Podcasts zum breiten Thema "Klimaneutrale Stadt"](https://klimaneutralestadt.at/de/publikationen/videos-podcasts.php)  
 
 
-### Projektpartner
+### Projektpartner:innen
 
-- [e7 energy innovation & engineering](https://www.e-sieben.at/de/) (Projektkoordinator)
+- [e7 energy innovation & engineering](https://www.e-sieben.at/de/) (Projektkoordination)
 - [AIT Austrian Institute of Technology GmbH](https://www.ait.ac.at/ueber-das-ait/center/center-for-energy) 
 - [AEE INTEC](https://www.aee-intec.at/)
 - [Energieagentur Tirol](https://www.energieagentur.tirol/)
