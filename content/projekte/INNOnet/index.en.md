@@ -21,7 +21,9 @@ Load-dependent grid tariffs are considered an essential contribution to achievin
 
 ## Overview
 
-_INNOnet_ tests load-dependent grid tariffs to determine activatable flexibility potentials of household customers under real operating conditions, while anticipating developments in generation and loads (PV, electric vehicles, heat pumps) through grid simulations. In addition, _INNOnet_ investigates aspects of the practical implementation of these future tariff structures by grid operators and supports the development of a common position of the Austrian grid industry for a feasible and efficient design of future grid tariff structures in Austria.
+The project _INNOnet_ investigates the effects of load-dependent grid tariffs on customer consumption behavior within a regulatory sandbox involving more than 1,000 households and develops optimized tariff structures to effectively address the challenges of the energy transition for electricity grids. The project results enable decision makers in the energy system - particularly regulators - to evaluate different options for future grid tariffs with regard to their suitability, both to mitigate future grid-related challenges and to ensure customer acceptance.
+
+By implementing load-dependent (dynamic) grid tariffs, actual grid usage can be more accurately reflected, and price-based incentives can help avoid grid-stressing generation peaks in the low-voltage network.
 
 ## Findings
 

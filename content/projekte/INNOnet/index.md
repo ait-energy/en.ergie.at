@@ -4,7 +4,7 @@ topics: ["Netztarife", "Flexibilität", "Prosumer", "Speicher", "Smart Meter"]
 authors: [plosieva]
 ---
 
-Lastabhängige Netztarife werden als essentieller Beitrag zur Erreichung energiepolitischer Ziele erachtet. Das Projekt antizipiert diese Entwicklung, testet lastabhängige Netztarife zur Bestimmung von aktivierbaren Flexibilitätspotentialen bei Haushaltskunden im Realbetrieb, unter-sucht Aspekte der praktischen Umsetzung dieser zukünftigen Tarifstrukturen durch Netzbetreiber und unterstützt die Entwicklung einer gemeinsamen Position der österreichischen Netzwirtschaft für eine umsetzbare und effiziente Ausgestaltung zukünftiger Netztarifstrukturen in Österreich.
+Lastabhängige Netztarife werden als essentieller Beitrag zur Erreichung energiepolitischer Ziele erachtet. Das Projekt antizipiert diese Entwicklung, testet lastabhängige Netztarife zur Bestimmung von aktivierbaren Flexibilitätspotentialen bei Haushaltskunden im Realbetrieb, untersucht Aspekte der praktischen Umsetzung dieser zukünftigen Tarifstrukturen durch Netzbetreiber und unterstützt die Entwicklung einer gemeinsamen Position der österreichischen Netzwirtschaft für eine umsetzbare und effiziente Ausgestaltung zukünftiger Netztarifstrukturen in Österreich.
 
 <!--more-->
 
@@ -21,7 +21,9 @@ Lastabhängige Netztarife werden als essentieller Beitrag zur Erreichung energie
 
 ## Überblick
 
-_INNOnet_ testet lastabhängige Netztarife zur Bestimmung von aktivierbaren Flexibilitätspotentialen bei Haushaltskund:innen im Realbetrieb, wobei Entwicklungen hinsichtlich Einspeisung und Lasten (PV, E-Fahrzeuge, Wärmepumpen) antizipativ in Netzsimulationen berücksichtigt werden. Zudem untersucht _INNOnet_ Aspekte der praktischen Umsetzung dieser zukünftigen Tarifstrukturen durch Netzbetreiber und unterstützt die Entwicklung einer gemeinsamen Position der österreichischen Netzwirtschaft für eine umsetzbare und effiziente Ausgestaltung zukünftiger Netztarifstrukturen in Österreich.
+Das Projekt _INNOnet_ untersucht die Effekte von lastabhängigen Netztarifen auf das Verbrauchsverhalten der Kund:innen in einer Regulatory Sandbox mit mehr als 1.000 Haushalten und entwickelt optimierte Tarifstrukturen, um den Herausforderungen der Energiewende für die Stromnetze effektiv zu begegnen. Die Resultate des Projekts ermöglichen es Entscheidungsträgern im Energiesystem, vor allem dem Regulator, unterschiedliche Optionen für zukünftige Netztarife auf ihre Tauglichkeit zu evaluieren, um sowohl die zukünftigen netztechnischen Problemstellungen zu entschärfen, als auch die Akzeptanz der Kund:innen zu gewährleisten.
+
+Durch den Einsatz der lastabhängigen (dynamischen) Netztarife soll die tatsächliche Netznutzung besser abgebildet und durch preisliche Kundenanreize netzbelastende Erzeugungsspitzen im Niederspannungsnetz vermieden werden.
 
 ## Erkenntnisse
 
