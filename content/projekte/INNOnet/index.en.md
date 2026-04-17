@@ -54,13 +54,13 @@ This work package includes the coordination of the entire project as well as ali
 
 ### Publications
 
-{{< keyword >}}Video{{< /keyword >}} [Warum wird die Energiewende im "Sandkasten" erprobt?](https://www.youtube.com/watch?reload=9&v=hbGwq_AQ19E), presentation at the Mission Innovation Austria Week 2025, 09.10.2025
+{{< keyword >}}Video{{< /keyword >}} Presentation at the Mission Innovation Austria Week 2025: [Warum wird die Energiewende im "Sandkasten" erprobt?](https://www.youtube.com/watch?reload=9&v=hbGwq_AQ19E), 09.10.2025
 
-{{< keyword >}}Presentation{{< /keyword >}} [Mit lastabhängigen Netztarifen die energiepolitischen Ziele Österreichs erreichen?](https://www.ait.ac.at/fileadmin/mc/energy/downloads/IES/Projekte/INNOnet_Fachtagung-Netzanschluss.pdf), presentation at the Grid Connection Conference of Bern University of Applied Sciences, 03.06.2025
+{{< keyword >}}Presentation{{< /keyword >}} Presentation at the Grid Connection Conference of Bern University of Applied Sciences: [Mit lastabhängigen Netztarifen die energiepolitischen Ziele Österreichs erreichen?](https://www.ait.ac.at/fileadmin/mc/energy/downloads/IES/Projekte/INNOnet_Fachtagung-Netzanschluss.pdf), 03.06.2025
 
-{{< keyword >}}Presentation{{< /keyword >}} [Neue Netztarife: Was sagt die Wissenschaft?](https://www.ait.ac.at/fileadmin/mc/energy/downloads/IES/Projekte/INNOnet_PV-Kongress.pdf), presentation at the PV Austria Congress, 17.03.2025
+{{< keyword >}}Presentation{{< /keyword >}} Presentation at the PV Austria Congress: [Neue Netztarife: Was sagt die Wissenschaft?](https://www.ait.ac.at/fileadmin/mc/energy/downloads/IES/Projekte/INNOnet_PV-Kongress.pdf), 17.03.2025
 
-{{< keyword >}}Presentation{{< /keyword >}} [Reduzierung des Netzausbaubedarfs durch variable Stromnetztarife in Haushalten](https://www.ait.ac.at/fileadmin/mc/energy/downloads/IES/Projekte/INNOnet_Symposium_Energieinnovation.pdf), presentation at the 18th Symposium on Energy Innovation, 14–16.02.2024
+{{< keyword >}}Presentation{{< /keyword >}} Presentation at the 18th Symposium on Energy Innovation: [Reduzierung des Netzausbaubedarfs durch variable Stromnetztarife in Haushalten](https://www.ait.ac.at/fileadmin/mc/energy/downloads/IES/Projekte/INNOnet_Symposium_Energieinnovation.pdf), 14–16.02.2024
 
 ### Project partners
 
