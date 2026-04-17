@@ -69,7 +69,7 @@ Die Kombination aus technologischer Umsetzung und systemischer Betrachtung ermö
 
 {{< keyword >}}Artikel{{< /keyword >}} [Wasserstoff-Forschung im Osten Österreichs bündelt ihre Kräfte](https://www.wiva.at/2024/05/24/wasserstoff-forschung-im-osten-oesterreichs-buendelt-ihre-kraefte/)  
 
-### Partner:innen
+### Projektpartner:innen
 
 - [Wien Energie GmbH](https://www.wienenergie.at/) (Projektkoordination)
 - [AIT Austrian Institute of Technology GmbH](https://www.ait.ac.at/)
