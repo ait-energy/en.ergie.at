@@ -75,4 +75,5 @@ Das Arbeitspaket umfasst die Koordination des gesamten Projekts sowie die Abstim
 
 ### Förderhinweis
  
-Dieses Projekt wird im Rahmen der 2.AS Energie.Frei.Raum der FFG unter der Projektnummer FO999894848 gefördert. Mehr Informationen finden sich in der [FFG Projektdatenbank](https://projekte.ffg.at/projekt/4478292)
+Dieses Projekt wird aus Mitteln des fördergebenden Bundesministeriums für Land- und Forstwirtschaft, Klima- und Umweltschutz, Regionen und Wasserwirtschaft und der FFG (..im Rahmen der 2.AS Energie.Frei.Raum der FFG unter der Projektnummer FO999894848..) gefördert. Die FFG ist die zentrale nationale Förderorganisation und stärkt Österreichs Innovationskraft. 
+Mehr Informationen finden sich in der [FFG Projektdatenbank](https://projekte.ffg.at/projekt/4478292)

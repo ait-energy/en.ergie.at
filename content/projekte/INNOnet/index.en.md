@@ -75,5 +75,6 @@ This work package includes the coordination of the entire project as well as ali
 
 ### Funding
 
-This project is funded under the 2nd call “Energy.Frei.Raum” of the FFG under project number FO999894848.
+This project is funded by the granting organisation Federal Ministry of Agriculture and Forestry, Climate and Environmental Protection, Regions and Water Management and the FFG  under the project number FO999894848.
+The FFG is the central national funding agency and strengthens Austria’s innovative capacity. 
 More information can be found in the [FFG project database](https://projekte.ffg.at/projekt/4478292)
