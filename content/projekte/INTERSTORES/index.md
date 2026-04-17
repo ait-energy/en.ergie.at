@@ -19,7 +19,7 @@ Das übergeordnete Ziel von _INTERSTORES_ ist die Demonstration und Umsetzung zw
 | **Laufzeit** | 01.01.2024 -- 31.12.2027 |
 | **Partner:innen** | 14  ([alle anzeigen]({{< ref "#projektpartnerinnen" >}})) |
 | **Projektform** | Kofinanziertes Forschungsprojekt  |
-| **Konsortialführung** | [Peter Bayer](mailto:peter.bayer@geo.uni-halle.de) [MLU](https://www.uni-halle.de/) |
+| **Konsortialführung** | [Peter Bayer](mailto:peter.bayer@geo.uni-halle.de) [(MLU)](https://www.uni-halle.de/) |
 | **Projektleitung AIT** | [Abdulrahman Dahash](mailto:abdulrahman.dahash(at)ait.ac.at) & [Viktoria Illyés](mailto:viktoria.illyes@ait.ac.at) |
 
 ## Überblick
@@ -173,6 +173,6 @@ Hier werden Kommunikations- und Disseminationsmaßnahmen entwickelt und umgesetz
 - [TEKNOLOGIAN TUTKIMUSKESKUS VTT OY](https://www.vttresearch.com/en)
 - [WIZ DEVELOPMENT & SERVICES SRL](https://wizresearch.com/)
 
-### Förderhinweis
+<!-- ### Förderhinweis
 
-_INTERSTORES_ wird von der Europäischen Union gefördert. Die geäußerten Ansichten und Meinungen entsprechen jedoch aussschließlich denen der Autorinnen und Autoren und spiegeln nicht unbedingt die der Europäischen Union oder der Exekutivagentur für die Forschung wider. Weder die Europäische Union noch die Förderstelle übernehmen dafür Verantwortung
+_INTERSTORES_ wird von der Europäischen Union gefördert. Die geäußerten Ansichten und Meinungen entsprechen jedoch aussschließlich denen der Autorinnen und Autoren und spiegeln nicht unbedingt die der Europäischen Union oder der Exekutivagentur für die Forschung wider. Weder die Europäische Union noch die Förderstelle übernehmen dafür Verantwortung -->

@@ -19,7 +19,7 @@ The overall objective of _INTERSTORES_ is to demonstrate and implement two innov
 | **Duration** | 01.01.2024 -- 31.12.2027 |
 | **Partners** | 14 ([show all]({{< ref "#project-partners" >}})) |
 | **Project type** | Co-funded research project |
-| **Consortium lead** | [Peter Bayer](mailto:peter.bayer@geo.uni-halle.de) [MLU](https://www.uni-halle.de/) |
+| **Consortium lead** | [Peter Bayer](mailto:peter.bayer@geo.uni-halle.de) [(MLU)](https://www.uni-halle.de/) |
 | **Project lead AIT** | [Abdulrahman Dahash](mailto:abdulrahman.dahash(at)ait.ac.at) & [Viktoria Illyés](mailto:viktoria.illyes@ait.ac.at) |
 
 ## Overview
@@ -173,6 +173,7 @@ Development and implementation of communication and dissemination measures to sh
 - [VTT Technical Research Centre of Finland Ltd.](https://www.vttresearch.com/en)
 - [WIZ Development & Services SRL](https://wizresearch.com/)
 
+<!-- 
 ### Funding
 
-_INTERSTORES_ is funded by the European Union. Views and opinions expressed are however those of the author(s) only and do not necessarily reflect those of the European Union or European Climate, Infrastructure and Environment Executive Agency (CINEA). Neither the European Union nor the granting authority can be held responsible for them..
+_INTERSTORES_ is funded by the European Union. Views and opinions expressed are however those of the author(s) only and do not necessarily reflect those of the European Union or European Climate, Infrastructure and Environment Executive Agency (CINEA). Neither the European Union nor the granting authority can be held responsible for them.. -->
