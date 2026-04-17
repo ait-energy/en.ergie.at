@@ -17,7 +17,7 @@ Hydrogen from renewable energy sources has the potential to enable the full deca
 | **Duration** | 15.05.23 -- 14.05.27 |
 | **Partners** | 19 ([show all]({{< ref "#project-partners" >}})) |
 | **Project type** | Co-funded research project  |
-| **Consortium lead** | [Johannes Jungbauer](mailto:johannes.jungbauer@wienenergie.at) [Wien Energie](https://www.wienenergie.at/) |
+| **Consortium lead** | [Johannes Jungbauer](mailto:johannes.jungbauer@wienenergie.at) [(Wien Energie)](https://www.wienenergie.at/) |
 | **Project lead AIT** | [Stefan Reuter](mailto:stefan.reuter@ait.ac.at) |
 
 ## Overview
