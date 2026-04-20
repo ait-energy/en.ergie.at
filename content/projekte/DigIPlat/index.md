@@ -23,6 +23,8 @@ Durch die Integration technischer, wirtschaftlicher und prozessbezogener Aspekte
 
 ## Überblick
 
+{{< embed_article link="/tools/digiplat_tool" >}}
+
 _DigIPlat_ entwickelt und untersucht digitale Lösungen zur Verbesserung der Interoperabilität von Flexibilitätsplattformen im Energiesystem. Ziel ist es, standardisierte Rahmenbedingungen und Anforderungen zu definieren sowie deren technische und wirtschaftliche Umsetzbarkeit zu evaluieren.
 
 Im Rahmen des Projekts werden grenz- und plattformübergreifende Anwendungsfälle analysiert, insbesondere im Kontext von Redispatch, Ausgleichs- und Intraday-Märkten. Mithilfe von Markt- und Netzsimulationen werden potenzielle Vorteile der Interoperabilität sowie der standardisierten Nutzung von Flexibilität bewertet.

@@ -37,4 +37,17 @@ Die Nutzung von industrieller Abwärme ist für die Dekarbonisierung der Wärmev
 {{< /button >}}
 {{< /timelineItem >}}
 
+{{< timelineItem icon="star" header="DigIPlat Tool" badge="Online Tool" subheader="Analyse kurzfristiger Energiemärkte und interoperabler Flexibilitätsplattformen" >}}
+Die täglichen Abläufe der kurzfristigen Energiemärkte spielen eine zentrale Rolle bei der Beschaffung eines Großteils des verbrauchten Stroms. Die Sicherstellung einer ausreichenden Versorgung zur Deckung des Systembedarfs ist komplex und erfordert Flexibilität im Energiesystem, um Angebot und Nachfrage auszugleichen sowie mögliche Engpässe bei begrenzten Leitungskapazitäten im Voraus zu bewältigen.
+
+Im Rahmen unseres Projekts wurden neue digitale Lösungen entwickelt, um die Interoperabilität von Flexibilitätsplattformen entlang von IKT-, wirtschaftlichen und prozessbezogenen Dimensionen zu verbessern. Dazu gehörte eine detaillierte Analyse der täglichen Abläufe der Flexibilitätsbeschaffung. Darüber hinaus wurde ein agentenbasiertes Modell unter Einsatz moderner KI-Methoden entwickelt, um strategisches Verhalten zu analysieren, Marktdynamiken zu simulieren und neue Marktdesigns zur Verbesserung dieser Prozesse zu validieren.
+
+Das unten bereitgestellte Tool unterstützt das Verständnis der bestehenden Abläufe und bietet Einblicke in alternative Szenarien, die im Projekt untersucht wurden, einschließlich detaillierter Beschreibungen und Modellergebnisse, die als PDF verfügbar sind. Sie können durch die verschiedenen Schritte der <abbr title="Gate-Opening-Times">GOT</abbr> und <abbr title="Gate-Closing-Times">GCT</abbr> in unterschiedlichen Märkten navigieren und den Austausch von Geboten und Informationen zwischen den beteiligten Akteuren nachverfolgen.
+
+<br><br>
+{{< button href="digiplat_tool" target="_self" >}}
+    DigIPlat Tool jetzt starten!
+{{< /button >}}
+{{< /timelineItem >}}
+
 {{< /timeline >}}
