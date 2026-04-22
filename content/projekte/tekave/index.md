@@ -59,25 +59,33 @@ Technologieoffenheit sowie die Berücksichtigung regionaler Komponenten sind wic
 
 ## Tätigkeiten
 
-### AP1: Projektmanagement
+{{< accordion mode="open" separated=true >}}
+
+{{< accordionItem title="AP1: Projektmanagement" open=false >}}
 <u>Lead: AIT</u>
 
 Effektives Projektmanagement - insbesondere Koordination und Controlling - mit Fokus auf Erreichung der Projektziele und Projektergebnisse. Zeitmanagement, Priorisierung und Moderation der Entscheidungsfindung bei inhaltlichen Problemen sowie Klärung rechtlicher Fragen und Erstellung des Konsortialvertrages. Zusätzlich umfasst das Arbeitspaket Qualitätssicherung sowie Kommunikation und Vermarktung der Projektergebnisse und die Diskussion der Zwischen- und Endergebnisse mit relevanten Stakeholdern.
+{{< /accordionItem >}}
 
-### AP2: Qualitative Analyse
+{{< accordionItem title="AP2: Qualitative Analyse" open=false >}}
 <u>Lead: AIT</u>
 
 Überprüfung bestehender Ansätze zur Versorgungssicherheit in Europa und der weiteren Einflussfaktoren. Auswahl eines Satzes von Kapazitätsmechanismen zur Modellierung in Arbeitspaket 3 sowie Formulierung von Stakeholder- und Politikempfehlungen (Lead: EI-JKU).
+{{< /accordionItem >}}
 
-### AP3: Marktmodellierung
+{{< accordionItem title="AP3: Marktmodellierung" open=false >}}
 <u>Lead: AIT</u>
 
 Implementierung eines kombinierten Modells zur Abbildung des <abbr title="Energy-Only-Markts">EOM</abbr> und ausgewählter Kapazitätsmechanismen. Vergleich einzelner KM-Designs mit dem Basisszenario (EOM) sowie Durchführung von Szenarioanalysen.
+{{< /accordionItem >}}
 
-### AP4: Regulatorische Analyse
+{{< accordionItem title="AP4: Regulatorische Analyse" open=false >}}
 <u>Lead: EI-JKU</u>
 
 Entwicklung einer angemessenen Schadenersatzregelung für Kapazitätsmärkte basierend auf mindestens drei bestehenden Berechnungsmethoden für Preisobergrenzen. Analyse von mindestens drei Alternativlösungen zu Kapazitätsmechanismen, darunter Ausstiegsprämien bzw. Überführung in Staatseigentum, Weiterentwicklung vorhandener Märkte (PICASSO, MARI), Stilllegungsverbote und strategische Reserven sowie Analyse des Harmonisierungsbedarfs auf europäischer Ebene.
+{{< /accordionItem >}}
+
+{{< /accordion >}}
 
 ## Weiterführende Informationen
 

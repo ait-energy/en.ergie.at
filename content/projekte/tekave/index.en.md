@@ -59,25 +59,33 @@ Technology neutrality and the consideration of regional aspects are important fo
 
 ## Activities
 
-### WP1: Project management  
+{{< accordion mode="open" separated=true >}}
+
+{{< accordionItem title="WP1: Project management" open=false >}}  
 <u>Lead: AIT</u>
 
 Effective project management - particularly coordination and controlling - with a focus on achieving project objectives and results. Includes time management, prioritization, facilitation of decision-making in technical matters, clarification of legal issues, and preparation of the consortium agreement. Also includes quality assurance, communication and dissemination of results, and discussion of interim and final results with relevant stakeholders.
+{{< /accordionItem >}}
 
-### WP2: Qualitative analysis  
+{{< accordionItem title="WP2: Qualitative analysis open=false >}}  
 <u>Lead: AIT</u>
 
 Review of existing approaches to security of supply in Europe and additional influencing factors. Selection of capacity mechanisms for modeling in WP3 and formulation of stakeholder and policy recommendations (Lead: EI-JKU).
+{{< /accordionItem >}}
 
-### WP3: Market modeling  
+{{< accordionItem title="WP3: Market modeling" open=false >}}  
 <u>Lead: AIT</u>
 
 Implementation of a combined model representing the <abbr title="energy-only market">EOM</abbr> and selected capacity mechanisms. Comparison of different CM designs with the baseline scenario (EOM) and execution of scenario analyses.
+{{< /accordionItem >}}
 
-### WP4: Regulatory analysis  
+{{< accordionItem title="WP4: Regulatory analysis" open=false >}}  
 <u>Lead: EI-JKU</u>
 
 Development of an appropriate compensation scheme for capacity markets based on at least three existing methods for calculating price caps. Analysis of at least three alternative solutions to capacity mechanisms, including exit premiums or transfer to public ownership, further development of existing markets (PICASSO, MARI), decommissioning bans, and strategic reserves, as well as analysis of the need for harmonization at the European level.
+{{< /accordionItem >}}
+
+{{< /accordion >}}
 
 ## Further information
 
