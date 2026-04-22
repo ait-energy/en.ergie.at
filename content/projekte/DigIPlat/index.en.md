@@ -52,22 +52,30 @@ By developing and validating interoperable solutions, the project contributes to
 
 ## Activities
 
-### WP3: Standardized framework for interoperable flexibility platforms 
+{{< accordion mode="open" separated=true >}}
+
+{{< accordionItem title="WP3: Standardized framework for interoperable flexibility platforms" open=false >}}
 <u>Lead: AIT</u>
 
 Development of a standardized framework to enhance the interoperability of flexibility platforms, including the definition of use cases and technical requirements for multi-market applications.
 
-### WP4: Implementation of standardized framework and technical testing in a field test
+{{< /accordionItem >}}
+
+{{< accordionItem title="WP4: Implementation of standardized framework and technical testing in a field test" open=false >}} 
 <u>Lead: THU</u>
 
 Implementation of the developed framework and execution of technical tests to assess functionality, security, and applicability in real-world settings.
+{{< /accordionItem >}}
 
-### WP4: Economic evaluation
+{{< accordionItem title="WP5: Economic evaluation" open=false >}} 
 <u>Lead: AIT</u>
 
 Analysis of economic impacts and incentive structures for flexibility providers, as well as evaluation of efficiency gains enabled by interoperable platform solutions.
+{{< /accordionItem >}}
 
-## Further information
+{{< /accordion >}}
+
+## Further information5
 
 ### Deliverables
 

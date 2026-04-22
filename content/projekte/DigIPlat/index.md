@@ -55,20 +55,27 @@ Durch die Entwicklung und Validierung interoperabler Lösungen leistet das Proje
 
 ## Tätigkeiten 
 
-### AP3: Standardisierter Rahmen für interoperable Flexibilitätsplattformen
+{{< accordion mode="open" separated=true >}}
+
+{{< accordionItem title="AP3: Standardisierter Rahmen für interoperable Flexibilitätsplattformen" open=false >}}
 <u>Lead: AIT</u>
 
 Entwicklung eines standardisierten Rahmens zur Verbesserung der Interoperabilität von Flexibilitätsplattformen sowie Definition von Use Cases und technischen Anforderungen für Multi-Markt-Anwendungen.
+{{< /accordionItem >}}
 
-### AP4: Implementierung und technische Validierung
+{{< accordionItem title="AP4: Implementierung und technische Validierung" open=false >}} 
 <u>Lead: THU</u>
 
 Umsetzung des entwickelten Frameworks und Durchführung technischer Tests zur Bewertung von Funktionalität, Sicherheit und Übertragbarkeit in realen Anwendungen.
+{{< /accordionItem >}}
 
-### AP5: Ökonomische Bewertung
+{{< accordionItem title="AP5: Ökonomische Bewertung" open=false >}} 
 <u>Lead: AIT</u>
 
 Analyse der wirtschaftlichen Auswirkungen und Anreizstrukturen für Flexibilitätsanbieter sowie Bewertung von Effizienzgewinnen durch interoperable Plattformlösungen.
+{{< /accordionItem >}}
+
+{{< /accordion >}}
 
 ## Weiterführende Informationen
 
