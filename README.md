@@ -166,10 +166,16 @@ repository. Make sure the following steps are then done in your fork (your "own 
 3. Open a new terminal in VSCode
 4. Navigate to your development folder using: `cd path/to/dev_folder`  
 5. Clone the repository by entering: `git clone URL` (paste the repository's URL)
-6. Inside the folder `en.ergie.at`, execute `git submodule update --init --recursive` to also get the (submodule-d)
-theme (this might take a bit)  
 
-> Inside the folder `en.ergie.at`, execute `git submodule update --remote --merge` to update the theme, whenever it
+#### Installing the theme
+
+We base our page on an existing theme. If this is your first time setting up your local copy, execute the following inside the `en.ergie.at` folder that you've just created (this might take a bit):
+
+```bash
+git submodule update --init --recursive
+```
+
+> Inside the folder `en.ergie.at`, execute `git submodule update --remote --merge` to update the theme, whenever it 
 changes upstream.
 
 #### Installing `Hugo`
@@ -180,7 +186,7 @@ The following assumes you are using Windows; if you are not, head over to the [i
 and pick whatever suits you.
 
 1. Pick the "prebuilt binaries" from this link: [Prebuilt binaries](https://gohugo.io/installation/windows/#prebuilt-binaries)
--- instead of the general one
+-- instead of the general one. The download you'll most likely want will be named like this: `hugo_***_windows-amd64.zip`.
 2. Either follow the instructions in the link given in (1.), or extract the `hugo.exe` file and copy it into your
 development folder (which immediately works and does not involve modifying your PATH, etc.)
 

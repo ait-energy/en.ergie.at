@@ -3,3 +3,5 @@ public/
 
 # Ignoring for people that drop the binary directly into the root.
 *.exe
+/hugo
+/*.yaml
