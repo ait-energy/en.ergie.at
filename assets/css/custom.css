@@ -36,14 +36,20 @@
 /*
  * Style "title" in main nav menu, to prevent changing the actual title.
  */
-nav.flex:first-of-type a.text-base {
+div.main-menu a.text-base {
     font-weight: bold;
 }
 
-nav.flex:first-of-type a.text-base::before {
+div.main-menu > a.text-base::before {
     content: "[ ";
 }
 
-nav.flex:first-of-type a.text-base::after {
+div.main-menu > a.text-base::after {
     content: " ]";
+}
+
+article.article-link--card {
+    box-shadow: 5px 5px 5px 1px rgba(0,0,0,0.5);
+    -webkit-box-shadow: 5px 5px 5px 1px rgba(0,0,0,0.5);
+    -moz-box-shadow: 5px 5px 5px 1px rgba(0,0,0,0.5);
 }
