@@ -51,50 +51,63 @@ Smart algorithms and platform solutions optimize energy flows and actively integ
 
 ## Activities
 
-### WP1: Project management  
+{{< accordion mode="open" separated=true >}}
+
+{{< accordionItem title="WP1: Project management" open=false >}}  
 <u>Lead: AIT</u>
 
 Administrative and technical project management, including meeting organization, progress monitoring, risk management, reporting, and communication with the funding authority.
+{{< /accordionItem >}}
 
-### WP2: Establishing the foundation  
+{{< accordionItem title="WP2: Establishing the foundation" open=false >}}  
 <u>Lead: Energiekompass</u>
 
 Development of concepts for energy cells, creation of scenarios for real and virtual test environments, analysis of regulatory frameworks, and development of a cell simulator and economic models.
+{{< /accordionItem >}}
 
-### WP3: Development and validation of technology pathways  
+{{< accordionItem title="}WP3: Development and validation of technology pathways" open=false >}  
 <u>Lead: HyCentA</u>
 
 Development of resilient hybrid power plant concepts, cross-sector energy systems, and concepts for heat utilization, flexibility, and integration into distribution grids.
+{{< /accordionItem >}}
 
-### WP4: Prototype development  
+{{< accordionItem title="WP4: Prototype development" open=false >}}  
 <u>Lead: AIT</u>
 
 Implementation of prototypes for hybrid energy systems, heating networks, storage solutions, and hydrogen applications.
+{{< /accordionItem >}}
 
-### WP5: Implementation and testing in prototypes  
+{{< accordionItem title="WP5: Implementation and testing in prototypes" open=false >}}  
 <u>Lead: AIT</u>
 
 Implementation and testing of cross-sector energy communities, innovative charging and storage concepts, and resilient energy system solutions.
+{{< /accordionItem >}}
 
-### WP6: Establishing energy cells as living labs  
+{{< accordionItem title="WP6: Establishing energy cells as living labs" open=false >}}  
 <u>Lead: Energiekompass</u>
 
 Deployment of energy cells in different regions for practical implementation and validation of developed concepts.
+{{< /accordionItem >}}
 
-### WP7: Implementation in real energy cells  
+{{< accordionItem title="WP7: Implementation in real energy cells" open=false >}}  
 <u>Lead: Energiekompass</u>
 
 Transfer and implementation of developed technologies into real energy cells and evaluation of implementation strategies.
+{{< /accordionItem >}}
 
-### WP8: Digital infrastructure and virtual power plants  
+{{< accordionItem title="WP8: Digital infrastructure and virtual power plants" open=false >}}  
 <u>Lead: Salzburg Research GmbH</u>
 
 Development of digital platforms, interfaces, and virtual power plants for integrating and managing energy cells.
+{{< /accordionItem >}}
 
-### WP9: Dissemination and knowledge transfer  
+{{< accordionItem title="WP9: Dissemination and knowledge transfer" open=false >}}  
 <u>Lead: AIT</u>
 
 Scientific and non-scientific dissemination, communication of project results, and development of structures for knowledge transfer and exploitation.
+{{< /accordionItem >}}
+
+{{< /accordion >}}
 
 ## Further information
 

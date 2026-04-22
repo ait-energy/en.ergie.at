@@ -52,50 +52,63 @@ Durch den Einsatz smarter Algorithmen und Plattformlösungen werden Energieflüs
 
 ## Tätigkeiten
 
-### AP1: Projektmanagement 
+{{< accordion mode="open" separated=true >}}
+
+{{< accordionItem title="AP1: Projektmanagement" open=false >}}
 <u>Lead: AIT</u>
 
 Administratives und inhaltliches Projektmanagement, einschließlich Organisation von Meetings, Fortschrittsmonitoring, Risikomanagement sowie Berichtslegung und Kommunikation mit dem Fördergeber.
+{{< /accordionItem >}}
 
-### AP2: Etablierung des Fundaments 
+{{< accordionItem title="AP2: Etablierung des Fundaments" open=false >}} 
 <u>Lead: Energiekompass</u>
 
 Konzeptentwicklung für Energiezellen, Entwicklung von Szenarien für reale und virtuelle Testumgebungen, Analyse regulatorischer Rahmenbedingungen sowie Aufbau eines Zellensimulators und wirtschaftlicher Modelle.
+{{< /accordionItem >}}
 
-### AP3: Entwicklung und Validierung von Technologiepfaden 
+{{< accordionItem title="AP3: Entwicklung und Validierung von Technologiepfaden" open=false >}}  
 <u>Lead: HyCentA</u>
 
 Entwicklung resilienter Hybridkraftwerkskonzepte, sektorübergreifender Energiesysteme sowie Konzepte für Wärmenutzung, Flexibilität und Integration in das Verteilnetz.
+{{< /accordionItem >}}
 
-### AP4: Aufbau von Prototypen 
+{{< accordionItem title="AP4: Aufbau von Prototypen" open=false >}}  
 <u>Lead: AIT</u>
 
 Errichtung und Umsetzung von Prototypen für hybride Energiesysteme, Wärmenetze, Speicherlösungen und Wasserstoffanwendungen.
+{{< /accordionItem >}}
 
-### AP5: Implementierung und Test in Prototypen 
+{{< accordionItem title="AP5: Implementierung und Test in Prototypen" open=false >}}  
 <u>Lead: AIT</u>
 
 Umsetzung und Erprobung sektorübergreifender Energiegemeinschaften, innovativer Lade- und Speicherkonzepte sowie resilienter Energiesystemlösungen.
+{{< /accordionItem >}}
 
-### AP6: Aufbau von Energiezellen als Reallabore 
+{{< accordionItem title="AP6: Aufbau von Energiezellen als Reallabore" open=false >}}  
 <u>Lead: Energiekompass</u>
 
 Etablierung von Energiezellen in verschiedenen Regionen zur praktischen Umsetzung und Validierung der entwickelten Konzepte.
+{{< /accordionItem >}}
 
-### AP7: Implementierung in realen Energiezellen 
+{{< accordionItem title="AP7: Implementierung in realen Energiezellen" open=false >}}  
 <u>Lead: Energiekompass</u>
 
 Übertragung und Umsetzung der entwickelten Technologien in reale Energiezellen und Bewertung der Umsetzungsstrategien.
+{{< /accordionItem >}}
 
-### AP8: Digitale Infrastruktur und virtuelle Kraftwerke 
+{{< accordionItem title="AP8: Digitale Infrastruktur und virtuelle Kraftwerke" open=false >}}  
 <u>Lead: Salzburg Research GmbH</u>
 
 Entwicklung digitaler Plattformen, Schnittstellen und virtueller Kraftwerke zur Integration und Steuerung der Energiezellen.
+{{< /accordionItem >}}
 
-### AP9: Dissemination und Wissenstransfer 
+{{< accordionItem title="AP9: Dissemination und Wissenstransfer" open=false >}} 
 <u>Lead: AIT</u>
 
 Wissenschaftliche und nicht-wissenschaftliche Dissemination, Kommunikation der Projektergebnisse sowie Aufbau von Strukturen für Wissenstransfer und Nutzung der Ergebnisse.
+{{< /accordionItem >}}
+
+{{< /accordion >}}
 
 ## Weiterführende Informationen
 
