@@ -57,15 +57,18 @@ Die Analyse der Umweltwirkungen und techno-ökonomischen Aspekte liefert wichtig
 
 ## Tätigkeiten  
 
-### AP1: Unterirdischer Maßstab
+{{< accordion mode="open" separated=true >}}
 
+{{< accordionItem title="AP1: Unterirdischer Maßstab" open=false >}}
 Auf unterirdischer Ebene werden standortspezifische Bedingungen sowie thermische Wechselwirkungen mit bestehender Infrastruktur analysiert. Durch den Einsatz multiphysikalischer Simulationen werden Modelle entwickelt, die anschließend vereinfacht, standardisiert und anhand von Pilotstandorten validiert werden.
+{{< /accordionItem >}}
 
-### AP2: Technologie & Gebäudemaßstab
+{{< accordionItem title="AP2: Technologie & Gebäudemaßstab" open=false >}}
 
 Im zweiten Arbeitspaket werden lokale Energiequellen und -bedarfe analysiert und integriert. Dabei kommen simulationsbasierte Designplattformen sowie maschinelle Lernansätze zum Einsatz, um Heiz- und Kühlbedarfe zu bestimmen und Modelle für Gebäude- und Energiesysteme zu entwickeln.
+{{< /accordionItem >}}
 
-### AP3: Stadt-zu-Stadt-Skala
+{{< accordionItem title="AP3: Stadt-zu-Stadt-Skala" open=false >}}
 <u>Lead: AIT</u>
 
 Im Fokus steht die Integration räumlich aufgelöster Modelle für Energiebedarf und -angebot sowie die Entwicklung standardisierter Schnittstellen zwischen verschiedenen Maßstabsebenen. Ziel ist es, den Austausch von Modellen und Entwurfsspezifikationen zu ermöglichen und eine konsistente Systemintegration sicherzustellen.
@@ -73,18 +76,24 @@ Im Fokus steht die Integration räumlich aufgelöster Modelle für Energiebedarf
 Darüber hinaus umfasst AP3 die Entwicklung eines KPI-Frameworks zur Bewertung von Entscheidungen im Energiesystemdesign sowie den Einsatz fortschrittlicher Modellierungstechniken zur Identifikation optimaler Energielösungen.
 
 Die Verknüpfung von Stadt- und Quartiersebene ermöglicht eine Rückkopplung im Planungsprozess und unterstützt fundierte Entscheidungen über verschiedene Ebenen hinweg.
+{{< /accordionItem >}}
 
-### AP4: Skalenübergreifende Integration
+{{< accordionItem title="AP4: Skalenübergreifende Integration" open=false >}}
 
 AP4 verbindet die Ergebnisse der verschiedenen Maßstabsebenen und integriert sie in ein gemeinsames Plattformkonzept. Der Fokus liegt auf der Entwicklung standardisierter Schnittstellen und eines übertragbaren Frameworks zur Anwendung an unterschiedlichen Standorten.
+{{< /accordionItem >}}
 
-### AP5: Implementierung
+{{< accordionItem title="AP5: Implementierung" open=false >}}
 
 In diesem Arbeitspaket werden die entwickelten Methoden und Modelle in Pilotprojekten validiert und demonstriert. Dies umfasst Kalibrierung, Anwendung in realen Umgebungen sowie die Ableitung von Best-Practice-Ansätzen.
+{{< /accordionItem >}}
 
-### AP6: Management
+{{< accordionItem title="AP6: Management" open=false >}}
 
 Das Management umfasst die Koordination und Überwachung aller Projektaktivitäten. Dazu gehören organisatorische Aufgaben, Fortschrittskontrolle, Datenmanagement sowie die Unterstützung von Wissenstransfer und Zusammenarbeit innerhalb des Konsortiums.
+{{< /accordionItem >}}
+
+{{< /accordion >}}
 
 ## Weiterführende Informationen
 <!-- 

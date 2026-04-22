@@ -51,15 +51,19 @@ The analysis of environmental impacts and techno-economic aspects provides impor
 
 ## Activities
 
-### WP1: Subsurface Scale
+{{< accordion mode="open" separated=true >}}
+
+{{< accordionItem title="WP1: Subsurface Scale" open=false >}}
 
 At the subsurface level, site-specific conditions as well as thermal interactions with existing infrastructure are analyzed. Using multiphysics simulations, models are developed, which are subsequently simplified, standardized, and validated using pilot sites.
+{{< /accordionItem >}}
 
-### WP2: Technology & Building Scale
+{{< accordionItem title="WP2: Technology & Building Scale" open=false >}}
 
 In the second work package, local energy sources and demands are analyzed and integrated. Simulation-based design platforms and machine learning approaches are applied to determine heating and cooling demands and to develop models for buildings and energy systems.
+{{< /accordionItem >}}
 
-### WP3: City-to-City Scale
+{{< accordionItem title="WP3: City-to-City Scale" open=false >}}
 <u>Lead: AIT</u>
 
 The focus is on integrating spatially resolved models for energy demand and supply, as well as developing standardized interfaces between different scale levels. The objective is to enable the exchange of models and design specifications and to ensure consistent system integration.
@@ -67,18 +71,24 @@ The focus is on integrating spatially resolved models for energy demand and supp
 In addition, WP3 includes the development of a KPI framework for evaluating decisions in energy system design, as well as the use of advanced modeling techniques to identify optimal energy solutions.
 
 The linkage between city and district levels enables feedback within the planning process and supports informed decision-making across different scales.
+{{< /accordionItem >}}
 
-### WP4: Cross-Scale Integration
+{{< accordionItem title="WP4: Cross-Scale Integration" open=false >}}
 
 WP4 connects the results from the different scale levels and integrates them into a unified platform concept. The focus is on the development of standardized interfaces and a transferable framework for application across different locations.
+{{< /accordionItem >}}
 
-### WP5: Implementation
+{{< accordionItem title="WP5: Implementation" open=false >}}
 
 In this work package, the developed methods and models are validated and demonstrated in pilot projects. This includes calibration, application in real-world environments, and the derivation of best-practice approaches.
+{{< /accordionItem >}}
 
-### WP6: Management
+{{< accordionItem title="WP6: Management" open=false >}}
 
 Management includes the coordination and monitoring of all project activities. This involves organizational tasks, progress control, data management, as well as supporting knowledge transfer and collaboration within the consortium.
+{{< /accordionItem >}}
+
+{{< /accordion >}}
 
 ## Further information
 
