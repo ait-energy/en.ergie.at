@@ -8,7 +8,7 @@ Die EU strebt eine rasche Dekarbonisierung des Energiesektors durch das Fit for 
 
 <!--more-->
 
-Das übergeordnete Ziel von INTERSTORES ist die Demonstration und Umsetzung zweier innovativer sTES-Lösungen (Wiederverwendung alter Becken, unterirdische Kavernen) und die Validierung der Nutzung als Mehrzweck-sTES an den Demostandorten. INTERSTORES zielt darauf ab, die Nachhaltigkeit zu verbessern, indem kosteneffiziente, recycelte Isoliermaterialien verwendet werden, der Einsatz erneuerbarer Energien erhöht wird und herkömmlicher Spritzbeton ersetzt wird. Der Haupteffekt wird in der Senkung der Investitionskosten, des Energiebedarfs, der Verringerung der CO2-Emissionen und der Umwelt- und Bodenbelastung gesehen.
+Das übergeordnete Ziel von INTERSTORES ist die Demonstration und Umsetzung zweier innovativer sTES-Lösungen (Wiederverwendung alter Becken, unterirdische Kavernen) und die Validierung der Nutzung als Mehrzweck-sTES an den Demostandorten. INTERSTORES zielt darauf ab, die Nachhaltigkeit zu verbessern, indem kosteneffiziente, recycelte Isoliermaterialien verwendet werden, der Einsatz erneuerbarer Energien erhöht wird und herkömmlicher Spritzbeton ersetzt wird. Der Haupteffekt wird in der Senkung der Investitionskosten, des Energiebedarfs, der Verringerung der CO<sub>2</sub>-Emissionen und der Umwelt- und Bodenbelastung gesehen.
 
 ## Factsheet
 
@@ -19,8 +19,8 @@ Das übergeordnete Ziel von INTERSTORES ist die Demonstration und Umsetzung zwei
 | **Laufzeit** | 01.01.2024 -- 31.12.2027 |
 | **Partner** | 14 |
 | **Projektform** | Forschungs- und Innovationsprojekt  |
-| **Projektleitung AIT-seitig** | [Abdulrahman Dahash](abdulrahman.dahash(at)ait.ac.at) |
-| **Projektleitung IES-seitig** | [Vikroriia Illyes](viktoria.illyes@ait.ac.at) |
+| **Projekt Koordination** | [Prof. Dr. Peter Bayer](peter.bayer@geo.uni-halle.de) ([MLU](https://www.uni-halle.de/)] |
+| **Projektleitung AIT** | [Dr. Abdulrahman Dahash](abdulrahman.dahash(at)ait.ac.at) & [Dr. Viktoria Illyés](viktoria.illyes@ait.ac.at) |
 ## Haupterkenntnisse
 
 Die Demonstration und Implementierung innovativer sTES-Lösungen im Rahmen von INTERSTORES zeigt ein großes Potenzial zur Verbesserung der Nachhaltigkeit von Energiesystemen.
@@ -71,6 +71,11 @@ Während der geplanten 48 Monate des Projekts wird die an zwei bedeutenden Demos
 - [VANTAAN ENERGIA OY](https://www.vantaanenergia.fi/en/)
 - [TEKNOLOGIAN TUTKIMUSKESKUS VTT OY](https://www.vttresearch.com/en)
 - [WIZ DEVELOPMENT & SERVICES SRL](https://wizresearch.com/)
+
+### Weitere Informationen
+
+- Projekthomepage: [interstores.eu](https://interstores.eu/)
+- AIT Projektinformationen: [www.ait.ac.at](https://www.ait.ac.at/themen/waermenetze-und-kaeltenetze-fuer-stadt-und-industrie/projekte/saisonalen-thermische-energiespeicher)
 
 ### Förderhinweis
 
