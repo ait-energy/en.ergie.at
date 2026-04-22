@@ -48,40 +48,51 @@ By integrating circular economy principles, environmental impacts are reduced an
 
 ## Activities
 
-### WP1: Project management  
+{{< accordion mode="open" separated=true >}}
+
+{{< accordionItem title="WP1: Project management" open=false >}}  
 <u>Lead: MLU</u>
 
 This work package includes coordination of all project partners as well as administrative and financial project management. It also covers monitoring project progress, managing risks, and ensuring the quality of project results.
+{{< /accordionItem >}}
 
-### WP2: Demonstrators  
+{{< accordionItem title="WP2: Demonstrators" open=false >}}  
 <u>Lead: PGM</u>
 
 Focus on the selection and preparation of demonstration sites, as well as the construction and operation of the systems. In addition, monitoring systems are implemented and the systems are analyzed and optimized under real conditions.
+{{< /accordionItem >}}
 
-### WP3: Storage
+{{< accordionItem title="WP3: Storage" open=false >}}
 <u>Lead: AIT</u>
 
 This work package focuses on the further development of materials and components for seasonal thermal energy storage. Physical processes are investigated, models are developed, and simulations are carried out.
+{{< /accordionItem >}}
 
-### WP4: System
+{{< accordionItem title="WP4: System" open=false >}}
 <u>Lead: HLU</u>
 
 Development of energy system models and integration of various components. Digital twins and scenario analyses are used to evaluate system behavior and optimization potential.
+{{< /accordionItem >}}
 
-### WP5: Environment
+{{< accordionItem title="WP5: Environment" open=false >}}
 <u>Lead: MLU</u>
 
 Focus on analyzing environmental impacts over the entire system lifecycle. The goal is to assess emissions, resource use, and long-term ecological effects.
+{{< /accordionItem >}}
 
-### WP6: Exploitation & Market  
+{{< accordionItem title="WP6: Exploitation & Market" open=false >}}  
 <u>Lead: GFX</u>
 
 This work package focuses on analyzing market potential and developing exploitation strategies, including economic assessments, business plans, and investment strategies.
+{{< /accordionItem >}}
 
-### WP7: Communication, Dissemination & Outreach
+{{< accordionItem title="WP7: Communication, Dissemination & Outreach" open=false >}}
 <u>Lead: INO</u>
 
 Development and implementation of communication and dissemination measures to share project results, including events, digital content, and training activities.
+{{< /accordionItem >}}
+
+{{< /accordion >}}
 
 ## Further information
 

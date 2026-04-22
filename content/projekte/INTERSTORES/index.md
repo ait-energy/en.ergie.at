@@ -48,40 +48,51 @@ Durch die Integration von Prinzipien der Kreislaufwirtschaft werden Umweltbelast
 
 ## Tätigkeiten
 
-### AP1: Projektmanagement
+{{< accordion mode="open" separated=true >}}
+
+{{< accordionItem title="AP1: Projektmanagement" open=false >}}
 <u>Lead: MLU</u>
 
 Das Arbeitspaket umfasst die Koordination aller Projektpartner sowie das administrative und finanzielle Projektmanagement. Zusätzlich werden der Projektfortschritt überwacht, Risiken gemanagt und die Qualität der Projektergebnisse sichergestellt.
+{{< /accordionItem >}}
 
-### AP2: Demonstratoren
+{{< accordionItem title="AP2: Demonstratoren" open=false >}}
 <u>Lead: PGM</u>
 
 Im Fokus stehen die Auswahl und Vorbereitung der Demonstrationsstandorte sowie der Aufbau und Betrieb der Anlagen. Darüber hinaus werden Monitoring-Systeme implementiert und die Systeme unter realen Bedingungen analysiert und optimiert.
+{{< /accordionItem >}}
 
-### AP3: Speichertechnologien
+{{< accordionItem title="AP3: Speichertechnologien" open=false >}}
 <u>Lead: AIT</u>
 
 Dieses Arbeitspaket konzentriert sich auf die Weiterentwicklung von Materialien und Komponenten für saisonale Wärmespeicher. Dabei werden physikalische Prozesse untersucht, Modelle entwickelt und Simulationen durchgeführt.
+{{< /accordionItem >}}
 
-### AP4: Systemintegration
+{{< accordionItem title="AP4: Systemintegration" open=false >}}
 <u>Lead: HLU</u>
 
 Hier werden Energiesystemmodelle entwickelt und verschiedene Komponenten integriert. Mithilfe digitaler Zwillinge und Szenarioanalysen werden Systemverhalten und Optimierungspotenziale untersucht.
+{{< /accordionItem >}}
 
-### AP5: Umweltwirkungen und Nachhaltigkeit
+{{< accordionItem title="AP5: Umweltwirkungen und Nachhaltigkeit" open=false >}}
 <u>Lead: MLU</u>
 
 Im Mittelpunkt steht die Analyse der Umweltauswirkungen über den gesamten Lebenszyklus der Systeme. Ziel ist die Bewertung von Emissionen, Ressourcennutzung und langfristigen ökologischen Effekten.
+{{< /accordionItem >}}
 
-### AP6: Marktanalyse und Verwertung
+{{< accordionItem title="AP6: Marktanalyse und Verwertung" open=false >}}
 <u>Lead: GFX</u>
 
 Dieses Arbeitspaket befasst sich mit der Analyse von Marktpotenzialen sowie der Entwicklung von Verwertungsstrategien. Dazu gehören wirtschaftliche Bewertungen, Businesspläne und Investitionsstrategien.
+{{< /accordionItem >}}
 
-### AP7: Kommunikation und Dissemination
+{{< accordionItem title="AP7: Kommunikation und Dissemination" open=false >}}
 <u>Lead: INO</u>
 
 Hier werden Kommunikations- und Disseminationsmaßnahmen entwickelt und umgesetzt, um Projektergebnisse zu verbreiten. Dazu zählen Veranstaltungen, digitale Inhalte sowie Schulungsmaßnahmen.
+{{< /accordionItem >}}
+
+{{< /accordion >}}
 
 ## Weiterführende Informationen
 
