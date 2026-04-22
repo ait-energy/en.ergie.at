@@ -41,35 +41,45 @@ The targeted dissemination of project results increases their visibility and pro
 
 ## Activities
 
-### WP1: Project Management
+{{< accordion mode="open" separated=true >}}
+
+{{< accordionItem title="WP1: Project Management" open=false >}}
 <u>Lead: AIT</u>
 
 Project management and coordination of the project team, as well as monitoring of progress, costs, quality, and timelines. The work package also includes reporting, resource planning, communication, and the preparation of a final report.
+{{< /accordionItem >}}
 
-### WP2: Data Collection and Processing
+{{< accordionItem title="WP2: Data Collection and Processing" open=false >}}
 <u>Lead: AIT</u>
 
-Design and implementation of a data processing pipeline, including a database, as well as automated data collection and data cleaning. In addition, missing data is complemented using generative AI, CO₂ intensities are calculated, and weather forecasts are developed.
+Design and implementation of a data processing pipeline, including a database, as well as automated data collection and data cleaning. In addition, missing data is complemented using generative AI, CO<sub>2</sub> intensities are calculated, and weather forecasts are developed.
+{{< /accordionItem >}}
 
-### WP3: Development of AI-based Forecasting Algorithms
+{{< accordionItem title="WP3: Development of AI-based Forecasting Algorithms" open=false >}}
 <u>Lead: AIT</u>
 
 Review, implementation, and validation of generative AI forecasting algorithms, with a focus on transformer-based architectures, GANs, and diffusion models. Application of the models to time series forecasting and evaluation based on benchmarks and KPIs.
+{{< /accordionItem >}}
 
-### WP4: Platform Development and Implementation
+{{< accordionItem title="WP4: Platform Development and Implementation" open=false >}}
 <u>Lead: B-SEC</u>
 
 Design of the platform architecture as well as specification of functional requirements and user stories. Implementation of software components using existing systems, as well as deployment and operation of the platform on a cloud-based infrastructure.
+{{< /accordionItem >}}
 
-### WP5: Proof of Concept
+{{< accordionItem title="WP5: Proof of Concept" open=false >}}
 <u>Lead: PBEG</u>
 
 Execution of stochastic optimization based on AI forecasts, as well as development of a digital twin of the test sites. Validation through simulations and experimental live tests at multiple locations.
+{{< /accordionItem >}}
 
-### WP6: Dissemination and Exploitation
+{{< accordionItem title="WP6: Dissemination and Exploitation" open=false >}}
 <u>Lead: AIT</u>
 
 Development of strategies for disseminating the platform and increasing the visibility of the project. Involvement of stakeholders to ensure applicability, as well as promotion of scientific excellence, collaboration, and technology transfer.
+{{< /accordionItem >}}
+
+{{< /accordion >}}
 
 ## Further information
 

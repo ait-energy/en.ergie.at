@@ -41,35 +41,45 @@ Die gezielte Verbreitung der Projektergebnisse erhöht deren Sichtbarkeit und f�
 
 ## Tätigkeiten
 
-### AP1: Projektmanagement
+{{< accordion mode="open" separated=true >}}
+
+{{< accordionItem title="AP1: Projektmanagement" open=false >}}
 <u>Lead: AIT</u>
 
 Projektmanagement und Koordination des Projektteams sowie Überwachung von Fortschritt, Kosten, Qualität und Termintreue. Zusätzlich umfasst das Arbeitspaket die Berichterstattung, Ressourcenplanung, Kommunikation sowie die Erstellung eines Abschlussberichts.
+{{< /accordionItem >}}
 
-### AP2: Datensammlung und -aufbereitung
+{{< accordionItem title="AP2: Datensammlung und -aufbereitung" open=false >}}
 <u>Lead: AIT</u>
 
 Design und Implementierung einer Datenverarbeitungspipeline inklusive Datenbank sowie automatisierte Datensammlung und Datenbereinigung. Ergänzend werden fehlende Daten mithilfe generativer AI ergänzt und CO<sub>2</sub>-Intensitäten berechnet sowie Wetterprognosen entwickelt.
+{{< /accordionItem >}}
 
-### AP3: Entwicklung von AI-basierten Prognosealgorithmen
+{{< accordionItem title="AP3: Entwicklung von AI-basierten Prognosealgorithmen" open=false >}}
 <u>Lead: AIT</u>
 
 Review, Implementierung und Validierung generativer AI-Prognosealgorithmen mit Fokus auf transformer-basierte Architekturen, GANs und Diffusionsmodelle. Anwendung der Modelle auf Zeitreihenprognosen und Bewertung anhand von Benchmarks und KPIs.
+{{< /accordionItem >}}
 
-### AP4: Plattformentwicklung und Implementierung
+{{< accordionItem title="AP4: Plattformentwicklung und Implementierung" open=false >}}
 <u>Lead: B-SEC</u>
 
 Design der Plattformarchitektur sowie Spezifikation funktionaler Anforderungen und User Stories. Implementierung von Softwarekomponenten unter Nutzung bestehender Systeme sowie Aufbau und Betrieb der Plattform auf einer cloudbasierten Infrastruktur.
+{{< /accordionItem >}}
 
-### AP5: Methodenvalidierung (Proof of Concept)
+{{< accordionItem title="AP5: Methodenvalidierung (Proof of Concept)" open=false >}}
 <u>Lead: PBEG</u>
 
 Durchführung stochastischer Optimierung auf Basis der AI-Prognosen sowie Entwicklung eines digitalen Zwillings der Teststandorte. Validierung durch Simulationen und experimentelle Live-Tests an mehreren Standorten.
+{{< /accordionItem >}}
 
-### AP6: Dissemination und Verwertung
+{{< accordionItem title="AP6: Dissemination und Verwertung" open=false >}}
 <u>Lead: AIT</u>
 
 Entwicklung von Strategien zur Verbreitung der Plattform und Erhöhung der Sichtbarkeit des Projekts. Einbindung von Stakeholdern zur Sicherstellung der Anwendbarkeit sowie Förderung von wissenschaftlicher Exzellenz, Kooperation und Technologietransfer.
+{{< /accordionItem >}}
+
+{{< /accordion >}}
 
 ## Weiterführende Informationen
 
