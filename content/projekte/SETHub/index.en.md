@@ -40,25 +40,34 @@ A maximum technical sizing of the systems does not represent the economically op
 
 ## Activities
 
-### WP1: Project Management
+{{< accordion mode="open" separated=true >}}
+
+{{< accordionItem title="P1: Project Management" open=false >}}W
 
 This work package includes project management and coordination of the project team, as well as monitoring of progress, costs, quality, and adherence to timelines. It also covers reporting, resource planning, and communication, as well as the preparation of a comprehensive final report and a publishable report.
+{{< /accordionItem >}}
 
-### WP2: Regulatory Analysis
+{{< accordionItem title="WP2: Regulatory Analysis" open=false >}}
 
 This work package includes the definition of potential combinations of operating strategies for electrolysers (grid-supportive or market-based), as well as possible operators (market actors or grid operators, DSOs). Furthermore, it addresses ownership structures of electrolysis systems and assesses the regulatory feasibility of the defined combinations.
+{{< /accordionItem >}}
 
-### WP3: Techno-economic Analysis: Case Studies
+{{< accordionItem title="WP3: Techno-economic Analysis: Case Studies" open=false >}}
 
 This work package includes conducting a cost-benefit analysis of the use of grid-supportive electrolysis systems based on up to three specific locations, as well as the development of four realistic case studies in selected areas of the Energienetze Steiermark grid.
+{{< /accordionItem >}}
 
-### WP4: Large-scale Power Grid Simulations
+{{< accordionItem title="WP4: Large-scale Power Grid Simulations" open=false >}}
 
 This work package includes determining the use of electrolysers across the grid area based on large-scale power grid analyses.
+{{< /accordionItem >}}
 
-### WP5: Exploitation & Dissemination
+{{< accordionItem title="WP5: Exploitation & Dissemination" open=false >}}
 
 This work package includes public outreach activities and the preparation of scientific publications. It also involves discussing the results with relevant stakeholder groups and preparing follow-up activities.
+{{< /accordionItem >}}
+
+{{< /accordion >}}
 
 ## Further information
 

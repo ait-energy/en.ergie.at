@@ -39,25 +39,34 @@ Eine maximale technische Auslegung der Anlagen stellt nicht die wirtschaftlich o
 
 ## Tätigkeiten
 
-### AP1: Projektmanagement
+{{< accordion mode="open" separated=true >}}
+
+{{< accordionItem title="AP1: Projektmanagement" open=false >}}
 
 Dieses Arbeitspaket umfasst das Projektmanagement und die Koordination des Projektteams sowie die Überwachung von Fortschritt, Kosten, Qualität und Termintreue. Zusätzlich beinhaltet es die Durchführung von Berichterstattung, Ressourcenplanung und Kommunikation sowie die Erstellung eines umfassenden Abschlussberichts und eines publizierbaren Berichts.
+{{< /accordionItem >}}
 
-### AP2: Regulatorische Analyse
+{{< accordionItem title="AP2: Regulatorische Analyse" open=false >}}
 
 Dieses Arbeitspaket umfasst die Definition potenzieller Kombinationen von Betriebsstrategien der Elektrolyseure (netzdienlich oder marktbasiert) sowie möglicher Betreiber (Marktakteur oder Netzbetreiber, DSO). Darüber hinaus beinhaltet es die Klärung der Eigentümerfrage bei Elektrolyseanlagen sowie die Prüfung der regulatorischen Machbarkeit der zuvor definierten Kombinationen.
+{{< /accordionItem >}}
 
-### AP3: Techno-ökonomische Analyse: Fallstudien
+{{< accordionItem title="AP3: Techno-ökonomische Analyse: Fallstudien" open=false >}}
 
 Dieses Arbeitspaket umfasst die Durchführung einer Kosten-Nutzen-Analyse des Einsatzes netzdienlicher Elektrolyseanlagen anhand von bis zu drei spezifischen Standorten sowie die Erstellung von vier realistischen Fallstudien an ausgewählten Standorten des Netzgebiets der Energienetze Steiermark.
+{{< /accordionItem >}}
 
-### AP4: Flächendeckende Stromnetzsimulationen
+{{< accordionItem title="AP4: Flächendeckende Stromnetzsimulationen" open=false >}}
 
 Dieses Arbeitspaket umfasst die Bestimmung des Einsatzes von Elektrolyseuren für das Netzgebiet mithilfe flächendeckender Stromnetzanalysen.
+{{< /accordionItem >}}
 
-### AP5: Verwertung & Verbreitung
+{{< accordionItem title="AP5: Verwertung & Verbreitung" open=false >}}
 
 Dieses Arbeitspaket umfasst die Durchführung von Öffentlichkeitsarbeit sowie die Erstellung wissenschaftlicher Publikationen. Darüber hinaus beinhaltet es die Diskussion der Ergebnisse mit relevanten Stakeholdergruppen sowie die Vorbereitung von Nachfolgeaktivitäten.
+{{< /accordionItem >}}
+
+{{< /accordion >}}
 
 ## Weiterführende Informationen
 
