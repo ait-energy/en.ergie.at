@@ -1,6 +1,6 @@
 ---
 title: "Kapazitätsmechanismen"
-layout: literaturelist
+layout: single
 ---
 
 Chronologische Literatursammlung rund um Kapazitätsmechanismen.
