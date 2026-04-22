@@ -41,10 +41,15 @@ Simulations enable the evaluation of different scenarios and support the develop
 
 ## Activities
 
-### WP1: Project Management
+{{< accordion mode="open" separated=true >}}
+
+{{< accordionItem title="WP1: Project Management" open=false >}}WP1: Project Management
 <u>Lead: AIT</u>
 
 This work package includes the coordination of the entire project as well as alignment between project partners. It covers the organization of meetings, progress monitoring, and ensuring compliance with timelines and budgets.
+{{< /accordionItem >}}
+
+{{< /accordion >}}
 
 ## Further information
 

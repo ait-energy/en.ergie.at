@@ -41,10 +41,15 @@ Simulationen ermöglichen die Bewertung verschiedener Szenarien und helfen, geei
 
 ## Tätigkeiten
 
-### AP1: Projektmanagement
+{{< accordion mode="open" separated=true >}}
+
+{{< accordionItem title="AP1: Projektmanagement" open=false >}}
 <u>Lead: AIT</u>
 
 Das Arbeitspaket umfasst die Koordination des gesamten Projekts sowie die Abstimmung zwischen den Projektpartnern. Dazu gehören die Organisation von Meetings, das Monitoring des Fortschritts sowie die Sicherstellung der Einhaltung von Zeit- und Budgetplänen.
+{{< /accordionItem >}}
+
+{{< /accordion >}}
 
 ## Weiterfürende Informationen
 
