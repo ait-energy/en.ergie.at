@@ -184,7 +184,6 @@ Development and implementation of communication and dissemination measures to sh
 - [VTT Technical Research Centre of Finland Ltd.](https://www.vttresearch.com/en)
 - [WIZ Development & Services SRL](https://wizresearch.com/)
 
-<!-- 
 ### Funding
 
-_INTERSTORES_ is funded by the European Union. Views and opinions expressed are however those of the author(s) only and do not necessarily reflect those of the European Union or European Climate, Infrastructure and Environment Executive Agency (CINEA). Neither the European Union nor the granting authority can be held responsible for them.. -->
+_INTERSTORES_ is funded by the European Union. Views and opinions expressed are however those of the author(s) only and do not necessarily reflect those of the European Union or European Research Executive Agency. Neither the European Union nor the granting authority can be held responsible for them.
