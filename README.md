@@ -9,6 +9,12 @@ This contains helpful information related to the [en.ergie.at](https://en.ergie.
 
 ## Guide
 
+### Common pitfalls
+
+> Is a page not showing up, or you can't link to it?
+
+Check out this post [discourse.gohugo.io](https://discourse.gohugo.io/t/hugo-does-not-generate-content-files/36600/2), explaining that you might need a `_index.md` instead of a `index.md` file somewhere higher up in the file structure.
+
 ### Writing
 
 #### Highlighting
