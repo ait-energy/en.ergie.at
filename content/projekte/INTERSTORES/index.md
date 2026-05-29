@@ -4,11 +4,11 @@ topics: ["Thermische Energiespeicherung", "Erneubare Energien", "Optimierung"]
 authors: [plosieva]
 ---
 
-Die EU strebt eine rasche Dekarbonisierung des Energiesektors durch das Fit for 55-Paket, den RePowerEU-Plan und den Green Deal an. Großspeichertechnologien zur saisonalen thermischen Energiespeicherung (sTES) (z. B. Becken, Kavernen) können die Bemühungen unterstützen, indem sie die Nutzung fluktuierender Wärmequellen verbessern. INTERSTORES wird sich diesen Herausforderungen stellen und die Dekarbonisierung durch die Anwendung fortschrittlicher sTES-Technologien beschleunigen.
+Die EU strebt eine rasche Dekarbonisierung des Energiesektors durch das Fit for 55-Paket, den RePowerEU-Plan und den Green Deal an. Großspeichertechnologien zur <abbr title="saisonalen thermischen Energiespeicherung">sTES</abbr> (z. B. Becken, Kavernen) können die Bemühungen unterstützen, indem sie die Nutzung fluktuierender Wärmequellen verbessern. INTERSTORES wird sich diesen Herausforderungen stellen und die Dekarbonisierung durch die Anwendung fortschrittlicher sTES-Technologien beschleunigen.
 
 <!--more-->
 
-Das übergeordnete Ziel von INTERSTORES ist die Demonstration und Umsetzung zweier innovativer sTES-Lösungen (Wiederverwendung alter Becken, unterirdische Kavernen) und die Validierung der Nutzung als Mehrzweck-sTES an den Demostandorten. INTERSTORES zielt darauf ab, die Nachhaltigkeit zu verbessern, indem kosteneffiziente, recycelte Isoliermaterialien verwendet werden, der Einsatz erneuerbarer Energien erhöht wird und herkömmlicher Spritzbeton ersetzt wird. Der Haupteffekt wird in der Senkung der Investitionskosten, des Energiebedarfs, der Verringerung der CO<sub>2</sub>-Emissionen und der Umwelt- und Bodenbelastung gesehen.
+Das übergeordnete Ziel von _INTERSTORES_ ist die Demonstration und Umsetzung zweier innovativer sTES-Lösungen (Wiederverwendung alter Becken, unterirdische Kavernen) und die Validierung der Nutzung als Mehrzweck-sTES an den Demostandorten. _INTERSTORES_ zielt darauf ab, die Nachhaltigkeit zu verbessern, indem kosteneffiziente, recycelte Isoliermaterialien verwendet werden, der Einsatz erneuerbarer Energien erhöht wird und herkömmlicher Spritzbeton ersetzt wird. Der Haupteffekt wird in der Senkung der Investitionskosten, des Energiebedarfs, der Verringerung der CO<sub>2</sub>-Emissionen und der Umwelt- und Bodenbelastung gesehen.
 
 ## Factsheet
 
@@ -17,18 +17,10 @@ Das übergeordnete Ziel von INTERSTORES ist die Demonstration und Umsetzung zwei
 | **Kurzform** | <mark>INTERSTORES</mark> |
 | **Titel** | Internationales Innovationsnetzwerk zur Entwicklung von Kosten- und umweltfreundliche saisonale thermische Energiespeicher |
 | **Laufzeit** | 01.01.2024 -- 31.12.2027 |
-| **Partner** | 14 |
-| **Projektform** | Forschungs- und Innovationsprojekt  |
-| **Projekt Koordination** | [Prof. Dr. Peter Bayer](peter.bayer@geo.uni-halle.de) ([MLU](https://www.uni-halle.de/)] |
-| **Projektleitung AIT** | [Dr. Abdulrahman Dahash](abdulrahman.dahash(at)ait.ac.at) & [Dr. Viktoria Illyés](viktoria.illyes@ait.ac.at) |
-## Haupterkenntnisse
-
-Die Demonstration und Implementierung innovativer sTES-Lösungen im Rahmen von INTERSTORES zeigt ein großes Potenzial zur Verbesserung der Nachhaltigkeit von Energiesystemen.
-
-Insbesondere tragen der Einsatz kosteneffizienter, recycelter Dämmmaterialien sowie die verstärkte Nutzung erneuerbarer Energien zur Reduktion von Investitionskosten und Energiebedarf bei.
-
-Darüber hinaus zeigt sich eine signifikante Verringerung von CO₂-Emissionen sowie des ökologischen und bodenbezogenen Fußabdrucks.
-
+| **Partner:innen** | 14  ([alle anzeigen]({{< ref "#projektpartnerinnen" >}})) |
+| **Projektform** | Kofinanziertes Forschungsprojekt  |
+| **Konsortialführung** | [Peter Bayer](mailto:peter.bayer@geo.uni-halle.de) [(MLU)](https://www.uni-halle.de/) |
+| **Projektleitung AIT** | [Abdulrahman Dahash](mailto:abdulrahman.dahash(at)ait.ac.at) & [Viktoria Illyés](mailto:viktoria.illyes@ait.ac.at) |
 
 ## Überblick
 
@@ -36,28 +28,148 @@ Das INTERSTORES-Konsortium versucht, die hohen Kapitalkosten durch die Wiederver
 
 Die andere Richtung, die wir ins Auge fassen, ist die Einsparung von Kapitalkosten für die Entwicklung neuer sTES durch die Nutzung natürlicher Umgebungen wie Kavernen, die in dichten Felsformationen möglich sind. INTERSTORES wird den weltweit größten thermischen Energiespeicher in Felskavernen (Giga-CTES, FI) integrieren.
 
-### Projektziele
-Während der geplanten 48 Monate des Projekts wird die an zwei bedeutenden Demostandorten in Finnland und Deutschland eingesetzte Technologie vollständig realisiert und in Energiesystemen integriert.
+## Erkentnisse
 
-1. **Reno-sTES & Giga-CTES**
+### Innovative Nutzung bestehender Infrastruktur
 
-    Entwicklung eines Verfahrens zur Umwandlung von wiederverwendeter Infrastruktur in saisonale thermische Energiespeicher und Ermöglichung der sicheren Realisierung und Integration großflächiger thermischer Energiespeicher in Höhlen.
+Die Wiederverwendung bestehender Infrastrukturen für unterirdische STES-Anlagen ermöglicht eine deutliche Reduktion der Investitionskosten und unterstützt eine nachhaltige Systemtransformation.
 
-2. **Umwelt**
+### Kosteneffizienz und Ressourcenschonung
 
-    Verstehen und optimieren Sie die Umweltvorteile von wiederverwendeter Infrastruktur (Reno-sTES) und großflächiger thermischer Energiespeicherung in Höhlen (Giga-CTES).
+Der Einsatz kosteneffizienter und recycelter Dämmmaterialien trägt wesentlich zur Senkung des Energiebedarfs und der Gesamtkosten bei.
 
-3. **Leistung**
+### Beitrag zur Emissionsreduktion
 
-    Verbesserung der Leistung durch die Kombination mehrerer Speichereinheiten und durch die Integration verschiedener Quellen und Senken.
+Die implementierten Lösungen führen zu einer signifikanten Reduktion von CO<sub>2</sub>-Emissionen sowie des ökologischen und bodenbezogenen Fußabdrucks.
 
-4. **Markt**
+### Förderung der Kreislaufwirtschaft
 
-    Demonstration von zwei marktkonkurrierbaren, reproduzierbaren saisonalen thermischen Energiespeicherlösungen.
+Durch die Integration von Prinzipien der Kreislaufwirtschaft werden Umweltbelastungen reduziert und bestehende Ressourcen effizienter genutzt.
 
-### Projektpartner
+## Tätigkeiten
 
-- [MARTIN-LUTHER-UNIVERSITAT HALLE-WITTENBERG](https://geo.uni-halle.de/appliedgeo/home/) (Projektkoordinator)
+{{< accordion mode="open" separated=true >}}
+
+{{< accordionItem title="AP1: Projektmanagement" open=false >}}
+<u>Lead: MLU</u>
+
+Das Arbeitspaket umfasst die Koordination aller Projektpartner sowie das administrative und finanzielle Projektmanagement. Zusätzlich werden der Projektfortschritt überwacht, Risiken gemanagt und die Qualität der Projektergebnisse sichergestellt.
+{{< /accordionItem >}}
+
+{{< accordionItem title="AP2: Demonstratoren" open=false >}}
+<u>Lead: PGM</u>
+
+Im Fokus stehen die Auswahl und Vorbereitung der Demonstrationsstandorte sowie der Aufbau und Betrieb der Anlagen. Darüber hinaus werden Monitoring-Systeme implementiert und die Systeme unter realen Bedingungen analysiert und optimiert.
+{{< /accordionItem >}}
+
+{{< accordionItem title="AP3: Speichertechnologien" open=false >}}
+<u>Lead: AIT</u>
+
+Dieses Arbeitspaket konzentriert sich auf die Weiterentwicklung von Materialien und Komponenten für saisonale Wärmespeicher. Dabei werden physikalische Prozesse untersucht, Modelle entwickelt und Simulationen durchgeführt.
+{{< /accordionItem >}}
+
+{{< accordionItem title="AP4: Systemintegration" open=false >}}
+<u>Lead: HLU</u>
+
+Hier werden Energiesystemmodelle entwickelt und verschiedene Komponenten integriert. Mithilfe digitaler Zwillinge und Szenarioanalysen werden Systemverhalten und Optimierungspotenziale untersucht.
+{{< /accordionItem >}}
+
+{{< accordionItem title="AP5: Umweltwirkungen und Nachhaltigkeit" open=false >}}
+<u>Lead: MLU</u>
+
+Im Mittelpunkt steht die Analyse der Umweltauswirkungen über den gesamten Lebenszyklus der Systeme. Ziel ist die Bewertung von Emissionen, Ressourcennutzung und langfristigen ökologischen Effekten.
+{{< /accordionItem >}}
+
+{{< accordionItem title="AP6: Marktanalyse und Verwertung" open=false >}}
+<u>Lead: GFX</u>
+
+Dieses Arbeitspaket befasst sich mit der Analyse von Marktpotenzialen sowie der Entwicklung von Verwertungsstrategien. Dazu gehören wirtschaftliche Bewertungen, Businesspläne und Investitionsstrategien.
+{{< /accordionItem >}}
+
+{{< accordionItem title="AP7: Kommunikation und Dissemination" open=false >}}
+<u>Lead: INO</u>
+
+Hier werden Kommunikations- und Disseminationsmaßnahmen entwickelt und umgesetzt, um Projektergebnisse zu verbreiten. Dazu zählen Veranstaltungen, digitale Inhalte sowie Schulungsmaßnahmen.
+{{< /accordionItem >}}
+
+{{< /accordion >}}
+
+## Weiterführende Informationen
+
+### Deliverables 
+
+<!-- - [D1.1 Data Management Plan & Project Database (dts.: Data Management Plan & Projektdatenbank)]() -->
+- [D2.1 Demo Reports](deliverables/D2.1.pdf)
+<!-- - [D3.1 sTES Materials & Methods (dts.: Materialien und Methoden für STES-Systeme)]()
+- [D3.2 sTES Replication Scenarios (dts.: Szenarien zur Übertragung von STES-Technologien)]() -->
+- [D3.4 Concepts for Innovative sTES](deliverables/D3.4.pdf)
+<!-- - [D4.1 Digital Twin Benchmarks (dts.: Digitaler Zwilling und Benchmarking)]()
+- [D4.2 ES Controls (dts.: Steuerungsstrategien für Energiesysteme)]()
+- [D4.3 Optimal sTES Integration & ES Flexibilisation (dts.: Optimale Integration und Flexibilisierung von STES-Systemen)]()
+- [D5.1 Environmental Synergies (dts.: Umwelt-Synergien und Optimierungspotenziale)]()
+- [D5.2 Environmental Impact Assessment (dts.: Bewertung der Umweltauswirkungen)]() -->
+- [D5.4 Monitoring concepts for sTES ambient domains](deliverables/D5.4.pdf)
+<!-- - [D6.1 Exploitation/ IPR Management Plan (dts.: Verwertungs- und IPR-Managementplan)]()
+- [D6.2 Market & Potential Analysis (dts.: Markt- und Potenzialanalyse)]()
+- [D6.3 Guide for sTES Projects (dts.: Leitfaden für STES-Projekte)]()
+- [D6.4 End-User Software (dts.: Endnutzer-Software zur Projektplanung)]()
+- [D7.1 Dissemination & Communication Plan (dts.: Disseminations- und Kommunikationsplan)]()
+- [D7.2 Policy Guidelines (dts.: Politische Leitlinien und Empfehlungen)]() -->
+
+
+### Vetöffentlichungen
+
+{{< keyword >}}Konferenzbeitrag{{< /keyword >}} Proceedings of Building Simulation 2025: 19th Conference of IBPSA [A modelling-based parametric assessment of sTES design and operation within a thermal source network](https://doi.org/10.26868/25222708.2025.1708)
+
+{{< keyword >}}Konferenzbeitrag{{< /keyword >}} [Simulation-based design of world's largest cavern thermal energy storage: Optomosation of VARANTO](assets/publikation1.pdf)
+
+{{< keyword >}}Konferenzbeitrag{{< /keyword >}} [Thermal characterization of crystalline rocks for cavern thermal energy storage application](assets/publikation2.pdf)
+
+{{< keyword >}}Konferenzbeitrag{{< /keyword >}} [Towards high thermal-to-hydraulic performance of heat exchangers for water-gravel thermal energy storage](assets/publikation3.pdf)
+
+{{< keyword >}}Konferenzbeitrag{{< /keyword >}} [Recycling of subsurface heat loss from thermal energy storage basins through geothermal trenches](https://doi.org/10.5194/egusphere-egu25-5644)
+
+{{< keyword >}}Konferenzbeitrag{{< /keyword >}} [Modeling multi-basin water-gravel thermal energy storages with STORE](10.5281/zenodo.13790499)
+
+{{< keyword >}}Konferenzbeitrag{{< /keyword >}} [Wärme- und Kältenetze der 5. Generation in der industriellen Energieversorgung -- Herausforderungen und Potenziale am Beispiel des incampus](assets/publikation5.pdf)
+
+{{< keyword >}}Konferenzbeitrag{{< /keyword >}} [The IN-Campus: A lighthouse site for re-used infrastructures as seasonal thermal energy storage](assets/publikation6.pdf)
+
+{{< keyword >}}Konferenzbeitrag{{< /keyword >}} [Modeling and simulation of combined basin structures for seasonalthermal energy storage](https://doi.org/10.5194/egusphere-egu24-1482)
+
+{{< keyword >}}Konferenzbeitrag{{< /keyword >}} [Enhancing Efficiency and Feasibility of Large-Scale Thermal Energy Storage in District Heating ](assets/publikation7.pdf)
+
+{{< keyword >}}Artikel{{< /keyword >}} [Simulation-based planning for cost-effective and energy-efficient large-scale seasonal thermal energy storage systems](https://doi.org/10.1016/j.renene.2025.124813)
+
+{{< keyword >}}Artikel{{< /keyword >}} [Comprehensive life cycle assessment of selected seasonal thermal energy storage systems](https://doi.org/10.1016/j.renene.2025.124232)
+
+{{< keyword >}}Artikel{{< /keyword >}} [Development of a reduced-order dynamic model for large-scale seasonal thermal energy storage applications](https://doi.org/10.1016/j.energy.2025.137379)
+
+{{< keyword >}}Artikel{{< /keyword >}} [Cavern thermal energy storage: State of play and prospects](https://doi.org/10.1016/j.apenergy.2025.127141)
+
+{{< keyword >}}Artikel{{< /keyword >}} [Implementation of an expanding thermal source network as a step towards CO<sub>2</sub> neutral industry](https://doi.org/10.1016/j.energy.2025.136766)
+
+{{< keyword >}}Artikel{{< /keyword >}} [Integrating a seasonal thermal energy storage FMU in a MATLAB/Simscape thermal source network model](https://doi.org/10.3384/ecp218851)
+
+{{< keyword >}}Artikel{{< /keyword >}} [Influence of thermal energy storage basins on the subsurface and shallow groundwater](https://doi.org/10.1016/j.est.2024.112222)
+
+{{< keyword >}}Artikel{{< /keyword >}} [Analytical solution for the simulation of ground thermal conditions around planar trench collector](https://doi.org/10.1016/j.geothermics.2024.103123)
+
+{{< keyword >}}Präsentation{{< /keyword >}} [Environmental impacts from constructing seasonal underground thermal energy storage systems](assets/Presentation3.pdf)
+
+{{< keyword >}}Präsentation{{< /keyword >}} [Modern Benchmark of Adaptive Thermal Source Network at an Industrial Site](assets/Presentation4.pdf)
+
+{{< keyword >}}Präsentation{{< /keyword >}} [Environmental impact and optimisation potential of sTES](assets/Presentation1.pdf)
+
+{{< keyword >}}Präsentation{{< /keyword >}} [Geothermal trenches for utilisation os shallow ground resources](assets/Presentation2.pdf)
+
+{{< keyword >}}Abstract{{< /keyword >}} [Environmental impacts from constructing seasonal underground thermal energy storage systems](https://doi.org/10.5194/egusphere-egu25-6553)
+
+{{< keyword >}}Poster{{< /keyword >}} [Recycling of subsurface heat loss from thermal energy storage basins through geothermal trenches](assets/poster1.pdf)
+
+### Projektpartner:innen
+
+- [MARTIN-LUTHER-UNIVERSITAT HALLE-WITTENBERG](https://geo.uni-halle.de/appliedgeo/home/) (Projektkoordination)
 - [AIT Austrian Institute of Technology GmbH](https://www.ait.ac.at/ueber-das-ait/center/center-for-energy)
 - [E.ON UK Infrastructure Services Limited](https://www.eonenergy.com/)
 - [Stichting Global Energiesprong Alliance](https://www.energiesprong.org/)
@@ -72,224 +184,6 @@ Während der geplanten 48 Monate des Projekts wird die an zwei bedeutenden Demos
 - [TEKNOLOGIAN TUTKIMUSKESKUS VTT OY](https://www.vttresearch.com/en)
 - [WIZ DEVELOPMENT & SERVICES SRL](https://wizresearch.com/)
 
-### Weitere Informationen
-
-- Projekthomepage: [interstores.eu](https://interstores.eu/)
-- AIT Projektinformationen: [www.ait.ac.at](https://www.ait.ac.at/themen/waermenetze-und-kaeltenetze-fuer-stadt-und-industrie/projekte/saisonalen-thermische-energiespeicher)
-
 ### Förderhinweis
 
-INTERSTORES wird von der Europäischen Union gefördert. Die geäußerten Ansichten und Meinungen entsprechen jedoch aussschließlich denen der Autorinnen und Autoren und spiegeln nicht unbedingt die der Europäischen Union oder der Exekutivagentur für die Forschung wider. Weder die Europäische Union noch die Förderstelle übernehmen dafür Verantwortung
-
-## Arbeitspakete & Deliverables
-
-Die Projektziele werden mithilfe von vier dedizierten Arbeitspaketen innerhalb des Projekts erreicht, die auf Folgendes abzielen:
-
-{{< timeline >}}
-
-<!-- =============================================================================================================== -->
-{{< timelineItem icon="eye" header="Arbeitspaket 1" badge="Lead: MLU" subheader="Projektmanagment" >}}
-<u>Aufgaben</u><br>
-
-<ul>
-  <li>Sicherstellung einer qualitativ hochwertigen Projektumsetzung durch effektive Koordination aller Projektpartner und externen Akteure  </li>
-  <li>Organisation und Durchführung des administrativen sowie finanziellen Projektmanagements, einschließlich Budgetkontrolle und Reporting  </li>
-  <li>Entwicklung und Umsetzung eines Data-Management-Plans sowie Aufbau und Pflege einer zentralen Projektdatenbank</li>
-  <li>Kontinuierliche Überwachung des Projektfortschritts, einschließlich Tracking von Meilensteinen und Deliverables </li>
-  <li>Koordination der internen und externen Kommunikation zwischen den Projektpartnern sowie mit der Europäischen Kommission </li>
-  <li>Durchführung regelmäßiger Meetings (virtuell und vor Ort) zur Abstimmung, Wissensaustausch und Sicherstellung der Zusammenarbeit  </li>
-  <li>Sicherstellung der Qualität aller Projektergebnisse durch geeignete Qualitätsmanagementprozesse</li>
-  <li>Identifikation, Bewertung und Minimierung von Projektrisiken sowie Anpassung von Maßnahmen bei Bedarf </li>
-</ul>
-
-<u>Deliverables</u><br>
-<mark>D1.1</mark> <a href="deliverables/#">Data Management Plan & Projektdatenplan</a><br> <!-- TODO: replace # with PDF -->
-{{< /timelineItem >}}
-<!-- =============================================================================================================== -->
-
-{{< timelineItem icon="eye" header="Arbeitspaket 2" badge="Lead: PGM" subheader="Demonstratoren" >}}
-<u>Aufgaben</u><br>
-<ul>
-<li>Charakterisierung und Vorbereitung der Demonstrationsstandorte (inkl. Datenerhebung zu Energieflüssen, Materialien und Standortbedingungen)</li>
-<li>Entwicklung und Implementierung von Monitoring-Systemen zur automatisierten Datenerfassung und Analyse</li>
-<li>Durchführung von Bau-, Installations- und Integrationsmaßnahmen für sTES-Systeme</li>
-<li>Betrieb, Überwachung und Validierung der Demonstrationsanlagen unter realen Bedingungen</li>
-<li>Analyse der Systemleistung (z. B. Temperatur, Druck, Energieflüsse) und Optimierung des Betriebs</li>
-<li>Bewertung der technischen, wirtschaftlichen und ökologischen Performance der Systeme</li>
-<li>Ableitung von Erkenntnissen und Benchmarks für die Übertragbarkeit auf andere Standorte</li>
-</ul>
-
-<u>Deliverables</u><br>
-<mark>D2.1</mark> <a href="/deliverables/#">Demonstrationsberichte</a> <!-- TODO: replace # with PDF -->
-{{< /timelineItem >}}
-<!-- =============================================================================================================== -->
-
-{{< timelineItem icon="eye" header="Arbeitspaket 3" badge="Lead: AIT" subheader="Speichertchnologien" >}}
-<u>Aufgaben</u><br>
-<ul>
-<li>Weiterentwicklung und Optimierung von Materialien und Komponenten für saisonale thermische Energiespeicher (sTES)</li>
-<li>Untersuchung von Wärme- und Stofftransport sowie Materialverhalten unter verschiedenen Betriebsbedingungen</li>
-<li>Entwicklung und Analyse von Lade- und Entladestrategien sowie technischen Konfigurationen der Speichersysteme</li>
-<li>Charakterisierung des Untergrunds und Aufbau von geologischen und thermischen Modellen</li>
-<li>Durchführung von Simulationen zur Beschreibung des Systemverhaltens und zur Leistungsbewertung</li>
-<li>Entwicklung von Modellen und KI-basierten Methoden zur Optimierung des Systembetriebs</li>
-<li>Validierung und Kalibrierung der Modelle anhand von Messdaten</li>
-<li>Bewertung der technischen, wirtschaftlichen und ökologischen Performance</li>
-<li>Ableitung von optimalen Betriebsstrategien und Übertragbarkeit auf andere Standorte</li>
-</ul>
-
-<u>Deliverables</u><br>
-<mark>D3.1</mark> <a href="/deliverables/#"> <!-- TODO: replace # with PDF -->
-Materialien und Methoden für sTES-Systeme
-</a><br>
-<mark>D3.2</mark> <a href="/deliverables/#"> <!-- TODO: replace # with PDF -->
-Szenarien zur Übertragung von sTES-Technologien
-</a>
-{{< /timelineItem >}}
-<!-- =============================================================================================================== -->
-
-{{< timelineItem icon="eye" header="Arbeitspaket 4" badge="Lead: HLU" subheader="Systemintegration" >}}
-<u>Aufgaben</u><br>
-<ul>
-<li>Entwicklung und Kalibrierung von Energiesystemmodellen basierend auf realen Betriebs- und Messdaten</li>
-<li>Integration von Wärmequellen, -senken und Speichersystemen in ganzheitliche Energiesystemmodelle</li>
-<li>Aufbau und Anwendung eines digitalen Zwillings zur Simulation und Vorhersage der Systemleistung</li>
-<li>Durchführung von Szenarioanalysen zur Bewertung von Systemverhalten und Optimierungspotenzialen</li>
-<li>Entwicklung und Implementierung von Steuerungsstrategien für sTES-Systeme</li>
-<li>Optimierung des Lade- und Entladeverhaltens sowie der Systemintegration in bestehende Energiestrukturen</li>
-<li>Analyse verschiedener Betriebsmodi und deren Einfluss auf Effizienz, Kosten und Stabilität</li>
-<li>Validierung der Modelle und Regelungsstrategien anhand von Demonstrationsdaten</li>
-<li>Übertragung und Anpassung der Lösungen auf verschiedene Standorte und Energiesysteme</li>
-</ul>
-<u>Deliverables</u><br>
-
-<mark>D4.1</mark> <a href="/deliverables/#f"> <!-- TODO: replace # with PDF -->
-Digitaler Zwilling und Benchmarking
-</a><br>
-
-<mark>D4.2</mark> <a href="/deliverables/#"> <!-- TODO: replace # with PDF -->
-Steuerungsstrategien für Energiesysteme
-</a><br>
-
-<mark>D4.3</mark> <a href="/deliverables/#"> <!-- TODO: replace # with PDF -->
-Optimale Integration und Flexibilisierung von sTES-Systemen
-</a>
-{{< /timelineItem >}}
-<!-- =============================================================================================================== -->
-
-{{< timelineItem icon="eye" header="Arbeitspaket 5" badge="Lead: MLU" subheader="Umweltwirkungen und Nachhaltigkeit" >}}
-<u>Aufgaben</u><br>
-<ul>
-<li>Analyse und Bewertung der Umweltauswirkungen von sTES-Systemen auf lokaler und globaler Ebene</li>
-<li>Untersuchung von Umweltwirkungen über den gesamten Lebenszyklus (Planung, Bau, Betrieb und Rückbau)</li>
-<li>Identifikation und Nutzung von Umwelt-Synergien zur Reduktion von Emissionen und Ressourcenverbrauch</li>
-<li>Modellierung von Umweltinteraktionen, insbesondere mit Boden, Grundwasser und Umgebung</li>
-<li>Analyse von Energieverlusten und deren Auswirkungen auf die Umwelt</li>
-<li>Durchführung von Life-Cycle-Assessments (LCA) zur Bewertung der Nachhaltigkeit</li>
-<li>Bewertung langfristiger Umweltauswirkungen und Einfluss von Klimaveränderungen</li>
-</ul>
-<u>Deliverables</u><br>
-
-<mark>D5.1</mark> <a href="/deliverables/#">  <!-- TODO: replace # with PDF -->
-Umwelt-Synergien und Optimierungspotenziale
-</a><br>
-
-<mark>D5.2</mark> <a href="/deliverables/#"> <!-- TODO: replace # with PDF -->
-Bewertung der Umweltauswirkungen
-</a>
-{{< /timelineItem >}}
-<!-- =============================================================================================================== -->
-
-{{< timelineItem icon="eye" header="Arbeitspaket 6" badge="Lead: GFX" subheader="Marktanalyse und Verwertung" >}}
-<u>Aufgaben</u><br>
-<ul>
-<li>Entwicklung von Verwertungsstrategien für Projektergebnisse und Innovationen</li>
-<li>Erstellung von Businessplänen und wirtschaftlichen Analysen für sTES-Anwendungen</li>
-<li>Bewertung von Marktpotenzialen auf lokaler, nationaler und europäischer Ebene</li>
-<li>Analyse von Anwendungsfeldern und Einsatzmöglichkeiten saisonaler Energiespeicher</li>
-<li>Identifikation geeigneter Standorte und Bewertung räumlicher Potenziale</li>
-<li>Bewertung wirtschaftlicher Risiken und Durchführung von SWOT-Analysen</li>
-<li>Entwicklung von Finanzierungs- und Investitionsstrategien</li>
-</ul>
-<u>Deliverables</u><br>
-
-<mark>D6.1</mark> <a href="/deliverables/#"> <!-- TODO: replace # with PDF -->
-Verwertungs- und IPR-Managementplan
-</a><br>
-
-<mark>D6.2</mark> <a href="/deliverables/#"> <!-- TODO: replace # with PDF -->
-Markt- und Potenzialanalyse
-</a><br>
-
-<mark>D6.3</mark> <a href="/deliverables/#"> <!-- TODO: replace # with PDF -->
-Leitfaden für sTES-Projekte
-</a><br>
-
-<mark>D6.4</mark> <a href="/deliverables/#"> <!-- TODO: replace # with PDF -->
-Endnutzer-Software zur Projektplanung
-</a>
-{{< /timelineItem >}}
-<!-- =============================================================================================================== -->
-
-{{< timelineItem icon="eye" header="Arbeitspaket 7" badge="Lead: INO" subheader="Kommunikation, Dissemination und Outreach" >}}
-<u>Aufgaben</u><br>
-<ul>
-<li>Entwicklung und Umsetzung einer Kommunikations- und Disseminationsstrategie</li>
-<li>Erstellung und Pflege von Website, Social-Media-Kanälen und digitalen Inhalten</li>
-<li>Definition von Zielgruppen sowie Anpassung der Kommunikationsmaßnahmen an deren Bedürfnisse</li>
-<li>Organisation und Durchführung von Veranstaltungen, Workshops und Konferenzen</li>
-<li>Aufbau eines Netzwerks zur Verbreitung der Projektergebnisse</li>
-<li>Durchführung von Schulungen und Capacity-Building-Maßnahmen</li>
-</ul>
-<u>Deliverables</u><br>
-
-<mark>D7.1</mark> <a href="/deliverables/#"> <!-- TODO: replace # with PDF -->
-Disseminations- und Kommunikationsplan
-</a><br>
-
-<mark>D7.2</mark> <a href="/deliverables/#"> <!-- TODO: replace # with PDF -->
-Politische Leitlinien und Empfehlungen
-</a>
-{{< /timelineItem >}}
-<!-- =============================================================================================================== -->
-
-{{< /timeline >}}
-
-## Einblicke <!--Ich bin mir nicht sicher, ob Einblicke so ausschauen sollen, aber derzeit habe ich keine Informationen zu Events oder Fotos -->
-{{< timeline >}}
-
-<!-- =============================================================================================================== -->
-
-{{< timelineItem icon="star" header="Projektstart" badge="01.01.2024" >}}
-{{< /timelineItem >}}
-
-<!-- =============================================================================================================== -->
-
-{{< timelineItem icon="star" header="Digitale Zwillinge für saisonale Speicher" >}}
-
-Im Projekt INTERSTORES werden Digitale Zwillinge eingesetzt, um das thermische Verhalten großer saisonaler Wärmespeicher realitätsnah abzubilden. Mithilfe gekoppelter Simulationsmodelle lassen sich Lade- und Entladeprozesse über den gesamten Jahresverlauf hinweg präzise analysieren.
-
-So können Betriebsstrategien unter realen Bedingungen getestet und kontinuierlich optimiert werden, wodurch Energieverluste gezielt reduziert und die Effizienz der Langzeitspeicherung deutlich gesteigert wird, ohne in den realen Betrieb eingreifen zu müssen..
-
-{{< /timelineItem >}}
-
-<!-- =============================================================================================================== -->
-
-{{< timelineItem icon="star" header="Demonstration und Validierung an realen Standorten" >}}
-
-Ein zentraler Bestandteil des Projekts ist die Umsetzung und das Monitoring an europäischen Demonstrationsstandorten. Dort werden reale Betriebsdaten kontinuierlich erfasst und mit den entwickelten Simulationsmodellen abgeglichen.
-
-Diese Rückkopplung ermöglicht es, Modelle unter realen Klimabedingungen zu validieren und gezielt weiterzuentwickeln. Abweichungen können frühzeitig erkannt und die Systemperformance unter Praxisbedingungen zuverlässig bewertet werden.
-
-{{< /timelineItem >}}
-
-<!-- =============================================================================================================== -->
-
-{{< timelineItem icon="star" header="Sektorübergreifende Systemintegration" >}}
-
-INTERSTORES untersucht die Integration saisonaler Wärmespeicher in komplexe Energiesysteme. Dabei werden Verbraucher, Erzeuger (z. B. Industrieabwärme oder Solarthermie) und Speicher systematisch miteinander verknüpft.
-
-Durch intelligente Regelungsstrategien können Energieflüsse in Echtzeit aufeinander abgestimmt werden. So entsteht ein flexibles Gesamtsystem, das Lastspitzen ausgleicht, erneuerbare Energie optimal nutzt und eine stabile, CO₂-arme Wärmeversorgung ermöglicht.
-
-{{< /timelineItem >}}
-{{< /timeline >}}
+_INTERSTORES_ wird von der Europäischen Union gefördert. Die geäußerten Ansichten und Meinungen entsprechen jedoch aussschließlich denen der Autorinnen und Autoren und spiegeln nicht unbedingt die der Europäischen Union oder der Exekutivagentur für die Forschung wider. Weder die Europäische Union noch die Förderstelle übernehmen dafür Verantwortung 
