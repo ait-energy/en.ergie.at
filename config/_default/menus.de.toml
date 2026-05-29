@@ -98,22 +98,52 @@
   weight = 51
 
 [[main]]
-  name = "transpAIrent.energy"
+  name = "Anergie Leicht Gemacht"
   parent = "Projekte"
-  pageRef = "projekte/transpairent-energy"
+  pageRef = "projekte/Anergie Leicht Gemacht"
   weight = 52
 
 [[main]]
-  name = "TeKaVe"
+  name = "AnergIQ"
   parent = "Projekte"
-  pageRef = "projekte/tekave"
+  pageRef = "projekte/anergiq"
   weight = 53
+
+[[main]]
+  name = "Cells4.Energy"
+  parent = "Projekte"
+  pageRef = "projekte/cells4.energy"
+  weight = 54
+
+[[main]]
+  name = "H2REAL"
+  parent = "Projekte"
+  pageRef = "projekte/H2REAL"
+  weight = 55
+
+[[main]]
+  name = "INTERSTORES"
+  parent = "Projekte"
+  pageRef = "projekte/INTERSTORES"
+  weight = 56
 
 [[main]]
   name = "SETHub"
   parent = "Projekte"
   pageRef = "projekte/SETHub"
-  weight = 54
+  weight = 57
+
+[[main]]
+  name = "TeKaVe"
+  parent = "Projekte"
+  pageRef = "projekte/tekave"
+  weight = 58
+
+[[main]]
+  name = "transpAIrent.energy"
+  parent = "Projekte"
+  pageRef = "projekte/transpairent-energy"
+  weight = 59
 
 # ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ #
 # >> main >> GITHUB                                                            #
