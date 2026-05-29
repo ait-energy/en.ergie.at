@@ -28,6 +28,13 @@
   pageRef = "tools/heat_highway"
   weight = 4
 
+[[main]]
+  name = "DigIPlat Tool"
+  identifier = "digiplat_tool"
+  parent = "Tools"
+  pageRef = "tools/digiplat_tool"
+  weight = 5
+
 # ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ #
 # >> main >> WISSEN                                                            #
 # ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ #
