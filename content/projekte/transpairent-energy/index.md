@@ -87,7 +87,7 @@ Entwicklung von Strategien zur Verbreitung der Plattform und Erhöhung der Sicht
 
 - [D1.1 Zwischenbericht 1](deliverables/d11.pdf)
 - [D2.1 Dokumentation der Datenvalidierung](deliverables/d21.pdf)
-- [D2.2 Veröffentlichung algorithmischer Methoden und vollständiger Datenpipeline](deliverables/d22)
+- [D2.2 Veröffentlichung algorithmischer Methoden und vollständiger Datenpipeline](projekte/transpairent-energy/deliverables/d22.md)
 - [D3.1 Überprüfung des Algorithmus und Implementierungsdokumentation](deliverables/d31_d32.pdf)
 - [D3.2 Dokumentation der Ergebnisse der Algorithmusvalidierung](deliverables/d31_d32.pdf)
 - [D4.1 Anforderungsanalyse und Use-Case-Spezifikation](deliverables/d41.pdf)
