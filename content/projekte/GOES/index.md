@@ -1,0 +1,131 @@
+---
+title: "GOES"
+topics: ["Geothermie", "Fernwärme", "Dekarbonisierung"]
+authors: [plosieva]
+---
+
+Das Projekt adressiert zentrale Herausforderungen der Transformation des Energiesystems im Kontext von Dekarbonisierung, Digitalisierung und zunehmender Systemkomplexität. Im Fokus steht die Entwicklung eines standardisierten <abbr title="plattformbasierter Designansatz">PBD</abbr>, der eine effiziente Integration erneuerbarer Energiequellen - insbesondere Geothermie - auf unterschiedlichen Systemebenen ermöglicht.
+
+<!--more-->
+
+Durch die Verknüpfung von technologischen, räumlichen und systemischen Ebenen zielt das Projekt darauf ab, skalierbare und übertragbare Lösungen für die Planung und Optimierung nachhaltiger Energiesysteme auf Stadt- und Quartiersebene bereitzustellen.
+
+## Factsheet
+
+|   |   |
+|---|---|
+| **Kurzform** | <mark>GOES</mark> |
+| **Titel** | Geothermal based Optimized Energy Systems |
+| **Laufzeit** | 31.12.2022 -- 31.08.2026 |
+| **Partner:innen** | 8 ([alle anzeigen]({{< ref "#projektpartnerinnen" >}})) | 
+| **Projektform** | Kofinanziertes Forschungsprojekt |
+| **Projektleitung AIT** | [Nicolas Marx](mailto:Nicolas.Marx@ait.ac.at)|  
+
+## Überblick
+
+Das Projekt entwickelt und validiert ein standardisiertes Framework für PBD, das den Informationsaustausch und die Interoperabilität zwischen verschiedenen Ebenen des Energiesystems verbessert. Ziel ist es, die Integration geothermischer Energiesysteme in bestehende und neue urbane Strukturen zu erleichtern und deren Einsatz effizient zu gestalten.
+
+Im Rahmen des Projekts werden Methoden zur Identifikation geeigneter Standorte, zur Erstellung detaillierter Untergrundmodelle sowie zur Integration von Wärme- und Kältenetzen entwickelt. Die Lösungen werden in mehreren Pilot- und Demonstrationsprojekten in unterschiedlichen Ländern angewendet und getestet.
+
+Darüber hinaus werden die ökologischen und techno-ökonomischen Auswirkungen der entwickelten Ansätze analysiert. Die Ergebnisse tragen zur Entwicklung standardisierter, skalierbarer Lösungen für nachhaltige Energieversorgungssysteme auf Stadt- und Nachbarschaftsebene bei.
+
+## Erkenntnisse
+
+### Plattformbasierte Ansätze ermöglichen integrierte Energiesysteme
+
+Die Anwendung eines standardisierten PBD Ansatzes erlaubt die Verknüpfung verschiedener Ebenen des Energiesystems und unterstützt eine ganzheitliche Planung und Optimierung geothermischer Energiesysteme.
+
+### Standardisierte Schnittstellen sind zentral für Skalierbarkeit
+
+Die Definition klarer Schnittstellen zwischen unterschiedlichen Maßstabsebenen verbessert den Informationsaustausch und ermöglicht eine effiziente Integration von Technologien in bestehende und neue urbane Energiestrukturen.
+
+### Geothermie bietet großes Potenzial für urbane Energiesysteme
+
+Die Ergebnisse zeigen, dass oberflächennahe Geothermie insbesondere in Kombination mit Wärme- und Kältenetzen ein hohes Potenzial für nachhaltige Energieversorgung auf Stadt- und Quartiersebene bietet.
+
+### Multi-Skalen-Modelle verbessern Entscheidungsprozesse
+
+Die Nutzung detaillierter Untergrundmodelle und Energiesystemanalysen auf verschiedenen Ebenen ermöglicht fundiertere Entscheidungen bei Planung und Umsetzung von Energiesystemen.
+
+### Demonstrationsprojekte bestätigen Übertragbarkeit
+
+Die Anwendung des PBD-Ansatzes in mehreren Pilot- und Fallstudien in unterschiedlichen Ländern zeigt die Reproduzierbarkeit und Übertragbarkeit der entwickelten Lösungen.
+
+### Ökologische und ökonomische Bewertung ist essenziell
+
+Die Analyse der Umweltwirkungen und techno-ökonomischen Aspekte liefert wichtige Erkenntnisse für die Umsetzung klimaneutraler Lösungen im Bereich Heizen und Kühlen.
+
+## Tätigkeiten  
+
+{{< accordion mode="open" separated=true >}}
+
+{{< accordionItem title="AP1: Unterirdischer Maßstab" open=false >}}
+Auf unterirdischer Ebene werden standortspezifische Bedingungen sowie thermische Wechselwirkungen mit bestehender Infrastruktur analysiert. Durch den Einsatz multiphysikalischer Simulationen werden Modelle entwickelt, die anschließend vereinfacht, standardisiert und anhand von Pilotstandorten validiert werden.
+{{< /accordionItem >}}
+
+{{< accordionItem title="AP2: Technologie & Gebäudemaßstab" open=false >}}
+
+Im zweiten Arbeitspaket werden lokale Energiequellen und -bedarfe analysiert und integriert. Dabei kommen simulationsbasierte Designplattformen sowie maschinelle Lernansätze zum Einsatz, um Heiz- und Kühlbedarfe zu bestimmen und Modelle für Gebäude- und Energiesysteme zu entwickeln.
+{{< /accordionItem >}}
+
+{{< accordionItem title="AP3: Stadt-zu-Stadt-Skala" open=false >}}
+<u>Lead: AIT</u>
+
+Im Fokus steht die Integration räumlich aufgelöster Modelle für Energiebedarf und -angebot sowie die Entwicklung standardisierter Schnittstellen zwischen verschiedenen Maßstabsebenen. Ziel ist es, den Austausch von Modellen und Entwurfsspezifikationen zu ermöglichen und eine konsistente Systemintegration sicherzustellen.
+
+Darüber hinaus umfasst AP3 die Entwicklung eines KPI-Frameworks zur Bewertung von Entscheidungen im Energiesystemdesign sowie den Einsatz fortschrittlicher Modellierungstechniken zur Identifikation optimaler Energielösungen.
+
+Die Verknüpfung von Stadt- und Quartiersebene ermöglicht eine Rückkopplung im Planungsprozess und unterstützt fundierte Entscheidungen über verschiedene Ebenen hinweg.
+{{< /accordionItem >}}
+
+{{< accordionItem title="AP4: Skalenübergreifende Integration" open=false >}}
+
+AP4 verbindet die Ergebnisse der verschiedenen Maßstabsebenen und integriert sie in ein gemeinsames Plattformkonzept. Der Fokus liegt auf der Entwicklung standardisierter Schnittstellen und eines übertragbaren Frameworks zur Anwendung an unterschiedlichen Standorten.
+{{< /accordionItem >}}
+
+{{< accordionItem title="AP5: Implementierung" open=false >}}
+
+In diesem Arbeitspaket werden die entwickelten Methoden und Modelle in Pilotprojekten validiert und demonstriert. Dies umfasst Kalibrierung, Anwendung in realen Umgebungen sowie die Ableitung von Best-Practice-Ansätzen.
+{{< /accordionItem >}}
+
+{{< accordionItem title="AP6: Management" open=false >}}
+
+Das Management umfasst die Koordination und Überwachung aller Projektaktivitäten. Dazu gehören organisatorische Aufgaben, Fortschrittskontrolle, Datenmanagement sowie die Unterstützung von Wissenstransfer und Zusammenarbeit innerhalb des Konsortiums.
+{{< /accordionItem >}}
+
+{{< /accordion >}}
+
+## Weiterführende Informationen
+<!-- 
+### Deliverable 
+- [D]()
+- [D]()
+- [D]() -->
+
+###  Veröffentlichungen  
+
+{{< keyword >}}Publikation{{< /keyword >}} Alessandro Maccarini, Michael Wetter, Davide Varesano, Martin Bloemendal, Alireza Afshari (2023). [Low-order aquifer thermal energy storage model for geothermal system simulation](https://doi.org/10.3384/ecp204389)
+
+{{< keyword >}}Publikation{{< /keyword >}} Nicolas Marx, Daniel Horak, Johannes Conrad, Bernhard Mayr, Ralf-Roman Schmidt, Edith Haslinger and Ali Hainoun (2024). [Techno-Economic Feasibility of District and Individual Heating & Cooling Solutions – A Preliminary Assessment of Selected Case Studies](https://vbn.aau.dk/en/publications/book-of-abstracts-10th-international-conference-on-smart-energy-s-2/)
+
+{{< keyword >}}Journal{{< /keyword >}} Matthias Sulzer, Michael Wetter, Robin Mutschler, Alberto Sangiovanni-Vincentelli (2023). [Platform-based design for energy systems](https://doi.org/10.1016/j.apenergy.2023.121955)
+
+{{< keyword >}}Journal{{< /keyword >}} Florian Barth, Simon Schüppler, Kathrin Menberg, Philipp Blum (2023). [Estimating cooling capacities from aerial images using convolutional neural networks](https://doi.org/10.1016/j.apenergy.2023.121561)
+
+{{< keyword >}}Journal{{< /keyword >}} Daniel Horak, Ali Hainoun, Gernot Stoeglehner (2025). [Urban energy system modeling as strategic tool for integrated spatial and energy planning: A multi-node, multi-stage optimization approach](https://doi.org/10.1016/j.esr.2025.101904), 2025
+
+### Projektpartner:innen 
+
+- [Empa](https://www.empa.ch/) (Projektkoordination)
+- [AIT Austrian Institute of Technology GmbH](https://www.ait.ac.at/)
+- [Lawrence Berkeley National Lab (LBNL)](https://www.lbl.gov/)
+- [University of California – Berkeley](https://www.berkeley.edu/)
+- [Karlsruhe Institute of Technology (KIT)](https://www.kit.edu/)
+- [Aalborg University (AAU)](https://www.en.aau.dk/)
+- [Energy Machines](https://www.energymachines.com/)
+- [Sympheny](https://www.sympheny.com/#1)
+
+<!-- ### Förderhinweis
+
+Das Projekt wird neben den nationalen Förderagenturen Österreichs, Dänemarks, Deutschlands, der USA und der Schweiz auch von GEOTHERMICA - ERA-NET SES kofinanziert. Dieses  Projekt hat Fördermittel aus dem Forschungs- und Innovationsprogramm Horizon 2020 der Europäischen Union im Rahmen der Finanzhilfevereinbarung Nr. 731117 erhalten.
+Mehr Informationen finden sich in der [FFG Projektdatenbank](https://projekte.ffg.at/projekt/4448096). -->
