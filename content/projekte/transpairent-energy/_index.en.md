@@ -1,6 +1,7 @@
 ---
 title: "transpAIrent.energy"
 topics: ["AI", "Forecasts", "Biogas", "PV", "Battery storage"]
+layout: single
 authors: [sstroemer, kmaggauer]
 ---
 
@@ -86,7 +87,7 @@ Development of strategies for disseminating the platform and increasing the visi
 ### Deliverables
 - [D1.1 Interim report 1](deliverables/d11.pdf)
 - [D2.1 Documentation of data validation](deliverables/d21.pdf)
-- [D2.2 Publication of algorithmic methodologies and complete data pipeline](projekte/transpairent-energy/deliverables/d22.en.md)
+- [D2.2 Publication of algorithmic methodologies and complete data pipeline](deliverables/d22.en.md)
 - [D3.1 Algorithm review and implementation documentation](deliverables/d31_d32.pdf)
 - [D3.2 Algorithm validation result documentation](deliverables/d31_d32.pdf)
 - [D4.1 Application requirements and use case specification](deliverables/d41.pdf)
