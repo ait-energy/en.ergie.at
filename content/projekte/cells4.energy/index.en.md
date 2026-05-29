@@ -65,7 +65,7 @@ Administrative and technical project management, including meeting organization,
 Development of concepts for energy cells, creation of scenarios for real and virtual test environments, analysis of regulatory frameworks, and development of a cell simulator and economic models.
 {{< /accordionItem >}}
 
-{{< accordionItem title="}WP3: Development and validation of technology pathways" open=false >}  
+{{< accordionItem title="WP3: Development and validation of technology pathways" open=false >}}
 <u>Lead: HyCentA</u>
 
 Development of resilient hybrid power plant concepts, cross-sector energy systems, and concepts for heat utilization, flexibility, and integration into distribution grids.

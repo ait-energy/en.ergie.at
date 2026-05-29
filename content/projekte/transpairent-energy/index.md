@@ -83,24 +83,27 @@ Entwicklung von Strategien zur Verbreitung der Plattform und Erhöhung der Sicht
 
 ## Weiterführende Informationen
 
-<!-- ### Deliverables
+### Deliverables
 
-- [D1.1 Interim report 1 (dts.: Zwischenbericht 1)](deliverables/d1_1)
+- [D1.1 Zwischenbericht 1](deliverables/d11.pdf)
+- [D2.1 Dokumentation der Datenvalidierung](deliverables/d21.pdf)
+- [D2.2 Veröffentlichung algorithmischer Methoden und vollständiger Datenpipeline](deliverables/d22)
+- [D3.1 Überprüfung des Algorithmus und Implementierungsdokumentation](deliverables/d31_d32.pdf)
+- [D3.2 Dokumentation der Ergebnisse der Algorithmusvalidierung](deliverables/d31_d32.pdf)
+- [D4.1 Anforderungsanalyse und Use-Case-Spezifikation](deliverables/d41.pdf)
+- [D4.2 Bericht zur Entwicklung der Anwendungssoftware](deliverables/d42.pdf)
+- [D5.1 Dokumentation der Optimierungsergebnisse des Digitalen Zwillings](deliverables/d51.pdf)
+
+<!--
 - [D1.2 Interim report 2 (dts.: Zwischenbericht 2)](deliverables/d1_2)
 - [D1.3 Final report (dts.: Abschlussbericht)](deliverables/d1_3)
-- [D2.1 Documentation of data validation (dts.: Dokumentation der Datenvalidierung)](deliverables/d2_1)
-- [D2.2 Publication of algorithmic methodologies and complete data pipeline (dts.: Veröffentlichung algorithmischer Methoden und vollständiger Datenpipeline)](deliverables/d2_2)
-- [D3.1 Algorithm review and implementation documentation (dts.: Überprüfung des Algorithmus und Implementierungsdokumentation)](deliverables/d3_1)
-- [D3.2 Algorithm validation result documentation (dts.: Dokumentation der Ergebnisse der Algorithmusvalidierung)](deliverables/d3_2)
-- [D4.1 Application requirements and use case specification (dts.: Anforderungsanalyse und Use-Case-Spezifikation)](deliverables/d4_1)
-- [D4.2 Application software development report (dts.: Bericht zur Entwicklung der Anwendungssoftware)](deliverables/d4_2)
 - [D4.3 Application usage statistics report (dts.: Bericht zur Nutzung der Anwendung)](deliverables/d4_3)
-- [D5.1 Digital twin optimization result documentation (dts.: Dokumentation der Optimierungsergebnisse des Digitalen Zwillings)](deliverables/d5_1)
 - [D5.2 Live test site optimization result documentation (dts.: Dokumentation der Optimierungsergebnisse des Live-Teststandorts)](deliverables/d5_2)
 - [D6.1 Exploitation roadmap (dts.: Verwertungs-Roadmap)](deliverables/d6_1)
 - [D6.2 Documentation of two public dissemination activities (dts.: Dokumentation von zwei öffentlichen Disseminationsaktivitäten)](deliverables/d6_2)
 - [D6.3 Two scientific publications (dts.: Zwei wissenschaftliche Publikationen)](deliverables/d6_3)
-- [D6.4 Stakeholder workshop documentation (dts.: Dokumentation eines Stakeholder-Workshops)](deliverables/d6_4) -->
+- [D6.4 Stakeholder workshop documentation (dts.: Dokumentation eines Stakeholder-Workshops)](deliverables/d6_4)
+-->
 
 ### Veröffentlichungen
 

@@ -67,7 +67,7 @@ Technology neutrality and the consideration of regional aspects are important fo
 Effective project management - particularly coordination and controlling - with a focus on achieving project objectives and results. Includes time management, prioritization, facilitation of decision-making in technical matters, clarification of legal issues, and preparation of the consortium agreement. Also includes quality assurance, communication and dissemination of results, and discussion of interim and final results with relevant stakeholders.
 {{< /accordionItem >}}
 
-{{< accordionItem title="WP2: Qualitative analysis open=false >}}  
+{{< accordionItem title="WP2: Qualitative analysis" open=false >}}  
 <u>Lead: AIT</u>
 
 Review of existing approaches to security of supply in Europe and additional influencing factors. Selection of capacity mechanisms for modeling in WP3 and formulation of stakeholder and policy recommendations (Lead: EI-JKU).
