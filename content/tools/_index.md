@@ -21,6 +21,14 @@ Entdecken Sie die Zukunft der Energieoptimierung mit unserem innovativen Online-
 {{< /button >}}
 {{< /timelineItem >}}
 
+{{< timelineItem icon="star" header="PEF" badge="Online Tool" subheader="Probabilistic Energy Forecasts" >}}
+Diverse probabilistische Prognosen.
+<br><br>
+{{< button href="pef" target="_self" >}}
+    PEF jetzt starten!
+{{< /button >}}
+{{< /timelineItem >}}
+
 {{< timelineItem icon="star" header="Datenmonitor" badge="Online Tool" subheader="Monitoring der Datenqualität und -verfügbarkeit" >}}
 Ein Einblick in die aktuelle (live) und historische Verfügbarkeit von Energiedaten in Österreich.
 <br><br>
