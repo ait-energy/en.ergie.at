@@ -25,7 +25,7 @@ Entdecken Sie die Zukunft der Energieoptimierung mit unserem innovativen Online-
 Diverse probabilistische Prognosen.
 <br><br>
 {{< button href="pef" target="_self" >}}
-    PEF jetzt starten!
+    Probabilistic Energy Forecasts jetzt starten!
 {{< /button >}}
 {{< /timelineItem >}}
 
@@ -33,7 +33,7 @@ Diverse probabilistische Prognosen.
 Interaktives Online Tool um diverse Profile und Profilgeneratoren zu entdecken: Nachfrage, Erzeugung und vieles mehr.
 <br><br>
 {{< button href="pef" target="_self" >}}
-    PEF jetzt starten!
+    Interactive Profile Picker jetzt starten!
 {{< /button >}}
 {{< /timelineItem >}}
 
