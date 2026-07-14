@@ -32,7 +32,7 @@ Diverse probabilistische Prognosen.
 {{< timelineItem icon="star" header="IPP" badge="Online Tool" subheader="Interactive Profile Picker" >}}
 Interaktives Online Tool um diverse Profile und Profilgeneratoren zu entdecken: Nachfrage, Erzeugung und vieles mehr.
 <br><br>
-{{< button href="pef" target="_self" >}}
+{{< button href="ipp" target="_self" >}}
     Interactive Profile Picker jetzt starten!
 {{< /button >}}
 {{< /timelineItem >}}
