@@ -15,25 +15,39 @@
   weight = 2
 
 [[main]]
+  name = "Forecasts"
+  identifier = "energysystemforecasts"
+  parent = "Tools"
+  pageRef = "tools/pef"
+  weight = 3
+
+[[main]]
+  name = "Profile Picker"
+  identifier = "interactiveprofilepicker"
+  parent = "Tools"
+  pageRef = "tools/ipp"
+  weight = 4
+
+[[main]]
   name = "Datenmonitor"
   identifier = "datamonitor"
   parent = "Tools"
   pageRef = "tools/datamonitor"
-  weight = 3
+  weight = 5
 
 [[main]]
   name = "Heat Highway"
   identifier = "heat_highway"
   parent = "Tools"
   pageRef = "tools/heat_highway"
-  weight = 4
+  weight = 6
 
 [[main]]
   name = "DigIPlat Tool"
   identifier = "digiplat_tool"
   parent = "Tools"
   pageRef = "tools/digiplat_tool"
-  weight = 5
+  weight = 7
 
 # ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ #
 # >> main >> WISSEN                                                            #

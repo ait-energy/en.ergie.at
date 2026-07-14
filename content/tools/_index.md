@@ -29,6 +29,14 @@ Diverse probabilistische Prognosen.
 {{< /button >}}
 {{< /timelineItem >}}
 
+{{< timelineItem icon="star" header="IPP" badge="Online Tool" subheader="Interactive Profile Picker" >}}
+Interaktives Online Tool um diverse Profile und Profilgeneratoren zu entdecken: Nachfrage, Erzeugung und vieles mehr.
+<br><br>
+{{< button href="pef" target="_self" >}}
+    PEF jetzt starten!
+{{< /button >}}
+{{< /timelineItem >}}
+
 {{< timelineItem icon="star" header="Datenmonitor" badge="Online Tool" subheader="Monitoring der Datenqualität und -verfügbarkeit" >}}
 Ein Einblick in die aktuelle (live) und historische Verfügbarkeit von Energiedaten in Österreich.
 <br><br>
