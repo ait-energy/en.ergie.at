@@ -188,7 +188,7 @@ changes upstream.
 
 Hugo is a fast and user-friendly tool for building websites by converting plain text into web pages.
 
-1. Pick the "prebuilt binaries" from this link: [Prebuilt binaries](https://github.com/gohugoio/hugo/releases/tag/v0.160.1)
+1. Pick the "prebuilt binaries" from this link: [Prebuilt binaries](https://github.com/gohugoio/hugo/releases/tag/v0.165.0)
 -- instead of the general one. The download you'll most likely want will be named like this: `hugo_***_windows-amd64.zip`.
 2. Either follow the instructions in the link given in (1.), or extract the `hugo.exe` file and copy it into your
 development folder (which immediately works and does not involve modifying your PATH, etc.)
