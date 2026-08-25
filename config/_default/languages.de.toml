@@ -1,5 +1,5 @@
 disabled = false
-languageCode = "de"
+locale = "de"
 languageName = "Deutsch"
 weight = 1
 title = "en.ergie.at"
