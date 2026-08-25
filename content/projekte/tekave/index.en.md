@@ -113,24 +113,8 @@ Development of an appropriate compensation scheme for capacity markets based on 
 ### Project partners
 
 - [AIT Austrian Institute of Technology GmbH](https://www.ait.ac.at/ueber-das-ait/center/center-for-energy) (Project coordination)
-- [Raiffeisenlandesbank Burgenland und Revisionsverband eGen](https://www.raiffeisen.at/bgld/de/privatkunden.html)
-- [Hydro GmbH, Engineering office for hydrogeology and geothermal energy](https://www.hydro-gmbh.at/)
-- [Austrian Power Grid AG](https://www.apg.at/)
-- [Axtesys GmbH](https://axtesys.at/)
-- [Panasonic Marketing Europe GmbH](https://www.aircon.panasonic.eu/DE_de/)
-- [rabmer GreenTech GmbH](https://www.rabmer.at/)
-- [ENERGIE KOMPASS GMBH](https://www.energie-kompass.at/)
-- [Pink GmbH](https://pink.co.at/)
-- [HyCentA Research GmbH](https://www.hycenta.at/)
-- [CANCOM Austria AG](https://www.cancom.at/)
-- [VERBUND Green Power GmbH](https://www.verbund.com/de/privat)
-- [VIRIDAD GmbH](https://escapade-erasmus.eu/)
-- [Norwegian University of Science and Technology](https://www.ntnu.edu/)
-- [Salzburg Research Research Association m.b.H.](https://www.salzburgresearch.at/)
-- [City of Eisenstadt](https://www.eisenstadt.gv.at/)
-- [Energienetze Steiermark GmbH](https://www.e-netze.at/)
-- [University of Passau - Chair of Computer Networks and Communication Systems](https://www.uni-passau.de/)
-- [Geo5 GmbH](https://www.geo-5.at/)
+- [Energieinstitut an der Johannes Kepler Universität Linz](https://energieinstitut-linz.at/)
+- [EPEX SPOT SE](https://www.epexspot.com/)
 
 ### Funding
 
