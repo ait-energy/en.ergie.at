@@ -15,6 +15,24 @@ This contains helpful information related to the [en.ergie.at](https://en.ergie.
 
 Check out this post [discourse.gohugo.io](https://discourse.gohugo.io/t/hugo-does-not-generate-content-files/36600/2), explaining that you might need a `_index.md` instead of a `index.md` file somewhere higher up in the file structure.
 
+> Seeing a warning similar to `WARN  Module "blowfish" is not compatible with this Hugo version`=
+
+Check the version of hugo that you currently use by running `./hugo.exe version`; check the current link for downloading hugo that is given in the **Setup** section (might be a different version than you have), and/or consult with someone. This warning should never be ignored - if it appears fixing it together is very fast.
+
+### Adding a new tool
+
+Head over to `content/tools/_index.md` and insert a new feature block there, like this:
+
+```markdown
+{{< feature icon="ICON" title="TITLE" url="URL" label="CALLTOACTION" >}}
+TEXTUALCONTENT
+{{< /feature >}}
+```
+
+You can pick icons from here: [blowfish.page/samples/icons](https://blowfish.page/samples/icons/). Make sure to replace all placeholders. Then head over to `content/tools/_index.en.md` and insert an English version too.
+
+Then - if required - add the tool entry to `config/_default/menus.de.toml` (and `*.en.toml`) under the tools section, similar to the already existing entries.
+
 ### Writing
 
 #### Highlighting
