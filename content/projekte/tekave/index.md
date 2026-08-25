@@ -1,7 +1,7 @@
 ---
 title: "TeKaVe"
 topics: ["Kapazitätsmechanismen", "Versorgungssicherheit", "Märkte"]
-authors: [sstroemer]
+authors: [sstroemer, dkrainer, plosieva]
 ---
 
 Die Kernfrage des Projekts _TeKaVe - Technologieneutrale Kapazitätsmechanismen für eine Versorgungssichere Energiezukunft_ betrifft, ob das Marktsystem in Österreich in seiner derzeitigen Form (Energy-Only-Markt) im Stande ist, zur gleichen Zeit ein versorgungssicheres Energiesystem aufrecht zu erhalten und die Dekarbonisierungsziele Österreichs zu erreichen.

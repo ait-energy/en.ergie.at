@@ -1,7 +1,7 @@
 ---
 title: "TeKaVe"
 topics: ["capacity mechanisms", "security of supply", "markets"]
-authors: [sstroemer]
+authors: [sstroemer, dkrainer, plosieva]
 ---
 
 The core question of the project _TeKaVe - Technology-neutral capacity mechanisms for a secure energy future_ is whether the current market system in Austria (energy-only market) is capable of maintaining a secure energy system while simultaneously achieving Austria’s decarbonization targets.
