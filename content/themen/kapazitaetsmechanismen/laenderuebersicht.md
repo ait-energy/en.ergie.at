@@ -40,11 +40,12 @@ fehlende Details kannst Du direkt per [GitHub Issue melden](https://github.com/a
 
 ## Europa im Überblick
 
-Es gibt neun europäische Länder mit aktiven Kapazitätsmechanismen: Belgien, Finnland, Frankreich, Deutschland,
-Vereinigtes Königreich, Irland (SEM), Italien, Polen und Schweden. Drei von ihnen (Finnland, Deutschland und Schweden)
-haben strategische Reserven eingerichtet, während die sechs anderen Staaten marktweite Kapazitätsmechanismen
-unterhalten. Spanien und Portugal haben keinen aktiven Kapazitätsmechanismus, aber einige langfristige Altverträge
-(gezielte Kapazitätszahlungen) gelten noch.
+Es gibt elf europäische Länder mit Kapazitätsmechanismen: Belgien, Finnland, Frankreich, Deutschland,
+Vereinigtes Königreich, Irland (SEM), Italien, Polen, Schweden, Spanien und Tschechien. Finnland und Schweden haben eine
+strategische Reserve eingerichtet. Deutschland befindet sich gerade im Übergang von einer strategischen Reserve zu einem zentralen Kapazitätsmarkt. Die anderen acht Staaten besitzen marktweite Kapazitätsmechanismen, wobei diese
+in Spanien und Tschechien bisher nur durch die EU-Kommission beihilferechtlich genehmigt sind, aber noch keine Auktionen
+stattgefunden haben. Portugal hat derzeit keinen aktiven Kapazitätsmechanismus, aber einige langfristige Altverträge
+(gezielte Kapazitätszahlungen) gelten noch. Außerdem hat die portugiesische Regierung die Einführung eines Kapazitätsmechanismus angekündigt und den Pre-Notification Prozess bei der EU-Kommission gestartet. 
 
 <!--![Überblick über aktive und in Diskussion befindliche Kapazitätsmechanismen in Europa (basierend auf [29])] -->
 <!--(/images/laenderuebersicht/laenderuebersicht_aktive_diskutierte_KMs_Europa.png) -->
@@ -88,17 +89,20 @@ unterhalten. Spanien und Portugal haben keinen aktiven Kapazitätsmechanismus, a
 Die nachfolgende Tabelle fasst die Kapazitätsmechanismen, deren Auktionsart,
 das Jahr der Einführung sowie die aktuelle Diskussion in den einzelnen Ländern zusammen:
 
-| **Land**      | **Kapazitätsmechanismus** | **Auktionsart** | **Jahr** | **Diskussion** |
+| **Land**      | **Kapazitätsmechanismus** | **Auktionsart** | **Jahr** | **Status** |
 |--------------------|:----------------------------------------:|:-----------:|:-----------:|:-----------:|
-| BE     | Zentraler Markt  | Pay-as-bid  |      2021 | - |
-| DE       | Strategische Reserve     | Pay-as-cleared     | 2019   | Kapazitätsmarkt |
-| FI |  Strategische Reserve          | Pay-as-cleared        | 2022        |- |
-| FR | Dezentraler Markt     |      -   | 2018|Zentraler Markt |
-| IE | Zentraler Markt    |      Pay-as-cleared   | 2017 | - |
-| IT | Zentraler Markt     |      Pay-as-cleared   | 2019 |- |
-| PL | Zentraler Markt     |      Pay-as-cleared   | 2018 | - |
-| SE | Strategische Reserve|      Pay-as-bid   | 2025 | Zentraler Markt |
-| UK | Zentraler Markt     |      Pay-as-cleared   | 2014 | - |
+| BE     | Zentraler Markt  | Pay-as-bid  |      2021 | aktiv |
+| DE       | Zentraler Markt     | Pay-as-bid     | 2026   | nicht genehmigt |
+| FI |  Strategische Reserve          | Pay-as-cleared        | 2022        |aktiv |
+| FR | Zentraler Markt     |      Pay-as-cleared   | 2025 | aktiv |
+| IE | Zentraler Markt    |      Pay-as-cleared   | 2017 | aktiv |
+| IT | Zentraler Markt     |      Pay-as-cleared   | 2019 |aktiv |
+| PL | Zentraler Markt     |      Pay-as-cleared   | 2018 | aktiv |
+| SE | Strategische Reserve|      Pay-as-bid   | 2025 | aktiv |
+| UK | Zentraler Markt     |      Pay-as-cleared   | 2014 | aktiv |
+| ES | Zentraler Markt     |      Pay-as-bid   | 2026 | genehmigt / noch nicht akitv |
+| CZ | Zentraler Markt     |      Pay-as-cleared   | 2026 | genehmigt / noch nicht akitv |
+
 
 Eine Übersicht über alle aktuell als staatliche Beihilfen genehmigten Kapazitätsmechanismen und deren genaue
 Ausgestaltung sowie im Laufe der Zeit genehmigten Anpassungen sind in der
