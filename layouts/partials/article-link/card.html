@@ -98,9 +98,11 @@
       {{ partial "article-meta/basic.html" . }}
     </div>
     {{ if .Params.showSummary | default (.Site.Params.list.showSummary | default false) }}
-      <div class="article-link__summary prose dark:prose-invert mt-1 line-clamp-5">
+    <a href="{{ $page.RelPermalink }}">    
+      <div class="article-link__summary prose dark:prose-invert mt-1 line-clamp-5" style="font-weight: normal !important;">
         {{ .Summary | plainify }}
       </div>
+    </a>
     {{ end }}
   </div>
   <!--<div class="px-6 pt-4 pb-2"></div>-->
