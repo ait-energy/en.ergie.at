@@ -8,23 +8,12 @@ Das bereitgestellte Tool unterstützt das Verständnis der bestehenden Abläufe 
 
 <!--more-->
 
-<div class="floating-iframe-wrapper">
-  <iframe src="https://www.digiplat.eu/digiplat-tool" class="floating-iframe"></iframe>
-</div>
-
-<style>
-.floating-iframe-wrapper {
-  position: fixed;
-  top: 53px;
-  left: 0;
-  width: 100vw;
-  height: 100vh;
-  z-index: 99;
-}
-
-.floating-iframe {
-  width: 100%;
-  height: 100%;
-  border: none;
-}
-</style>
+<p>
+  <a
+    href="https://www.digiplat.eu/digiplat-tool"
+    target="_blank"
+    rel="noopener noreferrer"
+  >
+    Open the DigIPlat Tool
+  </a>
+</p>

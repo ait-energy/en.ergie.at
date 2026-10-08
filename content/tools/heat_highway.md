@@ -25,7 +25,7 @@ authors: ["sstroemer"]
 </style>
 
 <div class="loading-container">
-    <span>Das AIT Flex Tool lädt ...</span>
+    <span>Das AIT Heat Highway Tool lädt ...</span>
     <div class="spinner"></div>
 </div>
 
