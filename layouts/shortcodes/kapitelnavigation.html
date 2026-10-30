@@ -1,0 +1,87 @@
+{{/* layouts/shortcodes/kapitelnavigation.html
+
+  Numbered chapter navigation as an alternative to embed_article cards.
+  Each entry shows number, title, summary and (if present) its subpages as chips.
+
+  Usage:
+    {{< kapitelnavigation base="/themen/variable-tarife" items="grundlagen,oesterreich,international" >}}
+*/}}
+{{ $base := .Get "base" }}
+{{ $items := split (.Get "items") "," }}
+{{ $id := printf "kapnav-%d" .Ordinal }}
+
+<style>
+  .kapnav ol, .kapnav ul { list-style: none; margin: 0; padding: 0; }
+  .kapnav li { margin: 0; padding: 0; }
+  .kapnav li::marker { content: none; }
+  .kapnav a { text-decoration: none !important; }
+  .kapnav-item { border-top: 1px solid rgb(var(--color-neutral-200)); }
+  .kapnav-item:last-child { border-bottom: 1px solid rgb(var(--color-neutral-200)); }
+  .dark .kapnav-item { border-color: rgb(var(--color-neutral-700)); }
+  .kapnav-main {
+    display: flex; gap: 1rem; align-items: flex-start;
+    padding: 1rem 0.75rem; border-radius: 0.5rem; transition: background 0.15s ease;
+  }
+  .kapnav-main:hover { background: rgb(var(--color-neutral-100)); }
+  .dark .kapnav-main:hover { background: rgb(var(--color-neutral-800)); }
+  .kapnav-num {
+    flex: none; width: 2.25rem; height: 2.25rem; border-radius: 9999px;
+    display: flex; align-items: center; justify-content: center;
+    font-weight: 700; color: rgb(var(--color-neutral-50));
+    background: rgb(var(--color-primary-600));
+  }
+  .kapnav-body { flex: 1; min-width: 0; }
+  .kapnav-title { display: block; font-weight: 700; font-size: 1.15rem; color: rgb(var(--color-neutral-900)); }
+  .dark .kapnav-title { color: rgb(var(--color-neutral-100)); }
+  .kapnav-summary { display: block; margin-top: 0.25rem; font-size: 0.95rem; color: rgb(var(--color-neutral-600)); }
+  .dark .kapnav-summary { color: rgb(var(--color-neutral-400)); }
+  .kapnav-arrow { flex: none; align-self: center; color: rgb(var(--color-primary-600)); font-size: 1.25rem; }
+  .kapnav-sub { display: flex; flex-wrap: wrap; gap: 0.5rem; padding: 0 0.75rem 1rem 4rem !important; }
+  .kapnav-sub a {
+    display: inline-block; padding: 0.2rem 0.75rem; border-radius: 9999px; font-size: 0.875rem;
+    border: 1px solid rgb(var(--color-primary-300)); color: rgb(var(--color-primary-700));
+  }
+  .kapnav-sub a:hover { background: rgb(var(--color-primary-100)); }
+  .dark .kapnav-sub a { border-color: rgb(var(--color-primary-700)); color: rgb(var(--color-primary-300)); }
+  .dark .kapnav-sub a:hover { background: rgb(var(--color-primary-900)); }
+  @media (max-width: 640px) {
+    .kapnav-sub { padding-left: 0.75rem !important; }
+    .kapnav-arrow { display: none; }
+  }
+</style>
+
+<nav class="kapnav" id="{{ $id }}" aria-label="Kapitel">
+  <ol>
+    {{ range $i, $slug := $items }}
+      {{ with site.GetPage (printf "%s/%s" $base (trim $slug " ")) }}
+        {{ $page := . }}
+        {{ $children := slice }}
+        {{ range site.RegularPages }}
+          {{ $rest := strings.TrimPrefix $page.RelPermalink .RelPermalink }}
+          {{ if and (ne $rest .RelPermalink) (findRE `^[^/]+/$` $rest) (not .Draft) }}
+            {{ $children = $children | append . }}
+          {{ end }}
+        {{ end }}
+        <li class="kapnav-item">
+          <a class="kapnav-main" href="{{ $page.RelPermalink }}">
+            <span class="kapnav-num">{{ add $i 1 }}</span>
+            <span class="kapnav-body">
+              <span class="kapnav-title">{{ $page.Title }}</span>
+              <span class="kapnav-summary">{{ $page.Summary | plainify | truncate 220 }}</span>
+            </span>
+            <span class="kapnav-arrow" aria-hidden="true">→</span>
+          </a>
+          {{ with $children }}
+            <ul class="kapnav-sub">
+              {{ range sort . "Weight" }}
+                <li><a href="{{ .RelPermalink }}">{{ .Title }}</a></li>
+              {{ end }}
+            </ul>
+          {{ end }}
+        </li>
+      {{ else }}
+        {{ errorf "kapitelnavigation: page %s/%s not found" $base $slug }}
+      {{ end }}
+    {{ end }}
+  </ol>
+</nav>

@@ -36,7 +36,8 @@ Hugo version doesn't match the theme or CI.
   the submodule, diff them against `themes/blowfish/layouts/_default/` and check for breakage. The same applies to
   `partials/article-link/card.html` and `partials/series/series_base.html`.
 - **Custom shortcodes** (`layouts/shortcodes/`): `feature`/`feature-grid` (cards on the tools landing page),
-  `literaturelist`, `embed_article`, `backtotop`. Styling goes in `assets/css/custom.css`.
+  `literaturelist`, `embed_article`, `backtotop`, `kapitelnavigation` (numbered chapter list with subpage chips,
+  styles inline in the shortcode). Styling goes in `assets/css/custom.css`.
 - **Literature system:** pages under `content/literature/YYYY/MM/` have `type: literature`, a `literature: [...]`
   taxonomy list and a `bib:` front-matter block (`type`, `author`, `date`, `description`). `{{< literaturelist "tag" >}}`
   collects all pages whose `literature` list contains the tag and groups them by `bib.date` year/month.
@@ -81,6 +82,9 @@ New topics should copy its pattern rather than the generic `_index.md` rule:
 
 - `content/themen/<thema>.md` is the overview page. Below the intro and `<!-- more -->` it has one `##` section per
   subtopic, each embedding the subpage via `{{< embed_article link="/themen/<thema>/<sub>" showHeader="false" >}}`.
+  `variable-tarife` instead uses one `{{< kapitelnavigation base="/themen/<thema>" items="sub1,sub2" >}}` per hub
+  (preferred by the user over the cards). It reads subpages from the folder, sorted by `weight`, and shows each
+  page's `.Summary`.
 - `content/themen/<thema>/<sub>.md` holds the subpages. If a subpage has children, the folder `<thema>/<sub>/` sits
   next to `<sub>.md` (e.g. `arten.md` + `arten/*.md`). File names are lowercase with `_` or `-`. Spell umlauts out
   (`ae`, `oe`, `ue`), as in `gezielte_kapazitaetszahlungen.md`.

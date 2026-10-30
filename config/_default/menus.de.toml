@@ -86,6 +86,13 @@
   pageRef = "themen/kapazitaetsmechanismen"
   weight = 22
 
+[[main]]
+  name = "Variable Tarife"
+  identifier = "themen-variable-tarife"
+  parent = "Themen"
+  pageRef = "themen/variable-tarife"
+  weight = 23
+
 # ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ #
 # >> main >> LITERATUR                                                         #
 # ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ #
